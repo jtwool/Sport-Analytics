@@ -1,6 +1,6 @@
 # Sport Analytics: An Applied Introduction to How Numbers are Changing Sport
 
-![](https://he.kendallhunt.com/sites/default/files/product_images_small/9781792453977_0.jpg) 
+<img style="float: left; margin-right: 1em" src="https://he.kendallhunt.com/sites/default/files/product_images_small/9781792453977_0.jpg">
 
 __Sport Analytics: An Applied Introduction to How Numbers are Changing Sport__ provides readers with an analytical foundation required to do sport analytics and an overview of the canonical methods in sport analytics.
 
