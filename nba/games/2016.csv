@@ -1,0 +1,1403 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nba-201510270ATL,2016,,2015-10-27,Atlanta Hawks,Detroit Pistons,94,106,REG,1
+nba-201510270CHI,2016,,2015-10-27,Chicago Bulls,Cleveland Cavaliers,97,95,REG,2
+nba-201510270GSW,2016,,2015-10-27,Golden State Warriors,New Orleans Pelicans,111,95,REG,3
+nba-201510280BOS,2016,,2015-10-28,Boston Celtics,Philadelphia 76ers,112,95,REG,4
+nba-201510280BRK,2016,,2015-10-28,Brooklyn Nets,Chicago Bulls,100,115,REG,5
+nba-201510280DET,2016,,2015-10-28,Detroit Pistons,Utah Jazz,92,87,REG,6
+nba-201510280HOU,2016,,2015-10-28,Houston Rockets,Denver Nuggets,85,105,REG,7
+nba-201510280LAL,2016,,2015-10-28,Los Angeles Lakers,Minnesota Timberwolves,111,112,REG,8
+nba-201510280MEM,2016,,2015-10-28,Memphis Grizzlies,Cleveland Cavaliers,76,106,REG,9
+nba-201510280MIA,2016,,2015-10-28,Miami Heat,Charlotte Hornets,104,94,REG,10
+nba-201510280MIL,2016,,2015-10-28,Milwaukee Bucks,New York Knicks,97,122,REG,11
+nba-201510280OKC,2016,,2015-10-28,Oklahoma City Thunder,San Antonio Spurs,112,106,REG,12
+nba-201510280ORL,2016,,2015-10-28,Orlando Magic,Washington Wizards,87,88,REG,13
+nba-201510280PHO,2016,,2015-10-28,Phoenix Suns,Dallas Mavericks,95,111,REG,14
+nba-201510280POR,2016,,2015-10-28,Portland Trail Blazers,New Orleans Pelicans,112,94,REG,15
+nba-201510280SAC,2016,,2015-10-28,Sacramento Kings,Los Angeles Clippers,104,111,REG,16
+nba-201510280TOR,2016,,2015-10-28,Toronto Raptors,Indiana Pacers,106,99,REG,17
+nba-201510290IND,2016,,2015-10-29,Indiana Pacers,Memphis Grizzlies,103,112,REG,18
+nba-201510290LAC,2016,,2015-10-29,Los Angeles Clippers,Dallas Mavericks,104,88,REG,19
+nba-201510290NYK,2016,,2015-10-29,New York Knicks,Atlanta Hawks,101,112,REG,20
+nba-201510300ATL,2016,,2015-10-30,Atlanta Hawks,Charlotte Hornets,97,94,REG,21
+nba-201510300BOS,2016,,2015-10-30,Boston Celtics,Toronto Raptors,103,113,REG,22
+nba-201510300CLE,2016,,2015-10-30,Cleveland Cavaliers,Miami Heat,102,92,REG,23
+nba-201510300DEN,2016,,2015-10-30,Denver Nuggets,Minnesota Timberwolves,78,95,REG,24
+nba-201510300DET,2016,,2015-10-30,Detroit Pistons,Chicago Bulls,98,94,REG,25
+nba-201510300HOU,2016,,2015-10-30,Houston Rockets,Golden State Warriors,92,112,REG,26
+nba-201510300MIL,2016,,2015-10-30,Milwaukee Bucks,Washington Wizards,113,118,REG,27
+nba-201510300ORL,2016,,2015-10-30,Orlando Magic,Oklahoma City Thunder,136,139,REG,28
+nba-201510300PHI,2016,,2015-10-30,Philadelphia 76ers,Utah Jazz,71,99,REG,29
+nba-201510300PHO,2016,,2015-10-30,Phoenix Suns,Portland Trail Blazers,110,92,REG,30
+nba-201510300SAC,2016,,2015-10-30,Sacramento Kings,Los Angeles Lakers,132,114,REG,31
+nba-201510300SAS,2016,,2015-10-30,San Antonio Spurs,Brooklyn Nets,102,75,REG,32
+nba-201510310IND,2016,,2015-10-31,Indiana Pacers,Utah Jazz,76,97,REG,33
+nba-201510310LAC,2016,,2015-10-31,Los Angeles Clippers,Sacramento Kings,114,109,REG,34
+nba-201510310MEM,2016,,2015-10-31,Memphis Grizzlies,Brooklyn Nets,101,91,REG,35
+nba-201510310NOP,2016,,2015-10-31,New Orleans Pelicans,Golden State Warriors,120,134,REG,36
+nba-201510310POR,2016,,2015-10-31,Portland Trail Blazers,Phoenix Suns,90,101,REG,37
+nba-201510310WAS,2016,,2015-10-31,Washington Wizards,New York Knicks,110,117,REG,38
+nba-201511010BOS,2016,,2015-11-01,Boston Celtics,San Antonio Spurs,87,95,REG,39
+nba-201511010CHO,2016,,2015-11-01,Charlotte Hornets,Atlanta Hawks,92,94,REG,40
+nba-201511010CHI,2016,,2015-11-01,Chicago Bulls,Orlando Magic,92,87,REG,41
+nba-201511010LAL,2016,,2015-11-01,Los Angeles Lakers,Dallas Mavericks,93,103,REG,42
+nba-201511010MIA,2016,,2015-11-01,Miami Heat,Houston Rockets,109,89,REG,43
+nba-201511010OKC,2016,,2015-11-01,Oklahoma City Thunder,Denver Nuggets,117,93,REG,44
+nba-201511010TOR,2016,,2015-11-01,Toronto Raptors,Milwaukee Bucks,106,87,REG,45
+nba-201511020BRK,2016,,2015-11-02,Brooklyn Nets,Milwaukee Bucks,96,103,REG,46
+nba-201511020GSW,2016,,2015-11-02,Golden State Warriors,Memphis Grizzlies,119,69,REG,47
+nba-201511020HOU,2016,,2015-11-02,Houston Rockets,Oklahoma City Thunder,110,105,REG,48
+nba-201511020LAC,2016,,2015-11-02,Los Angeles Clippers,Phoenix Suns,102,96,REG,49
+nba-201511020MIN,2016,,2015-11-02,Minnesota Timberwolves,Portland Trail Blazers,101,106,REG,50
+nba-201511020NYK,2016,,2015-11-02,New York Knicks,San Antonio Spurs,84,94,REG,51
+nba-201511020PHI,2016,,2015-11-02,Philadelphia 76ers,Cleveland Cavaliers,100,107,REG,52
+nba-201511030CHO,2016,,2015-11-03,Charlotte Hornets,Chicago Bulls,130,105,REG,53
+nba-201511030DAL,2016,,2015-11-03,Dallas Mavericks,Toronto Raptors,91,102,REG,54
+nba-201511030DET,2016,,2015-11-03,Detroit Pistons,Indiana Pacers,82,94,REG,55
+nba-201511030LAL,2016,,2015-11-03,Los Angeles Lakers,Denver Nuggets,109,120,REG,56
+nba-201511030MIA,2016,,2015-11-03,Miami Heat,Atlanta Hawks,92,98,REG,57
+nba-201511030NOP,2016,,2015-11-03,New Orleans Pelicans,Orlando Magic,94,103,REG,58
+nba-201511030SAC,2016,,2015-11-03,Sacramento Kings,Memphis Grizzlies,89,103,REG,59
+nba-201511040ATL,2016,,2015-11-04,Atlanta Hawks,Brooklyn Nets,101,87,REG,60
+nba-201511040CLE,2016,,2015-11-04,Cleveland Cavaliers,New York Knicks,96,86,REG,61
+nba-201511040GSW,2016,,2015-11-04,Golden State Warriors,Los Angeles Clippers,112,108,REG,62
+nba-201511040HOU,2016,,2015-11-04,Houston Rockets,Orlando Magic,119,114,REG,63
+nba-201511040IND,2016,,2015-11-04,Indiana Pacers,Boston Celtics,100,98,REG,64
+nba-201511040MIL,2016,,2015-11-04,Milwaukee Bucks,Philadelphia 76ers,91,87,REG,65
+nba-201511040OKC,2016,,2015-11-04,Oklahoma City Thunder,Toronto Raptors,98,103,REG,66
+nba-201511040PHO,2016,,2015-11-04,Phoenix Suns,Sacramento Kings,118,97,REG,67
+nba-201511040UTA,2016,,2015-11-04,Utah Jazz,Portland Trail Blazers,92,108,REG,68
+nba-201511040WAS,2016,,2015-11-04,Washington Wizards,San Antonio Spurs,102,99,REG,69
+nba-201511050CHI,2016,,2015-11-05,Chicago Bulls,Oklahoma City Thunder,104,98,REG,70
+nba-201511050DAL,2016,,2015-11-05,Dallas Mavericks,Charlotte Hornets,94,108,REG,71
+nba-201511050DEN,2016,,2015-11-05,Denver Nuggets,Utah Jazz,84,96,REG,72
+nba-201511050MIN,2016,,2015-11-05,Minnesota Timberwolves,Miami Heat,84,96,REG,73
+nba-201511050POR,2016,,2015-11-05,Portland Trail Blazers,Memphis Grizzlies,115,96,REG,74
+nba-201511060BOS,2016,,2015-11-06,Boston Celtics,Washington Wizards,118,98,REG,75
+nba-201511060BRK,2016,,2015-11-06,Brooklyn Nets,Los Angeles Lakers,98,104,REG,76
+nba-201511060CLE,2016,,2015-11-06,Cleveland Cavaliers,Philadelphia 76ers,108,102,REG,77
+nba-201511060GSW,2016,,2015-11-06,Golden State Warriors,Denver Nuggets,119,104,REG,78
+nba-201511060IND,2016,,2015-11-06,Indiana Pacers,Miami Heat,90,87,REG,79
+nba-201511060NOP,2016,,2015-11-06,New Orleans Pelicans,Atlanta Hawks,115,121,REG,80
+nba-201511060NYK,2016,,2015-11-06,New York Knicks,Milwaukee Bucks,92,99,REG,81
+nba-201511060ORL,2016,,2015-11-06,Orlando Magic,Toronto Raptors,92,87,REG,82
+nba-201511060PHO,2016,,2015-11-06,Phoenix Suns,Detroit Pistons,92,100,REG,83
+nba-201511060SAC,2016,,2015-11-06,Sacramento Kings,Houston Rockets,110,116,REG,84
+nba-201511070ATL,2016,,2015-11-07,Atlanta Hawks,Washington Wizards,114,99,REG,85
+nba-201511070CHI,2016,,2015-11-07,Chicago Bulls,Minnesota Timberwolves,93,102,REG,86
+nba-201511070DAL,2016,,2015-11-07,Dallas Mavericks,New Orleans Pelicans,107,98,REG,87
+nba-201511070LAC,2016,,2015-11-07,Los Angeles Clippers,Houston Rockets,105,109,REG,88
+nba-201511070MIL,2016,,2015-11-07,Milwaukee Bucks,Brooklyn Nets,94,86,REG,89
+nba-201511070PHI,2016,,2015-11-07,Philadelphia 76ers,Orlando Magic,97,105,REG,90
+nba-201511070SAC,2016,,2015-11-07,Sacramento Kings,Golden State Warriors,94,103,REG,91
+nba-201511070SAS,2016,,2015-11-07,San Antonio Spurs,Charlotte Hornets,114,94,REG,92
+nba-201511070UTA,2016,,2015-11-07,Utah Jazz,Memphis Grizzlies,89,79,REG,93
+nba-201511080CLE,2016,,2015-11-08,Cleveland Cavaliers,Indiana Pacers,101,97,REG,94
+nba-201511080MIA,2016,,2015-11-08,Miami Heat,Toronto Raptors,96,76,REG,95
+nba-201511080NYK,2016,,2015-11-08,New York Knicks,Los Angeles Lakers,99,95,REG,96
+nba-201511080OKC,2016,,2015-11-08,Oklahoma City Thunder,Phoenix Suns,124,103,REG,97
+nba-201511080POR,2016,,2015-11-08,Portland Trail Blazers,Detroit Pistons,103,120,REG,98
+nba-201511090ATL,2016,,2015-11-09,Atlanta Hawks,Minnesota Timberwolves,107,117,REG,99
+nba-201511090DEN,2016,,2015-11-09,Denver Nuggets,Portland Trail Blazers,108,104,REG,100
+nba-201511090GSW,2016,,2015-11-09,Golden State Warriors,Detroit Pistons,109,95,REG,101
+nba-201511090IND,2016,,2015-11-09,Indiana Pacers,Orlando Magic,97,84,REG,102
+nba-201511090LAC,2016,,2015-11-09,Los Angeles Clippers,Memphis Grizzlies,94,92,REG,103
+nba-201511090PHI,2016,,2015-11-09,Philadelphia 76ers,Chicago Bulls,88,111,REG,104
+nba-201511090SAC,2016,,2015-11-09,Sacramento Kings,San Antonio Spurs,88,106,REG,105
+nba-201511100CLE,2016,,2015-11-10,Cleveland Cavaliers,Utah Jazz,118,114,REG,106
+nba-201511100MIA,2016,,2015-11-10,Miami Heat,Los Angeles Lakers,101,88,REG,107
+nba-201511100MIL,2016,,2015-11-10,Milwaukee Bucks,Boston Celtics,83,99,REG,108
+nba-201511100MIN,2016,,2015-11-10,Minnesota Timberwolves,Charlotte Hornets,95,104,REG,109
+nba-201511100NOP,2016,,2015-11-10,New Orleans Pelicans,Dallas Mavericks,120,105,REG,110
+nba-201511100TOR,2016,,2015-11-10,Toronto Raptors,New York Knicks,109,111,REG,111
+nba-201511100WAS,2016,,2015-11-10,Washington Wizards,Oklahoma City Thunder,101,125,REG,112
+nba-201511110ATL,2016,,2015-11-11,Atlanta Hawks,New Orleans Pelicans,106,98,REG,113
+nba-201511110BOS,2016,,2015-11-11,Boston Celtics,Indiana Pacers,91,102,REG,114
+nba-201511110CHO,2016,,2015-11-11,Charlotte Hornets,New York Knicks,95,93,REG,115
+nba-201511110DAL,2016,,2015-11-11,Dallas Mavericks,Los Angeles Clippers,118,108,REG,116
+nba-201511110DEN,2016,,2015-11-11,Denver Nuggets,Milwaukee Bucks,103,102,REG,117
+nba-201511110HOU,2016,,2015-11-11,Houston Rockets,Brooklyn Nets,98,106,REG,118
+nba-201511110MEM,2016,,2015-11-11,Memphis Grizzlies,Golden State Warriors,84,100,REG,119
+nba-201511110ORL,2016,,2015-11-11,Orlando Magic,Los Angeles Lakers,101,99,REG,120
+nba-201511110PHI,2016,,2015-11-11,Philadelphia 76ers,Toronto Raptors,103,119,REG,121
+nba-201511110POR,2016,,2015-11-11,Portland Trail Blazers,San Antonio Spurs,101,113,REG,122
+nba-201511110SAC,2016,,2015-11-11,Sacramento Kings,Detroit Pistons,101,92,REG,123
+nba-201511120MIA,2016,,2015-11-12,Miami Heat,Utah Jazz,92,91,REG,124
+nba-201511120MIN,2016,,2015-11-12,Minnesota Timberwolves,Golden State Warriors,116,129,REG,125
+nba-201511120PHO,2016,,2015-11-12,Phoenix Suns,Los Angeles Clippers,118,104,REG,126
+nba-201511130BOS,2016,,2015-11-13,Boston Celtics,Atlanta Hawks,106,93,REG,127
+nba-201511130CHI,2016,,2015-11-13,Chicago Bulls,Charlotte Hornets,102,97,REG,128
+nba-201511130DAL,2016,,2015-11-13,Dallas Mavericks,Los Angeles Lakers,90,82,REG,129
+nba-201511130DEN,2016,,2015-11-13,Denver Nuggets,Houston Rockets,107,98,REG,130
+nba-201511130IND,2016,,2015-11-13,Indiana Pacers,Minnesota Timberwolves,107,103,REG,131
+nba-201511130MEM,2016,,2015-11-13,Memphis Grizzlies,Portland Trail Blazers,101,100,REG,132
+nba-201511130NYK,2016,,2015-11-13,New York Knicks,Cleveland Cavaliers,84,90,REG,133
+nba-201511130OKC,2016,,2015-11-13,Oklahoma City Thunder,Philadelphia 76ers,102,85,REG,134
+nba-201511130ORL,2016,,2015-11-13,Orlando Magic,Utah Jazz,102,93,REG,135
+nba-201511130SAC,2016,,2015-11-13,Sacramento Kings,Brooklyn Nets,111,109,REG,136
+nba-201511130TOR,2016,,2015-11-13,Toronto Raptors,New Orleans Pelicans,100,81,REG,137
+nba-201511140GSW,2016,,2015-11-14,Golden State Warriors,Brooklyn Nets,107,99,REG,138
+nba-201511140HOU,2016,,2015-11-14,Houston Rockets,Dallas Mavericks,98,110,REG,139
+nba-201511140LAC,2016,,2015-11-14,Los Angeles Clippers,Detroit Pistons,101,96,REG,140
+nba-201511140MIL,2016,,2015-11-14,Milwaukee Bucks,Cleveland Cavaliers,108,105,REG,141
+nba-201511140PHO,2016,,2015-11-14,Phoenix Suns,Denver Nuggets,105,81,REG,142
+nba-201511140SAS,2016,,2015-11-14,San Antonio Spurs,Philadelphia 76ers,92,83,REG,143
+nba-201511140WAS,2016,,2015-11-14,Washington Wizards,Orlando Magic,108,99,REG,144
+nba-201511150ATL,2016,,2015-11-15,Atlanta Hawks,Utah Jazz,96,97,REG,145
+nba-201511150CHO,2016,,2015-11-15,Charlotte Hornets,Portland Trail Blazers,106,94,REG,146
+nba-201511150LAL,2016,,2015-11-15,Los Angeles Lakers,Detroit Pistons,97,85,REG,147
+nba-201511150MIN,2016,,2015-11-15,Minnesota Timberwolves,Memphis Grizzlies,106,114,REG,148
+nba-201511150NYK,2016,,2015-11-15,New York Knicks,New Orleans Pelicans,95,87,REG,149
+nba-201511150OKC,2016,,2015-11-15,Oklahoma City Thunder,Boston Celtics,85,100,REG,150
+nba-201511150SAC,2016,,2015-11-15,Sacramento Kings,Toronto Raptors,107,101,REG,151
+nba-201511160CHI,2016,,2015-11-16,Chicago Bulls,Indiana Pacers,96,95,REG,152
+nba-201511160HOU,2016,,2015-11-16,Houston Rockets,Boston Celtics,95,111,REG,153
+nba-201511160MEM,2016,,2015-11-16,Memphis Grizzlies,Oklahoma City Thunder,122,114,REG,154
+nba-201511160PHI,2016,,2015-11-16,Philadelphia 76ers,Dallas Mavericks,86,92,REG,155
+nba-201511160PHO,2016,,2015-11-16,Phoenix Suns,Los Angeles Lakers,120,101,REG,156
+nba-201511160SAS,2016,,2015-11-16,San Antonio Spurs,Portland Trail Blazers,93,80,REG,157
+nba-201511170BRK,2016,,2015-11-17,Brooklyn Nets,Atlanta Hawks,90,88,REG,158
+nba-201511170DET,2016,,2015-11-17,Detroit Pistons,Cleveland Cavaliers,104,99,REG,159
+nba-201511170GSW,2016,,2015-11-17,Golden State Warriors,Toronto Raptors,115,110,REG,160
+nba-201511170MIA,2016,,2015-11-17,Miami Heat,Minnesota Timberwolves,91,103,REG,161
+nba-201511170NOP,2016,,2015-11-17,New Orleans Pelicans,Denver Nuggets,98,115,REG,162
+nba-201511170NYK,2016,,2015-11-17,New York Knicks,Charlotte Hornets,102,94,REG,163
+nba-201511170WAS,2016,,2015-11-17,Washington Wizards,Milwaukee Bucks,115,86,REG,164
+nba-201511180ATL,2016,,2015-11-18,Atlanta Hawks,Sacramento Kings,103,97,REG,165
+nba-201511180BOS,2016,,2015-11-18,Boston Celtics,Dallas Mavericks,102,106,REG,166
+nba-201511180CHO,2016,,2015-11-18,Charlotte Hornets,Brooklyn Nets,116,111,REG,167
+nba-201511180HOU,2016,,2015-11-18,Houston Rockets,Portland Trail Blazers,108,103,REG,168
+nba-201511180OKC,2016,,2015-11-18,Oklahoma City Thunder,New Orleans Pelicans,110,103,REG,169
+nba-201511180ORL,2016,,2015-11-18,Orlando Magic,Minnesota Timberwolves,104,101,REG,170
+nba-201511180PHI,2016,,2015-11-18,Philadelphia 76ers,Indiana Pacers,85,112,REG,171
+nba-201511180PHO,2016,,2015-11-18,Phoenix Suns,Chicago Bulls,97,103,REG,172
+nba-201511180SAS,2016,,2015-11-18,San Antonio Spurs,Denver Nuggets,109,98,REG,173
+nba-201511180UTA,2016,,2015-11-18,Utah Jazz,Toronto Raptors,93,89,REG,174
+nba-201511190CLE,2016,,2015-11-19,Cleveland Cavaliers,Milwaukee Bucks,115,100,REG,175
+nba-201511190LAC,2016,,2015-11-19,Los Angeles Clippers,Golden State Warriors,117,124,REG,176
+nba-201511190MIA,2016,,2015-11-19,Miami Heat,Sacramento Kings,116,109,REG,177
+nba-201511200BOS,2016,,2015-11-20,Boston Celtics,Brooklyn Nets,120,95,REG,178
+nba-201511200CHO,2016,,2015-11-20,Charlotte Hornets,Philadelphia 76ers,113,88,REG,179
+nba-201511200DAL,2016,,2015-11-20,Dallas Mavericks,Utah Jazz,102,93,REG,180
+nba-201511200DEN,2016,,2015-11-20,Denver Nuggets,Phoenix Suns,107,114,REG,181
+nba-201511200GSW,2016,,2015-11-20,Golden State Warriors,Chicago Bulls,106,94,REG,182
+nba-201511200LAL,2016,,2015-11-20,Los Angeles Lakers,Toronto Raptors,91,102,REG,183
+nba-201511200MEM,2016,,2015-11-20,Memphis Grizzlies,Houston Rockets,96,84,REG,184
+nba-201511200MIN,2016,,2015-11-20,Minnesota Timberwolves,Detroit Pistons,86,96,REG,185
+nba-201511200NOP,2016,,2015-11-20,New Orleans Pelicans,San Antonio Spurs,104,90,REG,186
+nba-201511200OKC,2016,,2015-11-20,Oklahoma City Thunder,New York Knicks,90,93,REG,187
+nba-201511200POR,2016,,2015-11-20,Portland Trail Blazers,Los Angeles Clippers,102,91,REG,188
+nba-201511210CLE,2016,,2015-11-21,Cleveland Cavaliers,Atlanta Hawks,109,97,REG,189
+nba-201511210DET,2016,,2015-11-21,Detroit Pistons,Washington Wizards,95,97,REG,190
+nba-201511210HOU,2016,,2015-11-21,Houston Rockets,New York Knicks,102,107,REG,191
+nba-201511210IND,2016,,2015-11-21,Indiana Pacers,Milwaukee Bucks,123,86,REG,192
+nba-201511210MIA,2016,,2015-11-21,Miami Heat,Philadelphia 76ers,96,91,REG,193
+nba-201511210ORL,2016,,2015-11-21,Orlando Magic,Sacramento Kings,91,97,REG,194
+nba-201511210SAS,2016,,2015-11-21,San Antonio Spurs,Memphis Grizzlies,92,82,REG,195
+nba-201511220BRK,2016,,2015-11-22,Brooklyn Nets,Boston Celtics,111,101,REG,196
+nba-201511220DEN,2016,,2015-11-22,Denver Nuggets,Golden State Warriors,105,118,REG,197
+nba-201511220LAC,2016,,2015-11-22,Los Angeles Clippers,Toronto Raptors,80,91,REG,198
+nba-201511220LAL,2016,,2015-11-22,Los Angeles Lakers,Portland Trail Blazers,93,107,REG,199
+nba-201511220NOP,2016,,2015-11-22,New Orleans Pelicans,Phoenix Suns,122,116,REG,200
+nba-201511220OKC,2016,,2015-11-22,Oklahoma City Thunder,Dallas Mavericks,117,114,REG,201
+nba-201511230CHO,2016,,2015-11-23,Charlotte Hornets,Sacramento Kings,127,122,REG,202
+nba-201511230CLE,2016,,2015-11-23,Cleveland Cavaliers,Orlando Magic,117,103,REG,203
+nba-201511230MIA,2016,,2015-11-23,Miami Heat,New York Knicks,95,78,REG,204
+nba-201511230MIL,2016,,2015-11-23,Milwaukee Bucks,Detroit Pistons,109,88,REG,205
+nba-201511230MIN,2016,,2015-11-23,Minnesota Timberwolves,Philadelphia 76ers,100,95,REG,206
+nba-201511230SAS,2016,,2015-11-23,San Antonio Spurs,Phoenix Suns,98,84,REG,207
+nba-201511230UTA,2016,,2015-11-23,Utah Jazz,Oklahoma City Thunder,89,111,REG,208
+nba-201511240ATL,2016,,2015-11-24,Atlanta Hawks,Boston Celtics,121,97,REG,209
+nba-201511240DEN,2016,,2015-11-24,Denver Nuggets,Los Angeles Clippers,94,111,REG,210
+nba-201511240GSW,2016,,2015-11-24,Golden State Warriors,Los Angeles Lakers,111,77,REG,211
+nba-201511240MEM,2016,,2015-11-24,Memphis Grizzlies,Dallas Mavericks,110,96,REG,212
+nba-201511240POR,2016,,2015-11-24,Portland Trail Blazers,Chicago Bulls,88,93,REG,213
+nba-201511240WAS,2016,,2015-11-24,Washington Wizards,Indiana Pacers,106,123,REG,214
+nba-201511250BOS,2016,,2015-11-25,Boston Celtics,Philadelphia 76ers,84,80,REG,215
+nba-201511250CHO,2016,,2015-11-25,Charlotte Hornets,Washington Wizards,101,87,REG,216
+nba-201511250DET,2016,,2015-11-25,Detroit Pistons,Miami Heat,104,81,REG,217
+nba-201511250HOU,2016,,2015-11-25,Houston Rockets,Memphis Grizzlies,93,102,REG,218
+nba-201511250LAC,2016,,2015-11-25,Los Angeles Clippers,Utah Jazz,91,102,REG,219
+nba-201511250MIL,2016,,2015-11-25,Milwaukee Bucks,Sacramento Kings,118,129,REG,220
+nba-201511250MIN,2016,,2015-11-25,Minnesota Timberwolves,Atlanta Hawks,99,95,REG,221
+nba-201511250OKC,2016,,2015-11-25,Oklahoma City Thunder,Brooklyn Nets,110,99,REG,222
+nba-201511250ORL,2016,,2015-11-25,Orlando Magic,New York Knicks,100,91,REG,223
+nba-201511250PHO,2016,,2015-11-25,Phoenix Suns,New Orleans Pelicans,114,120,REG,224
+nba-201511250SAS,2016,,2015-11-25,San Antonio Spurs,Dallas Mavericks,88,83,REG,225
+nba-201511250TOR,2016,,2015-11-25,Toronto Raptors,Cleveland Cavaliers,103,99,REG,226
+nba-201511270BOS,2016,,2015-11-27,Boston Celtics,Washington Wizards,111,78,REG,227
+nba-201511270CHO,2016,,2015-11-27,Charlotte Hornets,Cleveland Cavaliers,90,95,REG,228
+nba-201511270DEN,2016,,2015-11-27,Denver Nuggets,San Antonio Spurs,80,91,REG,229
+nba-201511270HOU,2016,,2015-11-27,Houston Rockets,Philadelphia 76ers,116,114,REG,230
+nba-201511270IND,2016,,2015-11-27,Indiana Pacers,Chicago Bulls,104,92,REG,231
+nba-201511270LAC,2016,,2015-11-27,Los Angeles Clippers,New Orleans Pelicans,111,90,REG,232
+nba-201511270MEM,2016,,2015-11-27,Memphis Grizzlies,Atlanta Hawks,101,116,REG,233
+nba-201511270NYK,2016,,2015-11-27,New York Knicks,Miami Heat,78,97,REG,234
+nba-201511270OKC,2016,,2015-11-27,Oklahoma City Thunder,Detroit Pistons,103,87,REG,235
+nba-201511270ORL,2016,,2015-11-27,Orlando Magic,Milwaukee Bucks,114,90,REG,236
+nba-201511270PHO,2016,,2015-11-27,Phoenix Suns,Golden State Warriors,116,135,REG,237
+nba-201511270SAC,2016,,2015-11-27,Sacramento Kings,Minnesota Timberwolves,91,101,REG,238
+nba-201511280CLE,2016,,2015-11-28,Cleveland Cavaliers,Brooklyn Nets,90,88,REG,239
+nba-201511280DAL,2016,,2015-11-28,Dallas Mavericks,Denver Nuggets,92,81,REG,240
+nba-201511280GSW,2016,,2015-11-28,Golden State Warriors,Sacramento Kings,120,101,REG,241
+nba-201511280POR,2016,,2015-11-28,Portland Trail Blazers,Los Angeles Lakers,108,96,REG,242
+nba-201511280SAS,2016,,2015-11-28,San Antonio Spurs,Atlanta Hawks,108,88,REG,243
+nba-201511280UTA,2016,,2015-11-28,Utah Jazz,New Orleans Pelicans,101,87,REG,244
+nba-201511280WAS,2016,,2015-11-28,Washington Wizards,Toronto Raptors,82,84,REG,245
+nba-201511290BRK,2016,,2015-11-29,Brooklyn Nets,Detroit Pistons,87,83,REG,246
+nba-201511290CHO,2016,,2015-11-29,Charlotte Hornets,Milwaukee Bucks,87,82,REG,247
+nba-201511290LAC,2016,,2015-11-29,Los Angeles Clippers,Minnesota Timberwolves,107,99,REG,248
+nba-201511290LAL,2016,,2015-11-29,Los Angeles Lakers,Indiana Pacers,103,107,REG,249
+nba-201511290MEM,2016,,2015-11-29,Memphis Grizzlies,Philadelphia 76ers,92,84,REG,250
+nba-201511290NYK,2016,,2015-11-29,New York Knicks,Houston Rockets,111,116,REG,251
+nba-201511290ORL,2016,,2015-11-29,Orlando Magic,Boston Celtics,110,91,REG,252
+nba-201511290TOR,2016,,2015-11-29,Toronto Raptors,Phoenix Suns,102,107,REG,253
+nba-201511300ATL,2016,,2015-11-30,Atlanta Hawks,Oklahoma City Thunder,106,100,REG,254
+nba-201511300CHI,2016,,2015-11-30,Chicago Bulls,San Antonio Spurs,92,89,REG,255
+nba-201511300DET,2016,,2015-11-30,Detroit Pistons,Houston Rockets,116,105,REG,256
+nba-201511300LAC,2016,,2015-11-30,Los Angeles Clippers,Portland Trail Blazers,102,87,REG,257
+nba-201511300MIA,2016,,2015-11-30,Miami Heat,Boston Celtics,95,105,REG,258
+nba-201511300MIL,2016,,2015-11-30,Milwaukee Bucks,Denver Nuggets,92,74,REG,259
+nba-201511300SAC,2016,,2015-11-30,Sacramento Kings,Dallas Mavericks,112,98,REG,260
+nba-201511300UTA,2016,,2015-11-30,Utah Jazz,Golden State Warriors,103,106,REG,261
+nba-201512010BRK,2016,,2015-12-01,Brooklyn Nets,Phoenix Suns,94,91,REG,262
+nba-201512010CLE,2016,,2015-12-01,Cleveland Cavaliers,Washington Wizards,85,97,REG,263
+nba-201512010MIN,2016,,2015-12-01,Minnesota Timberwolves,Orlando Magic,93,96,REG,264
+nba-201512010NOP,2016,,2015-12-01,New Orleans Pelicans,Memphis Grizzlies,104,113,REG,265
+nba-201512010PHI,2016,,2015-12-01,Philadelphia 76ers,Los Angeles Lakers,103,91,REG,266
+nba-201512010POR,2016,,2015-12-01,Portland Trail Blazers,Dallas Mavericks,112,115,REG,267
+nba-201512020ATL,2016,,2015-12-02,Atlanta Hawks,Toronto Raptors,86,96,REG,268
+nba-201512020CHO,2016,,2015-12-02,Charlotte Hornets,Golden State Warriors,99,116,REG,269
+nba-201512020CHI,2016,,2015-12-02,Chicago Bulls,Denver Nuggets,99,90,REG,270
+nba-201512020DET,2016,,2015-12-02,Detroit Pistons,Phoenix Suns,127,122,REG,271
+nba-201512020HOU,2016,,2015-12-02,Houston Rockets,New Orleans Pelicans,108,101,REG,272
+nba-201512020LAC,2016,,2015-12-02,Los Angeles Clippers,Indiana Pacers,91,103,REG,273
+nba-201512020NYK,2016,,2015-12-02,New York Knicks,Philadelphia 76ers,99,87,REG,274
+nba-201512020SAS,2016,,2015-12-02,San Antonio Spurs,Milwaukee Bucks,95,70,REG,275
+nba-201512020WAS,2016,,2015-12-02,Washington Wizards,Los Angeles Lakers,104,108,REG,276
+nba-201512030MEM,2016,,2015-12-03,Memphis Grizzlies,San Antonio Spurs,83,103,REG,277
+nba-201512030MIA,2016,,2015-12-03,Miami Heat,Oklahoma City Thunder,97,95,REG,278
+nba-201512030POR,2016,,2015-12-03,Portland Trail Blazers,Indiana Pacers,123,111,REG,279
+nba-201512030SAC,2016,,2015-12-03,Sacramento Kings,Boston Celtics,97,114,REG,280
+nba-201512030TOR,2016,,2015-12-03,Toronto Raptors,Denver Nuggets,105,106,REG,281
+nba-201512030UTA,2016,,2015-12-03,Utah Jazz,Orlando Magic,94,103,REG,282
+nba-201512040ATL,2016,,2015-12-04,Atlanta Hawks,Los Angeles Lakers,100,87,REG,283
+nba-201512040DAL,2016,,2015-12-04,Dallas Mavericks,Houston Rockets,96,100,REG,284
+nba-201512040DET,2016,,2015-12-04,Detroit Pistons,Milwaukee Bucks,102,95,REG,285
+nba-201512040NOP,2016,,2015-12-04,New Orleans Pelicans,Cleveland Cavaliers,114,108,REG,286
+nba-201512040NYK,2016,,2015-12-04,New York Knicks,Brooklyn Nets,108,91,REG,287
+nba-201512040WAS,2016,,2015-12-04,Washington Wizards,Phoenix Suns,109,106,REG,288
+nba-201512050CHI,2016,,2015-12-05,Chicago Bulls,Charlotte Hornets,96,102,REG,289
+nba-201512050HOU,2016,,2015-12-05,Houston Rockets,Sacramento Kings,120,113,REG,290
+nba-201512050LAC,2016,,2015-12-05,Los Angeles Clippers,Orlando Magic,103,101,REG,291
+nba-201512050MIA,2016,,2015-12-05,Miami Heat,Cleveland Cavaliers,99,84,REG,292
+nba-201512050MIL,2016,,2015-12-05,Milwaukee Bucks,New York Knicks,106,91,REG,293
+nba-201512050MIN,2016,,2015-12-05,Minnesota Timberwolves,Portland Trail Blazers,103,109,REG,294
+nba-201512050PHI,2016,,2015-12-05,Philadelphia 76ers,Denver Nuggets,105,108,REG,295
+nba-201512050SAS,2016,,2015-12-05,San Antonio Spurs,Boston Celtics,108,105,REG,296
+nba-201512050TOR,2016,,2015-12-05,Toronto Raptors,Golden State Warriors,109,112,REG,297
+nba-201512050UTA,2016,,2015-12-05,Utah Jazz,Indiana Pacers,122,119,REG,298
+nba-201512060BRK,2016,,2015-12-06,Brooklyn Nets,Golden State Warriors,98,114,REG,299
+nba-201512060DET,2016,,2015-12-06,Detroit Pistons,Los Angeles Lakers,111,91,REG,300
+nba-201512060MEM,2016,,2015-12-06,Memphis Grizzlies,Phoenix Suns,95,93,REG,301
+nba-201512060OKC,2016,,2015-12-06,Oklahoma City Thunder,Sacramento Kings,98,95,REG,302
+nba-201512060WAS,2016,,2015-12-06,Washington Wizards,Dallas Mavericks,104,116,REG,303
+nba-201512070CHO,2016,,2015-12-07,Charlotte Hornets,Detroit Pistons,104,84,REG,304
+nba-201512070CHI,2016,,2015-12-07,Chicago Bulls,Phoenix Suns,101,103,REG,305
+nba-201512070MIA,2016,,2015-12-07,Miami Heat,Washington Wizards,103,114,REG,306
+nba-201512070MIL,2016,,2015-12-07,Milwaukee Bucks,Portland Trail Blazers,90,88,REG,307
+nba-201512070MIN,2016,,2015-12-07,Minnesota Timberwolves,Los Angeles Clippers,106,110,REG,308
+nba-201512070NOP,2016,,2015-12-07,New Orleans Pelicans,Boston Celtics,93,111,REG,309
+nba-201512070NYK,2016,,2015-12-07,New York Knicks,Dallas Mavericks,97,104,REG,310
+nba-201512070PHI,2016,,2015-12-07,Philadelphia 76ers,San Antonio Spurs,68,119,REG,311
+nba-201512070TOR,2016,,2015-12-07,Toronto Raptors,Los Angeles Lakers,102,93,REG,312
+nba-201512080BRK,2016,,2015-12-08,Brooklyn Nets,Houston Rockets,110,105,REG,313
+nba-201512080CLE,2016,,2015-12-08,Cleveland Cavaliers,Portland Trail Blazers,105,100,REG,314
+nba-201512080DEN,2016,,2015-12-08,Denver Nuggets,Orlando Magic,74,85,REG,315
+nba-201512080IND,2016,,2015-12-08,Indiana Pacers,Golden State Warriors,123,131,REG,316
+nba-201512080MEM,2016,,2015-12-08,Memphis Grizzlies,Oklahoma City Thunder,88,125,REG,317
+nba-201512080SAC,2016,,2015-12-08,Sacramento Kings,Utah Jazz,114,106,REG,318
+nba-201512090BOS,2016,,2015-12-09,Boston Celtics,Chicago Bulls,105,100,REG,319
+nba-201512090CHO,2016,,2015-12-09,Charlotte Hornets,Miami Heat,99,81,REG,320
+nba-201512090DAL,2016,,2015-12-09,Dallas Mavericks,Atlanta Hawks,95,98,REG,321
+nba-201512090DET,2016,,2015-12-09,Detroit Pistons,Memphis Grizzlies,92,93,REG,322
+nba-201512090MIL,2016,,2015-12-09,Milwaukee Bucks,Los Angeles Clippers,95,109,REG,323
+nba-201512090MIN,2016,,2015-12-09,Minnesota Timberwolves,Los Angeles Lakers,123,122,REG,324
+nba-201512090PHO,2016,,2015-12-09,Phoenix Suns,Orlando Magic,107,104,REG,325
+nba-201512090TOR,2016,,2015-12-09,Toronto Raptors,San Antonio Spurs,97,94,REG,326
+nba-201512090UTA,2016,,2015-12-09,Utah Jazz,New York Knicks,106,85,REG,327
+nba-201512090WAS,2016,,2015-12-09,Washington Wizards,Houston Rockets,103,109,REG,328
+nba-201512100BRK,2016,,2015-12-10,Brooklyn Nets,Philadelphia 76ers,100,91,REG,329
+nba-201512100CHI,2016,,2015-12-10,Chicago Bulls,Los Angeles Clippers,83,80,REG,330
+nba-201512100OKC,2016,,2015-12-10,Oklahoma City Thunder,Atlanta Hawks,107,94,REG,331
+nba-201512100SAC,2016,,2015-12-10,Sacramento Kings,New York Knicks,99,97,REG,332
+nba-201512110BOS,2016,,2015-12-11,Boston Celtics,Golden State Warriors,119,124,REG,333
+nba-201512110DEN,2016,,2015-12-11,Denver Nuggets,Minnesota Timberwolves,111,108,REG,334
+nba-201512110IND,2016,,2015-12-11,Indiana Pacers,Miami Heat,96,83,REG,335
+nba-201512110MEM,2016,,2015-12-11,Memphis Grizzlies,Charlotte Hornets,99,123,REG,336
+nba-201512110NOP,2016,,2015-12-11,New Orleans Pelicans,Washington Wizards,107,105,REG,337
+nba-201512110ORL,2016,,2015-12-11,Orlando Magic,Cleveland Cavaliers,76,111,REG,338
+nba-201512110PHI,2016,,2015-12-11,Philadelphia 76ers,Detroit Pistons,95,107,REG,339
+nba-201512110PHO,2016,,2015-12-11,Phoenix Suns,Portland Trail Blazers,96,106,REG,340
+nba-201512110SAS,2016,,2015-12-11,San Antonio Spurs,Los Angeles Lakers,109,87,REG,341
+nba-201512110TOR,2016,,2015-12-11,Toronto Raptors,Milwaukee Bucks,90,83,REG,342
+nba-201512110UTA,2016,,2015-12-11,Utah Jazz,Oklahoma City Thunder,90,94,REG,343
+nba-201512120ATL,2016,,2015-12-12,Atlanta Hawks,San Antonio Spurs,78,103,REG,344
+nba-201512120BRK,2016,,2015-12-12,Brooklyn Nets,Los Angeles Clippers,100,105,REG,345
+nba-201512120CHO,2016,,2015-12-12,Charlotte Hornets,Boston Celtics,93,98,REG,346
+nba-201512120CHI,2016,,2015-12-12,Chicago Bulls,New Orleans Pelicans,98,94,REG,347
+nba-201512120DAL,2016,,2015-12-12,Dallas Mavericks,Washington Wizards,111,114,REG,348
+nba-201512120DET,2016,,2015-12-12,Detroit Pistons,Indiana Pacers,118,96,REG,349
+nba-201512120HOU,2016,,2015-12-12,Houston Rockets,Los Angeles Lakers,126,97,REG,350
+nba-201512120MIL,2016,,2015-12-12,Milwaukee Bucks,Golden State Warriors,108,95,REG,351
+nba-201512120POR,2016,,2015-12-12,Portland Trail Blazers,New York Knicks,110,112,REG,352
+nba-201512130MIA,2016,,2015-12-13,Miami Heat,Memphis Grizzlies,100,97,REG,353
+nba-201512130OKC,2016,,2015-12-13,Oklahoma City Thunder,Utah Jazz,104,98,REG,354
+nba-201512130PHO,2016,,2015-12-13,Phoenix Suns,Minnesota Timberwolves,108,101,REG,355
+nba-201512130TOR,2016,,2015-12-13,Toronto Raptors,Philadelphia 76ers,96,76,REG,356
+nba-201512140ATL,2016,,2015-12-14,Atlanta Hawks,Miami Heat,88,100,REG,357
+nba-201512140BRK,2016,,2015-12-14,Brooklyn Nets,Orlando Magic,82,105,REG,358
+nba-201512140CHI,2016,,2015-12-14,Chicago Bulls,Philadelphia 76ers,115,96,REG,359
+nba-201512140DAL,2016,,2015-12-14,Dallas Mavericks,Phoenix Suns,104,94,REG,360
+nba-201512140DEN,2016,,2015-12-14,Denver Nuggets,Houston Rockets,114,108,REG,361
+nba-201512140DET,2016,,2015-12-14,Detroit Pistons,Los Angeles Clippers,103,105,REG,362
+nba-201512140IND,2016,,2015-12-14,Indiana Pacers,Toronto Raptors,106,90,REG,363
+nba-201512140MEM,2016,,2015-12-14,Memphis Grizzlies,Washington Wizards,112,95,REG,364
+nba-201512140POR,2016,,2015-12-14,Portland Trail Blazers,New Orleans Pelicans,105,101,REG,365
+nba-201512140SAS,2016,,2015-12-14,San Antonio Spurs,Utah Jazz,118,81,REG,366
+nba-201512150BOS,2016,,2015-12-15,Boston Celtics,Cleveland Cavaliers,77,89,REG,367
+nba-201512150LAL,2016,,2015-12-15,Los Angeles Lakers,Milwaukee Bucks,113,95,REG,368
+nba-201512150MIN,2016,,2015-12-15,Minnesota Timberwolves,Denver Nuggets,100,112,REG,369
+nba-201512150SAC,2016,,2015-12-15,Sacramento Kings,Houston Rockets,107,97,REG,370
+nba-201512160ATL,2016,,2015-12-16,Atlanta Hawks,Philadelphia 76ers,127,106,REG,371
+nba-201512160BRK,2016,,2015-12-16,Brooklyn Nets,Miami Heat,98,104,REG,372
+nba-201512160CHI,2016,,2015-12-16,Chicago Bulls,Memphis Grizzlies,98,85,REG,373
+nba-201512160DET,2016,,2015-12-16,Detroit Pistons,Boston Celtics,119,116,REG,374
+nba-201512160GSW,2016,,2015-12-16,Golden State Warriors,Phoenix Suns,128,103,REG,375
+nba-201512160IND,2016,,2015-12-16,Indiana Pacers,Dallas Mavericks,107,81,REG,376
+nba-201512160LAC,2016,,2015-12-16,Los Angeles Clippers,Milwaukee Bucks,103,90,REG,377
+nba-201512160NYK,2016,,2015-12-16,New York Knicks,Minnesota Timberwolves,107,102,REG,378
+nba-201512160OKC,2016,,2015-12-16,Oklahoma City Thunder,Portland Trail Blazers,106,90,REG,379
+nba-201512160ORL,2016,,2015-12-16,Orlando Magic,Charlotte Hornets,113,98,REG,380
+nba-201512160SAS,2016,,2015-12-16,San Antonio Spurs,Washington Wizards,114,95,REG,381
+nba-201512160UTA,2016,,2015-12-16,Utah Jazz,New Orleans Pelicans,94,104,REG,382
+nba-201512170CHO,2016,,2015-12-17,Charlotte Hornets,Toronto Raptors,109,99,REG,383
+nba-201512170CLE,2016,,2015-12-17,Cleveland Cavaliers,Oklahoma City Thunder,104,100,REG,384
+nba-201512170LAL,2016,,2015-12-17,Los Angeles Lakers,Houston Rockets,87,107,REG,385
+nba-201512180BOS,2016,,2015-12-18,Boston Celtics,Atlanta Hawks,101,109,REG,386
+nba-201512180CHI,2016,,2015-12-18,Chicago Bulls,Detroit Pistons,144,147,REG,387
+nba-201512180DAL,2016,,2015-12-18,Dallas Mavericks,Memphis Grizzlies,97,88,REG,388
+nba-201512180GSW,2016,,2015-12-18,Golden State Warriors,Milwaukee Bucks,121,112,REG,389
+nba-201512180IND,2016,,2015-12-18,Indiana Pacers,Brooklyn Nets,104,97,REG,390
+nba-201512180MIA,2016,,2015-12-18,Miami Heat,Toronto Raptors,94,108,REG,391
+nba-201512180MIN,2016,,2015-12-18,Minnesota Timberwolves,Sacramento Kings,99,95,REG,392
+nba-201512180ORL,2016,,2015-12-18,Orlando Magic,Portland Trail Blazers,102,94,REG,393
+nba-201512180PHI,2016,,2015-12-18,Philadelphia 76ers,New York Knicks,97,107,REG,394
+nba-201512180PHO,2016,,2015-12-18,Phoenix Suns,New Orleans Pelicans,104,88,REG,395
+nba-201512180SAS,2016,,2015-12-18,San Antonio Spurs,Los Angeles Clippers,115,107,REG,396
+nba-201512180UTA,2016,,2015-12-18,Utah Jazz,Denver Nuggets,97,88,REG,397
+nba-201512190HOU,2016,,2015-12-19,Houston Rockets,Los Angeles Clippers,107,97,REG,398
+nba-201512190MEM,2016,,2015-12-19,Memphis Grizzlies,Indiana Pacers,96,84,REG,399
+nba-201512190NYK,2016,,2015-12-19,New York Knicks,Chicago Bulls,107,91,REG,400
+nba-201512190OKC,2016,,2015-12-19,Oklahoma City Thunder,Los Angeles Lakers,118,78,REG,401
+nba-201512190WAS,2016,,2015-12-19,Washington Wizards,Charlotte Hornets,109,101,REG,402
+nba-201512200BRK,2016,,2015-12-20,Brooklyn Nets,Minnesota Timberwolves,85,100,REG,403
+nba-201512200CLE,2016,,2015-12-20,Cleveland Cavaliers,Philadelphia 76ers,108,86,REG,404
+nba-201512200DEN,2016,,2015-12-20,Denver Nuggets,New Orleans Pelicans,125,130,REG,405
+nba-201512200MIA,2016,,2015-12-20,Miami Heat,Portland Trail Blazers,116,109,REG,406
+nba-201512200ORL,2016,,2015-12-20,Orlando Magic,Atlanta Hawks,100,103,REG,407
+nba-201512200PHO,2016,,2015-12-20,Phoenix Suns,Milwaukee Bucks,95,101,REG,408
+nba-201512200TOR,2016,,2015-12-20,Toronto Raptors,Sacramento Kings,94,104,REG,409
+nba-201512210ATL,2016,,2015-12-21,Atlanta Hawks,Portland Trail Blazers,106,97,REG,410
+nba-201512210BOS,2016,,2015-12-21,Boston Celtics,Minnesota Timberwolves,113,99,REG,411
+nba-201512210CHI,2016,,2015-12-21,Chicago Bulls,Brooklyn Nets,102,105,REG,412
+nba-201512210HOU,2016,,2015-12-21,Houston Rockets,Charlotte Hornets,102,95,REG,413
+nba-201512210LAC,2016,,2015-12-21,Los Angeles Clippers,Oklahoma City Thunder,99,100,REG,414
+nba-201512210NYK,2016,,2015-12-21,New York Knicks,Orlando Magic,99,107,REG,415
+nba-201512210SAS,2016,,2015-12-21,San Antonio Spurs,Indiana Pacers,106,92,REG,416
+nba-201512210UTA,2016,,2015-12-21,Utah Jazz,Phoenix Suns,110,89,REG,417
+nba-201512210WAS,2016,,2015-12-21,Washington Wizards,Sacramento Kings,113,99,REG,418
+nba-201512220DEN,2016,,2015-12-22,Denver Nuggets,Los Angeles Lakers,107,111,REG,419
+nba-201512220MIA,2016,,2015-12-22,Miami Heat,Detroit Pistons,92,93,REG,420
+nba-201512220PHI,2016,,2015-12-22,Philadelphia 76ers,Memphis Grizzlies,90,104,REG,421
+nba-201512220TOR,2016,,2015-12-22,Toronto Raptors,Dallas Mavericks,103,99,REG,422
+nba-201512230ATL,2016,,2015-12-23,Atlanta Hawks,Detroit Pistons,107,100,REG,423
+nba-201512230BRK,2016,,2015-12-23,Brooklyn Nets,Dallas Mavericks,118,119,REG,424
+nba-201512230CHO,2016,,2015-12-23,Charlotte Hornets,Boston Celtics,89,102,REG,425
+nba-201512230CLE,2016,,2015-12-23,Cleveland Cavaliers,New York Knicks,91,84,REG,426
+nba-201512230GSW,2016,,2015-12-23,Golden State Warriors,Utah Jazz,103,85,REG,427
+nba-201512230IND,2016,,2015-12-23,Indiana Pacers,Sacramento Kings,106,108,REG,428
+nba-201512230LAL,2016,,2015-12-23,Los Angeles Lakers,Oklahoma City Thunder,85,120,REG,429
+nba-201512230MIL,2016,,2015-12-23,Milwaukee Bucks,Philadelphia 76ers,113,100,REG,430
+nba-201512230MIN,2016,,2015-12-23,Minnesota Timberwolves,San Antonio Spurs,83,108,REG,431
+nba-201512230NOP,2016,,2015-12-23,New Orleans Pelicans,Portland Trail Blazers,115,89,REG,432
+nba-201512230ORL,2016,,2015-12-23,Orlando Magic,Houston Rockets,104,101,REG,433
+nba-201512230PHO,2016,,2015-12-23,Phoenix Suns,Denver Nuggets,96,104,REG,434
+nba-201512230WAS,2016,,2015-12-23,Washington Wizards,Memphis Grizzlies,100,91,REG,435
+nba-201512250GSW,2016,,2015-12-25,Golden State Warriors,Cleveland Cavaliers,89,83,REG,436
+nba-201512250HOU,2016,,2015-12-25,Houston Rockets,San Antonio Spurs,88,84,REG,437
+nba-201512250LAL,2016,,2015-12-25,Los Angeles Lakers,Los Angeles Clippers,84,94,REG,438
+nba-201512250MIA,2016,,2015-12-25,Miami Heat,New Orleans Pelicans,94,88,REG,439
+nba-201512250OKC,2016,,2015-12-25,Oklahoma City Thunder,Chicago Bulls,96,105,REG,440
+nba-201512260ATL,2016,,2015-12-26,Atlanta Hawks,New York Knicks,117,98,REG,441
+nba-201512260BRK,2016,,2015-12-26,Brooklyn Nets,Washington Wizards,96,111,REG,442
+nba-201512260CHO,2016,,2015-12-26,Charlotte Hornets,Memphis Grizzlies,98,92,REG,443
+nba-201512260DAL,2016,,2015-12-26,Dallas Mavericks,Chicago Bulls,118,111,REG,444
+nba-201512260DET,2016,,2015-12-26,Detroit Pistons,Boston Celtics,93,99,REG,445
+nba-201512260MIL,2016,,2015-12-26,Milwaukee Bucks,Toronto Raptors,90,111,REG,446
+nba-201512260MIN,2016,,2015-12-26,Minnesota Timberwolves,Indiana Pacers,88,102,REG,447
+nba-201512260NOP,2016,,2015-12-26,New Orleans Pelicans,Houston Rockets,110,108,REG,448
+nba-201512260ORL,2016,,2015-12-26,Orlando Magic,Miami Heat,101,108,REG,449
+nba-201512260PHO,2016,,2015-12-26,Phoenix Suns,Philadelphia 76ers,104,111,REG,450
+nba-201512260POR,2016,,2015-12-26,Portland Trail Blazers,Cleveland Cavaliers,105,76,REG,451
+nba-201512260SAS,2016,,2015-12-26,San Antonio Spurs,Denver Nuggets,101,86,REG,452
+nba-201512260UTA,2016,,2015-12-26,Utah Jazz,Los Angeles Clippers,104,109,REG,453
+nba-201512270BOS,2016,,2015-12-27,Boston Celtics,New York Knicks,100,91,REG,454
+nba-201512270MEM,2016,,2015-12-27,Memphis Grizzlies,Los Angeles Lakers,112,96,REG,455
+nba-201512270OKC,2016,,2015-12-27,Oklahoma City Thunder,Denver Nuggets,122,112,REG,456
+nba-201512270SAC,2016,,2015-12-27,Sacramento Kings,Portland Trail Blazers,94,98,REG,457
+nba-201512280CHO,2016,,2015-12-28,Charlotte Hornets,Los Angeles Lakers,108,98,REG,458
+nba-201512280CHI,2016,,2015-12-28,Chicago Bulls,Toronto Raptors,104,97,REG,459
+nba-201512280DAL,2016,,2015-12-28,Dallas Mavericks,Milwaukee Bucks,103,93,REG,460
+nba-201512280GSW,2016,,2015-12-28,Golden State Warriors,Sacramento Kings,122,103,REG,461
+nba-201512280IND,2016,,2015-12-28,Indiana Pacers,Atlanta Hawks,93,87,REG,462
+nba-201512280MIA,2016,,2015-12-28,Miami Heat,Brooklyn Nets,105,111,REG,463
+nba-201512280ORL,2016,,2015-12-28,Orlando Magic,New Orleans Pelicans,104,89,REG,464
+nba-201512280PHO,2016,,2015-12-28,Phoenix Suns,Cleveland Cavaliers,97,101,REG,465
+nba-201512280SAS,2016,,2015-12-28,San Antonio Spurs,Minnesota Timberwolves,101,95,REG,466
+nba-201512280UTA,2016,,2015-12-28,Utah Jazz,Philadelphia 76ers,95,91,REG,467
+nba-201512280WAS,2016,,2015-12-28,Washington Wizards,Los Angeles Clippers,91,108,REG,468
+nba-201512290DEN,2016,,2015-12-29,Denver Nuggets,Cleveland Cavaliers,87,93,REG,469
+nba-201512290HOU,2016,,2015-12-29,Houston Rockets,Atlanta Hawks,115,121,REG,470
+nba-201512290MEM,2016,,2015-12-29,Memphis Grizzlies,Miami Heat,99,90,REG,471
+nba-201512290NYK,2016,,2015-12-29,New York Knicks,Detroit Pistons,108,96,REG,472
+nba-201512290OKC,2016,,2015-12-29,Oklahoma City Thunder,Milwaukee Bucks,131,123,REG,473
+nba-201512300BOS,2016,,2015-12-30,Boston Celtics,Los Angeles Lakers,104,112,REG,474
+nba-201512300CHO,2016,,2015-12-30,Charlotte Hornets,Los Angeles Clippers,117,122,REG,475
+nba-201512300CHI,2016,,2015-12-30,Chicago Bulls,Indiana Pacers,102,100,REG,476
+nba-201512300DAL,2016,,2015-12-30,Dallas Mavericks,Golden State Warriors,114,91,REG,477
+nba-201512300MIN,2016,,2015-12-30,Minnesota Timberwolves,Utah Jazz,94,80,REG,478
+nba-201512300ORL,2016,,2015-12-30,Orlando Magic,Brooklyn Nets,100,93,REG,479
+nba-201512300POR,2016,,2015-12-30,Portland Trail Blazers,Denver Nuggets,110,103,REG,480
+nba-201512300SAC,2016,,2015-12-30,Sacramento Kings,Philadelphia 76ers,105,110,REG,481
+nba-201512300SAS,2016,,2015-12-30,San Antonio Spurs,Phoenix Suns,112,79,REG,482
+nba-201512300TOR,2016,,2015-12-30,Toronto Raptors,Washington Wizards,94,91,REG,483
+nba-201512310DET,2016,,2015-12-31,Detroit Pistons,Minnesota Timberwolves,115,90,REG,484
+nba-201512310HOU,2016,,2015-12-31,Houston Rockets,Golden State Warriors,110,114,REG,485
+nba-201512310IND,2016,,2015-12-31,Indiana Pacers,Milwaukee Bucks,116,120,REG,486
+nba-201512310NOP,2016,,2015-12-31,New Orleans Pelicans,Los Angeles Clippers,89,95,REG,487
+nba-201512310OKC,2016,,2015-12-31,Oklahoma City Thunder,Phoenix Suns,110,106,REG,488
+nba-201512310UTA,2016,,2015-12-31,Utah Jazz,Portland Trail Blazers,109,96,REG,489
+nba-201601010CHI,2016,,2016-01-01,Chicago Bulls,New York Knicks,108,81,REG,490
+nba-201601010LAL,2016,,2016-01-01,Los Angeles Lakers,Philadelphia 76ers,93,84,REG,491
+nba-201601010MIA,2016,,2016-01-01,Miami Heat,Dallas Mavericks,106,82,REG,492
+nba-201601010TOR,2016,,2016-01-01,Toronto Raptors,Charlotte Hornets,104,94,REG,493
+nba-201601010WAS,2016,,2016-01-01,Washington Wizards,Orlando Magic,103,91,REG,494
+nba-201601020BOS,2016,,2016-01-02,Boston Celtics,Brooklyn Nets,97,100,REG,495
+nba-201601020CHO,2016,,2016-01-02,Charlotte Hornets,Oklahoma City Thunder,90,109,REG,496
+nba-201601020CLE,2016,,2016-01-02,Cleveland Cavaliers,Orlando Magic,104,79,REG,497
+nba-201601020DAL,2016,,2016-01-02,Dallas Mavericks,New Orleans Pelicans,98,105,REG,498
+nba-201601020GSW,2016,,2016-01-02,Golden State Warriors,Denver Nuggets,111,108,REG,499
+nba-201601020IND,2016,,2016-01-02,Indiana Pacers,Detroit Pistons,94,82,REG,500
+nba-201601020LAC,2016,,2016-01-02,Los Angeles Clippers,Philadelphia 76ers,130,99,REG,501
+nba-201601020MIN,2016,,2016-01-02,Minnesota Timberwolves,Milwaukee Bucks,85,95,REG,502
+nba-201601020SAC,2016,,2016-01-02,Sacramento Kings,Phoenix Suns,142,119,REG,503
+nba-201601020SAS,2016,,2016-01-02,San Antonio Spurs,Houston Rockets,121,103,REG,504
+nba-201601020UTA,2016,,2016-01-02,Utah Jazz,Memphis Grizzlies,92,87,REG,505
+nba-201601030DEN,2016,,2016-01-03,Denver Nuggets,Portland Trail Blazers,106,112,REG,506
+nba-201601030LAL,2016,,2016-01-03,Los Angeles Lakers,Phoenix Suns,97,77,REG,507
+nba-201601030NYK,2016,,2016-01-03,New York Knicks,Atlanta Hawks,111,97,REG,508
+nba-201601030TOR,2016,,2016-01-03,Toronto Raptors,Chicago Bulls,113,115,REG,509
+nba-201601030WAS,2016,,2016-01-03,Washington Wizards,Miami Heat,75,97,REG,510
+nba-201601040BRK,2016,,2016-01-04,Brooklyn Nets,Boston Celtics,94,103,REG,511
+nba-201601040CLE,2016,,2016-01-04,Cleveland Cavaliers,Toronto Raptors,122,100,REG,512
+nba-201601040DET,2016,,2016-01-04,Detroit Pistons,Orlando Magic,115,89,REG,513
+nba-201601040GSW,2016,,2016-01-04,Golden State Warriors,Charlotte Hornets,111,101,REG,514
+nba-201601040MIA,2016,,2016-01-04,Miami Heat,Indiana Pacers,103,100,REG,515
+nba-201601040MIL,2016,,2016-01-04,Milwaukee Bucks,San Antonio Spurs,98,123,REG,516
+nba-201601040OKC,2016,,2016-01-04,Oklahoma City Thunder,Sacramento Kings,104,116,REG,517
+nba-201601040PHI,2016,,2016-01-04,Philadelphia 76ers,Minnesota Timberwolves,109,99,REG,518
+nba-201601040POR,2016,,2016-01-04,Portland Trail Blazers,Memphis Grizzlies,78,91,REG,519
+nba-201601040UTA,2016,,2016-01-04,Utah Jazz,Houston Rockets,91,93,REG,520
+nba-201601050ATL,2016,,2016-01-05,Atlanta Hawks,New York Knicks,101,107,REG,521
+nba-201601050CHI,2016,,2016-01-05,Chicago Bulls,Milwaukee Bucks,117,106,REG,522
+nba-201601050DAL,2016,,2016-01-05,Dallas Mavericks,Sacramento Kings,117,116,REG,523
+nba-201601050LAL,2016,,2016-01-05,Los Angeles Lakers,Golden State Warriors,88,109,REG,524
+nba-201601060BOS,2016,,2016-01-06,Boston Celtics,Detroit Pistons,94,99,REG,525
+nba-201601060BRK,2016,,2016-01-06,Brooklyn Nets,Toronto Raptors,74,91,REG,526
+nba-201601060MIA,2016,,2016-01-06,Miami Heat,New York Knicks,90,98,REG,527
+nba-201601060MIN,2016,,2016-01-06,Minnesota Timberwolves,Denver Nuggets,74,78,REG,528
+nba-201601060NOP,2016,,2016-01-06,New Orleans Pelicans,Dallas Mavericks,91,100,REG,529
+nba-201601060OKC,2016,,2016-01-06,Oklahoma City Thunder,Memphis Grizzlies,112,94,REG,530
+nba-201601060ORL,2016,,2016-01-06,Orlando Magic,Indiana Pacers,86,95,REG,531
+nba-201601060PHO,2016,,2016-01-06,Phoenix Suns,Charlotte Hornets,111,102,REG,532
+nba-201601060POR,2016,,2016-01-06,Portland Trail Blazers,Los Angeles Clippers,98,109,REG,533
+nba-201601060SAS,2016,,2016-01-06,San Antonio Spurs,Utah Jazz,123,98,REG,534
+nba-201601060WAS,2016,,2016-01-06,Washington Wizards,Cleveland Cavaliers,115,121,REG,535
+nba-201601070CHI,2016,,2016-01-07,Chicago Bulls,Boston Celtics,101,92,REG,536
+nba-201601070HOU,2016,,2016-01-07,Houston Rockets,Utah Jazz,103,94,REG,537
+nba-201601070PHI,2016,,2016-01-07,Philadelphia 76ers,Atlanta Hawks,98,126,REG,538
+nba-201601070SAC,2016,,2016-01-07,Sacramento Kings,Los Angeles Lakers,118,115,REG,539
+nba-201601080BRK,2016,,2016-01-08,Brooklyn Nets,Orlando Magic,77,83,REG,540
+nba-201601080LAL,2016,,2016-01-08,Los Angeles Lakers,Oklahoma City Thunder,113,117,REG,541
+nba-201601080MEM,2016,,2016-01-08,Memphis Grizzlies,Denver Nuggets,91,84,REG,542
+nba-201601080MIL,2016,,2016-01-08,Milwaukee Bucks,Dallas Mavericks,96,95,REG,543
+nba-201601080MIN,2016,,2016-01-08,Minnesota Timberwolves,Cleveland Cavaliers,99,125,REG,544
+nba-201601080NOP,2016,,2016-01-08,New Orleans Pelicans,Indiana Pacers,86,91,REG,545
+nba-201601080PHO,2016,,2016-01-08,Phoenix Suns,Miami Heat,95,103,REG,546
+nba-201601080POR,2016,,2016-01-08,Portland Trail Blazers,Golden State Warriors,108,128,REG,547
+nba-201601080SAS,2016,,2016-01-08,San Antonio Spurs,New York Knicks,100,99,REG,548
+nba-201601080WAS,2016,,2016-01-08,Washington Wizards,Toronto Raptors,88,97,REG,549
+nba-201601090ATL,2016,,2016-01-09,Atlanta Hawks,Chicago Bulls,120,105,REG,550
+nba-201601090DET,2016,,2016-01-09,Detroit Pistons,Brooklyn Nets,103,89,REG,551
+nba-201601090LAC,2016,,2016-01-09,Los Angeles Clippers,Charlotte Hornets,97,83,REG,552
+nba-201601090ORL,2016,,2016-01-09,Orlando Magic,Washington Wizards,99,105,REG,553
+nba-201601090PHI,2016,,2016-01-09,Philadelphia 76ers,Toronto Raptors,95,108,REG,554
+nba-201601090SAC,2016,,2016-01-09,Sacramento Kings,Golden State Warriors,116,128,REG,555
+nba-201601090UTA,2016,,2016-01-09,Utah Jazz,Miami Heat,98,83,REG,556
+nba-201601100DEN,2016,,2016-01-10,Denver Nuggets,Charlotte Hornets,95,92,REG,557
+nba-201601100HOU,2016,,2016-01-10,Houston Rockets,Indiana Pacers,107,103,REG,558
+nba-201601100LAC,2016,,2016-01-10,Los Angeles Clippers,New Orleans Pelicans,114,111,REG,559
+nba-201601100LAL,2016,,2016-01-10,Los Angeles Lakers,Utah Jazz,74,86,REG,560
+nba-201601100MEM,2016,,2016-01-10,Memphis Grizzlies,Boston Celtics,101,98,REG,561
+nba-201601100MIN,2016,,2016-01-10,Minnesota Timberwolves,Dallas Mavericks,87,93,REG,562
+nba-201601100NYK,2016,,2016-01-10,New York Knicks,Milwaukee Bucks,100,88,REG,563
+nba-201601100PHI,2016,,2016-01-10,Philadelphia 76ers,Cleveland Cavaliers,85,95,REG,564
+nba-201601100POR,2016,,2016-01-10,Portland Trail Blazers,Oklahoma City Thunder,115,110,REG,565
+nba-201601110BRK,2016,,2016-01-11,Brooklyn Nets,San Antonio Spurs,79,106,REG,566
+nba-201601110CHI,2016,,2016-01-11,Chicago Bulls,Washington Wizards,100,114,REG,567
+nba-201601110GSW,2016,,2016-01-11,Golden State Warriors,Miami Heat,111,103,REG,568
+nba-201601120DAL,2016,,2016-01-12,Dallas Mavericks,Cleveland Cavaliers,107,110,REG,569
+nba-201601120DET,2016,,2016-01-12,Detroit Pistons,San Antonio Spurs,99,109,REG,570
+nba-201601120IND,2016,,2016-01-12,Indiana Pacers,Phoenix Suns,116,97,REG,571
+nba-201601120LAL,2016,,2016-01-12,Los Angeles Lakers,New Orleans Pelicans,95,91,REG,572
+nba-201601120MEM,2016,,2016-01-12,Memphis Grizzlies,Houston Rockets,91,107,REG,573
+nba-201601120MIL,2016,,2016-01-12,Milwaukee Bucks,Chicago Bulls,106,101,REG,574
+nba-201601120MIN,2016,,2016-01-12,Minnesota Timberwolves,Oklahoma City Thunder,96,101,REG,575
+nba-201601120NYK,2016,,2016-01-12,New York Knicks,Boston Celtics,120,114,REG,576
+nba-201601130BOS,2016,,2016-01-13,Boston Celtics,Indiana Pacers,103,94,REG,577
+nba-201601130BRK,2016,,2016-01-13,Brooklyn Nets,New York Knicks,110,104,REG,578
+nba-201601130CHO,2016,,2016-01-13,Charlotte Hornets,Atlanta Hawks,107,84,REG,579
+nba-201601130DEN,2016,,2016-01-13,Denver Nuggets,Golden State Warriors,112,110,REG,580
+nba-201601130HOU,2016,,2016-01-13,Houston Rockets,Minnesota Timberwolves,107,104,REG,581
+nba-201601130LAC,2016,,2016-01-13,Los Angeles Clippers,Miami Heat,104,90,REG,582
+nba-201601130OKC,2016,,2016-01-13,Oklahoma City Thunder,Dallas Mavericks,108,89,REG,583
+nba-201601130POR,2016,,2016-01-13,Portland Trail Blazers,Utah Jazz,99,85,REG,584
+nba-201601130SAC,2016,,2016-01-13,Sacramento Kings,New Orleans Pelicans,97,109,REG,585
+nba-201601130WAS,2016,,2016-01-13,Washington Wizards,Milwaukee Bucks,106,101,REG,586
+nba-201601140GSW,2016,,2016-01-14,Golden State Warriors,Los Angeles Lakers,116,98,REG,587
+nba-201601140MEM,2016,,2016-01-14,Memphis Grizzlies,Detroit Pistons,103,101,REG,588
+nba-201601140ORL,2016,,2016-01-14,Orlando Magic,Toronto Raptors,103,106,REG,589
+nba-201601140PHI,2016,,2016-01-14,Philadelphia 76ers,Chicago Bulls,111,115,REG,590
+nba-201601140SAS,2016,,2016-01-14,San Antonio Spurs,Cleveland Cavaliers,99,95,REG,591
+nba-201601140UTA,2016,,2016-01-14,Utah Jazz,Sacramento Kings,101,103,REG,592
+nba-201601150BOS,2016,,2016-01-15,Boston Celtics,Phoenix Suns,117,103,REG,593
+nba-201601150BRK,2016,,2016-01-15,Brooklyn Nets,Portland Trail Blazers,104,116,REG,594
+nba-201601150CHI,2016,,2016-01-15,Chicago Bulls,Dallas Mavericks,77,83,REG,595
+nba-201601150DEN,2016,,2016-01-15,Denver Nuggets,Miami Heat,95,98,REG,596
+nba-201601150HOU,2016,,2016-01-15,Houston Rockets,Cleveland Cavaliers,77,91,REG,597
+nba-201601150IND,2016,,2016-01-15,Indiana Pacers,Washington Wizards,104,118,REG,598
+nba-201601150MIL,2016,,2016-01-15,Milwaukee Bucks,Atlanta Hawks,108,101,REG,599
+nba-201601150NOP,2016,,2016-01-15,New Orleans Pelicans,Charlotte Hornets,109,107,REG,600
+nba-201601150OKC,2016,,2016-01-15,Oklahoma City Thunder,Minnesota Timberwolves,113,93,REG,601
+nba-201601160ATL,2016,,2016-01-16,Atlanta Hawks,Brooklyn Nets,114,86,REG,602
+nba-201601160CHO,2016,,2016-01-16,Charlotte Hornets,Milwaukee Bucks,92,105,REG,603
+nba-201601160DET,2016,,2016-01-16,Detroit Pistons,Golden State Warriors,113,95,REG,604
+nba-201601160LAC,2016,,2016-01-16,Los Angeles Clippers,Sacramento Kings,103,110,REG,605
+nba-201601160MEM,2016,,2016-01-16,Memphis Grizzlies,New York Knicks,103,95,REG,606
+nba-201601160PHI,2016,,2016-01-16,Philadelphia 76ers,Portland Trail Blazers,114,89,REG,607
+nba-201601160UTA,2016,,2016-01-16,Utah Jazz,Los Angeles Lakers,109,82,REG,608
+nba-201601160WAS,2016,,2016-01-16,Washington Wizards,Boston Celtics,117,119,REG,609
+nba-201601170DEN,2016,,2016-01-17,Denver Nuggets,Indiana Pacers,129,126,REG,610
+nba-201601170LAL,2016,,2016-01-17,Los Angeles Lakers,Houston Rockets,95,112,REG,611
+nba-201601170MIN,2016,,2016-01-17,Minnesota Timberwolves,Phoenix Suns,117,87,REG,612
+nba-201601170OKC,2016,,2016-01-17,Oklahoma City Thunder,Miami Heat,99,74,REG,613
+nba-201601170SAS,2016,,2016-01-17,San Antonio Spurs,Dallas Mavericks,112,83,REG,614
+nba-201601180ATL,2016,,2016-01-18,Atlanta Hawks,Orlando Magic,98,81,REG,615
+nba-201601180CHO,2016,,2016-01-18,Charlotte Hornets,Utah Jazz,124,119,REG,616
+nba-201601180CLE,2016,,2016-01-18,Cleveland Cavaliers,Golden State Warriors,98,132,REG,617
+nba-201601180DAL,2016,,2016-01-18,Dallas Mavericks,Boston Celtics,118,113,REG,618
+nba-201601180DET,2016,,2016-01-18,Detroit Pistons,Chicago Bulls,101,111,REG,619
+nba-201601180LAC,2016,,2016-01-18,Los Angeles Clippers,Houston Rockets,140,132,REG,620
+nba-201601180MEM,2016,,2016-01-18,Memphis Grizzlies,New Orleans Pelicans,101,99,REG,621
+nba-201601180NYK,2016,,2016-01-18,New York Knicks,Philadelphia 76ers,119,113,REG,622
+nba-201601180TOR,2016,,2016-01-18,Toronto Raptors,Brooklyn Nets,112,100,REG,623
+nba-201601180WAS,2016,,2016-01-18,Washington Wizards,Portland Trail Blazers,98,108,REG,624
+nba-201601190DEN,2016,,2016-01-19,Denver Nuggets,Oklahoma City Thunder,104,110,REG,625
+nba-201601190MIA,2016,,2016-01-19,Miami Heat,Milwaukee Bucks,79,91,REG,626
+nba-201601190NOP,2016,,2016-01-19,New Orleans Pelicans,Minnesota Timberwolves,114,99,REG,627
+nba-201601190PHO,2016,,2016-01-19,Phoenix Suns,Indiana Pacers,94,97,REG,628
+nba-201601200BRK,2016,,2016-01-20,Brooklyn Nets,Cleveland Cavaliers,78,91,REG,629
+nba-201601200CHI,2016,,2016-01-20,Chicago Bulls,Golden State Warriors,94,125,REG,630
+nba-201601200DAL,2016,,2016-01-20,Dallas Mavericks,Minnesota Timberwolves,106,94,REG,631
+nba-201601200HOU,2016,,2016-01-20,Houston Rockets,Detroit Pistons,114,123,REG,632
+nba-201601200LAL,2016,,2016-01-20,Los Angeles Lakers,Sacramento Kings,93,112,REG,633
+nba-201601200NYK,2016,,2016-01-20,New York Knicks,Utah Jazz,118,111,REG,634
+nba-201601200OKC,2016,,2016-01-20,Oklahoma City Thunder,Charlotte Hornets,109,95,REG,635
+nba-201601200ORL,2016,,2016-01-20,Orlando Magic,Philadelphia 76ers,87,96,REG,636
+nba-201601200POR,2016,,2016-01-20,Portland Trail Blazers,Atlanta Hawks,98,104,REG,637
+nba-201601200TOR,2016,,2016-01-20,Toronto Raptors,Boston Celtics,115,109,REG,638
+nba-201601200WAS,2016,,2016-01-20,Washington Wizards,Miami Heat,106,87,REG,639
+nba-201601210CLE,2016,,2016-01-21,Cleveland Cavaliers,Los Angeles Clippers,115,102,REG,640
+nba-201601210DEN,2016,,2016-01-21,Denver Nuggets,Memphis Grizzlies,101,102,REG,641
+nba-201601210NOP,2016,,2016-01-21,New Orleans Pelicans,Detroit Pistons,115,99,REG,642
+nba-201601210PHO,2016,,2016-01-21,Phoenix Suns,San Antonio Spurs,89,117,REG,643
+nba-201601210SAC,2016,,2016-01-21,Sacramento Kings,Atlanta Hawks,91,88,REG,644
+nba-201601220BOS,2016,,2016-01-22,Boston Celtics,Chicago Bulls,110,101,REG,645
+nba-201601220BRK,2016,,2016-01-22,Brooklyn Nets,Utah Jazz,86,108,REG,646
+nba-201601220DAL,2016,,2016-01-22,Dallas Mavericks,Oklahoma City Thunder,106,109,REG,647
+nba-201601220GSW,2016,,2016-01-22,Golden State Warriors,Indiana Pacers,122,110,REG,648
+nba-201601220HOU,2016,,2016-01-22,Houston Rockets,Milwaukee Bucks,102,98,REG,649
+nba-201601220LAL,2016,,2016-01-22,Los Angeles Lakers,San Antonio Spurs,95,108,REG,650
+nba-201601220NYK,2016,,2016-01-22,New York Knicks,Los Angeles Clippers,88,116,REG,651
+nba-201601220ORL,2016,,2016-01-22,Orlando Magic,Charlotte Hornets,116,120,REG,652
+nba-201601220TOR,2016,,2016-01-22,Toronto Raptors,Miami Heat,101,81,REG,653
+nba-201601230CHO,2016,,2016-01-23,Charlotte Hornets,New York Knicks,97,84,REG,654
+nba-201601230CLE,2016,,2016-01-23,Cleveland Cavaliers,Chicago Bulls,83,96,REG,655
+nba-201601230DEN,2016,,2016-01-23,Denver Nuggets,Detroit Pistons,104,101,REG,656
+nba-201601230MIN,2016,,2016-01-23,Minnesota Timberwolves,Memphis Grizzlies,106,101,REG,657
+nba-201601230NOP,2016,,2016-01-23,New Orleans Pelicans,Milwaukee Bucks,116,99,REG,658
+nba-201601230PHO,2016,,2016-01-23,Phoenix Suns,Atlanta Hawks,98,95,REG,659
+nba-201601230POR,2016,,2016-01-23,Portland Trail Blazers,Los Angeles Lakers,121,103,REG,660
+nba-201601230SAC,2016,,2016-01-23,Sacramento Kings,Indiana Pacers,108,97,REG,661
+nba-201601240BRK,2016,,2016-01-24,Brooklyn Nets,Oklahoma City Thunder,116,106,REG,662
+nba-201601240HOU,2016,,2016-01-24,Houston Rockets,Dallas Mavericks,115,104,REG,663
+nba-201601240PHI,2016,,2016-01-24,Philadelphia 76ers,Boston Celtics,92,112,REG,664
+nba-201601240TOR,2016,,2016-01-24,Toronto Raptors,Los Angeles Clippers,112,94,REG,665
+nba-201601250CHI,2016,,2016-01-25,Chicago Bulls,Miami Heat,84,89,REG,666
+nba-201601250CLE,2016,,2016-01-25,Cleveland Cavaliers,Minnesota Timberwolves,114,107,REG,667
+nba-201601250DEN,2016,,2016-01-25,Denver Nuggets,Atlanta Hawks,105,119,REG,668
+nba-201601250GSW,2016,,2016-01-25,Golden State Warriors,San Antonio Spurs,120,90,REG,669
+nba-201601250MEM,2016,,2016-01-25,Memphis Grizzlies,Orlando Magic,108,102,REG,670
+nba-201601250NOP,2016,,2016-01-25,New Orleans Pelicans,Houston Rockets,111,112,REG,671
+nba-201601250SAC,2016,,2016-01-25,Sacramento Kings,Charlotte Hornets,128,129,REG,672
+nba-201601250UTA,2016,,2016-01-25,Utah Jazz,Detroit Pistons,92,95,REG,673
+nba-201601250WAS,2016,,2016-01-25,Washington Wizards,Boston Celtics,91,116,REG,674
+nba-201601260BRK,2016,,2016-01-26,Brooklyn Nets,Miami Heat,98,102,REG,675
+nba-201601260IND,2016,,2016-01-26,Indiana Pacers,Los Angeles Clippers,89,91,REG,676
+nba-201601260LAL,2016,,2016-01-26,Los Angeles Lakers,Dallas Mavericks,90,92,REG,677
+nba-201601260MIL,2016,,2016-01-26,Milwaukee Bucks,Orlando Magic,107,100,REG,678
+nba-201601260NYK,2016,,2016-01-26,New York Knicks,Oklahoma City Thunder,122,128,REG,679
+nba-201601260PHI,2016,,2016-01-26,Philadelphia 76ers,Phoenix Suns,113,103,REG,680
+nba-201601260POR,2016,,2016-01-26,Portland Trail Blazers,Sacramento Kings,112,97,REG,681
+nba-201601260TOR,2016,,2016-01-26,Toronto Raptors,Washington Wizards,106,89,REG,682
+nba-201601270ATL,2016,,2016-01-27,Atlanta Hawks,Los Angeles Clippers,83,85,REG,683
+nba-201601270BOS,2016,,2016-01-27,Boston Celtics,Denver Nuggets,111,103,REG,684
+nba-201601270CLE,2016,,2016-01-27,Cleveland Cavaliers,Phoenix Suns,115,93,REG,685
+nba-201601270DET,2016,,2016-01-27,Detroit Pistons,Philadelphia 76ers,110,97,REG,686
+nba-201601270GSW,2016,,2016-01-27,Golden State Warriors,Dallas Mavericks,127,107,REG,687
+nba-201601270MIN,2016,,2016-01-27,Minnesota Timberwolves,Oklahoma City Thunder,123,126,REG,688
+nba-201601270SAS,2016,,2016-01-27,San Antonio Spurs,Houston Rockets,130,99,REG,689
+nba-201601270UTA,2016,,2016-01-27,Utah Jazz,Charlotte Hornets,102,73,REG,690
+nba-201601280IND,2016,,2016-01-28,Indiana Pacers,Atlanta Hawks,111,92,REG,691
+nba-201601280LAL,2016,,2016-01-28,Los Angeles Lakers,Chicago Bulls,91,114,REG,692
+nba-201601280MEM,2016,,2016-01-28,Memphis Grizzlies,Milwaukee Bucks,103,83,REG,693
+nba-201601280NOP,2016,,2016-01-28,New Orleans Pelicans,Sacramento Kings,114,105,REG,694
+nba-201601280TOR,2016,,2016-01-28,Toronto Raptors,New York Knicks,103,93,REG,695
+nba-201601280WAS,2016,,2016-01-28,Washington Wizards,Denver Nuggets,113,117,REG,696
+nba-201601290BOS,2016,,2016-01-29,Boston Celtics,Orlando Magic,113,94,REG,697
+nba-201601290DAL,2016,,2016-01-29,Dallas Mavericks,Brooklyn Nets,91,79,REG,698
+nba-201601290DET,2016,,2016-01-29,Detroit Pistons,Cleveland Cavaliers,106,114,REG,699
+nba-201601290LAC,2016,,2016-01-29,Los Angeles Clippers,Los Angeles Lakers,105,93,REG,700
+nba-201601290MIL,2016,,2016-01-29,Milwaukee Bucks,Miami Heat,103,107,REG,701
+nba-201601290NYK,2016,,2016-01-29,New York Knicks,Phoenix Suns,102,84,REG,702
+nba-201601290OKC,2016,,2016-01-29,Oklahoma City Thunder,Houston Rockets,116,108,REG,703
+nba-201601290POR,2016,,2016-01-29,Portland Trail Blazers,Charlotte Hornets,109,91,REG,704
+nba-201601290UTA,2016,,2016-01-29,Utah Jazz,Minnesota Timberwolves,103,90,REG,705
+nba-201601300CLE,2016,,2016-01-30,Cleveland Cavaliers,San Antonio Spurs,117,103,REG,706
+nba-201601300HOU,2016,,2016-01-30,Houston Rockets,Washington Wizards,122,123,REG,707
+nba-201601300IND,2016,,2016-01-30,Indiana Pacers,Denver Nuggets,109,105,REG,708
+nba-201601300MEM,2016,,2016-01-30,Memphis Grizzlies,Sacramento Kings,121,117,REG,709
+nba-201601300NOP,2016,,2016-01-30,New Orleans Pelicans,Brooklyn Nets,105,103,REG,710
+nba-201601300PHI,2016,,2016-01-30,Philadelphia 76ers,Golden State Warriors,105,108,REG,711
+nba-201601300TOR,2016,,2016-01-30,Toronto Raptors,Detroit Pistons,111,107,REG,712
+nba-201601310DAL,2016,,2016-01-31,Dallas Mavericks,Phoenix Suns,91,78,REG,713
+nba-201601310LAC,2016,,2016-01-31,Los Angeles Clippers,Chicago Bulls,120,93,REG,714
+nba-201601310LAL,2016,,2016-01-31,Los Angeles Lakers,Charlotte Hornets,82,101,REG,715
+nba-201601310MIA,2016,,2016-01-31,Miami Heat,Atlanta Hawks,105,87,REG,716
+nba-201601310NYK,2016,,2016-01-31,New York Knicks,Golden State Warriors,95,116,REG,717
+nba-201601310ORL,2016,,2016-01-31,Orlando Magic,Boston Celtics,119,114,REG,718
+nba-201601310POR,2016,,2016-01-31,Portland Trail Blazers,Minnesota Timberwolves,96,93,REG,719
+nba-201602010ATL,2016,,2016-02-01,Atlanta Hawks,Dallas Mavericks,112,97,REG,720
+nba-201602010BRK,2016,,2016-02-01,Brooklyn Nets,Detroit Pistons,100,105,REG,721
+nba-201602010DEN,2016,,2016-02-01,Denver Nuggets,Toronto Raptors,112,93,REG,722
+nba-201602010IND,2016,,2016-02-01,Indiana Pacers,Cleveland Cavaliers,106,111,REG,723
+nba-201602010NOP,2016,,2016-02-01,New Orleans Pelicans,Memphis Grizzlies,95,110,REG,724
+nba-201602010OKC,2016,,2016-02-01,Oklahoma City Thunder,Washington Wizards,114,98,REG,725
+nba-201602010SAC,2016,,2016-02-01,Sacramento Kings,Milwaukee Bucks,111,104,REG,726
+nba-201602010SAS,2016,,2016-02-01,San Antonio Spurs,Orlando Magic,107,92,REG,727
+nba-201602010UTA,2016,,2016-02-01,Utah Jazz,Chicago Bulls,105,96,REG,728
+nba-201602020HOU,2016,,2016-02-02,Houston Rockets,Miami Heat,115,102,REG,729
+nba-201602020LAL,2016,,2016-02-02,Los Angeles Lakers,Minnesota Timberwolves,119,115,REG,730
+nba-201602020NYK,2016,,2016-02-02,New York Knicks,Boston Celtics,89,97,REG,731
+nba-201602020PHO,2016,,2016-02-02,Phoenix Suns,Toronto Raptors,97,104,REG,732
+nba-201602020POR,2016,,2016-02-02,Portland Trail Blazers,Milwaukee Bucks,107,95,REG,733
+nba-201602030BOS,2016,,2016-02-03,Boston Celtics,Detroit Pistons,102,95,REG,734
+nba-201602030BRK,2016,,2016-02-03,Brooklyn Nets,Indiana Pacers,100,114,REG,735
+nba-201602030CHO,2016,,2016-02-03,Charlotte Hornets,Cleveland Cavaliers,106,97,REG,736
+nba-201602030DAL,2016,,2016-02-03,Dallas Mavericks,Miami Heat,90,93,REG,737
+nba-201602030LAC,2016,,2016-02-03,Los Angeles Clippers,Minnesota Timberwolves,102,108,REG,738
+nba-201602030OKC,2016,,2016-02-03,Oklahoma City Thunder,Orlando Magic,117,114,REG,739
+nba-201602030PHI,2016,,2016-02-03,Philadelphia 76ers,Atlanta Hawks,86,124,REG,740
+nba-201602030SAC,2016,,2016-02-03,Sacramento Kings,Chicago Bulls,102,107,REG,741
+nba-201602030SAS,2016,,2016-02-03,San Antonio Spurs,New Orleans Pelicans,110,97,REG,742
+nba-201602030UTA,2016,,2016-02-03,Utah Jazz,Denver Nuggets,85,81,REG,743
+nba-201602030WAS,2016,,2016-02-03,Washington Wizards,Golden State Warriors,121,134,REG,744
+nba-201602040DET,2016,,2016-02-04,Detroit Pistons,New York Knicks,111,105,REG,745
+nba-201602040NOP,2016,,2016-02-04,New Orleans Pelicans,Los Angeles Lakers,96,99,REG,746
+nba-201602040PHO,2016,,2016-02-04,Phoenix Suns,Houston Rockets,105,111,REG,747
+nba-201602040POR,2016,,2016-02-04,Portland Trail Blazers,Toronto Raptors,103,110,REG,748
+nba-201602050ATL,2016,,2016-02-05,Atlanta Hawks,Indiana Pacers,102,96,REG,749
+nba-201602050BRK,2016,,2016-02-05,Brooklyn Nets,Sacramento Kings,128,119,REG,750
+nba-201602050CHO,2016,,2016-02-05,Charlotte Hornets,Miami Heat,95,98,REG,751
+nba-201602050CLE,2016,,2016-02-05,Cleveland Cavaliers,Boston Celtics,103,104,REG,752
+nba-201602050DAL,2016,,2016-02-05,Dallas Mavericks,San Antonio Spurs,90,116,REG,753
+nba-201602050DEN,2016,,2016-02-05,Denver Nuggets,Chicago Bulls,115,110,REG,754
+nba-201602050NYK,2016,,2016-02-05,New York Knicks,Memphis Grizzlies,85,91,REG,755
+nba-201602050ORL,2016,,2016-02-05,Orlando Magic,Los Angeles Clippers,93,107,REG,756
+nba-201602050UTA,2016,,2016-02-05,Utah Jazz,Milwaukee Bucks,84,81,REG,757
+nba-201602050WAS,2016,,2016-02-05,Washington Wizards,Philadelphia 76ers,106,94,REG,758
+nba-201602060CHO,2016,,2016-02-06,Charlotte Hornets,Washington Wizards,108,104,REG,759
+nba-201602060CLE,2016,,2016-02-06,Cleveland Cavaliers,New Orleans Pelicans,99,84,REG,760
+nba-201602060GSW,2016,,2016-02-06,Golden State Warriors,Oklahoma City Thunder,116,108,REG,761
+nba-201602060HOU,2016,,2016-02-06,Houston Rockets,Portland Trail Blazers,79,96,REG,762
+nba-201602060IND,2016,,2016-02-06,Indiana Pacers,Detroit Pistons,112,104,REG,763
+nba-201602060MEM,2016,,2016-02-06,Memphis Grizzlies,Dallas Mavericks,110,114,REG,764
+nba-201602060MIN,2016,,2016-02-06,Minnesota Timberwolves,Chicago Bulls,112,105,REG,765
+nba-201602060PHI,2016,,2016-02-06,Philadelphia 76ers,Brooklyn Nets,103,98,REG,766
+nba-201602060PHO,2016,,2016-02-06,Phoenix Suns,Utah Jazz,89,98,REG,767
+nba-201602060SAS,2016,,2016-02-06,San Antonio Spurs,Los Angeles Lakers,106,102,REG,768
+nba-201602070BOS,2016,,2016-02-07,Boston Celtics,Sacramento Kings,128,119,REG,769
+nba-201602070MIA,2016,,2016-02-07,Miami Heat,Los Angeles Clippers,93,100,REG,770
+nba-201602070NYK,2016,,2016-02-07,New York Knicks,Denver Nuggets,96,101,REG,771
+nba-201602070ORL,2016,,2016-02-07,Orlando Magic,Atlanta Hawks,96,94,REG,772
+nba-201602080ATL,2016,,2016-02-08,Atlanta Hawks,Orlando Magic,110,117,REG,773
+nba-201602080BRK,2016,,2016-02-08,Brooklyn Nets,Denver Nuggets,105,104,REG,774
+nba-201602080CHO,2016,,2016-02-08,Charlotte Hornets,Chicago Bulls,108,91,REG,775
+nba-201602080CLE,2016,,2016-02-08,Cleveland Cavaliers,Sacramento Kings,120,100,REG,776
+nba-201602080DET,2016,,2016-02-08,Detroit Pistons,Toronto Raptors,89,103,REG,777
+nba-201602080IND,2016,,2016-02-08,Indiana Pacers,Los Angeles Lakers,89,87,REG,778
+nba-201602080MEM,2016,,2016-02-08,Memphis Grizzlies,Portland Trail Blazers,106,112,REG,779
+nba-201602080MIN,2016,,2016-02-08,Minnesota Timberwolves,New Orleans Pelicans,102,116,REG,780
+nba-201602080PHI,2016,,2016-02-08,Philadelphia 76ers,Los Angeles Clippers,92,98,REG,781
+nba-201602080PHO,2016,,2016-02-08,Phoenix Suns,Oklahoma City Thunder,106,122,REG,782
+nba-201602090DAL,2016,,2016-02-09,Dallas Mavericks,Utah Jazz,119,121,REG,783
+nba-201602090GSW,2016,,2016-02-09,Golden State Warriors,Houston Rockets,123,110,REG,784
+nba-201602090MIA,2016,,2016-02-09,Miami Heat,San Antonio Spurs,101,119,REG,785
+nba-201602090MIL,2016,,2016-02-09,Milwaukee Bucks,Boston Celtics,112,111,REG,786
+nba-201602090NYK,2016,,2016-02-09,New York Knicks,Washington Wizards,108,111,REG,787
+nba-201602100BOS,2016,,2016-02-10,Boston Celtics,Los Angeles Clippers,139,134,REG,788
+nba-201602100BRK,2016,,2016-02-10,Brooklyn Nets,Memphis Grizzlies,90,109,REG,789
+nba-201602100CHI,2016,,2016-02-10,Chicago Bulls,Atlanta Hawks,90,113,REG,790
+nba-201602100CLE,2016,,2016-02-10,Cleveland Cavaliers,Los Angeles Lakers,120,111,REG,791
+nba-201602100DET,2016,,2016-02-10,Detroit Pistons,Denver Nuggets,92,103,REG,792
+nba-201602100IND,2016,,2016-02-10,Indiana Pacers,Charlotte Hornets,95,117,REG,793
+nba-201602100MIN,2016,,2016-02-10,Minnesota Timberwolves,Toronto Raptors,117,112,REG,794
+nba-201602100NOP,2016,,2016-02-10,New Orleans Pelicans,Utah Jazz,100,96,REG,795
+nba-201602100ORL,2016,,2016-02-10,Orlando Magic,San Antonio Spurs,96,98,REG,796
+nba-201602100PHI,2016,,2016-02-10,Philadelphia 76ers,Sacramento Kings,110,114,REG,797
+nba-201602100PHO,2016,,2016-02-10,Phoenix Suns,Golden State Warriors,104,112,REG,798
+nba-201602100POR,2016,,2016-02-10,Portland Trail Blazers,Houston Rockets,116,103,REG,799
+nba-201602110MIL,2016,,2016-02-11,Milwaukee Bucks,Washington Wizards,99,92,REG,800
+nba-201602110OKC,2016,,2016-02-11,Oklahoma City Thunder,New Orleans Pelicans,121,95,REG,801
+nba-201602180CLE,2016,,2016-02-18,Cleveland Cavaliers,Chicago Bulls,106,95,REG,802
+nba-201602180LAC,2016,,2016-02-18,Los Angeles Clippers,San Antonio Spurs,105,86,REG,803
+nba-201602180WAS,2016,,2016-02-18,Washington Wizards,Utah Jazz,103,89,REG,804
+nba-201602190ATL,2016,,2016-02-19,Atlanta Hawks,Miami Heat,111,115,REG,805
+nba-201602190BRK,2016,,2016-02-19,Brooklyn Nets,New York Knicks,109,98,REG,806
+nba-201602190CHI,2016,,2016-02-19,Chicago Bulls,Toronto Raptors,116,106,REG,807
+nba-201602190LAL,2016,,2016-02-19,Los Angeles Lakers,San Antonio Spurs,113,119,REG,808
+nba-201602190MEM,2016,,2016-02-19,Memphis Grizzlies,Minnesota Timberwolves,109,104,REG,809
+nba-201602190MIL,2016,,2016-02-19,Milwaukee Bucks,Charlotte Hornets,95,98,REG,810
+nba-201602190NOP,2016,,2016-02-19,New Orleans Pelicans,Philadelphia 76ers,121,114,REG,811
+nba-201602190OKC,2016,,2016-02-19,Oklahoma City Thunder,Indiana Pacers,98,101,REG,812
+nba-201602190ORL,2016,,2016-02-19,Orlando Magic,Dallas Mavericks,110,104,REG,813
+nba-201602190PHO,2016,,2016-02-19,Phoenix Suns,Houston Rockets,100,116,REG,814
+nba-201602190POR,2016,,2016-02-19,Portland Trail Blazers,Golden State Warriors,137,105,REG,815
+nba-201602190SAC,2016,,2016-02-19,Sacramento Kings,Denver Nuggets,116,110,REG,816
+nba-201602190UTA,2016,,2016-02-19,Utah Jazz,Boston Celtics,111,93,REG,817
+nba-201602190WAS,2016,,2016-02-19,Washington Wizards,Detroit Pistons,98,86,REG,818
+nba-201602200ATL,2016,,2016-02-20,Atlanta Hawks,Milwaukee Bucks,109,117,REG,819
+nba-201602200LAC,2016,,2016-02-20,Los Angeles Clippers,Golden State Warriors,112,115,REG,820
+nba-201602200MIA,2016,,2016-02-20,Miami Heat,Washington Wizards,114,94,REG,821
+nba-201602200MIN,2016,,2016-02-20,Minnesota Timberwolves,New York Knicks,95,103,REG,822
+nba-201602210BRK,2016,,2016-02-21,Brooklyn Nets,Charlotte Hornets,96,104,REG,823
+nba-201602210CHI,2016,,2016-02-21,Chicago Bulls,Los Angeles Lakers,126,115,REG,824
+nba-201602210DAL,2016,,2016-02-21,Dallas Mavericks,Philadelphia 76ers,129,103,REG,825
+nba-201602210DEN,2016,,2016-02-21,Denver Nuggets,Boston Celtics,101,121,REG,826
+nba-201602210DET,2016,,2016-02-21,Detroit Pistons,New Orleans Pelicans,106,111,REG,827
+nba-201602210OKC,2016,,2016-02-21,Oklahoma City Thunder,Cleveland Cavaliers,92,115,REG,828
+nba-201602210ORL,2016,,2016-02-21,Orlando Magic,Indiana Pacers,102,105,REG,829
+nba-201602210PHO,2016,,2016-02-21,Phoenix Suns,San Antonio Spurs,111,118,REG,830
+nba-201602210POR,2016,,2016-02-21,Portland Trail Blazers,Utah Jazz,115,111,REG,831
+nba-201602210TOR,2016,,2016-02-21,Toronto Raptors,Memphis Grizzlies,98,85,REG,832
+nba-201602220ATL,2016,,2016-02-22,Atlanta Hawks,Golden State Warriors,92,102,REG,833
+nba-201602220CLE,2016,,2016-02-22,Cleveland Cavaliers,Detroit Pistons,88,96,REG,834
+nba-201602220LAC,2016,,2016-02-22,Los Angeles Clippers,Phoenix Suns,124,84,REG,835
+nba-201602220MIA,2016,,2016-02-22,Miami Heat,Indiana Pacers,101,93,REG,836
+nba-201602220MIL,2016,,2016-02-22,Milwaukee Bucks,Los Angeles Lakers,108,101,REG,837
+nba-201602220MIN,2016,,2016-02-22,Minnesota Timberwolves,Boston Celtics,124,122,REG,838
+nba-201602220NYK,2016,,2016-02-22,New York Knicks,Toronto Raptors,95,122,REG,839
+nba-201602230DEN,2016,,2016-02-23,Denver Nuggets,Sacramento Kings,110,114,REG,840
+nba-201602230PHI,2016,,2016-02-23,Philadelphia 76ers,Orlando Magic,115,124,REG,841
+nba-201602230POR,2016,,2016-02-23,Portland Trail Blazers,Brooklyn Nets,112,104,REG,842
+nba-201602230UTA,2016,,2016-02-23,Utah Jazz,Houston Rockets,117,114,REG,843
+nba-201602230WAS,2016,,2016-02-23,Washington Wizards,New Orleans Pelicans,109,89,REG,844
+nba-201602240CHI,2016,,2016-02-24,Chicago Bulls,Washington Wizards,109,104,REG,845
+nba-201602240CLE,2016,,2016-02-24,Cleveland Cavaliers,Charlotte Hornets,114,103,REG,846
+nba-201602240DAL,2016,,2016-02-24,Dallas Mavericks,Oklahoma City Thunder,103,116,REG,847
+nba-201602240DET,2016,,2016-02-24,Detroit Pistons,Philadelphia 76ers,111,91,REG,848
+nba-201602240IND,2016,,2016-02-24,Indiana Pacers,New York Knicks,108,105,REG,849
+nba-201602240LAC,2016,,2016-02-24,Los Angeles Clippers,Denver Nuggets,81,87,REG,850
+nba-201602240MEM,2016,,2016-02-24,Memphis Grizzlies,Los Angeles Lakers,128,119,REG,851
+nba-201602240MIA,2016,,2016-02-24,Miami Heat,Golden State Warriors,112,118,REG,852
+nba-201602240SAC,2016,,2016-02-24,Sacramento Kings,San Antonio Spurs,92,108,REG,853
+nba-201602240TOR,2016,,2016-02-24,Toronto Raptors,Minnesota Timberwolves,114,105,REG,854
+nba-201602250BOS,2016,,2016-02-25,Boston Celtics,Milwaukee Bucks,112,107,REG,855
+nba-201602250NOP,2016,,2016-02-25,New Orleans Pelicans,Oklahoma City Thunder,123,119,REG,856
+nba-201602250ORL,2016,,2016-02-25,Orlando Magic,Golden State Warriors,114,130,REG,857
+nba-201602250PHO,2016,,2016-02-25,Phoenix Suns,Brooklyn Nets,106,116,REG,858
+nba-201602250POR,2016,,2016-02-25,Portland Trail Blazers,Houston Rockets,105,119,REG,859
+nba-201602250UTA,2016,,2016-02-25,Utah Jazz,San Antonio Spurs,78,96,REG,860
+nba-201602260ATL,2016,,2016-02-26,Atlanta Hawks,Chicago Bulls,103,88,REG,861
+nba-201602260DAL,2016,,2016-02-26,Dallas Mavericks,Denver Nuggets,122,116,REG,862
+nba-201602260IND,2016,,2016-02-26,Indiana Pacers,Charlotte Hornets,95,96,REG,863
+nba-201602260LAL,2016,,2016-02-26,Los Angeles Lakers,Memphis Grizzlies,95,112,REG,864
+nba-201602260NYK,2016,,2016-02-26,New York Knicks,Orlando Magic,108,95,REG,865
+nba-201602260PHI,2016,,2016-02-26,Philadelphia 76ers,Washington Wizards,94,103,REG,866
+nba-201602260SAC,2016,,2016-02-26,Sacramento Kings,Los Angeles Clippers,107,117,REG,867
+nba-201602260TOR,2016,,2016-02-26,Toronto Raptors,Cleveland Cavaliers,99,97,REG,868
+nba-201602270BOS,2016,,2016-02-27,Boston Celtics,Miami Heat,101,89,REG,869
+nba-201602270CHI,2016,,2016-02-27,Chicago Bulls,Portland Trail Blazers,95,103,REG,870
+nba-201602270HOU,2016,,2016-02-27,Houston Rockets,San Antonio Spurs,94,104,REG,871
+nba-201602270MIL,2016,,2016-02-27,Milwaukee Bucks,Detroit Pistons,91,102,REG,872
+nba-201602270NOP,2016,,2016-02-27,New Orleans Pelicans,Minnesota Timberwolves,110,112,REG,873
+nba-201602270OKC,2016,,2016-02-27,Oklahoma City Thunder,Golden State Warriors,118,121,REG,874
+nba-201602270PHO,2016,,2016-02-27,Phoenix Suns,Memphis Grizzlies,111,106,REG,875
+nba-201602270UTA,2016,,2016-02-27,Utah Jazz,Brooklyn Nets,96,98,REG,876
+nba-201602280ATL,2016,,2016-02-28,Atlanta Hawks,Charlotte Hornets,87,76,REG,877
+nba-201602280DAL,2016,,2016-02-28,Dallas Mavericks,Minnesota Timberwolves,128,101,REG,878
+nba-201602280DET,2016,,2016-02-28,Detroit Pistons,Toronto Raptors,114,101,REG,879
+nba-201602280IND,2016,,2016-02-28,Indiana Pacers,Portland Trail Blazers,102,111,REG,880
+nba-201602280NYK,2016,,2016-02-28,New York Knicks,Miami Heat,81,98,REG,881
+nba-201602280ORL,2016,,2016-02-28,Orlando Magic,Philadelphia 76ers,130,116,REG,882
+nba-201602280WAS,2016,,2016-02-28,Washington Wizards,Cleveland Cavaliers,113,99,REG,883
+nba-201602290BOS,2016,,2016-02-29,Boston Celtics,Utah Jazz,100,95,REG,884
+nba-201602290CLE,2016,,2016-02-29,Cleveland Cavaliers,Indiana Pacers,100,96,REG,885
+nba-201602290DEN,2016,,2016-02-29,Denver Nuggets,Memphis Grizzlies,96,103,REG,886
+nba-201602290LAC,2016,,2016-02-29,Los Angeles Clippers,Brooklyn Nets,105,95,REG,887
+nba-201602290MIL,2016,,2016-02-29,Milwaukee Bucks,Houston Rockets,128,121,REG,888
+nba-201602290SAC,2016,,2016-02-29,Sacramento Kings,Oklahoma City Thunder,116,131,REG,889
+nba-201602290WAS,2016,,2016-02-29,Washington Wizards,Philadelphia 76ers,116,108,REG,890
+nba-201603010CHO,2016,,2016-03-01,Charlotte Hornets,Phoenix Suns,126,92,REG,891
+nba-201603010DAL,2016,,2016-03-01,Dallas Mavericks,Orlando Magic,121,108,REG,892
+nba-201603010GSW,2016,,2016-03-01,Golden State Warriors,Atlanta Hawks,109,105,REG,893
+nba-201603010LAL,2016,,2016-03-01,Los Angeles Lakers,Brooklyn Nets,107,101,REG,894
+nba-201603010MIA,2016,,2016-03-01,Miami Heat,Chicago Bulls,129,111,REG,895
+nba-201603010NYK,2016,,2016-03-01,New York Knicks,Portland Trail Blazers,85,104,REG,896
+nba-201603020BOS,2016,,2016-03-02,Boston Celtics,Portland Trail Blazers,116,93,REG,897
+nba-201603020DEN,2016,,2016-03-02,Denver Nuggets,Los Angeles Lakers,117,107,REG,898
+nba-201603020HOU,2016,,2016-03-02,Houston Rockets,New Orleans Pelicans,100,95,REG,899
+nba-201603020LAC,2016,,2016-03-02,Los Angeles Clippers,Oklahoma City Thunder,103,98,REG,900
+nba-201603020MEM,2016,,2016-03-02,Memphis Grizzlies,Sacramento Kings,104,98,REG,901
+nba-201603020MIL,2016,,2016-03-02,Milwaukee Bucks,Indiana Pacers,99,104,REG,902
+nba-201603020MIN,2016,,2016-03-02,Minnesota Timberwolves,Washington Wizards,98,104,REG,903
+nba-201603020ORL,2016,,2016-03-02,Orlando Magic,Chicago Bulls,102,89,REG,904
+nba-201603020PHI,2016,,2016-03-02,Philadelphia 76ers,Charlotte Hornets,99,119,REG,905
+nba-201603020SAS,2016,,2016-03-02,San Antonio Spurs,Detroit Pistons,97,81,REG,906
+nba-201603020TOR,2016,,2016-03-02,Toronto Raptors,Utah Jazz,104,94,REG,907
+nba-201603030DAL,2016,,2016-03-03,Dallas Mavericks,Sacramento Kings,101,104,REG,908
+nba-201603030GSW,2016,,2016-03-03,Golden State Warriors,Oklahoma City Thunder,121,106,REG,909
+nba-201603030MIA,2016,,2016-03-03,Miami Heat,Phoenix Suns,108,92,REG,910
+nba-201603030NOP,2016,,2016-03-03,New Orleans Pelicans,San Antonio Spurs,86,94,REG,911
+nba-201603040BOS,2016,,2016-03-04,Boston Celtics,New York Knicks,105,104,REG,912
+nba-201603040CHO,2016,,2016-03-04,Charlotte Hornets,Indiana Pacers,108,101,REG,913
+nba-201603040CLE,2016,,2016-03-04,Cleveland Cavaliers,Washington Wizards,108,83,REG,914
+nba-201603040DEN,2016,,2016-03-04,Denver Nuggets,Brooklyn Nets,120,121,REG,915
+nba-201603040LAL,2016,,2016-03-04,Los Angeles Lakers,Atlanta Hawks,77,106,REG,916
+nba-201603040MEM,2016,,2016-03-04,Memphis Grizzlies,Utah Jazz,94,88,REG,917
+nba-201603040MIL,2016,,2016-03-04,Milwaukee Bucks,Minnesota Timberwolves,116,101,REG,918
+nba-201603040ORL,2016,,2016-03-04,Orlando Magic,Phoenix Suns,84,102,REG,919
+nba-201603040PHI,2016,,2016-03-04,Philadelphia 76ers,Miami Heat,102,112,REG,920
+nba-201603040TOR,2016,,2016-03-04,Toronto Raptors,Portland Trail Blazers,117,115,REG,921
+nba-201603050CHI,2016,,2016-03-05,Chicago Bulls,Houston Rockets,108,100,REG,922
+nba-201603050CLE,2016,,2016-03-05,Cleveland Cavaliers,Boston Celtics,120,103,REG,923
+nba-201603050LAC,2016,,2016-03-05,Los Angeles Clippers,Atlanta Hawks,97,107,REG,924
+nba-201603050MIN,2016,,2016-03-05,Minnesota Timberwolves,Brooklyn Nets,132,118,REG,925
+nba-201603050NOP,2016,,2016-03-05,New Orleans Pelicans,Utah Jazz,94,106,REG,926
+nba-201603050NYK,2016,,2016-03-05,New York Knicks,Detroit Pistons,102,89,REG,927
+nba-201603050SAS,2016,,2016-03-05,San Antonio Spurs,Sacramento Kings,104,94,REG,928
+nba-201603050WAS,2016,,2016-03-05,Washington Wizards,Indiana Pacers,99,100,REG,929
+nba-201603060DEN,2016,,2016-03-06,Denver Nuggets,Dallas Mavericks,116,114,REG,930
+nba-201603060DET,2016,,2016-03-06,Detroit Pistons,Portland Trail Blazers,123,103,REG,931
+nba-201603060LAL,2016,,2016-03-06,Los Angeles Lakers,Golden State Warriors,112,95,REG,932
+nba-201603060MEM,2016,,2016-03-06,Memphis Grizzlies,Phoenix Suns,100,109,REG,933
+nba-201603060MIA,2016,,2016-03-06,Miami Heat,Philadelphia 76ers,103,98,REG,934
+nba-201603060MIL,2016,,2016-03-06,Milwaukee Bucks,Oklahoma City Thunder,96,104,REG,935
+nba-201603060TOR,2016,,2016-03-06,Toronto Raptors,Houston Rockets,107,113,REG,936
+nba-201603070CHO,2016,,2016-03-07,Charlotte Hornets,Minnesota Timberwolves,108,103,REG,937
+nba-201603070CHI,2016,,2016-03-07,Chicago Bulls,Milwaukee Bucks,100,90,REG,938
+nba-201603070CLE,2016,,2016-03-07,Cleveland Cavaliers,Memphis Grizzlies,103,106,REG,939
+nba-201603070DAL,2016,,2016-03-07,Dallas Mavericks,Los Angeles Clippers,90,109,REG,940
+nba-201603070GSW,2016,,2016-03-07,Golden State Warriors,Orlando Magic,119,113,REG,941
+nba-201603070IND,2016,,2016-03-07,Indiana Pacers,San Antonio Spurs,99,91,REG,942
+nba-201603070NOP,2016,,2016-03-07,New Orleans Pelicans,Sacramento Kings,115,112,REG,943
+nba-201603080DEN,2016,,2016-03-08,Denver Nuggets,New York Knicks,110,94,REG,944
+nba-201603080LAL,2016,,2016-03-08,Los Angeles Lakers,Orlando Magic,107,98,REG,945
+nba-201603080MIN,2016,,2016-03-08,Minnesota Timberwolves,San Antonio Spurs,91,116,REG,946
+nba-201603080POR,2016,,2016-03-08,Portland Trail Blazers,Washington Wizards,116,109,REG,947
+nba-201603080TOR,2016,,2016-03-08,Toronto Raptors,Brooklyn Nets,104,99,REG,948
+nba-201603080UTA,2016,,2016-03-08,Utah Jazz,Atlanta Hawks,84,91,REG,949
+nba-201603090BOS,2016,,2016-03-09,Boston Celtics,Memphis Grizzlies,116,96,REG,950
+nba-201603090CHO,2016,,2016-03-09,Charlotte Hornets,New Orleans Pelicans,122,113,REG,951
+nba-201603090DAL,2016,,2016-03-09,Dallas Mavericks,Detroit Pistons,96,102,REG,952
+nba-201603090GSW,2016,,2016-03-09,Golden State Warriors,Utah Jazz,115,94,REG,953
+nba-201603090MIL,2016,,2016-03-09,Milwaukee Bucks,Miami Heat,114,108,REG,954
+nba-201603090OKC,2016,,2016-03-09,Oklahoma City Thunder,Los Angeles Clippers,120,108,REG,955
+nba-201603090PHI,2016,,2016-03-09,Philadelphia 76ers,Houston Rockets,104,118,REG,956
+nba-201603090PHO,2016,,2016-03-09,Phoenix Suns,New York Knicks,97,128,REG,957
+nba-201603090SAC,2016,,2016-03-09,Sacramento Kings,Cleveland Cavaliers,111,120,REG,958
+nba-201603100DEN,2016,,2016-03-10,Denver Nuggets,Phoenix Suns,116,98,REG,959
+nba-201603100LAL,2016,,2016-03-10,Los Angeles Lakers,Cleveland Cavaliers,108,120,REG,960
+nba-201603100SAS,2016,,2016-03-10,San Antonio Spurs,Chicago Bulls,109,101,REG,961
+nba-201603100TOR,2016,,2016-03-10,Toronto Raptors,Atlanta Hawks,104,96,REG,962
+nba-201603110BOS,2016,,2016-03-11,Boston Celtics,Houston Rockets,98,102,REG,963
+nba-201603110CHO,2016,,2016-03-11,Charlotte Hornets,Detroit Pistons,118,103,REG,964
+nba-201603110CHI,2016,,2016-03-11,Chicago Bulls,Miami Heat,96,118,REG,965
+nba-201603110GSW,2016,,2016-03-11,Golden State Warriors,Portland Trail Blazers,128,112,REG,966
+nba-201603110LAC,2016,,2016-03-11,Los Angeles Clippers,New York Knicks,101,94,REG,967
+nba-201603110MEM,2016,,2016-03-11,Memphis Grizzlies,New Orleans Pelicans,121,114,REG,968
+nba-201603110OKC,2016,,2016-03-11,Oklahoma City Thunder,Minnesota Timberwolves,96,99,REG,969
+nba-201603110PHI,2016,,2016-03-11,Philadelphia 76ers,Brooklyn Nets,95,89,REG,970
+nba-201603110SAC,2016,,2016-03-11,Sacramento Kings,Orlando Magic,100,107,REG,971
+nba-201603110UTA,2016,,2016-03-11,Utah Jazz,Washington Wizards,114,93,REG,972
+nba-201603120ATL,2016,,2016-03-12,Atlanta Hawks,Memphis Grizzlies,95,83,REG,973
+nba-201603120CHO,2016,,2016-03-12,Charlotte Hornets,Houston Rockets,125,109,REG,974
+nba-201603120DAL,2016,,2016-03-12,Dallas Mavericks,Indiana Pacers,105,112,REG,975
+nba-201603120DEN,2016,,2016-03-12,Denver Nuggets,Washington Wizards,116,100,REG,976
+nba-201603120GSW,2016,,2016-03-12,Golden State Warriors,Phoenix Suns,123,116,REG,977
+nba-201603120MIL,2016,,2016-03-12,Milwaukee Bucks,New Orleans Pelicans,103,92,REG,978
+nba-201603120PHI,2016,,2016-03-12,Philadelphia 76ers,Detroit Pistons,111,125,REG,979
+nba-201603120POR,2016,,2016-03-12,Portland Trail Blazers,Orlando Magic,121,84,REG,980
+nba-201603120SAS,2016,,2016-03-12,San Antonio Spurs,Oklahoma City Thunder,93,85,REG,981
+nba-201603120TOR,2016,,2016-03-12,Toronto Raptors,Miami Heat,112,104,REG,982
+nba-201603130ATL,2016,,2016-03-13,Atlanta Hawks,Indiana Pacers,104,75,REG,983
+nba-201603130BRK,2016,,2016-03-13,Brooklyn Nets,Milwaukee Bucks,100,109,REG,984
+nba-201603130LAC,2016,,2016-03-13,Los Angeles Clippers,Cleveland Cavaliers,90,114,REG,985
+nba-201603130LAL,2016,,2016-03-13,Los Angeles Lakers,New York Knicks,87,90,REG,986
+nba-201603130SAC,2016,,2016-03-13,Sacramento Kings,Utah Jazz,99,108,REG,987
+nba-201603140CHO,2016,,2016-03-14,Charlotte Hornets,Dallas Mavericks,96,107,REG,988
+nba-201603140GSW,2016,,2016-03-14,Golden State Warriors,New Orleans Pelicans,125,107,REG,989
+nba-201603140HOU,2016,,2016-03-14,Houston Rockets,Memphis Grizzlies,130,81,REG,990
+nba-201603140MIA,2016,,2016-03-14,Miami Heat,Denver Nuggets,124,119,REG,991
+nba-201603140OKC,2016,,2016-03-14,Oklahoma City Thunder,Portland Trail Blazers,128,94,REG,992
+nba-201603140PHO,2016,,2016-03-14,Phoenix Suns,Minnesota Timberwolves,107,104,REG,993
+nba-201603140TOR,2016,,2016-03-14,Toronto Raptors,Chicago Bulls,107,109,REG,994
+nba-201603140UTA,2016,,2016-03-14,Utah Jazz,Cleveland Cavaliers,94,85,REG,995
+nba-201603140WAS,2016,,2016-03-14,Washington Wizards,Detroit Pistons,124,81,REG,996
+nba-201603150BRK,2016,,2016-03-15,Brooklyn Nets,Philadelphia 76ers,131,114,REG,997
+nba-201603150IND,2016,,2016-03-15,Indiana Pacers,Boston Celtics,103,98,REG,998
+nba-201603150LAL,2016,,2016-03-15,Los Angeles Lakers,Sacramento Kings,98,106,REG,999
+nba-201603150MIL,2016,,2016-03-15,Milwaukee Bucks,Toronto Raptors,89,107,REG,1000
+nba-201603150ORL,2016,,2016-03-15,Orlando Magic,Denver Nuggets,116,110,REG,1001
+nba-201603150SAS,2016,,2016-03-15,San Antonio Spurs,Los Angeles Clippers,108,87,REG,1002
+nba-201603160BOS,2016,,2016-03-16,Boston Celtics,Oklahoma City Thunder,109,130,REG,1003
+nba-201603160CHO,2016,,2016-03-16,Charlotte Hornets,Orlando Magic,107,99,REG,1004
+nba-201603160CLE,2016,,2016-03-16,Cleveland Cavaliers,Dallas Mavericks,99,98,REG,1005
+nba-201603160DET,2016,,2016-03-16,Detroit Pistons,Atlanta Hawks,114,118,REG,1006
+nba-201603160GSW,2016,,2016-03-16,Golden State Warriors,New York Knicks,121,85,REG,1007
+nba-201603160HOU,2016,,2016-03-16,Houston Rockets,Los Angeles Clippers,106,122,REG,1008
+nba-201603160MEM,2016,,2016-03-16,Memphis Grizzlies,Minnesota Timberwolves,108,114,REG,1009
+nba-201603160SAC,2016,,2016-03-16,Sacramento Kings,New Orleans Pelicans,108,123,REG,1010
+nba-201603160WAS,2016,,2016-03-16,Washington Wizards,Chicago Bulls,117,96,REG,1011
+nba-201603170ATL,2016,,2016-03-17,Atlanta Hawks,Denver Nuggets,116,98,REG,1012
+nba-201603170CHI,2016,,2016-03-17,Chicago Bulls,Brooklyn Nets,118,102,REG,1013
+nba-201603170IND,2016,,2016-03-17,Indiana Pacers,Toronto Raptors,94,101,REG,1014
+nba-201603170MIA,2016,,2016-03-17,Miami Heat,Charlotte Hornets,106,109,REG,1015
+nba-201603170MIL,2016,,2016-03-17,Milwaukee Bucks,Memphis Grizzlies,96,86,REG,1016
+nba-201603170PHI,2016,,2016-03-17,Philadelphia 76ers,Washington Wizards,94,99,REG,1017
+nba-201603170SAS,2016,,2016-03-17,San Antonio Spurs,Portland Trail Blazers,118,110,REG,1018
+nba-201603170UTA,2016,,2016-03-17,Utah Jazz,Phoenix Suns,103,69,REG,1019
+nba-201603180DAL,2016,,2016-03-18,Dallas Mavericks,Golden State Warriors,112,130,REG,1020
+nba-201603180DET,2016,,2016-03-18,Detroit Pistons,Sacramento Kings,115,108,REG,1021
+nba-201603180HOU,2016,,2016-03-18,Houston Rockets,Minnesota Timberwolves,116,111,REG,1022
+nba-201603180LAL,2016,,2016-03-18,Los Angeles Lakers,Phoenix Suns,90,95,REG,1023
+nba-201603180NOP,2016,,2016-03-18,New Orleans Pelicans,Portland Trail Blazers,112,117,REG,1024
+nba-201603180ORL,2016,,2016-03-18,Orlando Magic,Cleveland Cavaliers,103,109,REG,1025
+nba-201603180PHI,2016,,2016-03-18,Philadelphia 76ers,Oklahoma City Thunder,97,111,REG,1026
+nba-201603180TOR,2016,,2016-03-18,Toronto Raptors,Boston Celtics,105,91,REG,1027
+nba-201603190ATL,2016,,2016-03-19,Atlanta Hawks,Houston Rockets,109,97,REG,1028
+nba-201603190CHO,2016,,2016-03-19,Charlotte Hornets,Denver Nuggets,93,101,REG,1029
+nba-201603190CHI,2016,,2016-03-19,Chicago Bulls,Utah Jazz,92,85,REG,1030
+nba-201603190DET,2016,,2016-03-19,Detroit Pistons,Brooklyn Nets,115,103,REG,1031
+nba-201603190IND,2016,,2016-03-19,Indiana Pacers,Oklahoma City Thunder,111,115,REG,1032
+nba-201603190MEM,2016,,2016-03-19,Memphis Grizzlies,Los Angeles Clippers,113,102,REG,1033
+nba-201603190MIA,2016,,2016-03-19,Miami Heat,Cleveland Cavaliers,122,101,REG,1034
+nba-201603190SAS,2016,,2016-03-19,San Antonio Spurs,Golden State Warriors,87,79,REG,1035
+nba-201603190WAS,2016,,2016-03-19,Washington Wizards,New York Knicks,99,89,REG,1036
+nba-201603200DAL,2016,,2016-03-20,Dallas Mavericks,Portland Trail Blazers,132,120,REG,1037
+nba-201603200MIL,2016,,2016-03-20,Milwaukee Bucks,Utah Jazz,85,94,REG,1038
+nba-201603200NOP,2016,,2016-03-20,New Orleans Pelicans,Los Angeles Clippers,109,105,REG,1039
+nba-201603200NYK,2016,,2016-03-20,New York Knicks,Sacramento Kings,80,88,REG,1040
+nba-201603200PHI,2016,,2016-03-20,Philadelphia 76ers,Boston Celtics,105,120,REG,1041
+nba-201603200TOR,2016,,2016-03-20,Toronto Raptors,Orlando Magic,105,100,REG,1042
+nba-201603210ATL,2016,,2016-03-21,Atlanta Hawks,Washington Wizards,102,117,REG,1043
+nba-201603210BOS,2016,,2016-03-21,Boston Celtics,Orlando Magic,107,96,REG,1044
+nba-201603210CHO,2016,,2016-03-21,Charlotte Hornets,San Antonio Spurs,91,88,REG,1045
+nba-201603210CHI,2016,,2016-03-21,Chicago Bulls,Sacramento Kings,109,102,REG,1046
+nba-201603210CLE,2016,,2016-03-21,Cleveland Cavaliers,Denver Nuggets,124,91,REG,1047
+nba-201603210DET,2016,,2016-03-21,Detroit Pistons,Milwaukee Bucks,92,91,REG,1048
+nba-201603210IND,2016,,2016-03-21,Indiana Pacers,Philadelphia 76ers,91,75,REG,1049
+nba-201603210MIN,2016,,2016-03-21,Minnesota Timberwolves,Golden State Warriors,104,109,REG,1050
+nba-201603210PHO,2016,,2016-03-21,Phoenix Suns,Memphis Grizzlies,97,103,REG,1051
+nba-201603220BRK,2016,,2016-03-22,Brooklyn Nets,Charlotte Hornets,100,105,REG,1052
+nba-201603220LAL,2016,,2016-03-22,Los Angeles Lakers,Memphis Grizzlies,107,100,REG,1053
+nba-201603220NOP,2016,,2016-03-22,New Orleans Pelicans,Miami Heat,99,113,REG,1054
+nba-201603220OKC,2016,,2016-03-22,Oklahoma City Thunder,Houston Rockets,111,107,REG,1055
+nba-201603230BOS,2016,,2016-03-23,Boston Celtics,Toronto Raptors,91,79,REG,1056
+nba-201603230CHI,2016,,2016-03-23,Chicago Bulls,New York Knicks,107,115,REG,1057
+nba-201603230CLE,2016,,2016-03-23,Cleveland Cavaliers,Milwaukee Bucks,113,104,REG,1058
+nba-201603230DEN,2016,,2016-03-23,Denver Nuggets,Philadelphia 76ers,104,103,REG,1059
+nba-201603230DET,2016,,2016-03-23,Detroit Pistons,Orlando Magic,118,102,REG,1060
+nba-201603230GSW,2016,,2016-03-23,Golden State Warriors,Los Angeles Clippers,114,98,REG,1061
+nba-201603230HOU,2016,,2016-03-23,Houston Rockets,Utah Jazz,87,89,REG,1062
+nba-201603230MIN,2016,,2016-03-23,Minnesota Timberwolves,Sacramento Kings,113,104,REG,1063
+nba-201603230PHO,2016,,2016-03-23,Phoenix Suns,Los Angeles Lakers,119,107,REG,1064
+nba-201603230POR,2016,,2016-03-23,Portland Trail Blazers,Dallas Mavericks,109,103,REG,1065
+nba-201603230SAS,2016,,2016-03-23,San Antonio Spurs,Miami Heat,112,88,REG,1066
+nba-201603230WAS,2016,,2016-03-23,Washington Wizards,Atlanta Hawks,101,122,REG,1067
+nba-201603240BRK,2016,,2016-03-24,Brooklyn Nets,Cleveland Cavaliers,104,95,REG,1068
+nba-201603240IND,2016,,2016-03-24,Indiana Pacers,New Orleans Pelicans,92,84,REG,1069
+nba-201603240LAC,2016,,2016-03-24,Los Angeles Clippers,Portland Trail Blazers,96,94,REG,1070
+nba-201603240NYK,2016,,2016-03-24,New York Knicks,Chicago Bulls,106,94,REG,1071
+nba-201603240OKC,2016,,2016-03-24,Oklahoma City Thunder,Utah Jazz,113,91,REG,1072
+nba-201603250ATL,2016,,2016-03-25,Atlanta Hawks,Milwaukee Bucks,101,90,REG,1073
+nba-201603250DET,2016,,2016-03-25,Detroit Pistons,Charlotte Hornets,112,105,REG,1074
+nba-201603250GSW,2016,,2016-03-25,Golden State Warriors,Dallas Mavericks,128,120,REG,1075
+nba-201603250HOU,2016,,2016-03-25,Houston Rockets,Toronto Raptors,112,109,REG,1076
+nba-201603250LAL,2016,,2016-03-25,Los Angeles Lakers,Denver Nuggets,105,116,REG,1077
+nba-201603250MIA,2016,,2016-03-25,Miami Heat,Orlando Magic,108,97,REG,1078
+nba-201603250SAC,2016,,2016-03-25,Sacramento Kings,Phoenix Suns,116,94,REG,1079
+nba-201603250SAS,2016,,2016-03-25,San Antonio Spurs,Memphis Grizzlies,110,104,REG,1080
+nba-201603250WAS,2016,,2016-03-25,Washington Wizards,Minnesota Timberwolves,129,132,REG,1081
+nba-201603260BRK,2016,,2016-03-26,Brooklyn Nets,Indiana Pacers,120,110,REG,1082
+nba-201603260DET,2016,,2016-03-26,Detroit Pistons,Atlanta Hawks,95,112,REG,1083
+nba-201603260MIL,2016,,2016-03-26,Milwaukee Bucks,Charlotte Hornets,91,115,REG,1084
+nba-201603260MIN,2016,,2016-03-26,Minnesota Timberwolves,Utah Jazz,84,93,REG,1085
+nba-201603260NOP,2016,,2016-03-26,New Orleans Pelicans,Toronto Raptors,91,115,REG,1086
+nba-201603260NYK,2016,,2016-03-26,New York Knicks,Cleveland Cavaliers,93,107,REG,1087
+nba-201603260OKC,2016,,2016-03-26,Oklahoma City Thunder,San Antonio Spurs,111,92,REG,1088
+nba-201603260ORL,2016,,2016-03-26,Orlando Magic,Chicago Bulls,111,89,REG,1089
+nba-201603260PHO,2016,,2016-03-26,Phoenix Suns,Boston Celtics,99,102,REG,1090
+nba-201603260POR,2016,,2016-03-26,Portland Trail Blazers,Philadelphia 76ers,108,105,REG,1091
+nba-201603270GSW,2016,,2016-03-27,Golden State Warriors,Philadelphia 76ers,117,105,REG,1092
+nba-201603270IND,2016,,2016-03-27,Indiana Pacers,Houston Rockets,104,101,REG,1093
+nba-201603270LAC,2016,,2016-03-27,Los Angeles Clippers,Denver Nuggets,105,90,REG,1094
+nba-201603270LAL,2016,,2016-03-27,Los Angeles Lakers,Washington Wizards,88,101,REG,1095
+nba-201603270SAC,2016,,2016-03-27,Sacramento Kings,Dallas Mavericks,133,111,REG,1096
+nba-201603280CHI,2016,,2016-03-28,Chicago Bulls,Atlanta Hawks,100,102,REG,1097
+nba-201603280DEN,2016,,2016-03-28,Denver Nuggets,Dallas Mavericks,88,97,REG,1098
+nba-201603280LAC,2016,,2016-03-28,Los Angeles Clippers,Boston Celtics,114,90,REG,1099
+nba-201603280MEM,2016,,2016-03-28,Memphis Grizzlies,San Antonio Spurs,87,101,REG,1100
+nba-201603280MIA,2016,,2016-03-28,Miami Heat,Brooklyn Nets,110,99,REG,1101
+nba-201603280MIN,2016,,2016-03-28,Minnesota Timberwolves,Phoenix Suns,121,116,REG,1102
+nba-201603280NOP,2016,,2016-03-28,New Orleans Pelicans,New York Knicks,99,91,REG,1103
+nba-201603280POR,2016,,2016-03-28,Portland Trail Blazers,Sacramento Kings,105,93,REG,1104
+nba-201603280TOR,2016,,2016-03-28,Toronto Raptors,Oklahoma City Thunder,100,119,REG,1105
+nba-201603280UTA,2016,,2016-03-28,Utah Jazz,Los Angeles Lakers,123,75,REG,1106
+nba-201603290CLE,2016,,2016-03-29,Cleveland Cavaliers,Houston Rockets,100,106,REG,1107
+nba-201603290DET,2016,,2016-03-29,Detroit Pistons,Oklahoma City Thunder,88,82,REG,1108
+nba-201603290GSW,2016,,2016-03-29,Golden State Warriors,Washington Wizards,102,94,REG,1109
+nba-201603290IND,2016,,2016-03-29,Indiana Pacers,Chicago Bulls,96,98,REG,1110
+nba-201603290ORL,2016,,2016-03-29,Orlando Magic,Brooklyn Nets,139,105,REG,1111
+nba-201603290PHI,2016,,2016-03-29,Philadelphia 76ers,Charlotte Hornets,85,100,REG,1112
+nba-201603300DAL,2016,,2016-03-30,Dallas Mavericks,New York Knicks,91,89,REG,1113
+nba-201603300LAL,2016,,2016-03-30,Los Angeles Lakers,Miami Heat,102,100,REG,1114
+nba-201603300MEM,2016,,2016-03-30,Memphis Grizzlies,Denver Nuggets,105,109,REG,1115
+nba-201603300MIL,2016,,2016-03-30,Milwaukee Bucks,Phoenix Suns,105,94,REG,1116
+nba-201603300MIN,2016,,2016-03-30,Minnesota Timberwolves,Los Angeles Clippers,79,99,REG,1117
+nba-201603300SAC,2016,,2016-03-30,Sacramento Kings,Washington Wizards,120,111,REG,1118
+nba-201603300SAS,2016,,2016-03-30,San Antonio Spurs,New Orleans Pelicans,100,92,REG,1119
+nba-201603300TOR,2016,,2016-03-30,Toronto Raptors,Atlanta Hawks,105,97,REG,1120
+nba-201603300UTA,2016,,2016-03-30,Utah Jazz,Golden State Warriors,96,103,REG,1121
+nba-201603310CLE,2016,,2016-03-31,Cleveland Cavaliers,Brooklyn Nets,107,87,REG,1122
+nba-201603310HOU,2016,,2016-03-31,Houston Rockets,Chicago Bulls,100,103,REG,1123
+nba-201603310IND,2016,,2016-03-31,Indiana Pacers,Orlando Magic,94,114,REG,1124
+nba-201603310NOP,2016,,2016-03-31,New Orleans Pelicans,Denver Nuggets,101,95,REG,1125
+nba-201603310OKC,2016,,2016-03-31,Oklahoma City Thunder,Los Angeles Clippers,119,117,REG,1126
+nba-201603310POR,2016,,2016-03-31,Portland Trail Blazers,Boston Celtics,116,109,REG,1127
+nba-201604010ATL,2016,,2016-04-01,Atlanta Hawks,Cleveland Cavaliers,108,110,REG,1128
+nba-201604010CHO,2016,,2016-04-01,Charlotte Hornets,Philadelphia 76ers,100,91,REG,1129
+nba-201604010DET,2016,,2016-04-01,Detroit Pistons,Dallas Mavericks,89,98,REG,1130
+nba-201604010GSW,2016,,2016-04-01,Golden State Warriors,Boston Celtics,106,109,REG,1131
+nba-201604010MEM,2016,,2016-04-01,Memphis Grizzlies,Toronto Raptors,95,99,REG,1132
+nba-201604010MIL,2016,,2016-04-01,Milwaukee Bucks,Orlando Magic,113,110,REG,1133
+nba-201604010NYK,2016,,2016-04-01,New York Knicks,Brooklyn Nets,105,91,REG,1134
+nba-201604010PHO,2016,,2016-04-01,Phoenix Suns,Washington Wizards,99,106,REG,1135
+nba-201604010SAC,2016,,2016-04-01,Sacramento Kings,Miami Heat,106,112,REG,1136
+nba-201604010UTA,2016,,2016-04-01,Utah Jazz,Minnesota Timberwolves,98,85,REG,1137
+nba-201604020CHI,2016,,2016-04-02,Chicago Bulls,Detroit Pistons,90,94,REG,1138
+nba-201604020DEN,2016,,2016-04-02,Denver Nuggets,Sacramento Kings,106,115,REG,1139
+nba-201604020PHI,2016,,2016-04-02,Philadelphia 76ers,Indiana Pacers,102,115,REG,1140
+nba-201604020POR,2016,,2016-04-02,Portland Trail Blazers,Miami Heat,110,93,REG,1141
+nba-201604020SAS,2016,,2016-04-02,San Antonio Spurs,Toronto Raptors,102,95,REG,1142
+nba-201604030BRK,2016,,2016-04-03,Brooklyn Nets,New Orleans Pelicans,87,106,REG,1143
+nba-201604030CLE,2016,,2016-04-03,Cleveland Cavaliers,Charlotte Hornets,112,103,REG,1144
+nba-201604030GSW,2016,,2016-04-03,Golden State Warriors,Portland Trail Blazers,136,111,REG,1145
+nba-201604030HOU,2016,,2016-04-03,Houston Rockets,Oklahoma City Thunder,118,110,REG,1146
+nba-201604030LAC,2016,,2016-04-03,Los Angeles Clippers,Washington Wizards,114,109,REG,1147
+nba-201604030LAL,2016,,2016-04-03,Los Angeles Lakers,Boston Celtics,100,107,REG,1148
+nba-201604030MIL,2016,,2016-04-03,Milwaukee Bucks,Chicago Bulls,98,102,REG,1149
+nba-201604030MIN,2016,,2016-04-03,Minnesota Timberwolves,Dallas Mavericks,78,88,REG,1150
+nba-201604030NYK,2016,,2016-04-03,New York Knicks,Indiana Pacers,87,92,REG,1151
+nba-201604030ORL,2016,,2016-04-03,Orlando Magic,Memphis Grizzlies,119,107,REG,1152
+nba-201604030PHO,2016,,2016-04-03,Phoenix Suns,Utah Jazz,86,101,REG,1153
+nba-201604050ATL,2016,,2016-04-05,Atlanta Hawks,Phoenix Suns,103,90,REG,1154
+nba-201604050DEN,2016,,2016-04-05,Denver Nuggets,Oklahoma City Thunder,102,124,REG,1155
+nba-201604050GSW,2016,,2016-04-05,Golden State Warriors,Minnesota Timberwolves,117,124,REG,1156
+nba-201604050LAC,2016,,2016-04-05,Los Angeles Clippers,Los Angeles Lakers,103,81,REG,1157
+nba-201604050MEM,2016,,2016-04-05,Memphis Grizzlies,Chicago Bulls,108,92,REG,1158
+nba-201604050MIA,2016,,2016-04-05,Miami Heat,Detroit Pistons,107,89,REG,1159
+nba-201604050MIL,2016,,2016-04-05,Milwaukee Bucks,Cleveland Cavaliers,80,109,REG,1160
+nba-201604050PHI,2016,,2016-04-05,Philadelphia 76ers,New Orleans Pelicans,107,93,REG,1161
+nba-201604050SAC,2016,,2016-04-05,Sacramento Kings,Portland Trail Blazers,107,115,REG,1162
+nba-201604050TOR,2016,,2016-04-05,Toronto Raptors,Charlotte Hornets,96,90,REG,1163
+nba-201604050UTA,2016,,2016-04-05,Utah Jazz,San Antonio Spurs,86,88,REG,1164
+nba-201604060BOS,2016,,2016-04-06,Boston Celtics,New Orleans Pelicans,104,97,REG,1165
+nba-201604060DAL,2016,,2016-04-06,Dallas Mavericks,Houston Rockets,88,86,REG,1166
+nba-201604060IND,2016,,2016-04-06,Indiana Pacers,Cleveland Cavaliers,123,109,REG,1167
+nba-201604060LAL,2016,,2016-04-06,Los Angeles Lakers,Los Angeles Clippers,81,91,REG,1168
+nba-201604060NYK,2016,,2016-04-06,New York Knicks,Charlotte Hornets,97,111,REG,1169
+nba-201604060ORL,2016,,2016-04-06,Orlando Magic,Detroit Pistons,104,108,REG,1170
+nba-201604060POR,2016,,2016-04-06,Portland Trail Blazers,Oklahoma City Thunder,120,115,REG,1171
+nba-201604060WAS,2016,,2016-04-06,Washington Wizards,Brooklyn Nets,121,103,REG,1172
+nba-201604070ATL,2016,,2016-04-07,Atlanta Hawks,Toronto Raptors,95,87,REG,1173
+nba-201604070GSW,2016,,2016-04-07,Golden State Warriors,San Antonio Spurs,112,101,REG,1174
+nba-201604070HOU,2016,,2016-04-07,Houston Rockets,Phoenix Suns,115,124,REG,1175
+nba-201604070MIA,2016,,2016-04-07,Miami Heat,Chicago Bulls,106,98,REG,1176
+nba-201604070SAC,2016,,2016-04-07,Sacramento Kings,Minnesota Timberwolves,97,105,REG,1177
+nba-201604080BOS,2016,,2016-04-08,Boston Celtics,Milwaukee Bucks,124,109,REG,1178
+nba-201604080CHO,2016,,2016-04-08,Charlotte Hornets,Brooklyn Nets,113,99,REG,1179
+nba-201604080DAL,2016,,2016-04-08,Dallas Mavericks,Memphis Grizzlies,103,93,REG,1180
+nba-201604080DEN,2016,,2016-04-08,Denver Nuggets,San Antonio Spurs,102,98,REG,1181
+nba-201604080DET,2016,,2016-04-08,Detroit Pistons,Washington Wizards,112,99,REG,1182
+nba-201604080NOP,2016,,2016-04-08,New Orleans Pelicans,Los Angeles Lakers,110,102,REG,1183
+nba-201604080ORL,2016,,2016-04-08,Orlando Magic,Miami Heat,112,109,REG,1184
+nba-201604080PHI,2016,,2016-04-08,Philadelphia 76ers,New York Knicks,102,109,REG,1185
+nba-201604080TOR,2016,,2016-04-08,Toronto Raptors,Indiana Pacers,111,98,REG,1186
+nba-201604080UTA,2016,,2016-04-08,Utah Jazz,Los Angeles Clippers,99,102,REG,1187
+nba-201604090ATL,2016,,2016-04-09,Atlanta Hawks,Boston Celtics,118,107,REG,1188
+nba-201604090CHI,2016,,2016-04-09,Chicago Bulls,Cleveland Cavaliers,105,102,REG,1189
+nba-201604090MEM,2016,,2016-04-09,Memphis Grizzlies,Golden State Warriors,99,100,REG,1190
+nba-201604090NOP,2016,,2016-04-09,New Orleans Pelicans,Phoenix Suns,100,121,REG,1191
+nba-201604090POR,2016,,2016-04-09,Portland Trail Blazers,Minnesota Timberwolves,105,106,REG,1192
+nba-201604090SAC,2016,,2016-04-09,Sacramento Kings,Oklahoma City Thunder,114,112,REG,1193
+nba-201604100DEN,2016,,2016-04-10,Denver Nuggets,Utah Jazz,84,100,REG,1194
+nba-201604100HOU,2016,,2016-04-10,Houston Rockets,Los Angeles Lakers,130,110,REG,1195
+nba-201604100IND,2016,,2016-04-10,Indiana Pacers,Brooklyn Nets,129,105,REG,1196
+nba-201604100LAC,2016,,2016-04-10,Los Angeles Clippers,Dallas Mavericks,98,91,REG,1197
+nba-201604100MIA,2016,,2016-04-10,Miami Heat,Orlando Magic,118,96,REG,1198
+nba-201604100NYK,2016,,2016-04-10,New York Knicks,Toronto Raptors,89,93,REG,1199
+nba-201604100PHI,2016,,2016-04-10,Philadelphia 76ers,Milwaukee Bucks,108,109,REG,1200
+nba-201604100SAS,2016,,2016-04-10,San Antonio Spurs,Golden State Warriors,86,92,REG,1201
+nba-201604100WAS,2016,,2016-04-10,Washington Wizards,Charlotte Hornets,113,98,REG,1202
+nba-201604110BOS,2016,,2016-04-11,Boston Celtics,Charlotte Hornets,100,114,REG,1203
+nba-201604110BRK,2016,,2016-04-11,Brooklyn Nets,Washington Wizards,111,120,REG,1204
+nba-201604110CLE,2016,,2016-04-11,Cleveland Cavaliers,Atlanta Hawks,109,94,REG,1205
+nba-201604110MIN,2016,,2016-04-11,Minnesota Timberwolves,Houston Rockets,105,129,REG,1206
+nba-201604110NOP,2016,,2016-04-11,New Orleans Pelicans,Chicago Bulls,116,121,REG,1207
+nba-201604110OKC,2016,,2016-04-11,Oklahoma City Thunder,Los Angeles Lakers,112,79,REG,1208
+nba-201604110ORL,2016,,2016-04-11,Orlando Magic,Milwaukee Bucks,107,98,REG,1209
+nba-201604110PHO,2016,,2016-04-11,Phoenix Suns,Sacramento Kings,101,105,REG,1210
+nba-201604110UTA,2016,,2016-04-11,Utah Jazz,Dallas Mavericks,92,101,REG,1211
+nba-201604120DET,2016,,2016-04-12,Detroit Pistons,Miami Heat,93,99,REG,1212
+nba-201604120IND,2016,,2016-04-12,Indiana Pacers,New York Knicks,102,90,REG,1213
+nba-201604120LAC,2016,,2016-04-12,Los Angeles Clippers,Memphis Grizzlies,110,84,REG,1214
+nba-201604120SAS,2016,,2016-04-12,San Antonio Spurs,Oklahoma City Thunder,102,98,REG,1215
+nba-201604120TOR,2016,,2016-04-12,Toronto Raptors,Philadelphia 76ers,122,98,REG,1216
+nba-201604130BOS,2016,,2016-04-13,Boston Celtics,Miami Heat,98,88,REG,1217
+nba-201604130BRK,2016,,2016-04-13,Brooklyn Nets,Toronto Raptors,96,103,REG,1218
+nba-201604130CHO,2016,,2016-04-13,Charlotte Hornets,Orlando Magic,117,103,REG,1219
+nba-201604130CHI,2016,,2016-04-13,Chicago Bulls,Philadelphia 76ers,115,105,REG,1220
+nba-201604130CLE,2016,,2016-04-13,Cleveland Cavaliers,Detroit Pistons,110,112,REG,1221
+nba-201604130DAL,2016,,2016-04-13,Dallas Mavericks,San Antonio Spurs,91,96,REG,1222
+nba-201604130GSW,2016,,2016-04-13,Golden State Warriors,Memphis Grizzlies,125,104,REG,1223
+nba-201604130HOU,2016,,2016-04-13,Houston Rockets,Sacramento Kings,116,81,REG,1224
+nba-201604130LAL,2016,,2016-04-13,Los Angeles Lakers,Utah Jazz,101,96,REG,1225
+nba-201604130MIL,2016,,2016-04-13,Milwaukee Bucks,Indiana Pacers,92,97,REG,1226
+nba-201604130MIN,2016,,2016-04-13,Minnesota Timberwolves,New Orleans Pelicans,144,109,REG,1227
+nba-201604130PHO,2016,,2016-04-13,Phoenix Suns,Los Angeles Clippers,114,105,REG,1228
+nba-201604130POR,2016,,2016-04-13,Portland Trail Blazers,Denver Nuggets,107,99,REG,1229
+nba-201604130WAS,2016,,2016-04-13,Washington Wizards,Atlanta Hawks,109,98,REG,1230
+nba-201604160ATL,2016,,2016-04-16,Atlanta Hawks,Boston Celtics,102,101,REG,1231
+nba-2016-post-2016-04-16-atlanta-hawks-boston-celtics,2016,,2016-04-16,Atlanta Hawks,Boston Celtics,102,101,POST,1232
+nba-201604160GSW,2016,,2016-04-16,Golden State Warriors,Houston Rockets,104,78,REG,1233
+nba-2016-post-2016-04-16-golden-state-warriors-houston-rockets,2016,,2016-04-16,Golden State Warriors,Houston Rockets,104,78,POST,1234
+nba-201604160OKC,2016,,2016-04-16,Oklahoma City Thunder,Dallas Mavericks,108,70,REG,1235
+nba-2016-post-2016-04-16-oklahoma-city-thunder-dallas-mavericks,2016,,2016-04-16,Oklahoma City Thunder,Dallas Mavericks,108,70,POST,1236
+nba-201604160TOR,2016,,2016-04-16,Toronto Raptors,Indiana Pacers,90,100,REG,1237
+nba-2016-post-2016-04-16-toronto-raptors-indiana-pacers,2016,,2016-04-16,Toronto Raptors,Indiana Pacers,90,100,POST,1238
+nba-201604170CLE,2016,,2016-04-17,Cleveland Cavaliers,Detroit Pistons,106,101,REG,1239
+nba-2016-post-2016-04-17-cleveland-cavaliers-detroit-pistons,2016,,2016-04-17,Cleveland Cavaliers,Detroit Pistons,106,101,POST,1240
+nba-201604170LAC,2016,,2016-04-17,Los Angeles Clippers,Portland Trail Blazers,115,95,REG,1241
+nba-2016-post-2016-04-17-los-angeles-clippers-portland-trail-blazers,2016,,2016-04-17,Los Angeles Clippers,Portland Trail Blazers,115,95,POST,1242
+nba-201604170MIA,2016,,2016-04-17,Miami Heat,Charlotte Hornets,123,91,REG,1243
+nba-2016-post-2016-04-17-miami-heat-charlotte-hornets,2016,,2016-04-17,Miami Heat,Charlotte Hornets,123,91,POST,1244
+nba-201604170SAS,2016,,2016-04-17,San Antonio Spurs,Memphis Grizzlies,106,74,REG,1245
+nba-2016-post-2016-04-17-san-antonio-spurs-memphis-grizzlies,2016,,2016-04-17,San Antonio Spurs,Memphis Grizzlies,106,74,POST,1246
+nba-201604180GSW,2016,,2016-04-18,Golden State Warriors,Houston Rockets,115,106,REG,1247
+nba-2016-post-2016-04-18-golden-state-warriors-houston-rockets,2016,,2016-04-18,Golden State Warriors,Houston Rockets,115,106,POST,1248
+nba-201604180OKC,2016,,2016-04-18,Oklahoma City Thunder,Dallas Mavericks,84,85,REG,1249
+nba-2016-post-2016-04-18-oklahoma-city-thunder-dallas-mavericks,2016,,2016-04-18,Oklahoma City Thunder,Dallas Mavericks,84,85,POST,1250
+nba-201604180TOR,2016,,2016-04-18,Toronto Raptors,Indiana Pacers,98,87,REG,1251
+nba-2016-post-2016-04-18-toronto-raptors-indiana-pacers,2016,,2016-04-18,Toronto Raptors,Indiana Pacers,98,87,POST,1252
+nba-201604190ATL,2016,,2016-04-19,Atlanta Hawks,Boston Celtics,89,72,REG,1253
+nba-2016-post-2016-04-19-atlanta-hawks-boston-celtics,2016,,2016-04-19,Atlanta Hawks,Boston Celtics,89,72,POST,1254
+nba-201604190SAS,2016,,2016-04-19,San Antonio Spurs,Memphis Grizzlies,94,68,REG,1255
+nba-2016-post-2016-04-19-san-antonio-spurs-memphis-grizzlies,2016,,2016-04-19,San Antonio Spurs,Memphis Grizzlies,94,68,POST,1256
+nba-201604200CLE,2016,,2016-04-20,Cleveland Cavaliers,Detroit Pistons,107,90,REG,1257
+nba-2016-post-2016-04-20-cleveland-cavaliers-detroit-pistons,2016,,2016-04-20,Cleveland Cavaliers,Detroit Pistons,107,90,POST,1258
+nba-201604200LAC,2016,,2016-04-20,Los Angeles Clippers,Portland Trail Blazers,102,81,REG,1259
+nba-2016-post-2016-04-20-los-angeles-clippers-portland-trail-blazers,2016,,2016-04-20,Los Angeles Clippers,Portland Trail Blazers,102,81,POST,1260
+nba-201604200MIA,2016,,2016-04-20,Miami Heat,Charlotte Hornets,115,103,REG,1261
+nba-2016-post-2016-04-20-miami-heat-charlotte-hornets,2016,,2016-04-20,Miami Heat,Charlotte Hornets,115,103,POST,1262
+nba-201604210DAL,2016,,2016-04-21,Dallas Mavericks,Oklahoma City Thunder,102,131,REG,1263
+nba-2016-post-2016-04-21-dallas-mavericks-oklahoma-city-thunder,2016,,2016-04-21,Dallas Mavericks,Oklahoma City Thunder,102,131,POST,1264
+nba-201604210HOU,2016,,2016-04-21,Houston Rockets,Golden State Warriors,97,96,REG,1265
+nba-2016-post-2016-04-21-houston-rockets-golden-state-warriors,2016,,2016-04-21,Houston Rockets,Golden State Warriors,97,96,POST,1266
+nba-201604210IND,2016,,2016-04-21,Indiana Pacers,Toronto Raptors,85,101,REG,1267
+nba-2016-post-2016-04-21-indiana-pacers-toronto-raptors,2016,,2016-04-21,Indiana Pacers,Toronto Raptors,85,101,POST,1268
+nba-201604220BOS,2016,,2016-04-22,Boston Celtics,Atlanta Hawks,111,103,REG,1269
+nba-2016-post-2016-04-22-boston-celtics-atlanta-hawks,2016,,2016-04-22,Boston Celtics,Atlanta Hawks,111,103,POST,1270
+nba-201604220DET,2016,,2016-04-22,Detroit Pistons,Cleveland Cavaliers,91,101,REG,1271
+nba-2016-post-2016-04-22-detroit-pistons-cleveland-cavaliers,2016,,2016-04-22,Detroit Pistons,Cleveland Cavaliers,91,101,POST,1272
+nba-201604220MEM,2016,,2016-04-22,Memphis Grizzlies,San Antonio Spurs,87,96,REG,1273
+nba-2016-post-2016-04-22-memphis-grizzlies-san-antonio-spurs,2016,,2016-04-22,Memphis Grizzlies,San Antonio Spurs,87,96,POST,1274
+nba-201604230CHO,2016,,2016-04-23,Charlotte Hornets,Miami Heat,96,80,REG,1275
+nba-2016-post-2016-04-23-charlotte-hornets-miami-heat,2016,,2016-04-23,Charlotte Hornets,Miami Heat,96,80,POST,1276
+nba-201604230DAL,2016,,2016-04-23,Dallas Mavericks,Oklahoma City Thunder,108,119,REG,1277
+nba-2016-post-2016-04-23-dallas-mavericks-oklahoma-city-thunder,2016,,2016-04-23,Dallas Mavericks,Oklahoma City Thunder,108,119,POST,1278
+nba-201604230IND,2016,,2016-04-23,Indiana Pacers,Toronto Raptors,100,83,REG,1279
+nba-2016-post-2016-04-23-indiana-pacers-toronto-raptors,2016,,2016-04-23,Indiana Pacers,Toronto Raptors,100,83,POST,1280
+nba-201604230POR,2016,,2016-04-23,Portland Trail Blazers,Los Angeles Clippers,96,88,REG,1281
+nba-2016-post-2016-04-23-portland-trail-blazers-los-angeles-clippers,2016,,2016-04-23,Portland Trail Blazers,Los Angeles Clippers,96,88,POST,1282
+nba-201604240BOS,2016,,2016-04-24,Boston Celtics,Atlanta Hawks,104,95,REG,1283
+nba-2016-post-2016-04-24-boston-celtics-atlanta-hawks,2016,,2016-04-24,Boston Celtics,Atlanta Hawks,104,95,POST,1284
+nba-201604240DET,2016,,2016-04-24,Detroit Pistons,Cleveland Cavaliers,98,100,REG,1285
+nba-2016-post-2016-04-24-detroit-pistons-cleveland-cavaliers,2016,,2016-04-24,Detroit Pistons,Cleveland Cavaliers,98,100,POST,1286
+nba-201604240HOU,2016,,2016-04-24,Houston Rockets,Golden State Warriors,94,121,REG,1287
+nba-2016-post-2016-04-24-houston-rockets-golden-state-warriors,2016,,2016-04-24,Houston Rockets,Golden State Warriors,94,121,POST,1288
+nba-201604240MEM,2016,,2016-04-24,Memphis Grizzlies,San Antonio Spurs,95,116,REG,1289
+nba-2016-post-2016-04-24-memphis-grizzlies-san-antonio-spurs,2016,,2016-04-24,Memphis Grizzlies,San Antonio Spurs,95,116,POST,1290
+nba-201604250CHO,2016,,2016-04-25,Charlotte Hornets,Miami Heat,89,85,REG,1291
+nba-2016-post-2016-04-25-charlotte-hornets-miami-heat,2016,,2016-04-25,Charlotte Hornets,Miami Heat,89,85,POST,1292
+nba-201604250OKC,2016,,2016-04-25,Oklahoma City Thunder,Dallas Mavericks,118,104,REG,1293
+nba-2016-post-2016-04-25-oklahoma-city-thunder-dallas-mavericks,2016,,2016-04-25,Oklahoma City Thunder,Dallas Mavericks,118,104,POST,1294
+nba-201604250POR,2016,,2016-04-25,Portland Trail Blazers,Los Angeles Clippers,98,84,REG,1295
+nba-2016-post-2016-04-25-portland-trail-blazers-los-angeles-clippers,2016,,2016-04-25,Portland Trail Blazers,Los Angeles Clippers,98,84,POST,1296
+nba-201604260ATL,2016,,2016-04-26,Atlanta Hawks,Boston Celtics,110,83,REG,1297
+nba-2016-post-2016-04-26-atlanta-hawks-boston-celtics,2016,,2016-04-26,Atlanta Hawks,Boston Celtics,110,83,POST,1298
+nba-201604260TOR,2016,,2016-04-26,Toronto Raptors,Indiana Pacers,102,99,REG,1299
+nba-2016-post-2016-04-26-toronto-raptors-indiana-pacers,2016,,2016-04-26,Toronto Raptors,Indiana Pacers,102,99,POST,1300
+nba-201604270GSW,2016,,2016-04-27,Golden State Warriors,Houston Rockets,114,81,REG,1301
+nba-2016-post-2016-04-27-golden-state-warriors-houston-rockets,2016,,2016-04-27,Golden State Warriors,Houston Rockets,114,81,POST,1302
+nba-201604270LAC,2016,,2016-04-27,Los Angeles Clippers,Portland Trail Blazers,98,108,REG,1303
+nba-2016-post-2016-04-27-los-angeles-clippers-portland-trail-blazers,2016,,2016-04-27,Los Angeles Clippers,Portland Trail Blazers,98,108,POST,1304
+nba-201604270MIA,2016,,2016-04-27,Miami Heat,Charlotte Hornets,88,90,REG,1305
+nba-2016-post-2016-04-27-miami-heat-charlotte-hornets,2016,,2016-04-27,Miami Heat,Charlotte Hornets,88,90,POST,1306
+nba-201604280BOS,2016,,2016-04-28,Boston Celtics,Atlanta Hawks,92,104,REG,1307
+nba-2016-post-2016-04-28-boston-celtics-atlanta-hawks,2016,,2016-04-28,Boston Celtics,Atlanta Hawks,92,104,POST,1308
+nba-201604290CHO,2016,,2016-04-29,Charlotte Hornets,Miami Heat,90,97,REG,1309
+nba-2016-post-2016-04-29-charlotte-hornets-miami-heat,2016,,2016-04-29,Charlotte Hornets,Miami Heat,90,97,POST,1310
+nba-201604290IND,2016,,2016-04-29,Indiana Pacers,Toronto Raptors,101,83,REG,1311
+nba-2016-post-2016-04-29-indiana-pacers-toronto-raptors,2016,,2016-04-29,Indiana Pacers,Toronto Raptors,101,83,POST,1312
+nba-201604290POR,2016,,2016-04-29,Portland Trail Blazers,Los Angeles Clippers,106,103,REG,1313
+nba-2016-post-2016-04-29-portland-trail-blazers-los-angeles-clippers,2016,,2016-04-29,Portland Trail Blazers,Los Angeles Clippers,106,103,POST,1314
+nba-201604300SAS,2016,,2016-04-30,San Antonio Spurs,Oklahoma City Thunder,124,92,REG,1315
+nba-2016-post-2016-04-30-san-antonio-spurs-oklahoma-city-thunder,2016,,2016-04-30,San Antonio Spurs,Oklahoma City Thunder,124,92,POST,1316
+nba-201605010GSW,2016,,2016-05-01,Golden State Warriors,Portland Trail Blazers,118,106,REG,1317
+nba-2016-post-2016-05-01-golden-state-warriors-portland-trail-blazers,2016,,2016-05-01,Golden State Warriors,Portland Trail Blazers,118,106,POST,1318
+nba-201605010MIA,2016,,2016-05-01,Miami Heat,Charlotte Hornets,106,73,REG,1319
+nba-2016-post-2016-05-01-miami-heat-charlotte-hornets,2016,,2016-05-01,Miami Heat,Charlotte Hornets,106,73,POST,1320
+nba-201605010TOR,2016,,2016-05-01,Toronto Raptors,Indiana Pacers,89,84,REG,1321
+nba-2016-post-2016-05-01-toronto-raptors-indiana-pacers,2016,,2016-05-01,Toronto Raptors,Indiana Pacers,89,84,POST,1322
+nba-201605020CLE,2016,,2016-05-02,Cleveland Cavaliers,Atlanta Hawks,104,93,REG,1323
+nba-2016-post-2016-05-02-cleveland-cavaliers-atlanta-hawks,2016,,2016-05-02,Cleveland Cavaliers,Atlanta Hawks,104,93,POST,1324
+nba-201605020SAS,2016,,2016-05-02,San Antonio Spurs,Oklahoma City Thunder,97,98,REG,1325
+nba-2016-post-2016-05-02-san-antonio-spurs-oklahoma-city-thunder,2016,,2016-05-02,San Antonio Spurs,Oklahoma City Thunder,97,98,POST,1326
+nba-201605030GSW,2016,,2016-05-03,Golden State Warriors,Portland Trail Blazers,110,99,REG,1327
+nba-2016-post-2016-05-03-golden-state-warriors-portland-trail-blazers,2016,,2016-05-03,Golden State Warriors,Portland Trail Blazers,110,99,POST,1328
+nba-201605030TOR,2016,,2016-05-03,Toronto Raptors,Miami Heat,96,102,REG,1329
+nba-2016-post-2016-05-03-toronto-raptors-miami-heat,2016,,2016-05-03,Toronto Raptors,Miami Heat,96,102,POST,1330
+nba-201605040CLE,2016,,2016-05-04,Cleveland Cavaliers,Atlanta Hawks,123,98,REG,1331
+nba-2016-post-2016-05-04-cleveland-cavaliers-atlanta-hawks,2016,,2016-05-04,Cleveland Cavaliers,Atlanta Hawks,123,98,POST,1332
+nba-201605050TOR,2016,,2016-05-05,Toronto Raptors,Miami Heat,96,92,REG,1333
+nba-2016-post-2016-05-05-toronto-raptors-miami-heat,2016,,2016-05-05,Toronto Raptors,Miami Heat,96,92,POST,1334
+nba-201605060ATL,2016,,2016-05-06,Atlanta Hawks,Cleveland Cavaliers,108,121,REG,1335
+nba-2016-post-2016-05-06-atlanta-hawks-cleveland-cavaliers,2016,,2016-05-06,Atlanta Hawks,Cleveland Cavaliers,108,121,POST,1336
+nba-201605060OKC,2016,,2016-05-06,Oklahoma City Thunder,San Antonio Spurs,96,100,REG,1337
+nba-2016-post-2016-05-06-oklahoma-city-thunder-san-antonio-spurs,2016,,2016-05-06,Oklahoma City Thunder,San Antonio Spurs,96,100,POST,1338
+nba-201605070MIA,2016,,2016-05-07,Miami Heat,Toronto Raptors,91,95,REG,1339
+nba-2016-post-2016-05-07-miami-heat-toronto-raptors,2016,,2016-05-07,Miami Heat,Toronto Raptors,91,95,POST,1340
+nba-201605070POR,2016,,2016-05-07,Portland Trail Blazers,Golden State Warriors,120,108,REG,1341
+nba-2016-post-2016-05-07-portland-trail-blazers-golden-state-warriors,2016,,2016-05-07,Portland Trail Blazers,Golden State Warriors,120,108,POST,1342
+nba-201605080ATL,2016,,2016-05-08,Atlanta Hawks,Cleveland Cavaliers,99,100,REG,1343
+nba-2016-post-2016-05-08-atlanta-hawks-cleveland-cavaliers,2016,,2016-05-08,Atlanta Hawks,Cleveland Cavaliers,99,100,POST,1344
+nba-201605080OKC,2016,,2016-05-08,Oklahoma City Thunder,San Antonio Spurs,111,97,REG,1345
+nba-2016-post-2016-05-08-oklahoma-city-thunder-san-antonio-spurs,2016,,2016-05-08,Oklahoma City Thunder,San Antonio Spurs,111,97,POST,1346
+nba-201605090MIA,2016,,2016-05-09,Miami Heat,Toronto Raptors,94,87,REG,1347
+nba-2016-post-2016-05-09-miami-heat-toronto-raptors,2016,,2016-05-09,Miami Heat,Toronto Raptors,94,87,POST,1348
+nba-201605090POR,2016,,2016-05-09,Portland Trail Blazers,Golden State Warriors,125,132,REG,1349
+nba-2016-post-2016-05-09-portland-trail-blazers-golden-state-warriors,2016,,2016-05-09,Portland Trail Blazers,Golden State Warriors,125,132,POST,1350
+nba-201605100SAS,2016,,2016-05-10,San Antonio Spurs,Oklahoma City Thunder,91,95,REG,1351
+nba-2016-post-2016-05-10-san-antonio-spurs-oklahoma-city-thunder,2016,,2016-05-10,San Antonio Spurs,Oklahoma City Thunder,91,95,POST,1352
+nba-201605110GSW,2016,,2016-05-11,Golden State Warriors,Portland Trail Blazers,125,121,REG,1353
+nba-2016-post-2016-05-11-golden-state-warriors-portland-trail-blazers,2016,,2016-05-11,Golden State Warriors,Portland Trail Blazers,125,121,POST,1354
+nba-201605110TOR,2016,,2016-05-11,Toronto Raptors,Miami Heat,99,91,REG,1355
+nba-2016-post-2016-05-11-toronto-raptors-miami-heat,2016,,2016-05-11,Toronto Raptors,Miami Heat,99,91,POST,1356
+nba-201605120OKC,2016,,2016-05-12,Oklahoma City Thunder,San Antonio Spurs,113,99,REG,1357
+nba-2016-post-2016-05-12-oklahoma-city-thunder-san-antonio-spurs,2016,,2016-05-12,Oklahoma City Thunder,San Antonio Spurs,113,99,POST,1358
+nba-201605130MIA,2016,,2016-05-13,Miami Heat,Toronto Raptors,103,91,REG,1359
+nba-2016-post-2016-05-13-miami-heat-toronto-raptors,2016,,2016-05-13,Miami Heat,Toronto Raptors,103,91,POST,1360
+nba-201605150TOR,2016,,2016-05-15,Toronto Raptors,Miami Heat,116,89,REG,1361
+nba-2016-post-2016-05-15-toronto-raptors-miami-heat,2016,,2016-05-15,Toronto Raptors,Miami Heat,116,89,POST,1362
+nba-201605160GSW,2016,,2016-05-16,Golden State Warriors,Oklahoma City Thunder,102,108,REG,1363
+nba-2016-post-2016-05-16-golden-state-warriors-oklahoma-city-thunder,2016,,2016-05-16,Golden State Warriors,Oklahoma City Thunder,102,108,POST,1364
+nba-201605170CLE,2016,,2016-05-17,Cleveland Cavaliers,Toronto Raptors,115,84,REG,1365
+nba-2016-post-2016-05-17-cleveland-cavaliers-toronto-raptors,2016,,2016-05-17,Cleveland Cavaliers,Toronto Raptors,115,84,POST,1366
+nba-201605180GSW,2016,,2016-05-18,Golden State Warriors,Oklahoma City Thunder,118,91,REG,1367
+nba-2016-post-2016-05-18-golden-state-warriors-oklahoma-city-thunder,2016,,2016-05-18,Golden State Warriors,Oklahoma City Thunder,118,91,POST,1368
+nba-201605190CLE,2016,,2016-05-19,Cleveland Cavaliers,Toronto Raptors,108,89,REG,1369
+nba-2016-post-2016-05-19-cleveland-cavaliers-toronto-raptors,2016,,2016-05-19,Cleveland Cavaliers,Toronto Raptors,108,89,POST,1370
+nba-201605210TOR,2016,,2016-05-21,Toronto Raptors,Cleveland Cavaliers,99,84,REG,1371
+nba-2016-post-2016-05-21-toronto-raptors-cleveland-cavaliers,2016,,2016-05-21,Toronto Raptors,Cleveland Cavaliers,99,84,POST,1372
+nba-201605220OKC,2016,,2016-05-22,Oklahoma City Thunder,Golden State Warriors,133,105,REG,1373
+nba-2016-post-2016-05-22-oklahoma-city-thunder-golden-state-warriors,2016,,2016-05-22,Oklahoma City Thunder,Golden State Warriors,133,105,POST,1374
+nba-201605230TOR,2016,,2016-05-23,Toronto Raptors,Cleveland Cavaliers,105,99,REG,1375
+nba-2016-post-2016-05-23-toronto-raptors-cleveland-cavaliers,2016,,2016-05-23,Toronto Raptors,Cleveland Cavaliers,105,99,POST,1376
+nba-201605240OKC,2016,,2016-05-24,Oklahoma City Thunder,Golden State Warriors,118,94,REG,1377
+nba-2016-post-2016-05-24-oklahoma-city-thunder-golden-state-warriors,2016,,2016-05-24,Oklahoma City Thunder,Golden State Warriors,118,94,POST,1378
+nba-201605250CLE,2016,,2016-05-25,Cleveland Cavaliers,Toronto Raptors,116,78,REG,1379
+nba-2016-post-2016-05-25-cleveland-cavaliers-toronto-raptors,2016,,2016-05-25,Cleveland Cavaliers,Toronto Raptors,116,78,POST,1380
+nba-201605260GSW,2016,,2016-05-26,Golden State Warriors,Oklahoma City Thunder,120,111,REG,1381
+nba-2016-post-2016-05-26-golden-state-warriors-oklahoma-city-thunder,2016,,2016-05-26,Golden State Warriors,Oklahoma City Thunder,120,111,POST,1382
+nba-201605270TOR,2016,,2016-05-27,Toronto Raptors,Cleveland Cavaliers,87,113,REG,1383
+nba-2016-post-2016-05-27-toronto-raptors-cleveland-cavaliers,2016,,2016-05-27,Toronto Raptors,Cleveland Cavaliers,87,113,POST,1384
+nba-201605280OKC,2016,,2016-05-28,Oklahoma City Thunder,Golden State Warriors,101,108,REG,1385
+nba-2016-post-2016-05-28-oklahoma-city-thunder-golden-state-warriors,2016,,2016-05-28,Oklahoma City Thunder,Golden State Warriors,101,108,POST,1386
+nba-201605300GSW,2016,,2016-05-30,Golden State Warriors,Oklahoma City Thunder,96,88,REG,1387
+nba-2016-post-2016-05-30-golden-state-warriors-oklahoma-city-thunder,2016,,2016-05-30,Golden State Warriors,Oklahoma City Thunder,96,88,POST,1388
+nba-201606020GSW,2016,,2016-06-02,Golden State Warriors,Cleveland Cavaliers,104,89,REG,1389
+nba-2016-post-2016-06-02-golden-state-warriors-cleveland-cavaliers,2016,,2016-06-02,Golden State Warriors,Cleveland Cavaliers,104,89,POST,1390
+nba-201606050GSW,2016,,2016-06-05,Golden State Warriors,Cleveland Cavaliers,110,77,REG,1391
+nba-2016-post-2016-06-05-golden-state-warriors-cleveland-cavaliers,2016,,2016-06-05,Golden State Warriors,Cleveland Cavaliers,110,77,POST,1392
+nba-201606080CLE,2016,,2016-06-08,Cleveland Cavaliers,Golden State Warriors,120,90,REG,1393
+nba-2016-post-2016-06-08-cleveland-cavaliers-golden-state-warriors,2016,,2016-06-08,Cleveland Cavaliers,Golden State Warriors,120,90,POST,1394
+nba-201606100CLE,2016,,2016-06-10,Cleveland Cavaliers,Golden State Warriors,97,108,REG,1395
+nba-2016-post-2016-06-10-cleveland-cavaliers-golden-state-warriors,2016,,2016-06-10,Cleveland Cavaliers,Golden State Warriors,97,108,POST,1396
+nba-201606130GSW,2016,,2016-06-13,Golden State Warriors,Cleveland Cavaliers,97,112,REG,1397
+nba-2016-post-2016-06-13-golden-state-warriors-cleveland-cavaliers,2016,,2016-06-13,Golden State Warriors,Cleveland Cavaliers,97,112,POST,1398
+nba-201606160CLE,2016,,2016-06-16,Cleveland Cavaliers,Golden State Warriors,115,101,REG,1399
+nba-2016-post-2016-06-16-cleveland-cavaliers-golden-state-warriors,2016,,2016-06-16,Cleveland Cavaliers,Golden State Warriors,115,101,POST,1400
+nba-201606190GSW,2016,,2016-06-19,Golden State Warriors,Cleveland Cavaliers,89,93,REG,1401
+nba-2016-post-2016-06-19-golden-state-warriors-cleveland-cavaliers,2016,,2016-06-19,Golden State Warriors,Cleveland Cavaliers,89,93,POST,1402

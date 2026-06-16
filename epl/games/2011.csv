@@ -1,0 +1,381 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+epl-2011-REG-0001,2011,,2010-08-14,Aston Villa,West Ham United,3,0,REG,1
+epl-2011-REG-0002,2011,,2010-08-14,Blackburn Rovers,Everton,1,0,REG,2
+epl-2011-REG-0003,2011,,2010-08-14,Bolton Wanderers,Fulham,0,0,REG,3
+epl-2011-REG-0004,2011,,2010-08-14,Chelsea,West Bromwich Albion,6,0,REG,4
+epl-2011-REG-0005,2011,,2010-08-14,Sunderland,Birmingham City,2,2,REG,5
+epl-2011-REG-0006,2011,,2010-08-14,Tottenham Hotspur,Manchester City,0,0,REG,6
+epl-2011-REG-0007,2011,,2010-08-14,Wigan Athletic,Blackpool,0,4,REG,7
+epl-2011-REG-0008,2011,,2010-08-14,Wolverhampton Wanderers,Stoke City,2,1,REG,8
+epl-2011-REG-0009,2011,,2010-08-15,Liverpool,Arsenal,1,1,REG,9
+epl-2011-REG-0010,2011,,2010-08-16,Manchester United,Newcastle United,3,0,REG,10
+epl-2011-REG-0011,2011,,2010-08-21,Arsenal,Blackpool,6,0,REG,11
+epl-2011-REG-0012,2011,,2010-08-21,Birmingham City,Blackburn Rovers,2,1,REG,12
+epl-2011-REG-0013,2011,,2010-08-21,Everton,Wolverhampton Wanderers,1,1,REG,13
+epl-2011-REG-0014,2011,,2010-08-21,Stoke City,Tottenham Hotspur,1,2,REG,14
+epl-2011-REG-0015,2011,,2010-08-21,West Bromwich Albion,Sunderland,1,0,REG,15
+epl-2011-REG-0016,2011,,2010-08-21,West Ham United,Bolton Wanderers,1,3,REG,16
+epl-2011-REG-0017,2011,,2010-08-21,Wigan Athletic,Chelsea,0,6,REG,17
+epl-2011-REG-0018,2011,,2010-08-22,Fulham,Manchester United,2,2,REG,18
+epl-2011-REG-0019,2011,,2010-08-22,Newcastle United,Aston Villa,6,0,REG,19
+epl-2011-REG-0020,2011,,2010-08-23,Manchester City,Liverpool,3,0,REG,20
+epl-2011-REG-0021,2011,,2010-08-28,Blackburn Rovers,Arsenal,1,2,REG,21
+epl-2011-REG-0022,2011,,2010-08-28,Blackpool,Fulham,2,2,REG,22
+epl-2011-REG-0023,2011,,2010-08-28,Chelsea,Stoke City,2,0,REG,23
+epl-2011-REG-0024,2011,,2010-08-28,Manchester United,West Ham United,3,0,REG,24
+epl-2011-REG-0025,2011,,2010-08-28,Tottenham Hotspur,Wigan Athletic,0,1,REG,25
+epl-2011-REG-0026,2011,,2010-08-28,Wolverhampton Wanderers,Newcastle United,1,1,REG,26
+epl-2011-REG-0027,2011,,2010-08-29,Aston Villa,Everton,1,0,REG,27
+epl-2011-REG-0028,2011,,2010-08-29,Bolton Wanderers,Birmingham City,2,2,REG,28
+epl-2011-REG-0029,2011,,2010-08-29,Liverpool,West Bromwich Albion,1,0,REG,29
+epl-2011-REG-0030,2011,,2010-08-29,Sunderland,Manchester City,1,0,REG,30
+epl-2011-REG-0031,2011,,2010-09-11,Arsenal,Bolton Wanderers,4,1,REG,31
+epl-2011-REG-0032,2011,,2010-09-11,Everton,Manchester United,3,3,REG,32
+epl-2011-REG-0033,2011,,2010-09-11,Fulham,Wolverhampton Wanderers,2,1,REG,33
+epl-2011-REG-0034,2011,,2010-09-11,Manchester City,Blackburn Rovers,1,1,REG,34
+epl-2011-REG-0035,2011,,2010-09-11,Newcastle United,Blackpool,0,2,REG,35
+epl-2011-REG-0036,2011,,2010-09-11,West Bromwich Albion,Tottenham Hotspur,1,1,REG,36
+epl-2011-REG-0037,2011,,2010-09-11,West Ham United,Chelsea,1,3,REG,37
+epl-2011-REG-0038,2011,,2010-09-11,Wigan Athletic,Sunderland,1,1,REG,38
+epl-2011-REG-0039,2011,,2010-09-12,Birmingham City,Liverpool,0,0,REG,39
+epl-2011-REG-0040,2011,,2010-09-13,Stoke City,Aston Villa,2,1,REG,40
+epl-2011-REG-0041,2011,,2010-09-18,Aston Villa,Bolton Wanderers,1,1,REG,41
+epl-2011-REG-0042,2011,,2010-09-18,Blackburn Rovers,Fulham,1,1,REG,42
+epl-2011-REG-0043,2011,,2010-09-18,Everton,Newcastle United,0,1,REG,43
+epl-2011-REG-0044,2011,,2010-09-18,Stoke City,West Ham United,1,1,REG,44
+epl-2011-REG-0045,2011,,2010-09-18,Sunderland,Arsenal,1,1,REG,45
+epl-2011-REG-0046,2011,,2010-09-18,Tottenham Hotspur,Wolverhampton Wanderers,3,1,REG,46
+epl-2011-REG-0047,2011,,2010-09-18,West Bromwich Albion,Birmingham City,3,1,REG,47
+epl-2011-REG-0048,2011,,2010-09-19,Chelsea,Blackpool,4,0,REG,48
+epl-2011-REG-0049,2011,,2010-09-19,Manchester United,Liverpool,3,2,REG,49
+epl-2011-REG-0050,2011,,2010-09-19,Wigan Athletic,Manchester City,0,2,REG,50
+epl-2011-REG-0051,2011,,2010-09-25,Arsenal,West Bromwich Albion,2,3,REG,51
+epl-2011-REG-0052,2011,,2010-09-25,Birmingham City,Wigan Athletic,0,0,REG,52
+epl-2011-REG-0053,2011,,2010-09-25,Blackpool,Blackburn Rovers,1,2,REG,53
+epl-2011-REG-0054,2011,,2010-09-25,Fulham,Everton,0,0,REG,54
+epl-2011-REG-0055,2011,,2010-09-25,Liverpool,Sunderland,2,2,REG,55
+epl-2011-REG-0056,2011,,2010-09-25,Manchester City,Chelsea,1,0,REG,56
+epl-2011-REG-0057,2011,,2010-09-25,West Ham United,Tottenham Hotspur,1,0,REG,57
+epl-2011-REG-0058,2011,,2010-09-26,Bolton Wanderers,Manchester United,2,2,REG,58
+epl-2011-REG-0059,2011,,2010-09-26,Newcastle United,Stoke City,1,2,REG,59
+epl-2011-REG-0060,2011,,2010-09-26,Wolverhampton Wanderers,Aston Villa,1,2,REG,60
+epl-2011-REG-0061,2011,,2010-10-02,Birmingham City,Everton,0,2,REG,61
+epl-2011-REG-0062,2011,,2010-10-02,Stoke City,Blackburn Rovers,1,0,REG,62
+epl-2011-REG-0063,2011,,2010-10-02,Sunderland,Manchester United,0,0,REG,63
+epl-2011-REG-0064,2011,,2010-10-02,Tottenham Hotspur,Aston Villa,2,1,REG,64
+epl-2011-REG-0065,2011,,2010-10-02,West Bromwich Albion,Bolton Wanderers,1,1,REG,65
+epl-2011-REG-0066,2011,,2010-10-02,West Ham United,Fulham,1,1,REG,66
+epl-2011-REG-0067,2011,,2010-10-02,Wigan Athletic,Wolverhampton Wanderers,2,0,REG,67
+epl-2011-REG-0068,2011,,2010-10-03,Chelsea,Arsenal,2,0,REG,68
+epl-2011-REG-0069,2011,,2010-10-03,Liverpool,Blackpool,1,2,REG,69
+epl-2011-REG-0070,2011,,2010-10-03,Manchester City,Newcastle United,2,1,REG,70
+epl-2011-REG-0071,2011,,2010-10-16,Arsenal,Birmingham City,2,1,REG,71
+epl-2011-REG-0072,2011,,2010-10-16,Aston Villa,Chelsea,0,0,REG,72
+epl-2011-REG-0073,2011,,2010-10-16,Bolton Wanderers,Stoke City,2,1,REG,73
+epl-2011-REG-0074,2011,,2010-10-16,Fulham,Tottenham Hotspur,1,2,REG,74
+epl-2011-REG-0075,2011,,2010-10-16,Manchester United,West Bromwich Albion,2,2,REG,75
+epl-2011-REG-0076,2011,,2010-10-16,Newcastle United,Wigan Athletic,2,2,REG,76
+epl-2011-REG-0077,2011,,2010-10-16,Wolverhampton Wanderers,West Ham United,1,1,REG,77
+epl-2011-REG-0078,2011,,2010-10-17,Blackpool,Manchester City,2,3,REG,78
+epl-2011-REG-0079,2011,,2010-10-17,Everton,Liverpool,2,0,REG,79
+epl-2011-REG-0080,2011,,2010-10-18,Blackburn Rovers,Sunderland,0,0,REG,80
+epl-2011-REG-0081,2011,,2010-10-23,Birmingham City,Blackpool,2,0,REG,81
+epl-2011-REG-0082,2011,,2010-10-23,Chelsea,Wolverhampton Wanderers,2,0,REG,82
+epl-2011-REG-0083,2011,,2010-10-23,Sunderland,Aston Villa,1,0,REG,83
+epl-2011-REG-0084,2011,,2010-10-23,Tottenham Hotspur,Everton,1,1,REG,84
+epl-2011-REG-0085,2011,,2010-10-23,West Bromwich Albion,Fulham,2,1,REG,85
+epl-2011-REG-0086,2011,,2010-10-23,West Ham United,Newcastle United,1,2,REG,86
+epl-2011-REG-0087,2011,,2010-10-23,Wigan Athletic,Bolton Wanderers,1,1,REG,87
+epl-2011-REG-0088,2011,,2010-10-24,Liverpool,Blackburn Rovers,2,1,REG,88
+epl-2011-REG-0089,2011,,2010-10-24,Manchester City,Arsenal,0,3,REG,89
+epl-2011-REG-0090,2011,,2010-10-24,Stoke City,Manchester United,1,2,REG,90
+epl-2011-REG-0091,2011,,2010-10-30,Arsenal,West Ham United,1,0,REG,91
+epl-2011-REG-0092,2011,,2010-10-30,Blackburn Rovers,Chelsea,1,2,REG,92
+epl-2011-REG-0093,2011,,2010-10-30,Everton,Stoke City,1,0,REG,93
+epl-2011-REG-0094,2011,,2010-10-30,Fulham,Wigan Athletic,2,0,REG,94
+epl-2011-REG-0095,2011,,2010-10-30,Manchester United,Tottenham Hotspur,2,0,REG,95
+epl-2011-REG-0096,2011,,2010-10-30,Wolverhampton Wanderers,Manchester City,2,1,REG,96
+epl-2011-REG-0097,2011,,2010-10-31,Aston Villa,Birmingham City,0,0,REG,97
+epl-2011-REG-0098,2011,,2010-10-31,Bolton Wanderers,Liverpool,0,1,REG,98
+epl-2011-REG-0099,2011,,2010-10-31,Newcastle United,Sunderland,5,1,REG,99
+epl-2011-REG-0100,2011,,2010-11-01,Blackpool,West Bromwich Albion,2,1,REG,100
+epl-2011-REG-0101,2011,,2010-11-06,Birmingham City,West Ham United,2,2,REG,101
+epl-2011-REG-0102,2011,,2010-11-06,Blackburn Rovers,Wigan Athletic,2,1,REG,102
+epl-2011-REG-0103,2011,,2010-11-06,Blackpool,Everton,2,2,REG,103
+epl-2011-REG-0104,2011,,2010-11-06,Bolton Wanderers,Tottenham Hotspur,4,2,REG,104
+epl-2011-REG-0105,2011,,2010-11-06,Fulham,Aston Villa,1,1,REG,105
+epl-2011-REG-0106,2011,,2010-11-06,Manchester United,Wolverhampton Wanderers,2,1,REG,106
+epl-2011-REG-0107,2011,,2010-11-06,Sunderland,Stoke City,2,0,REG,107
+epl-2011-REG-0108,2011,,2010-11-07,Arsenal,Newcastle United,0,1,REG,108
+epl-2011-REG-0109,2011,,2010-11-07,Liverpool,Chelsea,2,0,REG,109
+epl-2011-REG-0110,2011,,2010-11-07,West Bromwich Albion,Manchester City,0,2,REG,110
+epl-2011-REG-0111,2011,,2010-11-09,Stoke City,Birmingham City,3,2,REG,111
+epl-2011-REG-0112,2011,,2010-11-09,Tottenham Hotspur,Sunderland,1,1,REG,112
+epl-2011-REG-0113,2011,,2010-11-10,Aston Villa,Blackpool,3,2,REG,113
+epl-2011-REG-0114,2011,,2010-11-10,Chelsea,Fulham,1,0,REG,114
+epl-2011-REG-0115,2011,,2010-11-10,Everton,Bolton Wanderers,1,1,REG,115
+epl-2011-REG-0116,2011,,2010-11-10,Manchester City,Manchester United,0,0,REG,116
+epl-2011-REG-0117,2011,,2010-11-10,Newcastle United,Blackburn Rovers,1,2,REG,117
+epl-2011-REG-0118,2011,,2010-11-10,West Ham United,West Bromwich Albion,2,2,REG,118
+epl-2011-REG-0119,2011,,2010-11-10,Wigan Athletic,Liverpool,1,1,REG,119
+epl-2011-REG-0120,2011,,2010-11-10,Wolverhampton Wanderers,Arsenal,0,2,REG,120
+epl-2011-REG-0121,2011,,2010-11-13,Aston Villa,Manchester United,2,2,REG,121
+epl-2011-REG-0122,2011,,2010-11-13,Manchester City,Birmingham City,0,0,REG,122
+epl-2011-REG-0123,2011,,2010-11-13,Newcastle United,Fulham,0,0,REG,123
+epl-2011-REG-0124,2011,,2010-11-13,Stoke City,Liverpool,2,0,REG,124
+epl-2011-REG-0125,2011,,2010-11-13,Tottenham Hotspur,Blackburn Rovers,4,2,REG,125
+epl-2011-REG-0126,2011,,2010-11-13,West Ham United,Blackpool,0,0,REG,126
+epl-2011-REG-0127,2011,,2010-11-13,Wigan Athletic,West Bromwich Albion,1,0,REG,127
+epl-2011-REG-0128,2011,,2010-11-13,Wolverhampton Wanderers,Bolton Wanderers,2,3,REG,128
+epl-2011-REG-0129,2011,,2010-11-14,Chelsea,Sunderland,0,3,REG,129
+epl-2011-REG-0130,2011,,2010-11-14,Everton,Arsenal,1,2,REG,130
+epl-2011-REG-0131,2011,,2010-11-20,Arsenal,Tottenham Hotspur,2,3,REG,131
+epl-2011-REG-0132,2011,,2010-11-20,Birmingham City,Chelsea,1,0,REG,132
+epl-2011-REG-0133,2011,,2010-11-20,Blackpool,Wolverhampton Wanderers,2,1,REG,133
+epl-2011-REG-0134,2011,,2010-11-20,Bolton Wanderers,Newcastle United,5,1,REG,134
+epl-2011-REG-0135,2011,,2010-11-20,Liverpool,West Ham United,3,0,REG,135
+epl-2011-REG-0136,2011,,2010-11-20,Manchester United,Wigan Athletic,2,0,REG,136
+epl-2011-REG-0137,2011,,2010-11-20,West Bromwich Albion,Stoke City,0,3,REG,137
+epl-2011-REG-0138,2011,,2010-11-21,Blackburn Rovers,Aston Villa,2,0,REG,138
+epl-2011-REG-0139,2011,,2010-11-21,Fulham,Manchester City,1,4,REG,139
+epl-2011-REG-0140,2011,,2010-11-22,Sunderland,Everton,2,2,REG,140
+epl-2011-REG-0141,2011,,2010-11-27,Aston Villa,Arsenal,2,4,REG,141
+epl-2011-REG-0142,2011,,2010-11-27,Bolton Wanderers,Blackpool,2,2,REG,142
+epl-2011-REG-0143,2011,,2010-11-27,Everton,West Bromwich Albion,1,4,REG,143
+epl-2011-REG-0144,2011,,2010-11-27,Fulham,Birmingham City,1,1,REG,144
+epl-2011-REG-0145,2011,,2010-11-27,Manchester United,Blackburn Rovers,7,1,REG,145
+epl-2011-REG-0146,2011,,2010-11-27,Stoke City,Manchester City,1,1,REG,146
+epl-2011-REG-0147,2011,,2010-11-27,West Ham United,Wigan Athletic,3,1,REG,147
+epl-2011-REG-0148,2011,,2010-11-27,Wolverhampton Wanderers,Sunderland,3,2,REG,148
+epl-2011-REG-0149,2011,,2010-11-28,Newcastle United,Chelsea,1,1,REG,149
+epl-2011-REG-0150,2011,,2010-11-28,Tottenham Hotspur,Liverpool,2,1,REG,150
+epl-2011-REG-0151,2011,,2010-12-04,Arsenal,Fulham,2,1,REG,151
+epl-2011-REG-0152,2011,,2010-12-04,Birmingham City,Tottenham Hotspur,1,1,REG,152
+epl-2011-REG-0153,2011,,2010-12-04,Blackburn Rovers,Wolverhampton Wanderers,3,0,REG,153
+epl-2011-REG-0154,2011,,2010-12-04,Chelsea,Everton,1,1,REG,154
+epl-2011-REG-0155,2011,,2010-12-04,Manchester City,Bolton Wanderers,1,0,REG,155
+epl-2011-REG-0156,2011,,2010-12-04,Wigan Athletic,Stoke City,2,2,REG,156
+epl-2011-REG-0157,2011,,2010-12-05,Sunderland,West Ham United,1,0,REG,157
+epl-2011-REG-0158,2011,,2010-12-05,West Bromwich Albion,Newcastle United,3,1,REG,158
+epl-2011-REG-0159,2011,,2010-12-06,Liverpool,Aston Villa,3,0,REG,159
+epl-2011-REG-0160,2011,,2010-12-11,Aston Villa,West Bromwich Albion,2,1,REG,160
+epl-2011-REG-0161,2011,,2010-12-11,Everton,Wigan Athletic,0,0,REG,161
+epl-2011-REG-0162,2011,,2010-12-11,Fulham,Sunderland,0,0,REG,162
+epl-2011-REG-0163,2011,,2010-12-11,Newcastle United,Liverpool,3,1,REG,163
+epl-2011-REG-0164,2011,,2010-12-11,Stoke City,Blackpool,0,1,REG,164
+epl-2011-REG-0165,2011,,2010-12-11,West Ham United,Manchester City,1,3,REG,165
+epl-2011-REG-0166,2011,,2010-12-12,Bolton Wanderers,Blackburn Rovers,2,1,REG,166
+epl-2011-REG-0167,2011,,2010-12-12,Tottenham Hotspur,Chelsea,1,1,REG,167
+epl-2011-REG-0168,2011,,2010-12-12,Wolverhampton Wanderers,Birmingham City,1,0,REG,168
+epl-2011-REG-0169,2011,,2010-12-13,Manchester United,Arsenal,1,0,REG,169
+epl-2011-REG-0170,2011,,2010-12-18,Blackburn Rovers,West Ham United,1,1,REG,170
+epl-2011-REG-0171,2011,,2010-12-18,Sunderland,Bolton Wanderers,1,0,REG,171
+epl-2011-REG-0172,2011,,2010-12-20,Manchester City,Everton,1,2,REG,172
+epl-2011-REG-0173,2011,,2010-12-26,Aston Villa,Tottenham Hotspur,1,2,REG,173
+epl-2011-REG-0174,2011,,2010-12-26,Blackburn Rovers,Stoke City,0,2,REG,174
+epl-2011-REG-0175,2011,,2010-12-26,Bolton Wanderers,West Bromwich Albion,2,0,REG,175
+epl-2011-REG-0176,2011,,2010-12-26,Fulham,West Ham United,1,3,REG,176
+epl-2011-REG-0177,2011,,2010-12-26,Manchester United,Sunderland,2,0,REG,177
+epl-2011-REG-0178,2011,,2010-12-26,Newcastle United,Manchester City,1,3,REG,178
+epl-2011-REG-0179,2011,,2010-12-26,Wolverhampton Wanderers,Wigan Athletic,1,2,REG,179
+epl-2011-REG-0180,2011,,2010-12-27,Arsenal,Chelsea,3,1,REG,180
+epl-2011-REG-0181,2011,,2010-12-28,Birmingham City,Manchester United,1,1,REG,181
+epl-2011-REG-0182,2011,,2010-12-28,Manchester City,Aston Villa,4,0,REG,182
+epl-2011-REG-0183,2011,,2010-12-28,Stoke City,Fulham,0,2,REG,183
+epl-2011-REG-0184,2011,,2010-12-28,Sunderland,Blackpool,0,2,REG,184
+epl-2011-REG-0185,2011,,2010-12-28,Tottenham Hotspur,Newcastle United,2,0,REG,185
+epl-2011-REG-0186,2011,,2010-12-28,West Bromwich Albion,Blackburn Rovers,1,3,REG,186
+epl-2011-REG-0187,2011,,2010-12-28,West Ham United,Everton,1,1,REG,187
+epl-2011-REG-0188,2011,,2010-12-29,Chelsea,Bolton Wanderers,1,0,REG,188
+epl-2011-REG-0189,2011,,2010-12-29,Liverpool,Wolverhampton Wanderers,0,1,REG,189
+epl-2011-REG-0190,2011,,2010-12-29,Wigan Athletic,Arsenal,2,2,REG,190
+epl-2011-REG-0191,2011,,2011-01-01,Birmingham City,Arsenal,0,3,REG,191
+epl-2011-REG-0192,2011,,2011-01-01,Liverpool,Bolton Wanderers,2,1,REG,192
+epl-2011-REG-0193,2011,,2011-01-01,Manchester City,Blackpool,1,0,REG,193
+epl-2011-REG-0194,2011,,2011-01-01,Stoke City,Everton,2,0,REG,194
+epl-2011-REG-0195,2011,,2011-01-01,Sunderland,Blackburn Rovers,3,0,REG,195
+epl-2011-REG-0196,2011,,2011-01-01,Tottenham Hotspur,Fulham,1,0,REG,196
+epl-2011-REG-0197,2011,,2011-01-01,West Bromwich Albion,Manchester United,1,2,REG,197
+epl-2011-REG-0198,2011,,2011-01-01,West Ham United,Wolverhampton Wanderers,2,0,REG,198
+epl-2011-REG-0199,2011,,2011-01-02,Chelsea,Aston Villa,3,3,REG,199
+epl-2011-REG-0200,2011,,2011-01-02,Wigan Athletic,Newcastle United,0,1,REG,200
+epl-2011-REG-0201,2011,,2011-01-04,Blackpool,Birmingham City,1,2,REG,201
+epl-2011-REG-0202,2011,,2011-01-04,Fulham,West Bromwich Albion,3,0,REG,202
+epl-2011-REG-0203,2011,,2011-01-04,Manchester United,Stoke City,2,1,REG,203
+epl-2011-REG-0204,2011,,2011-01-05,Arsenal,Manchester City,0,0,REG,204
+epl-2011-REG-0205,2011,,2011-01-05,Aston Villa,Sunderland,0,1,REG,205
+epl-2011-REG-0206,2011,,2011-01-05,Blackburn Rovers,Liverpool,3,1,REG,206
+epl-2011-REG-0207,2011,,2011-01-05,Bolton Wanderers,Wigan Athletic,1,1,REG,207
+epl-2011-REG-0208,2011,,2011-01-05,Everton,Tottenham Hotspur,2,1,REG,208
+epl-2011-REG-0209,2011,,2011-01-05,Newcastle United,West Ham United,5,0,REG,209
+epl-2011-REG-0210,2011,,2011-01-05,Wolverhampton Wanderers,Chelsea,1,0,REG,210
+epl-2011-REG-0211,2011,,2011-01-12,Blackpool,Liverpool,2,1,REG,211
+epl-2011-REG-0212,2011,,2011-01-15,Chelsea,Blackburn Rovers,2,0,REG,212
+epl-2011-REG-0213,2011,,2011-01-15,Manchester City,Wolverhampton Wanderers,4,3,REG,213
+epl-2011-REG-0214,2011,,2011-01-15,Stoke City,Bolton Wanderers,2,0,REG,214
+epl-2011-REG-0215,2011,,2011-01-15,West Bromwich Albion,Blackpool,3,2,REG,215
+epl-2011-REG-0216,2011,,2011-01-15,West Ham United,Arsenal,0,3,REG,216
+epl-2011-REG-0217,2011,,2011-01-15,Wigan Athletic,Fulham,1,1,REG,217
+epl-2011-REG-0218,2011,,2011-01-16,Birmingham City,Aston Villa,1,1,REG,218
+epl-2011-REG-0219,2011,,2011-01-16,Liverpool,Everton,2,2,REG,219
+epl-2011-REG-0220,2011,,2011-01-16,Sunderland,Newcastle United,1,1,REG,220
+epl-2011-REG-0221,2011,,2011-01-16,Tottenham Hotspur,Manchester United,0,0,REG,221
+epl-2011-REG-0222,2011,,2011-01-22,Arsenal,Wigan Athletic,3,0,REG,222
+epl-2011-REG-0223,2011,,2011-01-22,Aston Villa,Manchester City,1,0,REG,223
+epl-2011-REG-0224,2011,,2011-01-22,Blackpool,Sunderland,1,2,REG,224
+epl-2011-REG-0225,2011,,2011-01-22,Everton,West Ham United,2,2,REG,225
+epl-2011-REG-0226,2011,,2011-01-22,Fulham,Stoke City,2,0,REG,226
+epl-2011-REG-0227,2011,,2011-01-22,Manchester United,Birmingham City,5,0,REG,227
+epl-2011-REG-0228,2011,,2011-01-22,Newcastle United,Tottenham Hotspur,1,1,REG,228
+epl-2011-REG-0229,2011,,2011-01-22,Wolverhampton Wanderers,Liverpool,0,3,REG,229
+epl-2011-REG-0230,2011,,2011-01-23,Blackburn Rovers,West Bromwich Albion,2,0,REG,230
+epl-2011-REG-0231,2011,,2011-01-24,Bolton Wanderers,Chelsea,0,4,REG,231
+epl-2011-REG-0232,2011,,2011-01-25,Blackpool,Manchester United,2,3,REG,232
+epl-2011-REG-0233,2011,,2011-01-25,Wigan Athletic,Aston Villa,1,2,REG,233
+epl-2011-REG-0234,2011,,2011-01-26,Liverpool,Fulham,1,0,REG,234
+epl-2011-REG-0235,2011,,2011-02-01,Arsenal,Everton,2,1,REG,235
+epl-2011-REG-0236,2011,,2011-02-01,Manchester United,Aston Villa,3,1,REG,236
+epl-2011-REG-0237,2011,,2011-02-01,Sunderland,Chelsea,2,4,REG,237
+epl-2011-REG-0238,2011,,2011-02-01,West Bromwich Albion,Wigan Athletic,2,2,REG,238
+epl-2011-REG-0239,2011,,2011-02-02,Birmingham City,Manchester City,2,2,REG,239
+epl-2011-REG-0240,2011,,2011-02-02,Blackburn Rovers,Tottenham Hotspur,0,1,REG,240
+epl-2011-REG-0241,2011,,2011-02-02,Blackpool,West Ham United,1,3,REG,241
+epl-2011-REG-0242,2011,,2011-02-02,Bolton Wanderers,Wolverhampton Wanderers,1,0,REG,242
+epl-2011-REG-0243,2011,,2011-02-02,Fulham,Newcastle United,1,0,REG,243
+epl-2011-REG-0244,2011,,2011-02-02,Liverpool,Stoke City,2,0,REG,244
+epl-2011-REG-0245,2011,,2011-02-05,Aston Villa,Fulham,2,2,REG,245
+epl-2011-REG-0246,2011,,2011-02-05,Everton,Blackpool,5,3,REG,246
+epl-2011-REG-0247,2011,,2011-02-05,Manchester City,West Bromwich Albion,3,0,REG,247
+epl-2011-REG-0248,2011,,2011-02-05,Newcastle United,Arsenal,4,4,REG,248
+epl-2011-REG-0249,2011,,2011-02-05,Stoke City,Sunderland,3,2,REG,249
+epl-2011-REG-0250,2011,,2011-02-05,Tottenham Hotspur,Bolton Wanderers,2,1,REG,250
+epl-2011-REG-0251,2011,,2011-02-05,Wigan Athletic,Blackburn Rovers,4,3,REG,251
+epl-2011-REG-0252,2011,,2011-02-05,Wolverhampton Wanderers,Manchester United,2,1,REG,252
+epl-2011-REG-0253,2011,,2011-02-06,Chelsea,Liverpool,0,1,REG,253
+epl-2011-REG-0254,2011,,2011-02-06,West Ham United,Birmingham City,0,1,REG,254
+epl-2011-REG-0255,2011,,2011-02-12,Arsenal,Wolverhampton Wanderers,2,0,REG,255
+epl-2011-REG-0256,2011,,2011-02-12,Birmingham City,Stoke City,1,0,REG,256
+epl-2011-REG-0257,2011,,2011-02-12,Blackburn Rovers,Newcastle United,0,0,REG,257
+epl-2011-REG-0258,2011,,2011-02-12,Blackpool,Aston Villa,1,1,REG,258
+epl-2011-REG-0259,2011,,2011-02-12,Liverpool,Wigan Athletic,1,1,REG,259
+epl-2011-REG-0260,2011,,2011-02-12,Manchester United,Manchester City,2,1,REG,260
+epl-2011-REG-0261,2011,,2011-02-12,Sunderland,Tottenham Hotspur,1,2,REG,261
+epl-2011-REG-0262,2011,,2011-02-12,West Bromwich Albion,West Ham United,3,3,REG,262
+epl-2011-REG-0263,2011,,2011-02-13,Bolton Wanderers,Everton,2,0,REG,263
+epl-2011-REG-0264,2011,,2011-02-14,Fulham,Chelsea,0,0,REG,264
+epl-2011-REG-0265,2011,,2011-02-15,Birmingham City,Newcastle United,0,2,REG,265
+epl-2011-REG-0266,2011,,2011-02-20,West Bromwich Albion,Wolverhampton Wanderers,1,1,REG,266
+epl-2011-REG-0267,2011,,2011-02-22,Blackpool,Tottenham Hotspur,3,1,REG,267
+epl-2011-REG-0268,2011,,2011-02-23,Arsenal,Stoke City,1,0,REG,268
+epl-2011-REG-0269,2011,,2011-02-26,Aston Villa,Blackburn Rovers,4,1,REG,269
+epl-2011-REG-0270,2011,,2011-02-26,Everton,Sunderland,2,0,REG,270
+epl-2011-REG-0271,2011,,2011-02-26,Newcastle United,Bolton Wanderers,1,1,REG,271
+epl-2011-REG-0272,2011,,2011-02-26,Wigan Athletic,Manchester United,0,4,REG,272
+epl-2011-REG-0273,2011,,2011-02-26,Wolverhampton Wanderers,Blackpool,4,0,REG,273
+epl-2011-REG-0274,2011,,2011-02-27,Manchester City,Fulham,1,1,REG,274
+epl-2011-REG-0275,2011,,2011-02-27,West Ham United,Liverpool,3,1,REG,275
+epl-2011-REG-0276,2011,,2011-02-28,Stoke City,West Bromwich Albion,1,1,REG,276
+epl-2011-REG-0277,2011,,2011-03-01,Chelsea,Manchester United,2,1,REG,277
+epl-2011-REG-0278,2011,,2011-03-05,Arsenal,Sunderland,0,0,REG,278
+epl-2011-REG-0279,2011,,2011-03-05,Birmingham City,West Bromwich Albion,1,3,REG,279
+epl-2011-REG-0280,2011,,2011-03-05,Bolton Wanderers,Aston Villa,3,2,REG,280
+epl-2011-REG-0281,2011,,2011-03-05,Fulham,Blackburn Rovers,3,2,REG,281
+epl-2011-REG-0282,2011,,2011-03-05,Manchester City,Wigan Athletic,1,0,REG,282
+epl-2011-REG-0283,2011,,2011-03-05,Newcastle United,Everton,1,2,REG,283
+epl-2011-REG-0284,2011,,2011-03-05,West Ham United,Stoke City,3,0,REG,284
+epl-2011-REG-0285,2011,,2011-03-06,Liverpool,Manchester United,3,1,REG,285
+epl-2011-REG-0286,2011,,2011-03-06,Wolverhampton Wanderers,Tottenham Hotspur,3,3,REG,286
+epl-2011-REG-0287,2011,,2011-03-07,Blackpool,Chelsea,1,3,REG,287
+epl-2011-REG-0288,2011,,2011-03-09,Everton,Birmingham City,1,1,REG,288
+epl-2011-REG-0289,2011,,2011-03-19,Aston Villa,Wolverhampton Wanderers,0,1,REG,289
+epl-2011-REG-0290,2011,,2011-03-19,Blackburn Rovers,Blackpool,2,2,REG,290
+epl-2011-REG-0291,2011,,2011-03-19,Everton,Fulham,2,1,REG,291
+epl-2011-REG-0292,2011,,2011-03-19,Manchester United,Bolton Wanderers,1,0,REG,292
+epl-2011-REG-0293,2011,,2011-03-19,Stoke City,Newcastle United,4,0,REG,293
+epl-2011-REG-0294,2011,,2011-03-19,Tottenham Hotspur,West Ham United,0,0,REG,294
+epl-2011-REG-0295,2011,,2011-03-19,West Bromwich Albion,Arsenal,2,2,REG,295
+epl-2011-REG-0296,2011,,2011-03-19,Wigan Athletic,Birmingham City,2,1,REG,296
+epl-2011-REG-0297,2011,,2011-03-20,Chelsea,Manchester City,2,0,REG,297
+epl-2011-REG-0298,2011,,2011-03-20,Sunderland,Liverpool,0,2,REG,298
+epl-2011-REG-0299,2011,,2011-04-02,Arsenal,Blackburn Rovers,0,0,REG,299
+epl-2011-REG-0300,2011,,2011-04-02,Birmingham City,Bolton Wanderers,2,1,REG,300
+epl-2011-REG-0301,2011,,2011-04-02,Everton,Aston Villa,2,2,REG,301
+epl-2011-REG-0302,2011,,2011-04-02,Newcastle United,Wolverhampton Wanderers,4,1,REG,302
+epl-2011-REG-0303,2011,,2011-04-02,Stoke City,Chelsea,1,1,REG,303
+epl-2011-REG-0304,2011,,2011-04-02,West Bromwich Albion,Liverpool,2,1,REG,304
+epl-2011-REG-0305,2011,,2011-04-02,West Ham United,Manchester United,2,4,REG,305
+epl-2011-REG-0306,2011,,2011-04-02,Wigan Athletic,Tottenham Hotspur,0,0,REG,306
+epl-2011-REG-0307,2011,,2011-04-03,Fulham,Blackpool,3,0,REG,307
+epl-2011-REG-0308,2011,,2011-04-03,Manchester City,Sunderland,5,0,REG,308
+epl-2011-REG-0309,2011,,2011-04-09,Blackburn Rovers,Birmingham City,1,1,REG,309
+epl-2011-REG-0310,2011,,2011-04-09,Bolton Wanderers,West Ham United,3,0,REG,310
+epl-2011-REG-0311,2011,,2011-04-09,Chelsea,Wigan Athletic,1,0,REG,311
+epl-2011-REG-0312,2011,,2011-04-09,Manchester United,Fulham,2,0,REG,312
+epl-2011-REG-0313,2011,,2011-04-09,Sunderland,West Bromwich Albion,2,3,REG,313
+epl-2011-REG-0314,2011,,2011-04-09,Tottenham Hotspur,Stoke City,3,2,REG,314
+epl-2011-REG-0315,2011,,2011-04-09,Wolverhampton Wanderers,Everton,0,3,REG,315
+epl-2011-REG-0316,2011,,2011-04-10,Aston Villa,Newcastle United,1,0,REG,316
+epl-2011-REG-0317,2011,,2011-04-10,Blackpool,Arsenal,1,3,REG,317
+epl-2011-REG-0318,2011,,2011-04-11,Liverpool,Manchester City,3,0,REG,318
+epl-2011-REG-0319,2011,,2011-04-16,Birmingham City,Sunderland,2,0,REG,319
+epl-2011-REG-0320,2011,,2011-04-16,Blackpool,Wigan Athletic,1,3,REG,320
+epl-2011-REG-0321,2011,,2011-04-16,Everton,Blackburn Rovers,2,0,REG,321
+epl-2011-REG-0322,2011,,2011-04-16,West Bromwich Albion,Chelsea,1,3,REG,322
+epl-2011-REG-0323,2011,,2011-04-16,West Ham United,Aston Villa,1,2,REG,323
+epl-2011-REG-0324,2011,,2011-04-17,Arsenal,Liverpool,1,1,REG,324
+epl-2011-REG-0325,2011,,2011-04-19,Newcastle United,Manchester United,0,0,REG,325
+epl-2011-REG-0326,2011,,2011-04-20,Chelsea,Birmingham City,3,1,REG,326
+epl-2011-REG-0327,2011,,2011-04-20,Tottenham Hotspur,Arsenal,3,3,REG,327
+epl-2011-REG-0328,2011,,2011-04-23,Aston Villa,Stoke City,1,1,REG,328
+epl-2011-REG-0329,2011,,2011-04-23,Blackpool,Newcastle United,1,1,REG,329
+epl-2011-REG-0330,2011,,2011-04-23,Chelsea,West Ham United,3,0,REG,330
+epl-2011-REG-0331,2011,,2011-04-23,Liverpool,Birmingham City,5,0,REG,331
+epl-2011-REG-0332,2011,,2011-04-23,Manchester United,Everton,1,0,REG,332
+epl-2011-REG-0333,2011,,2011-04-23,Sunderland,Wigan Athletic,4,2,REG,333
+epl-2011-REG-0334,2011,,2011-04-23,Tottenham Hotspur,West Bromwich Albion,2,2,REG,334
+epl-2011-REG-0335,2011,,2011-04-23,Wolverhampton Wanderers,Fulham,1,1,REG,335
+epl-2011-REG-0336,2011,,2011-04-24,Bolton Wanderers,Arsenal,2,1,REG,336
+epl-2011-REG-0337,2011,,2011-04-25,Blackburn Rovers,Manchester City,0,1,REG,337
+epl-2011-REG-0338,2011,,2011-04-26,Stoke City,Wolverhampton Wanderers,3,0,REG,338
+epl-2011-REG-0339,2011,,2011-04-27,Fulham,Bolton Wanderers,3,0,REG,339
+epl-2011-REG-0340,2011,,2011-04-30,Blackburn Rovers,Bolton Wanderers,1,0,REG,340
+epl-2011-REG-0341,2011,,2011-04-30,Blackpool,Stoke City,0,0,REG,341
+epl-2011-REG-0342,2011,,2011-04-30,Chelsea,Tottenham Hotspur,2,1,REG,342
+epl-2011-REG-0343,2011,,2011-04-30,Sunderland,Fulham,0,3,REG,343
+epl-2011-REG-0344,2011,,2011-04-30,West Bromwich Albion,Aston Villa,2,1,REG,344
+epl-2011-REG-0345,2011,,2011-04-30,Wigan Athletic,Everton,1,1,REG,345
+epl-2011-REG-0346,2011,,2011-05-01,Arsenal,Manchester United,1,0,REG,346
+epl-2011-REG-0347,2011,,2011-05-01,Birmingham City,Wolverhampton Wanderers,1,1,REG,347
+epl-2011-REG-0348,2011,,2011-05-01,Liverpool,Newcastle United,3,0,REG,348
+epl-2011-REG-0349,2011,,2011-05-01,Manchester City,West Ham United,2,1,REG,349
+epl-2011-REG-0350,2011,,2011-05-07,Aston Villa,Wigan Athletic,1,1,REG,350
+epl-2011-REG-0351,2011,,2011-05-07,Bolton Wanderers,Sunderland,1,2,REG,351
+epl-2011-REG-0352,2011,,2011-05-07,Everton,Manchester City,2,1,REG,352
+epl-2011-REG-0353,2011,,2011-05-07,Newcastle United,Birmingham City,2,1,REG,353
+epl-2011-REG-0354,2011,,2011-05-07,Tottenham Hotspur,Blackpool,1,1,REG,354
+epl-2011-REG-0355,2011,,2011-05-07,West Ham United,Blackburn Rovers,1,1,REG,355
+epl-2011-REG-0356,2011,,2011-05-08,Manchester United,Chelsea,2,1,REG,356
+epl-2011-REG-0357,2011,,2011-05-08,Stoke City,Arsenal,3,1,REG,357
+epl-2011-REG-0358,2011,,2011-05-08,Wolverhampton Wanderers,West Bromwich Albion,3,1,REG,358
+epl-2011-REG-0359,2011,,2011-05-09,Fulham,Liverpool,2,5,REG,359
+epl-2011-REG-0360,2011,,2011-05-10,Manchester City,Tottenham Hotspur,1,0,REG,360
+epl-2011-REG-0361,2011,,2011-05-14,Blackburn Rovers,Manchester United,1,1,REG,361
+epl-2011-REG-0362,2011,,2011-05-14,Blackpool,Bolton Wanderers,4,3,REG,362
+epl-2011-REG-0363,2011,,2011-05-14,Sunderland,Wolverhampton Wanderers,1,3,REG,363
+epl-2011-REG-0364,2011,,2011-05-14,West Bromwich Albion,Everton,1,0,REG,364
+epl-2011-REG-0365,2011,,2011-05-15,Arsenal,Aston Villa,1,2,REG,365
+epl-2011-REG-0366,2011,,2011-05-15,Birmingham City,Fulham,0,2,REG,366
+epl-2011-REG-0367,2011,,2011-05-15,Chelsea,Newcastle United,2,2,REG,367
+epl-2011-REG-0368,2011,,2011-05-15,Liverpool,Tottenham Hotspur,0,2,REG,368
+epl-2011-REG-0369,2011,,2011-05-15,Wigan Athletic,West Ham United,3,2,REG,369
+epl-2011-REG-0370,2011,,2011-05-17,Manchester City,Stoke City,3,0,REG,370
+epl-2011-REG-0371,2011,,2011-05-22,Aston Villa,Liverpool,1,0,REG,371
+epl-2011-REG-0372,2011,,2011-05-22,Bolton Wanderers,Manchester City,0,2,REG,372
+epl-2011-REG-0373,2011,,2011-05-22,Everton,Chelsea,1,0,REG,373
+epl-2011-REG-0374,2011,,2011-05-22,Fulham,Arsenal,2,2,REG,374
+epl-2011-REG-0375,2011,,2011-05-22,Manchester United,Blackpool,4,2,REG,375
+epl-2011-REG-0376,2011,,2011-05-22,Newcastle United,West Bromwich Albion,3,3,REG,376
+epl-2011-REG-0377,2011,,2011-05-22,Stoke City,Wigan Athletic,0,1,REG,377
+epl-2011-REG-0378,2011,,2011-05-22,Tottenham Hotspur,Birmingham City,2,1,REG,378
+epl-2011-REG-0379,2011,,2011-05-22,West Ham United,Sunderland,0,3,REG,379
+epl-2011-REG-0380,2011,,2011-05-22,Wolverhampton Wanderers,Blackburn Rovers,2,3,REG,380

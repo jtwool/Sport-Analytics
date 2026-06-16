@@ -1,0 +1,1395 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nba-201710170CLE,2018,,2017-10-17,Cleveland Cavaliers,Boston Celtics,102,99,REG,1
+nba-201710170GSW,2018,,2017-10-17,Golden State Warriors,Houston Rockets,121,122,REG,2
+nba-201710180BOS,2018,,2017-10-18,Boston Celtics,Milwaukee Bucks,100,108,REG,3
+nba-201710180DAL,2018,,2017-10-18,Dallas Mavericks,Atlanta Hawks,111,117,REG,4
+nba-201710180DET,2018,,2017-10-18,Detroit Pistons,Charlotte Hornets,102,90,REG,5
+nba-201710180IND,2018,,2017-10-18,Indiana Pacers,Brooklyn Nets,140,131,REG,6
+nba-201710180MEM,2018,,2017-10-18,Memphis Grizzlies,New Orleans Pelicans,103,91,REG,7
+nba-201710180ORL,2018,,2017-10-18,Orlando Magic,Miami Heat,116,109,REG,8
+nba-201710180PHO,2018,,2017-10-18,Phoenix Suns,Portland Trail Blazers,76,124,REG,9
+nba-201710180SAC,2018,,2017-10-18,Sacramento Kings,Houston Rockets,100,105,REG,10
+nba-201710180SAS,2018,,2017-10-18,San Antonio Spurs,Minnesota Timberwolves,107,99,REG,11
+nba-201710180UTA,2018,,2017-10-18,Utah Jazz,Denver Nuggets,106,96,REG,12
+nba-201710180WAS,2018,,2017-10-18,Washington Wizards,Philadelphia 76ers,120,115,REG,13
+nba-201710190LAL,2018,,2017-10-19,Los Angeles Lakers,Los Angeles Clippers,92,108,REG,14
+nba-201710190OKC,2018,,2017-10-19,Oklahoma City Thunder,New York Knicks,105,84,REG,15
+nba-201710190TOR,2018,,2017-10-19,Toronto Raptors,Chicago Bulls,117,100,REG,16
+nba-201710200BRK,2018,,2017-10-20,Brooklyn Nets,Orlando Magic,126,121,REG,17
+nba-201710200CHO,2018,,2017-10-20,Charlotte Hornets,Atlanta Hawks,109,91,REG,18
+nba-201710200DAL,2018,,2017-10-20,Dallas Mavericks,Sacramento Kings,88,93,REG,19
+nba-201710200IND,2018,,2017-10-20,Indiana Pacers,Portland Trail Blazers,96,114,REG,20
+nba-201710200MIL,2018,,2017-10-20,Milwaukee Bucks,Cleveland Cavaliers,97,116,REG,21
+nba-201710200MIN,2018,,2017-10-20,Minnesota Timberwolves,Utah Jazz,100,97,REG,22
+nba-201710200NOP,2018,,2017-10-20,New Orleans Pelicans,Golden State Warriors,120,128,REG,23
+nba-201710200PHI,2018,,2017-10-20,Philadelphia 76ers,Boston Celtics,92,102,REG,24
+nba-201710200PHO,2018,,2017-10-20,Phoenix Suns,Los Angeles Lakers,130,132,REG,25
+nba-201710200WAS,2018,,2017-10-20,Washington Wizards,Detroit Pistons,115,111,REG,26
+nba-201710210CHI,2018,,2017-10-21,Chicago Bulls,San Antonio Spurs,77,87,REG,27
+nba-201710210CLE,2018,,2017-10-21,Cleveland Cavaliers,Orlando Magic,93,114,REG,28
+nba-201710210DEN,2018,,2017-10-21,Denver Nuggets,Sacramento Kings,96,79,REG,29
+nba-201710210HOU,2018,,2017-10-21,Houston Rockets,Dallas Mavericks,107,91,REG,30
+nba-201710210LAC,2018,,2017-10-21,Los Angeles Clippers,Phoenix Suns,130,88,REG,31
+nba-201710210MEM,2018,,2017-10-21,Memphis Grizzlies,Golden State Warriors,111,101,REG,32
+nba-201710210MIA,2018,,2017-10-21,Miami Heat,Indiana Pacers,112,108,REG,33
+nba-201710210MIL,2018,,2017-10-21,Milwaukee Bucks,Portland Trail Blazers,113,110,REG,34
+nba-201710210NYK,2018,,2017-10-21,New York Knicks,Detroit Pistons,107,111,REG,35
+nba-201710210TOR,2018,,2017-10-21,Toronto Raptors,Philadelphia 76ers,128,94,REG,36
+nba-201710210UTA,2018,,2017-10-21,Utah Jazz,Oklahoma City Thunder,96,87,REG,37
+nba-201710220BRK,2018,,2017-10-22,Brooklyn Nets,Atlanta Hawks,116,104,REG,38
+nba-201710220LAL,2018,,2017-10-22,Los Angeles Lakers,New Orleans Pelicans,112,119,REG,39
+nba-201710220OKC,2018,,2017-10-22,Oklahoma City Thunder,Minnesota Timberwolves,113,115,REG,40
+nba-201710230DAL,2018,,2017-10-23,Dallas Mavericks,Golden State Warriors,103,133,REG,41
+nba-201710230DEN,2018,,2017-10-23,Denver Nuggets,Washington Wizards,104,109,REG,42
+nba-201710230DET,2018,,2017-10-23,Detroit Pistons,Philadelphia 76ers,86,97,REG,43
+nba-201710230HOU,2018,,2017-10-23,Houston Rockets,Memphis Grizzlies,90,98,REG,44
+nba-201710230MIA,2018,,2017-10-23,Miami Heat,Atlanta Hawks,104,93,REG,45
+nba-201710230MIL,2018,,2017-10-23,Milwaukee Bucks,Charlotte Hornets,103,94,REG,46
+nba-201710230PHO,2018,,2017-10-23,Phoenix Suns,Sacramento Kings,117,115,REG,47
+nba-201710230SAS,2018,,2017-10-23,San Antonio Spurs,Toronto Raptors,101,97,REG,48
+nba-201710240BOS,2018,,2017-10-24,Boston Celtics,New York Knicks,110,89,REG,49
+nba-201710240CLE,2018,,2017-10-24,Cleveland Cavaliers,Chicago Bulls,119,112,REG,50
+nba-201710240LAC,2018,,2017-10-24,Los Angeles Clippers,Utah Jazz,102,84,REG,51
+nba-201710240MIN,2018,,2017-10-24,Minnesota Timberwolves,Indiana Pacers,107,130,REG,52
+nba-201710240ORL,2018,,2017-10-24,Orlando Magic,Brooklyn Nets,125,121,REG,53
+nba-201710240POR,2018,,2017-10-24,Portland Trail Blazers,New Orleans Pelicans,103,93,REG,54
+nba-201710250BRK,2018,,2017-10-25,Brooklyn Nets,Cleveland Cavaliers,112,107,REG,55
+nba-201710250CHO,2018,,2017-10-25,Charlotte Hornets,Denver Nuggets,110,93,REG,56
+nba-201710250DAL,2018,,2017-10-25,Dallas Mavericks,Memphis Grizzlies,103,94,REG,57
+nba-201710250DET,2018,,2017-10-25,Detroit Pistons,Minnesota Timberwolves,122,101,REG,58
+nba-201710250GSW,2018,,2017-10-25,Golden State Warriors,Toronto Raptors,117,112,REG,59
+nba-201710250LAL,2018,,2017-10-25,Los Angeles Lakers,Washington Wizards,102,99,REG,60
+nba-201710250MIA,2018,,2017-10-25,Miami Heat,San Antonio Spurs,100,117,REG,61
+nba-201710250OKC,2018,,2017-10-25,Oklahoma City Thunder,Indiana Pacers,114,96,REG,62
+nba-201710250PHI,2018,,2017-10-25,Philadelphia 76ers,Houston Rockets,104,105,REG,63
+nba-201710250PHO,2018,,2017-10-25,Phoenix Suns,Utah Jazz,97,88,REG,64
+nba-201710260CHI,2018,,2017-10-26,Chicago Bulls,Atlanta Hawks,91,86,REG,65
+nba-201710260MEM,2018,,2017-10-26,Memphis Grizzlies,Dallas Mavericks,96,91,REG,66
+nba-201710260MIL,2018,,2017-10-26,Milwaukee Bucks,Boston Celtics,89,96,REG,67
+nba-201710260POR,2018,,2017-10-26,Portland Trail Blazers,Los Angeles Clippers,103,104,REG,68
+nba-201710260SAC,2018,,2017-10-26,Sacramento Kings,New Orleans Pelicans,106,114,REG,69
+nba-201710270ATL,2018,,2017-10-27,Atlanta Hawks,Denver Nuggets,100,105,REG,70
+nba-201710270CHO,2018,,2017-10-27,Charlotte Hornets,Houston Rockets,93,109,REG,71
+nba-201710270GSW,2018,,2017-10-27,Golden State Warriors,Washington Wizards,120,117,REG,72
+nba-201710270LAL,2018,,2017-10-27,Los Angeles Lakers,Toronto Raptors,92,101,REG,73
+nba-201710270MIN,2018,,2017-10-27,Minnesota Timberwolves,Oklahoma City Thunder,119,116,REG,74
+nba-201710270NYK,2018,,2017-10-27,New York Knicks,Brooklyn Nets,107,86,REG,75
+nba-201710270ORL,2018,,2017-10-27,Orlando Magic,San Antonio Spurs,114,87,REG,76
+nba-201710280CHI,2018,,2017-10-28,Chicago Bulls,Oklahoma City Thunder,69,101,REG,77
+nba-201710280DAL,2018,,2017-10-28,Dallas Mavericks,Philadelphia 76ers,110,112,REG,78
+nba-201710280LAC,2018,,2017-10-28,Los Angeles Clippers,Detroit Pistons,87,95,REG,79
+nba-201710280MEM,2018,,2017-10-28,Memphis Grizzlies,Houston Rockets,103,89,REG,80
+nba-201710280MIA,2018,,2017-10-28,Miami Heat,Boston Celtics,90,96,REG,81
+nba-201710280NOP,2018,,2017-10-28,New Orleans Pelicans,Cleveland Cavaliers,123,101,REG,82
+nba-201710280POR,2018,,2017-10-28,Portland Trail Blazers,Phoenix Suns,114,107,REG,83
+nba-201710280UTA,2018,,2017-10-28,Utah Jazz,Los Angeles Lakers,96,81,REG,84
+nba-201710290ATL,2018,,2017-10-29,Atlanta Hawks,Milwaukee Bucks,106,117,REG,85
+nba-201710290BRK,2018,,2017-10-29,Brooklyn Nets,Denver Nuggets,111,124,REG,86
+nba-201710290CHO,2018,,2017-10-29,Charlotte Hornets,Orlando Magic,120,113,REG,87
+nba-201710290CLE,2018,,2017-10-29,Cleveland Cavaliers,New York Knicks,95,114,REG,88
+nba-201710290GSW,2018,,2017-10-29,Golden State Warriors,Detroit Pistons,107,115,REG,89
+nba-201710290IND,2018,,2017-10-29,Indiana Pacers,San Antonio Spurs,97,94,REG,90
+nba-201710290SAC,2018,,2017-10-29,Sacramento Kings,Washington Wizards,83,110,REG,91
+nba-201710300BOS,2018,,2017-10-30,Boston Celtics,San Antonio Spurs,108,94,REG,92
+nba-201710300HOU,2018,,2017-10-30,Houston Rockets,Philadelphia 76ers,107,115,REG,93
+nba-201710300LAC,2018,,2017-10-30,Los Angeles Clippers,Golden State Warriors,113,141,REG,94
+nba-201710300MEM,2018,,2017-10-30,Memphis Grizzlies,Charlotte Hornets,99,104,REG,95
+nba-201710300MIA,2018,,2017-10-30,Miami Heat,Minnesota Timberwolves,122,125,REG,96
+nba-201710300NOP,2018,,2017-10-30,New Orleans Pelicans,Orlando Magic,99,115,REG,97
+nba-201710300NYK,2018,,2017-10-30,New York Knicks,Denver Nuggets,116,110,REG,98
+nba-201710300POR,2018,,2017-10-30,Portland Trail Blazers,Toronto Raptors,85,99,REG,99
+nba-201710300UTA,2018,,2017-10-30,Utah Jazz,Dallas Mavericks,104,89,REG,100
+nba-201710310BRK,2018,,2017-10-31,Brooklyn Nets,Phoenix Suns,114,122,REG,101
+nba-201710310IND,2018,,2017-10-31,Indiana Pacers,Sacramento Kings,101,83,REG,102
+nba-201710310LAL,2018,,2017-10-31,Los Angeles Lakers,Detroit Pistons,113,93,REG,103
+nba-201710310MIL,2018,,2017-10-31,Milwaukee Bucks,Oklahoma City Thunder,91,110,REG,104
+nba-201711010BOS,2018,,2017-11-01,Boston Celtics,Sacramento Kings,113,86,REG,105
+nba-201711010CHO,2018,,2017-11-01,Charlotte Hornets,Milwaukee Bucks,126,121,REG,106
+nba-201711010CLE,2018,,2017-11-01,Cleveland Cavaliers,Indiana Pacers,107,124,REG,107
+nba-201711010DEN,2018,,2017-11-01,Denver Nuggets,Toronto Raptors,129,111,REG,108
+nba-201711010LAC,2018,,2017-11-01,Los Angeles Clippers,Dallas Mavericks,119,98,REG,109
+nba-201711010MEM,2018,,2017-11-01,Memphis Grizzlies,Orlando Magic,99,101,REG,110
+nba-201711010MIA,2018,,2017-11-01,Miami Heat,Chicago Bulls,97,91,REG,111
+nba-201711010NOP,2018,,2017-11-01,New Orleans Pelicans,Minnesota Timberwolves,98,104,REG,112
+nba-201711010NYK,2018,,2017-11-01,New York Knicks,Houston Rockets,97,119,REG,113
+nba-201711010PHI,2018,,2017-11-01,Philadelphia 76ers,Atlanta Hawks,119,109,REG,114
+nba-201711010UTA,2018,,2017-11-01,Utah Jazz,Portland Trail Blazers,112,103,REG,115
+nba-201711010WAS,2018,,2017-11-01,Washington Wizards,Phoenix Suns,116,122,REG,116
+nba-201711020POR,2018,,2017-11-02,Portland Trail Blazers,Los Angeles Lakers,113,110,REG,117
+nba-201711020SAS,2018,,2017-11-02,San Antonio Spurs,Golden State Warriors,92,112,REG,118
+nba-201711030ATL,2018,,2017-11-03,Atlanta Hawks,Houston Rockets,104,119,REG,119
+nba-201711030DAL,2018,,2017-11-03,Dallas Mavericks,New Orleans Pelicans,94,99,REG,120
+nba-201711030DEN,2018,,2017-11-03,Denver Nuggets,Miami Heat,95,94,REG,121
+nba-201711030DET,2018,,2017-11-03,Detroit Pistons,Milwaukee Bucks,105,96,REG,122
+nba-201711030LAL,2018,,2017-11-03,Los Angeles Lakers,Brooklyn Nets,124,112,REG,123
+nba-201711030NYK,2018,,2017-11-03,New York Knicks,Phoenix Suns,120,107,REG,124
+nba-201711030OKC,2018,,2017-11-03,Oklahoma City Thunder,Boston Celtics,94,101,REG,125
+nba-201711030ORL,2018,,2017-11-03,Orlando Magic,Chicago Bulls,83,105,REG,126
+nba-201711030PHI,2018,,2017-11-03,Philadelphia 76ers,Indiana Pacers,121,110,REG,127
+nba-201711030SAS,2018,,2017-11-03,San Antonio Spurs,Charlotte Hornets,108,101,REG,128
+nba-201711030UTA,2018,,2017-11-03,Utah Jazz,Toronto Raptors,100,109,REG,129
+nba-201711030WAS,2018,,2017-11-03,Washington Wizards,Cleveland Cavaliers,122,130,REG,130
+nba-201711040CHI,2018,,2017-11-04,Chicago Bulls,New Orleans Pelicans,90,96,REG,131
+nba-201711040DEN,2018,,2017-11-04,Denver Nuggets,Golden State Warriors,108,127,REG,132
+nba-201711040DET,2018,,2017-11-04,Detroit Pistons,Sacramento Kings,108,99,REG,133
+nba-201711040LAC,2018,,2017-11-04,Los Angeles Clippers,Memphis Grizzlies,104,113,REG,134
+nba-201711040MIN,2018,,2017-11-04,Minnesota Timberwolves,Dallas Mavericks,112,99,REG,135
+nba-201711050CLE,2018,,2017-11-05,Cleveland Cavaliers,Atlanta Hawks,115,117,REG,136
+nba-201711050HOU,2018,,2017-11-05,Houston Rockets,Utah Jazz,137,110,REG,137
+nba-201711050LAC,2018,,2017-11-05,Los Angeles Clippers,Miami Heat,101,104,REG,138
+nba-201711050LAL,2018,,2017-11-05,Los Angeles Lakers,Memphis Grizzlies,107,102,REG,139
+nba-201711050MIN,2018,,2017-11-05,Minnesota Timberwolves,Charlotte Hornets,112,94,REG,140
+nba-201711050NYK,2018,,2017-11-05,New York Knicks,Indiana Pacers,108,101,REG,141
+nba-201711050ORL,2018,,2017-11-05,Orlando Magic,Boston Celtics,88,104,REG,142
+nba-201711050POR,2018,,2017-11-05,Portland Trail Blazers,Oklahoma City Thunder,103,99,REG,143
+nba-201711050SAS,2018,,2017-11-05,San Antonio Spurs,Phoenix Suns,112,95,REG,144
+nba-201711050TOR,2018,,2017-11-05,Toronto Raptors,Washington Wizards,96,107,REG,145
+nba-201711060ATL,2018,,2017-11-06,Atlanta Hawks,Boston Celtics,107,110,REG,146
+nba-201711060GSW,2018,,2017-11-06,Golden State Warriors,Miami Heat,97,80,REG,147
+nba-201711060PHO,2018,,2017-11-06,Phoenix Suns,Brooklyn Nets,92,98,REG,148
+nba-201711070CLE,2018,,2017-11-07,Cleveland Cavaliers,Milwaukee Bucks,124,119,REG,149
+nba-201711070DEN,2018,,2017-11-07,Denver Nuggets,Brooklyn Nets,112,104,REG,150
+nba-201711070IND,2018,,2017-11-07,Indiana Pacers,New Orleans Pelicans,112,117,REG,151
+nba-201711070NYK,2018,,2017-11-07,New York Knicks,Charlotte Hornets,118,113,REG,152
+nba-201711070POR,2018,,2017-11-07,Portland Trail Blazers,Memphis Grizzlies,97,98,REG,153
+nba-201711070SAC,2018,,2017-11-07,Sacramento Kings,Oklahoma City Thunder,94,86,REG,154
+nba-201711070SAS,2018,,2017-11-07,San Antonio Spurs,Los Angeles Clippers,120,107,REG,155
+nba-201711070TOR,2018,,2017-11-07,Toronto Raptors,Chicago Bulls,119,114,REG,156
+nba-201711070UTA,2018,,2017-11-07,Utah Jazz,Philadelphia 76ers,97,104,REG,157
+nba-201711070WAS,2018,,2017-11-07,Washington Wizards,Dallas Mavericks,99,113,REG,158
+nba-201711080BOS,2018,,2017-11-08,Boston Celtics,Los Angeles Lakers,107,96,REG,159
+nba-201711080DET,2018,,2017-11-08,Detroit Pistons,Indiana Pacers,114,97,REG,160
+nba-201711080GSW,2018,,2017-11-08,Golden State Warriors,Minnesota Timberwolves,125,101,REG,161
+nba-201711080ORL,2018,,2017-11-08,Orlando Magic,New York Knicks,112,99,REG,162
+nba-201711080PHO,2018,,2017-11-08,Phoenix Suns,Miami Heat,115,126,REG,163
+nba-201711090DEN,2018,,2017-11-09,Denver Nuggets,Oklahoma City Thunder,102,94,REG,164
+nba-201711090HOU,2018,,2017-11-09,Houston Rockets,Cleveland Cavaliers,117,113,REG,165
+nba-201711090SAC,2018,,2017-11-09,Sacramento Kings,Philadelphia 76ers,109,108,REG,166
+nba-201711090TOR,2018,,2017-11-09,Toronto Raptors,New Orleans Pelicans,122,118,REG,167
+nba-201711090WAS,2018,,2017-11-09,Washington Wizards,Los Angeles Lakers,111,95,REG,168
+nba-201711100BOS,2018,,2017-11-10,Boston Celtics,Charlotte Hornets,90,87,REG,169
+nba-201711100CHI,2018,,2017-11-10,Chicago Bulls,Indiana Pacers,87,105,REG,170
+nba-201711100DET,2018,,2017-11-10,Detroit Pistons,Atlanta Hawks,111,104,REG,171
+nba-201711100OKC,2018,,2017-11-10,Oklahoma City Thunder,Los Angeles Clippers,120,111,REG,172
+nba-201711100PHO,2018,,2017-11-10,Phoenix Suns,Orlando Magic,112,128,REG,173
+nba-201711100POR,2018,,2017-11-10,Portland Trail Blazers,Brooklyn Nets,97,101,REG,174
+nba-201711100SAS,2018,,2017-11-10,San Antonio Spurs,Milwaukee Bucks,87,94,REG,175
+nba-201711100UTA,2018,,2017-11-10,Utah Jazz,Miami Heat,74,84,REG,176
+nba-201711110DAL,2018,,2017-11-11,Dallas Mavericks,Cleveland Cavaliers,104,111,REG,177
+nba-201711110DEN,2018,,2017-11-11,Denver Nuggets,Orlando Magic,125,107,REG,178
+nba-201711110GSW,2018,,2017-11-11,Golden State Warriors,Philadelphia 76ers,135,114,REG,179
+nba-201711110HOU,2018,,2017-11-11,Houston Rockets,Memphis Grizzlies,111,96,REG,180
+nba-201711110MIL,2018,,2017-11-11,Milwaukee Bucks,Los Angeles Lakers,98,90,REG,181
+nba-201711110NOP,2018,,2017-11-11,New Orleans Pelicans,Los Angeles Clippers,111,103,REG,182
+nba-201711110NYK,2018,,2017-11-11,New York Knicks,Sacramento Kings,118,91,REG,183
+nba-201711110PHO,2018,,2017-11-11,Phoenix Suns,Minnesota Timberwolves,118,110,REG,184
+nba-201711110SAS,2018,,2017-11-11,San Antonio Spurs,Chicago Bulls,133,94,REG,185
+nba-201711110UTA,2018,,2017-11-11,Utah Jazz,Brooklyn Nets,114,106,REG,186
+nba-201711110WAS,2018,,2017-11-11,Washington Wizards,Atlanta Hawks,113,94,REG,187
+nba-201711120BOS,2018,,2017-11-12,Boston Celtics,Toronto Raptors,95,94,REG,188
+nba-201711120DET,2018,,2017-11-12,Detroit Pistons,Miami Heat,112,103,REG,189
+nba-201711120IND,2018,,2017-11-12,Indiana Pacers,Houston Rockets,95,118,REG,190
+nba-201711120OKC,2018,,2017-11-12,Oklahoma City Thunder,Dallas Mavericks,112,99,REG,191
+nba-201711130GSW,2018,,2017-11-13,Golden State Warriors,Orlando Magic,110,100,REG,192
+nba-201711130LAC,2018,,2017-11-13,Los Angeles Clippers,Philadelphia 76ers,105,109,REG,193
+nba-201711130MIL,2018,,2017-11-13,Milwaukee Bucks,Memphis Grizzlies,110,103,REG,194
+nba-201711130NOP,2018,,2017-11-13,New Orleans Pelicans,Atlanta Hawks,106,105,REG,195
+nba-201711130NYK,2018,,2017-11-13,New York Knicks,Cleveland Cavaliers,101,104,REG,196
+nba-201711130PHO,2018,,2017-11-13,Phoenix Suns,Los Angeles Lakers,93,100,REG,197
+nba-201711130POR,2018,,2017-11-13,Portland Trail Blazers,Denver Nuggets,99,82,REG,198
+nba-201711130UTA,2018,,2017-11-13,Utah Jazz,Minnesota Timberwolves,98,109,REG,199
+nba-201711130WAS,2018,,2017-11-13,Washington Wizards,Sacramento Kings,110,92,REG,200
+nba-201711140BRK,2018,,2017-11-14,Brooklyn Nets,Boston Celtics,102,109,REG,201
+nba-201711140DAL,2018,,2017-11-14,Dallas Mavericks,San Antonio Spurs,91,97,REG,202
+nba-201711140HOU,2018,,2017-11-14,Houston Rockets,Toronto Raptors,113,129,REG,203
+nba-201711150ATL,2018,,2017-11-15,Atlanta Hawks,Sacramento Kings,126,80,REG,204
+nba-201711150CHO,2018,,2017-11-15,Charlotte Hornets,Cleveland Cavaliers,107,115,REG,205
+nba-201711150LAL,2018,,2017-11-15,Los Angeles Lakers,Philadelphia 76ers,109,115,REG,206
+nba-201711150MEM,2018,,2017-11-15,Memphis Grizzlies,Indiana Pacers,113,116,REG,207
+nba-201711150MIA,2018,,2017-11-15,Miami Heat,Washington Wizards,93,102,REG,208
+nba-201711150MIL,2018,,2017-11-15,Milwaukee Bucks,Detroit Pistons,99,95,REG,209
+nba-201711150MIN,2018,,2017-11-15,Minnesota Timberwolves,San Antonio Spurs,98,86,REG,210
+nba-201711150NOP,2018,,2017-11-15,New Orleans Pelicans,Toronto Raptors,116,125,REG,211
+nba-201711150NYK,2018,,2017-11-15,New York Knicks,Utah Jazz,106,101,REG,212
+nba-201711150OKC,2018,,2017-11-15,Oklahoma City Thunder,Chicago Bulls,92,79,REG,213
+nba-201711150POR,2018,,2017-11-15,Portland Trail Blazers,Orlando Magic,99,94,REG,214
+nba-201711160BOS,2018,,2017-11-16,Boston Celtics,Golden State Warriors,92,88,REG,215
+nba-201711160PHO,2018,,2017-11-16,Phoenix Suns,Houston Rockets,116,142,REG,216
+nba-201711170BRK,2018,,2017-11-17,Brooklyn Nets,Utah Jazz,118,107,REG,217
+nba-201711170CHI,2018,,2017-11-17,Chicago Bulls,Charlotte Hornets,123,120,REG,218
+nba-201711170CLE,2018,,2017-11-17,Cleveland Cavaliers,Los Angeles Clippers,118,113,REG,219
+nba-201711170DAL,2018,,2017-11-17,Dallas Mavericks,Minnesota Timberwolves,87,111,REG,220
+nba-201711170DEN,2018,,2017-11-17,Denver Nuggets,New Orleans Pelicans,146,114,REG,221
+nba-201711170IND,2018,,2017-11-17,Indiana Pacers,Detroit Pistons,107,100,REG,222
+nba-201711170LAL,2018,,2017-11-17,Los Angeles Lakers,Phoenix Suns,113,122,REG,223
+nba-201711170SAC,2018,,2017-11-17,Sacramento Kings,Portland Trail Blazers,86,82,REG,224
+nba-201711170SAS,2018,,2017-11-17,San Antonio Spurs,Oklahoma City Thunder,104,101,REG,225
+nba-201711170TOR,2018,,2017-11-17,Toronto Raptors,New York Knicks,107,84,REG,226
+nba-201711170WAS,2018,,2017-11-17,Washington Wizards,Miami Heat,88,91,REG,227
+nba-201711180ATL,2018,,2017-11-18,Atlanta Hawks,Boston Celtics,99,110,REG,228
+nba-201711180CHO,2018,,2017-11-18,Charlotte Hornets,Los Angeles Clippers,102,87,REG,229
+nba-201711180DAL,2018,,2017-11-18,Dallas Mavericks,Milwaukee Bucks,111,79,REG,230
+nba-201711180MEM,2018,,2017-11-18,Memphis Grizzlies,Houston Rockets,83,105,REG,231
+nba-201711180ORL,2018,,2017-11-18,Orlando Magic,Utah Jazz,85,125,REG,232
+nba-201711180PHI,2018,,2017-11-18,Philadelphia 76ers,Golden State Warriors,116,124,REG,233
+nba-201711180POR,2018,,2017-11-18,Portland Trail Blazers,Sacramento Kings,102,90,REG,234
+nba-201711190BRK,2018,,2017-11-19,Brooklyn Nets,Golden State Warriors,111,118,REG,235
+nba-201711190LAL,2018,,2017-11-19,Los Angeles Lakers,Denver Nuggets,127,109,REG,236
+nba-201711190MIA,2018,,2017-11-19,Miami Heat,Indiana Pacers,95,120,REG,237
+nba-201711190MIN,2018,,2017-11-19,Minnesota Timberwolves,Detroit Pistons,97,100,REG,238
+nba-201711190PHO,2018,,2017-11-19,Phoenix Suns,Chicago Bulls,113,105,REG,239
+nba-201711190TOR,2018,,2017-11-19,Toronto Raptors,Washington Wizards,100,91,REG,240
+nba-201711200CHO,2018,,2017-11-20,Charlotte Hornets,Minnesota Timberwolves,118,102,REG,241
+nba-201711200DAL,2018,,2017-11-20,Dallas Mavericks,Boston Celtics,102,110,REG,242
+nba-201711200DET,2018,,2017-11-20,Detroit Pistons,Cleveland Cavaliers,88,116,REG,243
+nba-201711200MEM,2018,,2017-11-20,Memphis Grizzlies,Portland Trail Blazers,92,100,REG,244
+nba-201711200MIL,2018,,2017-11-20,Milwaukee Bucks,Washington Wizards,88,99,REG,245
+nba-201711200NOP,2018,,2017-11-20,New Orleans Pelicans,Oklahoma City Thunder,114,107,REG,246
+nba-201711200NYK,2018,,2017-11-20,New York Knicks,Los Angeles Clippers,107,85,REG,247
+nba-201711200ORL,2018,,2017-11-20,Orlando Magic,Indiana Pacers,97,105,REG,248
+nba-201711200PHI,2018,,2017-11-20,Philadelphia 76ers,Utah Jazz,107,86,REG,249
+nba-201711200SAC,2018,,2017-11-20,Sacramento Kings,Denver Nuggets,98,114,REG,250
+nba-201711200SAS,2018,,2017-11-20,San Antonio Spurs,Atlanta Hawks,96,85,REG,251
+nba-201711210LAL,2018,,2017-11-21,Los Angeles Lakers,Chicago Bulls,103,94,REG,252
+nba-201711220ATL,2018,,2017-11-22,Atlanta Hawks,Los Angeles Clippers,103,116,REG,253
+nba-201711220CHO,2018,,2017-11-22,Charlotte Hornets,Washington Wizards,129,124,REG,254
+nba-201711220CLE,2018,,2017-11-22,Cleveland Cavaliers,Brooklyn Nets,119,109,REG,255
+nba-201711220HOU,2018,,2017-11-22,Houston Rockets,Denver Nuggets,125,95,REG,256
+nba-201711220MEM,2018,,2017-11-22,Memphis Grizzlies,Dallas Mavericks,94,95,REG,257
+nba-201711220MIA,2018,,2017-11-22,Miami Heat,Boston Celtics,104,98,REG,258
+nba-201711220MIN,2018,,2017-11-22,Minnesota Timberwolves,Orlando Magic,124,118,REG,259
+nba-201711220NOP,2018,,2017-11-22,New Orleans Pelicans,San Antonio Spurs,107,90,REG,260
+nba-201711220NYK,2018,,2017-11-22,New York Knicks,Toronto Raptors,108,100,REG,261
+nba-201711220OKC,2018,,2017-11-22,Oklahoma City Thunder,Golden State Warriors,108,91,REG,262
+nba-201711220PHI,2018,,2017-11-22,Philadelphia 76ers,Portland Trail Blazers,101,81,REG,263
+nba-201711220PHO,2018,,2017-11-22,Phoenix Suns,Milwaukee Bucks,107,113,REG,264
+nba-201711220SAC,2018,,2017-11-22,Sacramento Kings,Los Angeles Lakers,113,102,REG,265
+nba-201711220UTA,2018,,2017-11-22,Utah Jazz,Chicago Bulls,110,80,REG,266
+nba-201711240ATL,2018,,2017-11-24,Atlanta Hawks,New York Knicks,116,104,REG,267
+nba-201711240BOS,2018,,2017-11-24,Boston Celtics,Orlando Magic,118,103,REG,268
+nba-201711240BRK,2018,,2017-11-24,Brooklyn Nets,Portland Trail Blazers,125,127,REG,269
+nba-201711240CLE,2018,,2017-11-24,Cleveland Cavaliers,Charlotte Hornets,100,99,REG,270
+nba-201711240DEN,2018,,2017-11-24,Denver Nuggets,Memphis Grizzlies,104,92,REG,271
+nba-201711240GSW,2018,,2017-11-24,Golden State Warriors,Chicago Bulls,143,94,REG,272
+nba-201711240IND,2018,,2017-11-24,Indiana Pacers,Toronto Raptors,107,104,REG,273
+nba-201711240MIN,2018,,2017-11-24,Minnesota Timberwolves,Miami Heat,97,109,REG,274
+nba-201711240OKC,2018,,2017-11-24,Oklahoma City Thunder,Detroit Pistons,98,99,REG,275
+nba-201711240PHO,2018,,2017-11-24,Phoenix Suns,New Orleans Pelicans,91,115,REG,276
+nba-201711250ATL,2018,,2017-11-25,Atlanta Hawks,Toronto Raptors,78,112,REG,277
+nba-201711250CHO,2018,,2017-11-25,Charlotte Hornets,San Antonio Spurs,86,106,REG,278
+nba-201711250DAL,2018,,2017-11-25,Dallas Mavericks,Oklahoma City Thunder,97,81,REG,279
+nba-201711250GSW,2018,,2017-11-25,Golden State Warriors,New Orleans Pelicans,110,95,REG,280
+nba-201711250HOU,2018,,2017-11-25,Houston Rockets,New York Knicks,117,102,REG,281
+nba-201711250IND,2018,,2017-11-25,Indiana Pacers,Boston Celtics,98,108,REG,282
+nba-201711250PHI,2018,,2017-11-25,Philadelphia 76ers,Orlando Magic,130,111,REG,283
+nba-201711250SAC,2018,,2017-11-25,Sacramento Kings,Los Angeles Clippers,95,97,REG,284
+nba-201711250UTA,2018,,2017-11-25,Utah Jazz,Milwaukee Bucks,121,108,REG,285
+nba-201711250WAS,2018,,2017-11-25,Washington Wizards,Portland Trail Blazers,105,108,REG,286
+nba-201711260CHI,2018,,2017-11-26,Chicago Bulls,Miami Heat,93,100,REG,287
+nba-201711260MEM,2018,,2017-11-26,Memphis Grizzlies,Brooklyn Nets,88,98,REG,288
+nba-201711260MIN,2018,,2017-11-26,Minnesota Timberwolves,Phoenix Suns,119,108,REG,289
+nba-201711270BOS,2018,,2017-11-27,Boston Celtics,Detroit Pistons,108,118,REG,290
+nba-201711270GSW,2018,,2017-11-27,Golden State Warriors,Sacramento Kings,106,110,REG,291
+nba-201711270HOU,2018,,2017-11-27,Houston Rockets,Brooklyn Nets,117,103,REG,292
+nba-201711270IND,2018,,2017-11-27,Indiana Pacers,Orlando Magic,121,109,REG,293
+nba-201711270LAC,2018,,2017-11-27,Los Angeles Clippers,Los Angeles Lakers,120,115,REG,294
+nba-201711270NYK,2018,,2017-11-27,New York Knicks,Portland Trail Blazers,91,103,REG,295
+nba-201711270PHI,2018,,2017-11-27,Philadelphia 76ers,Cleveland Cavaliers,91,113,REG,296
+nba-201711270SAS,2018,,2017-11-27,San Antonio Spurs,Dallas Mavericks,115,108,REG,297
+nba-201711280CHI,2018,,2017-11-28,Chicago Bulls,Phoenix Suns,99,104,REG,298
+nba-201711280CLE,2018,,2017-11-28,Cleveland Cavaliers,Miami Heat,108,97,REG,299
+nba-201711280MIN,2018,,2017-11-28,Minnesota Timberwolves,Washington Wizards,89,92,REG,300
+nba-201711280SAC,2018,,2017-11-28,Sacramento Kings,Milwaukee Bucks,87,112,REG,301
+nba-201711280UTA,2018,,2017-11-28,Utah Jazz,Denver Nuggets,106,77,REG,302
+nba-201711290DAL,2018,,2017-11-29,Dallas Mavericks,Brooklyn Nets,104,109,REG,303
+nba-201711290DET,2018,,2017-11-29,Detroit Pistons,Phoenix Suns,131,107,REG,304
+nba-201711290HOU,2018,,2017-11-29,Houston Rockets,Indiana Pacers,118,97,REG,305
+nba-201711290LAL,2018,,2017-11-29,Los Angeles Lakers,Golden State Warriors,123,127,REG,306
+nba-201711290NOP,2018,,2017-11-29,New Orleans Pelicans,Minnesota Timberwolves,102,120,REG,307
+nba-201711290NYK,2018,,2017-11-29,New York Knicks,Miami Heat,115,86,REG,308
+nba-201711290ORL,2018,,2017-11-29,Orlando Magic,Oklahoma City Thunder,121,108,REG,309
+nba-201711290PHI,2018,,2017-11-29,Philadelphia 76ers,Washington Wizards,118,113,REG,310
+nba-201711290SAS,2018,,2017-11-29,San Antonio Spurs,Memphis Grizzlies,104,95,REG,311
+nba-201711290TOR,2018,,2017-11-29,Toronto Raptors,Charlotte Hornets,126,113,REG,312
+nba-201711300ATL,2018,,2017-11-30,Atlanta Hawks,Cleveland Cavaliers,114,121,REG,313
+nba-201711300BOS,2018,,2017-11-30,Boston Celtics,Philadelphia 76ers,108,97,REG,314
+nba-201711300DEN,2018,,2017-11-30,Denver Nuggets,Chicago Bulls,111,110,REG,315
+nba-201711300LAC,2018,,2017-11-30,Los Angeles Clippers,Utah Jazz,107,126,REG,316
+nba-201711300POR,2018,,2017-11-30,Portland Trail Blazers,Milwaukee Bucks,91,103,REG,317
+nba-201712010CHI,2018,,2017-12-01,Chicago Bulls,Sacramento Kings,106,107,REG,318
+nba-201712010MEM,2018,,2017-12-01,Memphis Grizzlies,San Antonio Spurs,79,95,REG,319
+nba-201712010MIA,2018,,2017-12-01,Miami Heat,Charlotte Hornets,105,100,REG,320
+nba-201712010OKC,2018,,2017-12-01,Oklahoma City Thunder,Minnesota Timberwolves,111,107,REG,321
+nba-201712010ORL,2018,,2017-12-01,Orlando Magic,Golden State Warriors,112,133,REG,322
+nba-201712010TOR,2018,,2017-12-01,Toronto Raptors,Indiana Pacers,120,115,REG,323
+nba-201712010UTA,2018,,2017-12-01,Utah Jazz,New Orleans Pelicans,114,108,REG,324
+nba-201712010WAS,2018,,2017-12-01,Washington Wizards,Detroit Pistons,109,91,REG,325
+nba-201712020BOS,2018,,2017-12-02,Boston Celtics,Phoenix Suns,116,111,REG,326
+nba-201712020BRK,2018,,2017-12-02,Brooklyn Nets,Atlanta Hawks,102,114,REG,327
+nba-201712020CLE,2018,,2017-12-02,Cleveland Cavaliers,Memphis Grizzlies,116,111,REG,328
+nba-201712020DAL,2018,,2017-12-02,Dallas Mavericks,Los Angeles Clippers,108,82,REG,329
+nba-201712020DEN,2018,,2017-12-02,Denver Nuggets,Los Angeles Lakers,115,100,REG,330
+nba-201712020MIL,2018,,2017-12-02,Milwaukee Bucks,Sacramento Kings,109,104,REG,331
+nba-201712020PHI,2018,,2017-12-02,Philadelphia 76ers,Detroit Pistons,108,103,REG,332
+nba-201712020POR,2018,,2017-12-02,Portland Trail Blazers,New Orleans Pelicans,116,123,REG,333
+nba-201712030LAL,2018,,2017-12-03,Los Angeles Lakers,Houston Rockets,95,118,REG,334
+nba-201712030MIA,2018,,2017-12-03,Miami Heat,Golden State Warriors,95,123,REG,335
+nba-201712030MIN,2018,,2017-12-03,Minnesota Timberwolves,Los Angeles Clippers,112,106,REG,336
+nba-201712030NYK,2018,,2017-12-03,New York Knicks,Orlando Magic,100,105,REG,337
+nba-201712030OKC,2018,,2017-12-03,Oklahoma City Thunder,San Antonio Spurs,90,87,REG,338
+nba-201712040ATL,2018,,2017-12-04,Atlanta Hawks,Brooklyn Nets,90,110,REG,339
+nba-201712040BOS,2018,,2017-12-04,Boston Celtics,Milwaukee Bucks,111,100,REG,340
+nba-201712040CHO,2018,,2017-12-04,Charlotte Hornets,Orlando Magic,104,94,REG,341
+nba-201712040CHI,2018,,2017-12-04,Chicago Bulls,Cleveland Cavaliers,91,113,REG,342
+nba-201712040DAL,2018,,2017-12-04,Dallas Mavericks,Denver Nuggets,122,105,REG,343
+nba-201712040IND,2018,,2017-12-04,Indiana Pacers,New York Knicks,115,97,REG,344
+nba-201712040MEM,2018,,2017-12-04,Memphis Grizzlies,Minnesota Timberwolves,95,92,REG,345
+nba-201712040NOP,2018,,2017-12-04,New Orleans Pelicans,Golden State Warriors,115,125,REG,346
+nba-201712040PHI,2018,,2017-12-04,Philadelphia 76ers,Phoenix Suns,101,115,REG,347
+nba-201712040SAS,2018,,2017-12-04,San Antonio Spurs,Detroit Pistons,96,93,REG,348
+nba-201712040UTA,2018,,2017-12-04,Utah Jazz,Washington Wizards,116,69,REG,349
+nba-201712050OKC,2018,,2017-12-05,Oklahoma City Thunder,Utah Jazz,100,94,REG,350
+nba-201712050POR,2018,,2017-12-05,Portland Trail Blazers,Washington Wizards,92,106,REG,351
+nba-201712050TOR,2018,,2017-12-05,Toronto Raptors,Phoenix Suns,126,113,REG,352
+nba-201712060BOS,2018,,2017-12-06,Boston Celtics,Dallas Mavericks,97,90,REG,353
+nba-201712060CHO,2018,,2017-12-06,Charlotte Hornets,Golden State Warriors,87,101,REG,354
+nba-201712060CLE,2018,,2017-12-06,Cleveland Cavaliers,Sacramento Kings,101,95,REG,355
+nba-201712060IND,2018,,2017-12-06,Indiana Pacers,Chicago Bulls,98,96,REG,356
+nba-201712060LAC,2018,,2017-12-06,Los Angeles Clippers,Minnesota Timberwolves,107,113,REG,357
+nba-201712060MIL,2018,,2017-12-06,Milwaukee Bucks,Detroit Pistons,104,100,REG,358
+nba-201712060NOP,2018,,2017-12-06,New Orleans Pelicans,Denver Nuggets,123,114,REG,359
+nba-201712060NYK,2018,,2017-12-06,New York Knicks,Memphis Grizzlies,99,88,REG,360
+nba-201712060ORL,2018,,2017-12-06,Orlando Magic,Atlanta Hawks,110,106,REG,361
+nba-201712060SAS,2018,,2017-12-06,San Antonio Spurs,Miami Heat,117,105,REG,362
+nba-201712070BRK,2018,,2017-12-07,Brooklyn Nets,Oklahoma City Thunder,100,95,REG,363
+nba-201712070PHI,2018,,2017-12-07,Philadelphia 76ers,Los Angeles Lakers,104,107,REG,364
+nba-201712070PHO,2018,,2017-12-07,Phoenix Suns,Washington Wizards,99,109,REG,365
+nba-201712070UTA,2018,,2017-12-07,Utah Jazz,Houston Rockets,101,112,REG,366
+nba-201712080CHO,2018,,2017-12-08,Charlotte Hornets,Chicago Bulls,111,119,REG,367
+nba-201712080DET,2018,,2017-12-08,Detroit Pistons,Golden State Warriors,98,102,REG,368
+nba-201712080IND,2018,,2017-12-08,Indiana Pacers,Cleveland Cavaliers,106,102,REG,369
+nba-201712080MEM,2018,,2017-12-08,Memphis Grizzlies,Toronto Raptors,107,116,REG,370
+nba-201712080MIL,2018,,2017-12-08,Milwaukee Bucks,Dallas Mavericks,109,102,REG,371
+nba-201712080NOP,2018,,2017-12-08,New Orleans Pelicans,Sacramento Kings,109,116,REG,372
+nba-201712080ORL,2018,,2017-12-08,Orlando Magic,Denver Nuggets,89,103,REG,373
+nba-201712080SAS,2018,,2017-12-08,San Antonio Spurs,Boston Celtics,105,102,REG,374
+nba-201712090ATL,2018,,2017-12-09,Atlanta Hawks,Orlando Magic,117,110,REG,375
+nba-201712090BRK,2018,,2017-12-09,Brooklyn Nets,Miami Heat,89,101,REG,376
+nba-201712090CHO,2018,,2017-12-09,Charlotte Hornets,Los Angeles Lakers,99,110,REG,377
+nba-201712090CHI,2018,,2017-12-09,Chicago Bulls,New York Knicks,104,102,REG,378
+nba-201712090CLE,2018,,2017-12-09,Cleveland Cavaliers,Philadelphia 76ers,105,98,REG,379
+nba-201712090LAC,2018,,2017-12-09,Los Angeles Clippers,Washington Wizards,113,112,REG,380
+nba-201712090MEM,2018,,2017-12-09,Memphis Grizzlies,Oklahoma City Thunder,101,102,REG,381
+nba-201712090MIL,2018,,2017-12-09,Milwaukee Bucks,Utah Jazz,117,100,REG,382
+nba-201712090PHO,2018,,2017-12-09,Phoenix Suns,San Antonio Spurs,101,104,REG,383
+nba-201712090POR,2018,,2017-12-09,Portland Trail Blazers,Houston Rockets,117,124,REG,384
+nba-201712100DET,2018,,2017-12-10,Detroit Pistons,Boston Celtics,81,91,REG,385
+nba-201712100IND,2018,,2017-12-10,Indiana Pacers,Denver Nuggets,126,116,REG,386
+nba-201712100MIN,2018,,2017-12-10,Minnesota Timberwolves,Dallas Mavericks,97,92,REG,387
+nba-201712100NOP,2018,,2017-12-10,New Orleans Pelicans,Philadelphia 76ers,131,124,REG,388
+nba-201712100NYK,2018,,2017-12-10,New York Knicks,Atlanta Hawks,111,107,REG,389
+nba-201712100SAC,2018,,2017-12-10,Sacramento Kings,Toronto Raptors,87,102,REG,390
+nba-201712110CHI,2018,,2017-12-11,Chicago Bulls,Boston Celtics,108,85,REG,391
+nba-201712110GSW,2018,,2017-12-11,Golden State Warriors,Portland Trail Blazers,111,104,REG,392
+nba-201712110HOU,2018,,2017-12-11,Houston Rockets,New Orleans Pelicans,130,123,REG,393
+nba-201712110LAC,2018,,2017-12-11,Los Angeles Clippers,Toronto Raptors,96,91,REG,394
+nba-201712110MEM,2018,,2017-12-11,Memphis Grizzlies,Miami Heat,82,107,REG,395
+nba-201712110OKC,2018,,2017-12-11,Oklahoma City Thunder,Charlotte Hornets,103,116,REG,396
+nba-201712120BRK,2018,,2017-12-12,Brooklyn Nets,Washington Wizards,103,98,REG,397
+nba-201712120CLE,2018,,2017-12-12,Cleveland Cavaliers,Atlanta Hawks,123,114,REG,398
+nba-201712120DAL,2018,,2017-12-12,Dallas Mavericks,San Antonio Spurs,95,89,REG,399
+nba-201712120DET,2018,,2017-12-12,Detroit Pistons,Denver Nuggets,84,103,REG,400
+nba-201712120MIN,2018,,2017-12-12,Minnesota Timberwolves,Philadelphia 76ers,112,118,REG,401
+nba-201712120NYK,2018,,2017-12-12,New York Knicks,Los Angeles Lakers,113,109,REG,402
+nba-201712120SAC,2018,,2017-12-12,Sacramento Kings,Phoenix Suns,99,92,REG,403
+nba-201712130BOS,2018,,2017-12-13,Boston Celtics,Denver Nuggets,124,118,REG,404
+nba-201712130CHI,2018,,2017-12-13,Chicago Bulls,Utah Jazz,103,100,REG,405
+nba-201712130HOU,2018,,2017-12-13,Houston Rockets,Charlotte Hornets,108,96,REG,406
+nba-201712130IND,2018,,2017-12-13,Indiana Pacers,Oklahoma City Thunder,95,100,REG,407
+nba-201712130MIA,2018,,2017-12-13,Miami Heat,Portland Trail Blazers,95,102,REG,408
+nba-201712130NOP,2018,,2017-12-13,New Orleans Pelicans,Milwaukee Bucks,115,108,REG,409
+nba-201712130ORL,2018,,2017-12-13,Orlando Magic,Los Angeles Clippers,95,106,REG,410
+nba-201712130PHO,2018,,2017-12-13,Phoenix Suns,Toronto Raptors,109,115,REG,411
+nba-201712130WAS,2018,,2017-12-13,Washington Wizards,Memphis Grizzlies,93,87,REG,412
+nba-201712140ATL,2018,,2017-12-14,Atlanta Hawks,Detroit Pistons,91,105,REG,413
+nba-201712140BRK,2018,,2017-12-14,Brooklyn Nets,New York Knicks,104,111,REG,414
+nba-201712140CLE,2018,,2017-12-14,Cleveland Cavaliers,Los Angeles Lakers,121,112,REG,415
+nba-201712140GSW,2018,,2017-12-14,Golden State Warriors,Dallas Mavericks,112,97,REG,416
+nba-201712140MIN,2018,,2017-12-14,Minnesota Timberwolves,Sacramento Kings,119,96,REG,417
+nba-201712150BOS,2018,,2017-12-15,Boston Celtics,Utah Jazz,95,107,REG,418
+nba-201712150CHO,2018,,2017-12-15,Charlotte Hornets,Miami Heat,98,104,REG,419
+nba-201712150DEN,2018,,2017-12-15,Denver Nuggets,New Orleans Pelicans,117,111,REG,420
+nba-201712150HOU,2018,,2017-12-15,Houston Rockets,San Antonio Spurs,124,109,REG,421
+nba-201712150IND,2018,,2017-12-15,Indiana Pacers,Detroit Pistons,98,104,REG,422
+nba-201712150MEM,2018,,2017-12-15,Memphis Grizzlies,Atlanta Hawks,96,94,REG,423
+nba-201712150MIL,2018,,2017-12-15,Milwaukee Bucks,Chicago Bulls,109,115,REG,424
+nba-201712150ORL,2018,,2017-12-15,Orlando Magic,Portland Trail Blazers,88,95,REG,425
+nba-201712150PHI,2018,,2017-12-15,Philadelphia 76ers,Oklahoma City Thunder,117,119,REG,426
+nba-201712150TOR,2018,,2017-12-15,Toronto Raptors,Brooklyn Nets,120,87,REG,427
+nba-201712150WAS,2018,,2017-12-15,Washington Wizards,Los Angeles Clippers,100,91,REG,428
+nba-201712160CHO,2018,,2017-12-16,Charlotte Hornets,Portland Trail Blazers,91,93,REG,429
+nba-201712160CLE,2018,,2017-12-16,Cleveland Cavaliers,Utah Jazz,109,100,REG,430
+nba-201712160HOU,2018,,2017-12-16,Houston Rockets,Milwaukee Bucks,115,111,REG,431
+nba-201712160MEM,2018,,2017-12-16,Memphis Grizzlies,Boston Celtics,93,102,REG,432
+nba-201712160MIA,2018,,2017-12-16,Miami Heat,Los Angeles Clippers,90,85,REG,433
+nba-201712160MIN,2018,,2017-12-16,Minnesota Timberwolves,Phoenix Suns,106,108,REG,434
+nba-201712160NYK,2018,,2017-12-16,New York Knicks,Oklahoma City Thunder,111,96,REG,435
+nba-201712160SAS,2018,,2017-12-16,San Antonio Spurs,Dallas Mavericks,98,96,REG,436
+nba-201712170BRK,2018,,2017-12-17,Brooklyn Nets,Indiana Pacers,97,109,REG,437
+nba-201712170DET,2018,,2017-12-17,Detroit Pistons,Orlando Magic,114,110,REG,438
+nba-201712170TOR,2018,,2017-12-17,Toronto Raptors,Sacramento Kings,108,93,REG,439
+nba-201712170WAS,2018,,2017-12-17,Washington Wizards,Cleveland Cavaliers,99,106,REG,440
+nba-201712180ATL,2018,,2017-12-18,Atlanta Hawks,Miami Heat,110,104,REG,441
+nba-201712180CHO,2018,,2017-12-18,Charlotte Hornets,New York Knicks,109,91,REG,442
+nba-201712180CHI,2018,,2017-12-18,Chicago Bulls,Philadelphia 76ers,117,115,REG,443
+nba-201712180DAL,2018,,2017-12-18,Dallas Mavericks,Phoenix Suns,91,97,REG,444
+nba-201712180HOU,2018,,2017-12-18,Houston Rockets,Utah Jazz,120,99,REG,445
+nba-201712180IND,2018,,2017-12-18,Indiana Pacers,Boston Celtics,111,112,REG,446
+nba-201712180LAL,2018,,2017-12-18,Los Angeles Lakers,Golden State Warriors,114,116,REG,447
+nba-201712180MIN,2018,,2017-12-18,Minnesota Timberwolves,Portland Trail Blazers,108,107,REG,448
+nba-201712180OKC,2018,,2017-12-18,Oklahoma City Thunder,Denver Nuggets,95,94,REG,449
+nba-201712180SAS,2018,,2017-12-18,San Antonio Spurs,Los Angeles Clippers,109,91,REG,450
+nba-201712190MIL,2018,,2017-12-19,Milwaukee Bucks,Cleveland Cavaliers,119,116,REG,451
+nba-201712190PHI,2018,,2017-12-19,Philadelphia 76ers,Sacramento Kings,95,101,REG,452
+nba-201712190WAS,2018,,2017-12-19,Washington Wizards,New Orleans Pelicans,116,106,REG,453
+nba-201712200ATL,2018,,2017-12-20,Atlanta Hawks,Indiana Pacers,95,105,REG,454
+nba-201712200BOS,2018,,2017-12-20,Boston Celtics,Miami Heat,89,90,REG,455
+nba-201712200BRK,2018,,2017-12-20,Brooklyn Nets,Sacramento Kings,99,104,REG,456
+nba-201712200CHO,2018,,2017-12-20,Charlotte Hornets,Toronto Raptors,111,129,REG,457
+nba-201712200CHI,2018,,2017-12-20,Chicago Bulls,Orlando Magic,112,94,REG,458
+nba-201712200DAL,2018,,2017-12-20,Dallas Mavericks,Detroit Pistons,110,93,REG,459
+nba-201712200DEN,2018,,2017-12-20,Denver Nuggets,Minnesota Timberwolves,104,112,REG,460
+nba-201712200GSW,2018,,2017-12-20,Golden State Warriors,Memphis Grizzlies,97,84,REG,461
+nba-201712200HOU,2018,,2017-12-20,Houston Rockets,Los Angeles Lakers,116,122,REG,462
+nba-201712200LAC,2018,,2017-12-20,Los Angeles Clippers,Phoenix Suns,108,95,REG,463
+nba-201712200OKC,2018,,2017-12-20,Oklahoma City Thunder,Utah Jazz,107,79,REG,464
+nba-201712200POR,2018,,2017-12-20,Portland Trail Blazers,San Antonio Spurs,91,93,REG,465
+nba-201712210CLE,2018,,2017-12-21,Cleveland Cavaliers,Chicago Bulls,115,112,REG,466
+nba-201712210NYK,2018,,2017-12-21,New York Knicks,Boston Celtics,102,93,REG,467
+nba-201712210PHI,2018,,2017-12-21,Philadelphia 76ers,Toronto Raptors,109,114,REG,468
+nba-201712210PHO,2018,,2017-12-21,Phoenix Suns,Memphis Grizzlies,97,95,REG,469
+nba-201712210UTA,2018,,2017-12-21,Utah Jazz,San Antonio Spurs,100,89,REG,470
+nba-201712220BRK,2018,,2017-12-22,Brooklyn Nets,Washington Wizards,119,84,REG,471
+nba-201712220DET,2018,,2017-12-22,Detroit Pistons,New York Knicks,104,101,REG,472
+nba-201712220GSW,2018,,2017-12-22,Golden State Warriors,Los Angeles Lakers,113,106,REG,473
+nba-201712220HOU,2018,,2017-12-22,Houston Rockets,Los Angeles Clippers,118,128,REG,474
+nba-201712220MIA,2018,,2017-12-22,Miami Heat,Dallas Mavericks,113,101,REG,475
+nba-201712220MIL,2018,,2017-12-22,Milwaukee Bucks,Charlotte Hornets,109,104,REG,476
+nba-201712220OKC,2018,,2017-12-22,Oklahoma City Thunder,Atlanta Hawks,120,117,REG,477
+nba-201712220ORL,2018,,2017-12-22,Orlando Magic,New Orleans Pelicans,97,111,REG,478
+nba-201712220POR,2018,,2017-12-22,Portland Trail Blazers,Denver Nuggets,85,102,REG,479
+nba-201712230ATL,2018,,2017-12-23,Atlanta Hawks,Dallas Mavericks,112,107,REG,480
+nba-201712230BOS,2018,,2017-12-23,Boston Celtics,Chicago Bulls,117,92,REG,481
+nba-201712230CHO,2018,,2017-12-23,Charlotte Hornets,Milwaukee Bucks,111,106,REG,482
+nba-201712230GSW,2018,,2017-12-23,Golden State Warriors,Denver Nuggets,81,96,REG,483
+nba-201712230IND,2018,,2017-12-23,Indiana Pacers,Brooklyn Nets,123,119,REG,484
+nba-201712230LAL,2018,,2017-12-23,Los Angeles Lakers,Portland Trail Blazers,92,95,REG,485
+nba-201712230MEM,2018,,2017-12-23,Memphis Grizzlies,Los Angeles Clippers,115,112,REG,486
+nba-201712230MIA,2018,,2017-12-23,Miami Heat,New Orleans Pelicans,94,109,REG,487
+nba-201712230PHO,2018,,2017-12-23,Phoenix Suns,Minnesota Timberwolves,106,115,REG,488
+nba-201712230SAC,2018,,2017-12-23,Sacramento Kings,San Antonio Spurs,99,108,REG,489
+nba-201712230TOR,2018,,2017-12-23,Toronto Raptors,Philadelphia 76ers,102,86,REG,490
+nba-201712230UTA,2018,,2017-12-23,Utah Jazz,Oklahoma City Thunder,89,103,REG,491
+nba-201712230WAS,2018,,2017-12-23,Washington Wizards,Orlando Magic,130,103,REG,492
+nba-201712250BOS,2018,,2017-12-25,Boston Celtics,Washington Wizards,103,111,REG,493
+nba-201712250GSW,2018,,2017-12-25,Golden State Warriors,Cleveland Cavaliers,99,92,REG,494
+nba-201712250LAL,2018,,2017-12-25,Los Angeles Lakers,Minnesota Timberwolves,104,121,REG,495
+nba-201712250NYK,2018,,2017-12-25,New York Knicks,Philadelphia 76ers,98,105,REG,496
+nba-201712250OKC,2018,,2017-12-25,Oklahoma City Thunder,Houston Rockets,112,107,REG,497
+nba-201712260DAL,2018,,2017-12-26,Dallas Mavericks,Toronto Raptors,98,93,REG,498
+nba-201712260DEN,2018,,2017-12-26,Denver Nuggets,Utah Jazz,107,83,REG,499
+nba-201712260DET,2018,,2017-12-26,Detroit Pistons,Indiana Pacers,107,83,REG,500
+nba-201712260LAC,2018,,2017-12-26,Los Angeles Clippers,Sacramento Kings,122,95,REG,501
+nba-201712260MIA,2018,,2017-12-26,Miami Heat,Orlando Magic,107,89,REG,502
+nba-201712260MIL,2018,,2017-12-26,Milwaukee Bucks,Chicago Bulls,106,115,REG,503
+nba-201712260PHO,2018,,2017-12-26,Phoenix Suns,Memphis Grizzlies,99,97,REG,504
+nba-201712260SAS,2018,,2017-12-26,San Antonio Spurs,Brooklyn Nets,109,97,REG,505
+nba-201712270ATL,2018,,2017-12-27,Atlanta Hawks,Washington Wizards,113,99,REG,506
+nba-201712270CHO,2018,,2017-12-27,Charlotte Hornets,Boston Celtics,91,102,REG,507
+nba-201712270CHI,2018,,2017-12-27,Chicago Bulls,New York Knicks,92,87,REG,508
+nba-201712270GSW,2018,,2017-12-27,Golden State Warriors,Utah Jazz,126,101,REG,509
+nba-201712270IND,2018,,2017-12-27,Indiana Pacers,Dallas Mavericks,94,98,REG,510
+nba-201712270LAL,2018,,2017-12-27,Los Angeles Lakers,Memphis Grizzlies,99,109,REG,511
+nba-201712270MIN,2018,,2017-12-27,Minnesota Timberwolves,Denver Nuggets,128,125,REG,512
+nba-201712270NOP,2018,,2017-12-27,New Orleans Pelicans,Brooklyn Nets,128,113,REG,513
+nba-201712270OKC,2018,,2017-12-27,Oklahoma City Thunder,Toronto Raptors,124,107,REG,514
+nba-201712270SAC,2018,,2017-12-27,Sacramento Kings,Cleveland Cavaliers,109,95,REG,515
+nba-201712280BOS,2018,,2017-12-28,Boston Celtics,Houston Rockets,99,98,REG,516
+nba-201712280MIL,2018,,2017-12-28,Milwaukee Bucks,Minnesota Timberwolves,102,96,REG,517
+nba-201712280ORL,2018,,2017-12-28,Orlando Magic,Detroit Pistons,102,89,REG,518
+nba-201712280POR,2018,,2017-12-28,Portland Trail Blazers,Philadelphia 76ers,114,110,REG,519
+nba-201712280SAS,2018,,2017-12-28,San Antonio Spurs,New York Knicks,119,107,REG,520
+nba-201712290CHI,2018,,2017-12-29,Chicago Bulls,Indiana Pacers,119,107,REG,521
+nba-201712290GSW,2018,,2017-12-29,Golden State Warriors,Charlotte Hornets,100,111,REG,522
+nba-201712290LAL,2018,,2017-12-29,Los Angeles Lakers,Los Angeles Clippers,106,121,REG,523
+nba-201712290MIA,2018,,2017-12-29,Miami Heat,Brooklyn Nets,87,111,REG,524
+nba-201712290NOP,2018,,2017-12-29,New Orleans Pelicans,Dallas Mavericks,120,128,REG,525
+nba-201712290OKC,2018,,2017-12-29,Oklahoma City Thunder,Milwaukee Bucks,95,97,REG,526
+nba-201712290SAC,2018,,2017-12-29,Sacramento Kings,Phoenix Suns,101,111,REG,527
+nba-201712290TOR,2018,,2017-12-29,Toronto Raptors,Atlanta Hawks,111,98,REG,528
+nba-201712290WAS,2018,,2017-12-29,Washington Wizards,Houston Rockets,121,103,REG,529
+nba-201712300ATL,2018,,2017-12-30,Atlanta Hawks,Portland Trail Blazers,104,89,REG,530
+nba-201712300DEN,2018,,2017-12-30,Denver Nuggets,Philadelphia 76ers,102,107,REG,531
+nba-201712300DET,2018,,2017-12-30,Detroit Pistons,San Antonio Spurs,93,79,REG,532
+nba-201712300GSW,2018,,2017-12-30,Golden State Warriors,Memphis Grizzlies,141,128,REG,533
+nba-201712300NOP,2018,,2017-12-30,New Orleans Pelicans,New York Knicks,103,105,REG,534
+nba-201712300ORL,2018,,2017-12-30,Orlando Magic,Miami Heat,111,117,REG,535
+nba-201712300UTA,2018,,2017-12-30,Utah Jazz,Cleveland Cavaliers,104,101,REG,536
+nba-201712310BOS,2018,,2017-12-31,Boston Celtics,Brooklyn Nets,108,105,REG,537
+nba-201712310HOU,2018,,2017-12-31,Houston Rockets,Los Angeles Lakers,148,142,REG,538
+nba-201712310IND,2018,,2017-12-31,Indiana Pacers,Minnesota Timberwolves,90,107,REG,539
+nba-201712310LAC,2018,,2017-12-31,Los Angeles Clippers,Charlotte Hornets,106,98,REG,540
+nba-201712310OKC,2018,,2017-12-31,Oklahoma City Thunder,Dallas Mavericks,113,116,REG,541
+nba-201712310PHO,2018,,2017-12-31,Phoenix Suns,Philadelphia 76ers,110,123,REG,542
+nba-201712310SAC,2018,,2017-12-31,Sacramento Kings,Memphis Grizzlies,96,114,REG,543
+nba-201712310WAS,2018,,2017-12-31,Washington Wizards,Chicago Bulls,114,110,REG,544
+nba-201801010BRK,2018,,2018-01-01,Brooklyn Nets,Orlando Magic,98,95,REG,545
+nba-201801010CHI,2018,,2018-01-01,Chicago Bulls,Portland Trail Blazers,120,124,REG,546
+nba-201801010MIN,2018,,2018-01-01,Minnesota Timberwolves,Los Angeles Lakers,114,96,REG,547
+nba-201801010TOR,2018,,2018-01-01,Toronto Raptors,Milwaukee Bucks,131,127,REG,548
+nba-201801020CLE,2018,,2018-01-02,Cleveland Cavaliers,Portland Trail Blazers,127,110,REG,549
+nba-201801020LAC,2018,,2018-01-02,Los Angeles Clippers,Memphis Grizzlies,113,105,REG,550
+nba-201801020NYK,2018,,2018-01-02,New York Knicks,San Antonio Spurs,91,100,REG,551
+nba-201801020PHO,2018,,2018-01-02,Phoenix Suns,Atlanta Hawks,104,103,REG,552
+nba-201801020SAC,2018,,2018-01-02,Sacramento Kings,Charlotte Hornets,111,131,REG,553
+nba-201801030BOS,2018,,2018-01-03,Boston Celtics,Cleveland Cavaliers,102,88,REG,554
+nba-201801030BRK,2018,,2018-01-03,Brooklyn Nets,Minnesota Timberwolves,98,97,REG,555
+nba-201801030CHI,2018,,2018-01-03,Chicago Bulls,Toronto Raptors,115,124,REG,556
+nba-201801030DAL,2018,,2018-01-03,Dallas Mavericks,Golden State Warriors,122,125,REG,557
+nba-201801030DEN,2018,,2018-01-03,Denver Nuggets,Phoenix Suns,134,111,REG,558
+nba-201801030LAL,2018,,2018-01-03,Los Angeles Lakers,Oklahoma City Thunder,96,133,REG,559
+nba-201801030MIA,2018,,2018-01-03,Miami Heat,Detroit Pistons,111,104,REG,560
+nba-201801030MIL,2018,,2018-01-03,Milwaukee Bucks,Indiana Pacers,122,101,REG,561
+nba-201801030ORL,2018,,2018-01-03,Orlando Magic,Houston Rockets,98,116,REG,562
+nba-201801030PHI,2018,,2018-01-03,Philadelphia 76ers,San Antonio Spurs,112,106,REG,563
+nba-201801030UTA,2018,,2018-01-03,Utah Jazz,New Orleans Pelicans,98,108,REG,564
+nba-201801030WAS,2018,,2018-01-03,Washington Wizards,New York Knicks,121,103,REG,565
+nba-201801040HOU,2018,,2018-01-04,Houston Rockets,Golden State Warriors,114,124,REG,566
+nba-201801040LAC,2018,,2018-01-04,Los Angeles Clippers,Oklahoma City Thunder,117,127,REG,567
+nba-201801050BOS,2018,,2018-01-05,Boston Celtics,Minnesota Timberwolves,91,84,REG,568
+nba-201801050DAL,2018,,2018-01-05,Dallas Mavericks,Chicago Bulls,124,127,REG,569
+nba-201801050DEN,2018,,2018-01-05,Denver Nuggets,Utah Jazz,99,91,REG,570
+nba-201801050LAL,2018,,2018-01-05,Los Angeles Lakers,Charlotte Hornets,94,108,REG,571
+nba-201801050MEM,2018,,2018-01-05,Memphis Grizzlies,Washington Wizards,100,102,REG,572
+nba-201801050MIA,2018,,2018-01-05,Miami Heat,New York Knicks,107,103,REG,573
+nba-201801050MIL,2018,,2018-01-05,Milwaukee Bucks,Toronto Raptors,110,129,REG,574
+nba-201801050PHI,2018,,2018-01-05,Philadelphia 76ers,Detroit Pistons,114,78,REG,575
+nba-201801050POR,2018,,2018-01-05,Portland Trail Blazers,Atlanta Hawks,110,89,REG,576
+nba-201801050SAS,2018,,2018-01-05,San Antonio Spurs,Phoenix Suns,103,89,REG,577
+nba-201801060BRK,2018,,2018-01-06,Brooklyn Nets,Boston Celtics,85,87,REG,578
+nba-201801060DET,2018,,2018-01-06,Detroit Pistons,Houston Rockets,108,101,REG,579
+nba-201801060IND,2018,,2018-01-06,Indiana Pacers,Chicago Bulls,125,86,REG,580
+nba-201801060LAC,2018,,2018-01-06,Los Angeles Clippers,Golden State Warriors,105,121,REG,581
+nba-201801060MIN,2018,,2018-01-06,Minnesota Timberwolves,New Orleans Pelicans,116,98,REG,582
+nba-201801060ORL,2018,,2018-01-06,Orlando Magic,Cleveland Cavaliers,127,131,REG,583
+nba-201801060SAC,2018,,2018-01-06,Sacramento Kings,Denver Nuggets,106,98,REG,584
+nba-201801060WAS,2018,,2018-01-06,Washington Wizards,Milwaukee Bucks,103,110,REG,585
+nba-201801070DAL,2018,,2018-01-07,Dallas Mavericks,New York Knicks,96,100,REG,586
+nba-201801070LAL,2018,,2018-01-07,Los Angeles Lakers,Atlanta Hawks,132,113,REG,587
+nba-201801070MIA,2018,,2018-01-07,Miami Heat,Utah Jazz,103,102,REG,588
+nba-201801070PHO,2018,,2018-01-07,Phoenix Suns,Oklahoma City Thunder,114,100,REG,589
+nba-201801070POR,2018,,2018-01-07,Portland Trail Blazers,San Antonio Spurs,111,110,REG,590
+nba-201801080BRK,2018,,2018-01-08,Brooklyn Nets,Toronto Raptors,113,114,REG,591
+nba-201801080CHI,2018,,2018-01-08,Chicago Bulls,Houston Rockets,107,116,REG,592
+nba-201801080GSW,2018,,2018-01-08,Golden State Warriors,Denver Nuggets,124,114,REG,593
+nba-201801080IND,2018,,2018-01-08,Indiana Pacers,Milwaukee Bucks,109,96,REG,594
+nba-201801080LAC,2018,,2018-01-08,Los Angeles Clippers,Atlanta Hawks,108,107,REG,595
+nba-201801080MIN,2018,,2018-01-08,Minnesota Timberwolves,Cleveland Cavaliers,127,99,REG,596
+nba-201801080NOP,2018,,2018-01-08,New Orleans Pelicans,Detroit Pistons,112,109,REG,597
+nba-201801080SAC,2018,,2018-01-08,Sacramento Kings,San Antonio Spurs,100,107,REG,598
+nba-201801090DAL,2018,,2018-01-09,Dallas Mavericks,Orlando Magic,114,99,REG,599
+nba-201801090LAL,2018,,2018-01-09,Los Angeles Lakers,Sacramento Kings,99,86,REG,600
+nba-201801090OKC,2018,,2018-01-09,Oklahoma City Thunder,Portland Trail Blazers,106,117,REG,601
+nba-201801090TOR,2018,,2018-01-09,Toronto Raptors,Miami Heat,89,90,REG,602
+nba-201801100BRK,2018,,2018-01-10,Brooklyn Nets,Detroit Pistons,80,114,REG,603
+nba-201801100CHO,2018,,2018-01-10,Charlotte Hornets,Dallas Mavericks,111,115,REG,604
+nba-201801100DEN,2018,,2018-01-10,Denver Nuggets,Atlanta Hawks,97,110,REG,605
+nba-201801100GSW,2018,,2018-01-10,Golden State Warriors,Los Angeles Clippers,106,125,REG,606
+nba-201801100HOU,2018,,2018-01-10,Houston Rockets,Portland Trail Blazers,121,112,REG,607
+nba-201801100IND,2018,,2018-01-10,Indiana Pacers,Miami Heat,106,114,REG,608
+nba-201801100MEM,2018,,2018-01-10,Memphis Grizzlies,New Orleans Pelicans,105,102,REG,609
+nba-201801100MIL,2018,,2018-01-10,Milwaukee Bucks,Orlando Magic,110,103,REG,610
+nba-201801100MIN,2018,,2018-01-10,Minnesota Timberwolves,Oklahoma City Thunder,104,88,REG,611
+nba-201801100NYK,2018,,2018-01-10,New York Knicks,Chicago Bulls,119,122,REG,612
+nba-201801100WAS,2018,,2018-01-10,Washington Wizards,Utah Jazz,104,107,REG,613
+nba-201801110LAL,2018,,2018-01-11,Los Angeles Lakers,San Antonio Spurs,93,81,REG,614
+nba-201801110PHI,2018,,2018-01-11,Philadelphia 76ers,Boston Celtics,103,114,REG,615
+nba-201801110SAC,2018,,2018-01-11,Sacramento Kings,Los Angeles Clippers,115,121,REG,616
+nba-201801110TOR,2018,,2018-01-11,Toronto Raptors,Cleveland Cavaliers,133,99,REG,617
+nba-201801120ATL,2018,,2018-01-12,Atlanta Hawks,Brooklyn Nets,105,110,REG,618
+nba-201801120CHO,2018,,2018-01-12,Charlotte Hornets,Utah Jazz,99,88,REG,619
+nba-201801120DEN,2018,,2018-01-12,Denver Nuggets,Memphis Grizzlies,87,78,REG,620
+nba-201801120IND,2018,,2018-01-12,Indiana Pacers,Cleveland Cavaliers,97,95,REG,621
+nba-201801120MIL,2018,,2018-01-12,Milwaukee Bucks,Golden State Warriors,94,108,REG,622
+nba-201801120MIN,2018,,2018-01-12,Minnesota Timberwolves,New York Knicks,118,108,REG,623
+nba-201801120NOP,2018,,2018-01-12,New Orleans Pelicans,Portland Trail Blazers,119,113,REG,624
+nba-201801120PHO,2018,,2018-01-12,Phoenix Suns,Houston Rockets,95,112,REG,625
+nba-201801120WAS,2018,,2018-01-12,Washington Wizards,Orlando Magic,125,119,REG,626
+nba-201801130CHO,2018,,2018-01-13,Charlotte Hornets,Oklahoma City Thunder,91,101,REG,627
+nba-201801130CHI,2018,,2018-01-13,Chicago Bulls,Detroit Pistons,107,105,REG,628
+nba-201801130DAL,2018,,2018-01-13,Dallas Mavericks,Los Angeles Lakers,101,107,REG,629
+nba-201801130LAC,2018,,2018-01-13,Los Angeles Clippers,Sacramento Kings,126,105,REG,630
+nba-201801130SAS,2018,,2018-01-13,San Antonio Spurs,Denver Nuggets,112,80,REG,631
+nba-201801130TOR,2018,,2018-01-13,Toronto Raptors,Golden State Warriors,125,127,REG,632
+nba-201801130WAS,2018,,2018-01-13,Washington Wizards,Brooklyn Nets,119,113,REG,633
+nba-201801140MIA,2018,,2018-01-14,Miami Heat,Milwaukee Bucks,97,79,REG,634
+nba-201801140MIN,2018,,2018-01-14,Minnesota Timberwolves,Portland Trail Blazers,120,103,REG,635
+nba-201801140NYK,2018,,2018-01-14,New York Knicks,New Orleans Pelicans,118,123,REG,636
+nba-201801140PHO,2018,,2018-01-14,Phoenix Suns,Indiana Pacers,97,120,REG,637
+nba-201801150ATL,2018,,2018-01-15,Atlanta Hawks,San Antonio Spurs,102,99,REG,638
+nba-201801150BRK,2018,,2018-01-15,Brooklyn Nets,New York Knicks,104,119,REG,639
+nba-201801150CHI,2018,,2018-01-15,Chicago Bulls,Miami Heat,119,111,REG,640
+nba-201801150CLE,2018,,2018-01-15,Cleveland Cavaliers,Golden State Warriors,108,118,REG,641
+nba-201801150DET,2018,,2018-01-15,Detroit Pistons,Charlotte Hornets,107,118,REG,642
+nba-201801150LAC,2018,,2018-01-15,Los Angeles Clippers,Houston Rockets,113,102,REG,643
+nba-201801150MEM,2018,,2018-01-15,Memphis Grizzlies,Los Angeles Lakers,123,114,REG,644
+nba-201801150OKC,2018,,2018-01-15,Oklahoma City Thunder,Sacramento Kings,95,88,REG,645
+nba-201801150PHI,2018,,2018-01-15,Philadelphia 76ers,Toronto Raptors,117,111,REG,646
+nba-201801150UTA,2018,,2018-01-15,Utah Jazz,Indiana Pacers,94,109,REG,647
+nba-201801150WAS,2018,,2018-01-15,Washington Wizards,Milwaukee Bucks,95,104,REG,648
+nba-201801160BOS,2018,,2018-01-16,Boston Celtics,New Orleans Pelicans,113,116,REG,649
+nba-201801160DEN,2018,,2018-01-16,Denver Nuggets,Dallas Mavericks,105,102,REG,650
+nba-201801160ORL,2018,,2018-01-16,Orlando Magic,Minnesota Timberwolves,108,102,REG,651
+nba-201801160POR,2018,,2018-01-16,Portland Trail Blazers,Phoenix Suns,118,111,REG,652
+nba-201801170ATL,2018,,2018-01-17,Atlanta Hawks,New Orleans Pelicans,94,93,REG,653
+nba-201801170BRK,2018,,2018-01-17,Brooklyn Nets,San Antonio Spurs,95,100,REG,654
+nba-201801170CHO,2018,,2018-01-17,Charlotte Hornets,Washington Wizards,133,109,REG,655
+nba-201801170CHI,2018,,2018-01-17,Chicago Bulls,Golden State Warriors,112,119,REG,656
+nba-201801170LAC,2018,,2018-01-17,Los Angeles Clippers,Denver Nuggets,109,104,REG,657
+nba-201801170MEM,2018,,2018-01-17,Memphis Grizzlies,New York Knicks,105,99,REG,658
+nba-201801170MIL,2018,,2018-01-17,Milwaukee Bucks,Miami Heat,101,106,REG,659
+nba-201801170OKC,2018,,2018-01-17,Oklahoma City Thunder,Los Angeles Lakers,114,90,REG,660
+nba-201801170SAC,2018,,2018-01-17,Sacramento Kings,Utah Jazz,105,120,REG,661
+nba-201801170TOR,2018,,2018-01-17,Toronto Raptors,Detroit Pistons,96,91,REG,662
+nba-201801180BOS,2018,,2018-01-18,Boston Celtics,Philadelphia 76ers,80,89,REG,663
+nba-201801180CLE,2018,,2018-01-18,Cleveland Cavaliers,Orlando Magic,104,103,REG,664
+nba-201801180HOU,2018,,2018-01-18,Houston Rockets,Minnesota Timberwolves,116,98,REG,665
+nba-201801180POR,2018,,2018-01-18,Portland Trail Blazers,Indiana Pacers,100,86,REG,666
+nba-201801190BRK,2018,,2018-01-19,Brooklyn Nets,Miami Heat,101,95,REG,667
+nba-201801190DEN,2018,,2018-01-19,Denver Nuggets,Phoenix Suns,100,108,REG,668
+nba-201801190DET,2018,,2018-01-19,Detroit Pistons,Washington Wizards,112,122,REG,669
+nba-201801190LAL,2018,,2018-01-19,Los Angeles Lakers,Indiana Pacers,99,86,REG,670
+nba-201801190MEM,2018,,2018-01-19,Memphis Grizzlies,Sacramento Kings,106,88,REG,671
+nba-201801190TOR,2018,,2018-01-19,Toronto Raptors,San Antonio Spurs,86,83,REG,672
+nba-201801190UTA,2018,,2018-01-19,Utah Jazz,New York Knicks,115,117,REG,673
+nba-201801200ATL,2018,,2018-01-20,Atlanta Hawks,Chicago Bulls,97,113,REG,674
+nba-201801200CHO,2018,,2018-01-20,Charlotte Hornets,Miami Heat,105,106,REG,675
+nba-201801200CLE,2018,,2018-01-20,Cleveland Cavaliers,Oklahoma City Thunder,124,148,REG,676
+nba-201801200HOU,2018,,2018-01-20,Houston Rockets,Golden State Warriors,116,108,REG,677
+nba-201801200MIN,2018,,2018-01-20,Minnesota Timberwolves,Toronto Raptors,115,109,REG,678
+nba-201801200NOP,2018,,2018-01-20,New Orleans Pelicans,Memphis Grizzlies,111,104,REG,679
+nba-201801200PHI,2018,,2018-01-20,Philadelphia 76ers,Milwaukee Bucks,116,94,REG,680
+nba-201801200POR,2018,,2018-01-20,Portland Trail Blazers,Dallas Mavericks,117,108,REG,681
+nba-201801200UTA,2018,,2018-01-20,Utah Jazz,Los Angeles Clippers,125,113,REG,682
+nba-201801210BOS,2018,,2018-01-21,Boston Celtics,Orlando Magic,95,103,REG,683
+nba-201801210DET,2018,,2018-01-21,Detroit Pistons,Brooklyn Nets,100,101,REG,684
+nba-201801210LAL,2018,,2018-01-21,Los Angeles Lakers,New York Knicks,127,107,REG,685
+nba-201801210SAS,2018,,2018-01-21,San Antonio Spurs,Indiana Pacers,86,94,REG,686
+nba-201801220ATL,2018,,2018-01-22,Atlanta Hawks,Utah Jazz,104,90,REG,687
+nba-201801220CHO,2018,,2018-01-22,Charlotte Hornets,Sacramento Kings,112,107,REG,688
+nba-201801220DAL,2018,,2018-01-22,Dallas Mavericks,Washington Wizards,98,75,REG,689
+nba-201801220DEN,2018,,2018-01-22,Denver Nuggets,Portland Trail Blazers,104,101,REG,690
+nba-201801220HOU,2018,,2018-01-22,Houston Rockets,Miami Heat,99,90,REG,691
+nba-201801220LAC,2018,,2018-01-22,Los Angeles Clippers,Minnesota Timberwolves,118,126,REG,692
+nba-201801220MEM,2018,,2018-01-22,Memphis Grizzlies,Philadelphia 76ers,105,101,REG,693
+nba-201801220MIL,2018,,2018-01-22,Milwaukee Bucks,Phoenix Suns,109,105,REG,694
+nba-201801220NOP,2018,,2018-01-22,New Orleans Pelicans,Chicago Bulls,132,128,REG,695
+nba-201801230GSW,2018,,2018-01-23,Golden State Warriors,New York Knicks,123,112,REG,696
+nba-201801230LAL,2018,,2018-01-23,Los Angeles Lakers,Boston Celtics,108,107,REG,697
+nba-201801230OKC,2018,,2018-01-23,Oklahoma City Thunder,Brooklyn Nets,109,108,REG,698
+nba-201801230ORL,2018,,2018-01-23,Orlando Magic,Sacramento Kings,99,105,REG,699
+nba-201801230SAS,2018,,2018-01-23,San Antonio Spurs,Cleveland Cavaliers,114,102,REG,700
+nba-201801240ATL,2018,,2018-01-24,Atlanta Hawks,Toronto Raptors,93,108,REG,701
+nba-201801240CHO,2018,,2018-01-24,Charlotte Hornets,New Orleans Pelicans,96,101,REG,702
+nba-201801240DAL,2018,,2018-01-24,Dallas Mavericks,Houston Rockets,97,104,REG,703
+nba-201801240DET,2018,,2018-01-24,Detroit Pistons,Utah Jazz,95,98,REG,704
+nba-201801240IND,2018,,2018-01-24,Indiana Pacers,Phoenix Suns,116,101,REG,705
+nba-201801240LAC,2018,,2018-01-24,Los Angeles Clippers,Boston Celtics,102,113,REG,706
+nba-201801240MEM,2018,,2018-01-24,Memphis Grizzlies,San Antonio Spurs,85,108,REG,707
+nba-201801240PHI,2018,,2018-01-24,Philadelphia 76ers,Chicago Bulls,115,101,REG,708
+nba-201801240POR,2018,,2018-01-24,Portland Trail Blazers,Minnesota Timberwolves,123,114,REG,709
+nba-201801250DEN,2018,,2018-01-25,Denver Nuggets,New York Knicks,130,118,REG,710
+nba-201801250GSW,2018,,2018-01-25,Golden State Warriors,Minnesota Timberwolves,126,113,REG,711
+nba-201801250MIA,2018,,2018-01-25,Miami Heat,Sacramento Kings,88,89,REG,712
+nba-201801250OKC,2018,,2018-01-25,Oklahoma City Thunder,Washington Wizards,121,112,REG,713
+nba-201801260CHO,2018,,2018-01-26,Charlotte Hornets,Atlanta Hawks,121,110,REG,714
+nba-201801260CHI,2018,,2018-01-26,Chicago Bulls,Los Angeles Lakers,103,108,REG,715
+nba-201801260CLE,2018,,2018-01-26,Cleveland Cavaliers,Indiana Pacers,115,108,REG,716
+nba-201801260DAL,2018,,2018-01-26,Dallas Mavericks,Portland Trail Blazers,93,107,REG,717
+nba-201801260MEM,2018,,2018-01-26,Memphis Grizzlies,Los Angeles Clippers,100,109,REG,718
+nba-201801260MIL,2018,,2018-01-26,Milwaukee Bucks,Brooklyn Nets,116,91,REG,719
+nba-201801260NOP,2018,,2018-01-26,New Orleans Pelicans,Houston Rockets,115,113,REG,720
+nba-201801260PHO,2018,,2018-01-26,Phoenix Suns,New York Knicks,85,107,REG,721
+nba-201801260SAS,2018,,2018-01-26,San Antonio Spurs,Philadelphia 76ers,78,97,REG,722
+nba-201801260TOR,2018,,2018-01-26,Toronto Raptors,Utah Jazz,93,97,REG,723
+nba-201801270ATL,2018,,2018-01-27,Atlanta Hawks,Washington Wizards,104,129,REG,724
+nba-201801270DEN,2018,,2018-01-27,Denver Nuggets,Dallas Mavericks,91,89,REG,725
+nba-201801270DET,2018,,2018-01-27,Detroit Pistons,Oklahoma City Thunder,108,121,REG,726
+nba-201801270GSW,2018,,2018-01-27,Golden State Warriors,Boston Celtics,109,105,REG,727
+nba-201801270IND,2018,,2018-01-27,Indiana Pacers,Orlando Magic,114,112,REG,728
+nba-201801270MIA,2018,,2018-01-27,Miami Heat,Charlotte Hornets,95,91,REG,729
+nba-201801270MIN,2018,,2018-01-27,Minnesota Timberwolves,Brooklyn Nets,111,97,REG,730
+nba-201801280CHI,2018,,2018-01-28,Chicago Bulls,Milwaukee Bucks,96,110,REG,731
+nba-201801280CLE,2018,,2018-01-28,Cleveland Cavaliers,Detroit Pistons,121,104,REG,732
+nba-201801280HOU,2018,,2018-01-28,Houston Rockets,Phoenix Suns,113,102,REG,733
+nba-201801280NOP,2018,,2018-01-28,New Orleans Pelicans,Los Angeles Clippers,103,112,REG,734
+nba-201801280OKC,2018,,2018-01-28,Oklahoma City Thunder,Philadelphia 76ers,122,112,REG,735
+nba-201801280SAS,2018,,2018-01-28,San Antonio Spurs,Sacramento Kings,113,98,REG,736
+nba-201801280TOR,2018,,2018-01-28,Toronto Raptors,Los Angeles Lakers,123,111,REG,737
+nba-201801290ATL,2018,,2018-01-29,Atlanta Hawks,Minnesota Timberwolves,105,100,REG,738
+nba-201801290DAL,2018,,2018-01-29,Dallas Mavericks,Miami Heat,88,95,REG,739
+nba-201801290DEN,2018,,2018-01-29,Denver Nuggets,Boston Celtics,110,111,REG,740
+nba-201801290IND,2018,,2018-01-29,Indiana Pacers,Charlotte Hornets,105,96,REG,741
+nba-201801290MEM,2018,,2018-01-29,Memphis Grizzlies,Phoenix Suns,120,109,REG,742
+nba-201801290MIL,2018,,2018-01-29,Milwaukee Bucks,Philadelphia 76ers,107,95,REG,743
+nba-201801300DET,2018,,2018-01-30,Detroit Pistons,Cleveland Cavaliers,125,114,REG,744
+nba-201801300HOU,2018,,2018-01-30,Houston Rockets,Orlando Magic,114,107,REG,745
+nba-201801300LAC,2018,,2018-01-30,Los Angeles Clippers,Portland Trail Blazers,96,104,REG,746
+nba-201801300NOP,2018,,2018-01-30,New Orleans Pelicans,Sacramento Kings,103,114,REG,747
+nba-201801300NYK,2018,,2018-01-30,New York Knicks,Brooklyn Nets,111,95,REG,748
+nba-201801300SAS,2018,,2018-01-30,San Antonio Spurs,Denver Nuggets,106,104,REG,749
+nba-201801300TOR,2018,,2018-01-30,Toronto Raptors,Minnesota Timberwolves,109,104,REG,750
+nba-201801300UTA,2018,,2018-01-30,Utah Jazz,Golden State Warriors,129,99,REG,751
+nba-201801300WAS,2018,,2018-01-30,Washington Wizards,Oklahoma City Thunder,102,96,REG,752
+nba-201801310ATL,2018,,2018-01-31,Atlanta Hawks,Charlotte Hornets,110,123,REG,753
+nba-201801310BOS,2018,,2018-01-31,Boston Celtics,New York Knicks,103,73,REG,754
+nba-201801310BRK,2018,,2018-01-31,Brooklyn Nets,Philadelphia 76ers,116,108,REG,755
+nba-201801310CLE,2018,,2018-01-31,Cleveland Cavaliers,Miami Heat,91,89,REG,756
+nba-201801310IND,2018,,2018-01-31,Indiana Pacers,Memphis Grizzlies,105,101,REG,757
+nba-201801310ORL,2018,,2018-01-31,Orlando Magic,Los Angeles Lakers,127,105,REG,758
+nba-201801310PHO,2018,,2018-01-31,Phoenix Suns,Dallas Mavericks,102,88,REG,759
+nba-201801310POR,2018,,2018-01-31,Portland Trail Blazers,Chicago Bulls,124,108,REG,760
+nba-201802010DEN,2018,,2018-02-01,Denver Nuggets,Oklahoma City Thunder,127,124,REG,761
+nba-201802010DET,2018,,2018-02-01,Detroit Pistons,Memphis Grizzlies,104,102,REG,762
+nba-201802010MIN,2018,,2018-02-01,Minnesota Timberwolves,Milwaukee Bucks,108,89,REG,763
+nba-201802010SAS,2018,,2018-02-01,San Antonio Spurs,Houston Rockets,91,102,REG,764
+nba-201802010WAS,2018,,2018-02-01,Washington Wizards,Toronto Raptors,122,119,REG,765
+nba-201802020BOS,2018,,2018-02-02,Boston Celtics,Atlanta Hawks,119,110,REG,766
+nba-201802020BRK,2018,,2018-02-02,Brooklyn Nets,Los Angeles Lakers,99,102,REG,767
+nba-201802020CHO,2018,,2018-02-02,Charlotte Hornets,Indiana Pacers,133,126,REG,768
+nba-201802020MIL,2018,,2018-02-02,Milwaukee Bucks,New York Knicks,92,90,REG,769
+nba-201802020OKC,2018,,2018-02-02,Oklahoma City Thunder,New Orleans Pelicans,100,114,REG,770
+nba-201802020PHI,2018,,2018-02-02,Philadelphia 76ers,Miami Heat,103,97,REG,771
+nba-201802020PHO,2018,,2018-02-02,Phoenix Suns,Utah Jazz,97,129,REG,772
+nba-201802020SAC,2018,,2018-02-02,Sacramento Kings,Golden State Warriors,104,119,REG,773
+nba-201802020TOR,2018,,2018-02-02,Toronto Raptors,Portland Trail Blazers,130,105,REG,774
+nba-201802030CLE,2018,,2018-02-03,Cleveland Cavaliers,Houston Rockets,88,120,REG,775
+nba-201802030DEN,2018,,2018-02-03,Denver Nuggets,Golden State Warriors,115,108,REG,776
+nba-201802030DET,2018,,2018-02-03,Detroit Pistons,Miami Heat,111,107,REG,777
+nba-201802030IND,2018,,2018-02-03,Indiana Pacers,Philadelphia 76ers,100,92,REG,778
+nba-201802030LAC,2018,,2018-02-03,Los Angeles Clippers,Chicago Bulls,113,103,REG,779
+nba-201802030MIN,2018,,2018-02-03,Minnesota Timberwolves,New Orleans Pelicans,118,107,REG,780
+nba-201802030ORL,2018,,2018-02-03,Orlando Magic,Washington Wizards,98,115,REG,781
+nba-201802030SAC,2018,,2018-02-03,Sacramento Kings,Dallas Mavericks,99,106,REG,782
+nba-201802030SAS,2018,,2018-02-03,San Antonio Spurs,Utah Jazz,111,120,REG,783
+nba-201802040BOS,2018,,2018-02-04,Boston Celtics,Portland Trail Blazers,97,96,REG,784
+nba-201802040BRK,2018,,2018-02-04,Brooklyn Nets,Milwaukee Bucks,94,109,REG,785
+nba-201802040NYK,2018,,2018-02-04,New York Knicks,Atlanta Hawks,96,99,REG,786
+nba-201802040OKC,2018,,2018-02-04,Oklahoma City Thunder,Los Angeles Lakers,104,108,REG,787
+nba-201802040PHO,2018,,2018-02-04,Phoenix Suns,Charlotte Hornets,110,115,REG,788
+nba-201802040TOR,2018,,2018-02-04,Toronto Raptors,Memphis Grizzlies,101,86,REG,789
+nba-201802050DEN,2018,,2018-02-05,Denver Nuggets,Charlotte Hornets,121,104,REG,790
+nba-201802050DET,2018,,2018-02-05,Detroit Pistons,Portland Trail Blazers,111,91,REG,791
+nba-201802050IND,2018,,2018-02-05,Indiana Pacers,Washington Wizards,102,111,REG,792
+nba-201802050LAC,2018,,2018-02-05,Los Angeles Clippers,Dallas Mavericks,104,101,REG,793
+nba-201802050MIA,2018,,2018-02-05,Miami Heat,Orlando Magic,109,111,REG,794
+nba-201802050NOP,2018,,2018-02-05,New Orleans Pelicans,Utah Jazz,109,133,REG,795
+nba-201802050SAC,2018,,2018-02-05,Sacramento Kings,Chicago Bulls,104,98,REG,796
+nba-201802060ATL,2018,,2018-02-06,Atlanta Hawks,Memphis Grizzlies,108,82,REG,797
+nba-201802060BRK,2018,,2018-02-06,Brooklyn Nets,Houston Rockets,113,123,REG,798
+nba-201802060GSW,2018,,2018-02-06,Golden State Warriors,Oklahoma City Thunder,105,125,REG,799
+nba-201802060LAL,2018,,2018-02-06,Los Angeles Lakers,Phoenix Suns,112,93,REG,800
+nba-201802060NYK,2018,,2018-02-06,New York Knicks,Milwaukee Bucks,89,103,REG,801
+nba-201802060ORL,2018,,2018-02-06,Orlando Magic,Cleveland Cavaliers,116,98,REG,802
+nba-201802060PHI,2018,,2018-02-06,Philadelphia 76ers,Washington Wizards,115,102,REG,803
+nba-201802060TOR,2018,,2018-02-06,Toronto Raptors,Boston Celtics,111,91,REG,804
+nba-201802070CLE,2018,,2018-02-07,Cleveland Cavaliers,Minnesota Timberwolves,140,138,REG,805
+nba-201802070DET,2018,,2018-02-07,Detroit Pistons,Brooklyn Nets,115,106,REG,806
+nba-201802070MEM,2018,,2018-02-07,Memphis Grizzlies,Utah Jazz,88,92,REG,807
+nba-201802070MIA,2018,,2018-02-07,Miami Heat,Houston Rockets,101,109,REG,808
+nba-201802070PHO,2018,,2018-02-07,Phoenix Suns,San Antonio Spurs,81,129,REG,809
+nba-201802080GSW,2018,,2018-02-08,Golden State Warriors,Dallas Mavericks,121,103,REG,810
+nba-201802080LAL,2018,,2018-02-08,Los Angeles Lakers,Oklahoma City Thunder,106,81,REG,811
+nba-201802080ORL,2018,,2018-02-08,Orlando Magic,Atlanta Hawks,100,98,REG,812
+nba-201802080POR,2018,,2018-02-08,Portland Trail Blazers,Charlotte Hornets,109,103,REG,813
+nba-201802080TOR,2018,,2018-02-08,Toronto Raptors,New York Knicks,113,88,REG,814
+nba-201802080WAS,2018,,2018-02-08,Washington Wizards,Boston Celtics,104,110,REG,815
+nba-201802090ATL,2018,,2018-02-09,Atlanta Hawks,Cleveland Cavaliers,107,123,REG,816
+nba-201802090BOS,2018,,2018-02-09,Boston Celtics,Indiana Pacers,91,97,REG,817
+nba-201802090CHI,2018,,2018-02-09,Chicago Bulls,Minnesota Timberwolves,114,113,REG,818
+nba-201802090DET,2018,,2018-02-09,Detroit Pistons,Los Angeles Clippers,95,108,REG,819
+nba-201802090HOU,2018,,2018-02-09,Houston Rockets,Denver Nuggets,130,104,REG,820
+nba-201802090MIA,2018,,2018-02-09,Miami Heat,Milwaukee Bucks,91,85,REG,821
+nba-201802090PHI,2018,,2018-02-09,Philadelphia 76ers,New Orleans Pelicans,100,82,REG,822
+nba-201802090SAC,2018,,2018-02-09,Sacramento Kings,Portland Trail Blazers,100,118,REG,823
+nba-201802090UTA,2018,,2018-02-09,Utah Jazz,Charlotte Hornets,106,94,REG,824
+nba-201802100BRK,2018,,2018-02-10,Brooklyn Nets,New Orleans Pelicans,128,138,REG,825
+nba-201802100CHI,2018,,2018-02-10,Chicago Bulls,Washington Wizards,90,101,REG,826
+nba-201802100DAL,2018,,2018-02-10,Dallas Mavericks,Los Angeles Lakers,130,123,REG,827
+nba-201802100GSW,2018,,2018-02-10,Golden State Warriors,San Antonio Spurs,122,105,REG,828
+nba-201802100ORL,2018,,2018-02-10,Orlando Magic,Milwaukee Bucks,104,111,REG,829
+nba-201802100PHI,2018,,2018-02-10,Philadelphia 76ers,Los Angeles Clippers,112,98,REG,830
+nba-201802100PHO,2018,,2018-02-10,Phoenix Suns,Denver Nuggets,113,123,REG,831
+nba-201802110ATL,2018,,2018-02-11,Atlanta Hawks,Detroit Pistons,118,115,REG,832
+nba-201802110BOS,2018,,2018-02-11,Boston Celtics,Cleveland Cavaliers,99,121,REG,833
+nba-201802110CHO,2018,,2018-02-11,Charlotte Hornets,Toronto Raptors,103,123,REG,834
+nba-201802110HOU,2018,,2018-02-11,Houston Rockets,Dallas Mavericks,104,97,REG,835
+nba-201802110IND,2018,,2018-02-11,Indiana Pacers,New York Knicks,121,113,REG,836
+nba-201802110MIN,2018,,2018-02-11,Minnesota Timberwolves,Sacramento Kings,111,106,REG,837
+nba-201802110OKC,2018,,2018-02-11,Oklahoma City Thunder,Memphis Grizzlies,110,92,REG,838
+nba-201802110POR,2018,,2018-02-11,Portland Trail Blazers,Utah Jazz,96,115,REG,839
+nba-201802120BRK,2018,,2018-02-12,Brooklyn Nets,Los Angeles Clippers,101,114,REG,840
+nba-201802120CHI,2018,,2018-02-12,Chicago Bulls,Orlando Magic,105,101,REG,841
+nba-201802120DET,2018,,2018-02-12,Detroit Pistons,New Orleans Pelicans,103,118,REG,842
+nba-201802120GSW,2018,,2018-02-12,Golden State Warriors,Phoenix Suns,129,83,REG,843
+nba-201802120PHI,2018,,2018-02-12,Philadelphia 76ers,New York Knicks,108,92,REG,844
+nba-201802120UTA,2018,,2018-02-12,Utah Jazz,San Antonio Spurs,101,99,REG,845
+nba-201802130DAL,2018,,2018-02-13,Dallas Mavericks,Sacramento Kings,109,114,REG,846
+nba-201802130DEN,2018,,2018-02-13,Denver Nuggets,San Antonio Spurs,117,109,REG,847
+nba-201802130MIL,2018,,2018-02-13,Milwaukee Bucks,Atlanta Hawks,97,92,REG,848
+nba-201802130MIN,2018,,2018-02-13,Minnesota Timberwolves,Houston Rockets,108,126,REG,849
+nba-201802130OKC,2018,,2018-02-13,Oklahoma City Thunder,Cleveland Cavaliers,112,120,REG,850
+nba-201802130TOR,2018,,2018-02-13,Toronto Raptors,Miami Heat,115,112,REG,851
+nba-201802140BOS,2018,,2018-02-14,Boston Celtics,Los Angeles Clippers,119,129,REG,852
+nba-201802140BRK,2018,,2018-02-14,Brooklyn Nets,Indiana Pacers,103,108,REG,853
+nba-201802140CHI,2018,,2018-02-14,Chicago Bulls,Toronto Raptors,98,122,REG,854
+nba-201802140DET,2018,,2018-02-14,Detroit Pistons,Atlanta Hawks,104,98,REG,855
+nba-201802140HOU,2018,,2018-02-14,Houston Rockets,Sacramento Kings,100,91,REG,856
+nba-201802140MEM,2018,,2018-02-14,Memphis Grizzlies,Oklahoma City Thunder,114,121,REG,857
+nba-201802140NOP,2018,,2018-02-14,New Orleans Pelicans,Los Angeles Lakers,139,117,REG,858
+nba-201802140NYK,2018,,2018-02-14,New York Knicks,Washington Wizards,113,118,REG,859
+nba-201802140ORL,2018,,2018-02-14,Orlando Magic,Charlotte Hornets,102,104,REG,860
+nba-201802140PHI,2018,,2018-02-14,Philadelphia 76ers,Miami Heat,104,102,REG,861
+nba-201802140POR,2018,,2018-02-14,Portland Trail Blazers,Golden State Warriors,123,117,REG,862
+nba-201802140UTA,2018,,2018-02-14,Utah Jazz,Phoenix Suns,107,97,REG,863
+nba-201802150MIL,2018,,2018-02-15,Milwaukee Bucks,Denver Nuggets,123,134,REG,864
+nba-201802150MIN,2018,,2018-02-15,Minnesota Timberwolves,Los Angeles Lakers,119,111,REG,865
+nba-201802220CHO,2018,,2018-02-22,Charlotte Hornets,Brooklyn Nets,111,96,REG,866
+nba-201802220CHI,2018,,2018-02-22,Chicago Bulls,Philadelphia 76ers,115,116,REG,867
+nba-201802220CLE,2018,,2018-02-22,Cleveland Cavaliers,Washington Wizards,103,110,REG,868
+nba-201802220GSW,2018,,2018-02-22,Golden State Warriors,Los Angeles Clippers,134,127,REG,869
+nba-201802220ORL,2018,,2018-02-22,Orlando Magic,New York Knicks,113,120,REG,870
+nba-201802220SAC,2018,,2018-02-22,Sacramento Kings,Oklahoma City Thunder,107,110,REG,871
+nba-201802230DEN,2018,,2018-02-23,Denver Nuggets,San Antonio Spurs,122,119,REG,872
+nba-201802230DET,2018,,2018-02-23,Detroit Pistons,Boston Celtics,98,110,REG,873
+nba-201802230HOU,2018,,2018-02-23,Houston Rockets,Minnesota Timberwolves,120,102,REG,874
+nba-201802230IND,2018,,2018-02-23,Indiana Pacers,Atlanta Hawks,116,93,REG,875
+nba-201802230LAL,2018,,2018-02-23,Los Angeles Lakers,Dallas Mavericks,124,102,REG,876
+nba-201802230MEM,2018,,2018-02-23,Memphis Grizzlies,Cleveland Cavaliers,89,112,REG,877
+nba-201802230NOP,2018,,2018-02-23,New Orleans Pelicans,Miami Heat,124,123,REG,878
+nba-201802230PHO,2018,,2018-02-23,Phoenix Suns,Los Angeles Clippers,117,128,REG,879
+nba-201802230TOR,2018,,2018-02-23,Toronto Raptors,Milwaukee Bucks,119,122,REG,880
+nba-201802230UTA,2018,,2018-02-23,Utah Jazz,Portland Trail Blazers,81,100,REG,881
+nba-201802230WAS,2018,,2018-02-23,Washington Wizards,Charlotte Hornets,105,122,REG,882
+nba-201802240GSW,2018,,2018-02-24,Golden State Warriors,Oklahoma City Thunder,112,80,REG,883
+nba-201802240MIA,2018,,2018-02-24,Miami Heat,Memphis Grizzlies,115,89,REG,884
+nba-201802240MIN,2018,,2018-02-24,Minnesota Timberwolves,Chicago Bulls,122,104,REG,885
+nba-201802240NYK,2018,,2018-02-24,New York Knicks,Boston Celtics,112,121,REG,886
+nba-201802240PHI,2018,,2018-02-24,Philadelphia 76ers,Orlando Magic,116,105,REG,887
+nba-201802240PHO,2018,,2018-02-24,Phoenix Suns,Portland Trail Blazers,104,106,REG,888
+nba-201802240SAC,2018,,2018-02-24,Sacramento Kings,Los Angeles Lakers,108,113,REG,889
+nba-201802240UTA,2018,,2018-02-24,Utah Jazz,Dallas Mavericks,97,90,REG,890
+nba-201802250CHO,2018,,2018-02-25,Charlotte Hornets,Detroit Pistons,114,98,REG,891
+nba-201802250CLE,2018,,2018-02-25,Cleveland Cavaliers,San Antonio Spurs,94,110,REG,892
+nba-201802250DEN,2018,,2018-02-25,Denver Nuggets,Houston Rockets,114,119,REG,893
+nba-201802250MIL,2018,,2018-02-25,Milwaukee Bucks,New Orleans Pelicans,121,123,REG,894
+nba-201802250WAS,2018,,2018-02-25,Washington Wizards,Philadelphia 76ers,109,94,REG,895
+nba-201802260ATL,2018,,2018-02-26,Atlanta Hawks,Los Angeles Lakers,104,123,REG,896
+nba-201802260BOS,2018,,2018-02-26,Boston Celtics,Memphis Grizzlies,109,98,REG,897
+nba-201802260BRK,2018,,2018-02-26,Brooklyn Nets,Chicago Bulls,104,87,REG,898
+nba-201802260DAL,2018,,2018-02-26,Dallas Mavericks,Indiana Pacers,109,103,REG,899
+nba-201802260NOP,2018,,2018-02-26,New Orleans Pelicans,Phoenix Suns,125,116,REG,900
+nba-201802260NYK,2018,,2018-02-26,New York Knicks,Golden State Warriors,111,125,REG,901
+nba-201802260OKC,2018,,2018-02-26,Oklahoma City Thunder,Orlando Magic,112,105,REG,902
+nba-201802260SAC,2018,,2018-02-26,Sacramento Kings,Minnesota Timberwolves,100,118,REG,903
+nba-201802260TOR,2018,,2018-02-26,Toronto Raptors,Detroit Pistons,123,94,REG,904
+nba-201802260UTA,2018,,2018-02-26,Utah Jazz,Houston Rockets,85,96,REG,905
+nba-201802270CHO,2018,,2018-02-27,Charlotte Hornets,Chicago Bulls,118,103,REG,906
+nba-201802270CLE,2018,,2018-02-27,Cleveland Cavaliers,Brooklyn Nets,129,123,REG,907
+nba-201802270DEN,2018,,2018-02-27,Denver Nuggets,Los Angeles Clippers,120,122,REG,908
+nba-201802270MIA,2018,,2018-02-27,Miami Heat,Philadelphia 76ers,102,101,REG,909
+nba-201802270MIL,2018,,2018-02-27,Milwaukee Bucks,Washington Wizards,104,107,REG,910
+nba-201802270POR,2018,,2018-02-27,Portland Trail Blazers,Sacramento Kings,116,99,REG,911
+nba-201802280ATL,2018,,2018-02-28,Atlanta Hawks,Indiana Pacers,107,102,REG,912
+nba-201802280BOS,2018,,2018-02-28,Boston Celtics,Charlotte Hornets,134,106,REG,913
+nba-201802280DAL,2018,,2018-02-28,Dallas Mavericks,Oklahoma City Thunder,110,111,REG,914
+nba-201802280DET,2018,,2018-02-28,Detroit Pistons,Milwaukee Bucks,110,87,REG,915
+nba-201802280LAC,2018,,2018-02-28,Los Angeles Clippers,Houston Rockets,92,105,REG,916
+nba-201802280MEM,2018,,2018-02-28,Memphis Grizzlies,Phoenix Suns,102,110,REG,917
+nba-201802280ORL,2018,,2018-02-28,Orlando Magic,Toronto Raptors,104,117,REG,918
+nba-201802280SAS,2018,,2018-02-28,San Antonio Spurs,New Orleans Pelicans,116,121,REG,919
+nba-201802280WAS,2018,,2018-02-28,Washington Wizards,Golden State Warriors,101,109,REG,920
+nba-201803010CLE,2018,,2018-03-01,Cleveland Cavaliers,Philadelphia 76ers,97,108,REG,921
+nba-201803010MIA,2018,,2018-03-01,Miami Heat,Los Angeles Lakers,113,131,REG,922
+nba-201803010POR,2018,,2018-03-01,Portland Trail Blazers,Minnesota Timberwolves,108,99,REG,923
+nba-201803010SAC,2018,,2018-03-01,Sacramento Kings,Brooklyn Nets,116,111,REG,924
+nba-201803020ATL,2018,,2018-03-02,Atlanta Hawks,Golden State Warriors,109,114,REG,925
+nba-201803020CHI,2018,,2018-03-02,Chicago Bulls,Dallas Mavericks,108,100,REG,926
+nba-201803020LAC,2018,,2018-03-02,Los Angeles Clippers,New York Knicks,128,105,REG,927
+nba-201803020MEM,2018,,2018-03-02,Memphis Grizzlies,Denver Nuggets,102,108,REG,928
+nba-201803020MIL,2018,,2018-03-02,Milwaukee Bucks,Indiana Pacers,96,103,REG,929
+nba-201803020ORL,2018,,2018-03-02,Orlando Magic,Detroit Pistons,115,106,REG,930
+nba-201803020PHI,2018,,2018-03-02,Philadelphia 76ers,Charlotte Hornets,110,99,REG,931
+nba-201803020PHO,2018,,2018-03-02,Phoenix Suns,Oklahoma City Thunder,116,124,REG,932
+nba-201803020UTA,2018,,2018-03-02,Utah Jazz,Minnesota Timberwolves,116,108,REG,933
+nba-201803020WAS,2018,,2018-03-02,Washington Wizards,Toronto Raptors,95,102,REG,934
+nba-201803030CLE,2018,,2018-03-03,Cleveland Cavaliers,Denver Nuggets,117,126,REG,935
+nba-201803030HOU,2018,,2018-03-03,Houston Rockets,Boston Celtics,123,120,REG,936
+nba-201803030MIA,2018,,2018-03-03,Miami Heat,Detroit Pistons,105,96,REG,937
+nba-201803030ORL,2018,,2018-03-03,Orlando Magic,Memphis Grizzlies,107,100,REG,938
+nba-201803030POR,2018,,2018-03-03,Portland Trail Blazers,Oklahoma City Thunder,108,100,REG,939
+nba-201803030SAC,2018,,2018-03-03,Sacramento Kings,Utah Jazz,91,98,REG,940
+nba-201803030SAS,2018,,2018-03-03,San Antonio Spurs,Los Angeles Lakers,112,116,REG,941
+nba-201803040ATL,2018,,2018-03-04,Atlanta Hawks,Phoenix Suns,113,112,REG,942
+nba-201803040DAL,2018,,2018-03-04,Dallas Mavericks,New Orleans Pelicans,109,126,REG,943
+nba-201803040LAC,2018,,2018-03-04,Los Angeles Clippers,Brooklyn Nets,123,120,REG,944
+nba-201803040MIL,2018,,2018-03-04,Milwaukee Bucks,Philadelphia 76ers,118,110,REG,945
+nba-201803040SAC,2018,,2018-03-04,Sacramento Kings,New York Knicks,102,99,REG,946
+nba-201803040TOR,2018,,2018-03-04,Toronto Raptors,Charlotte Hornets,103,98,REG,947
+nba-201803040WAS,2018,,2018-03-04,Washington Wizards,Indiana Pacers,95,98,REG,948
+nba-201803050CHI,2018,,2018-03-05,Chicago Bulls,Boston Celtics,89,105,REG,949
+nba-201803050CLE,2018,,2018-03-05,Cleveland Cavaliers,Detroit Pistons,112,90,REG,950
+nba-201803050IND,2018,,2018-03-05,Indiana Pacers,Milwaukee Bucks,92,89,REG,951
+nba-201803050LAL,2018,,2018-03-05,Los Angeles Lakers,Portland Trail Blazers,103,108,REG,952
+nba-201803050MIA,2018,,2018-03-05,Miami Heat,Phoenix Suns,125,103,REG,953
+nba-201803050SAS,2018,,2018-03-05,San Antonio Spurs,Memphis Grizzlies,100,98,REG,954
+nba-201803050UTA,2018,,2018-03-05,Utah Jazz,Orlando Magic,94,80,REG,955
+nba-201803060CHO,2018,,2018-03-06,Charlotte Hornets,Philadelphia 76ers,114,128,REG,956
+nba-201803060DAL,2018,,2018-03-06,Dallas Mavericks,Denver Nuggets,118,107,REG,957
+nba-201803060GSW,2018,,2018-03-06,Golden State Warriors,Brooklyn Nets,114,101,REG,958
+nba-201803060LAC,2018,,2018-03-06,Los Angeles Clippers,New Orleans Pelicans,116,121,REG,959
+nba-201803060OKC,2018,,2018-03-06,Oklahoma City Thunder,Houston Rockets,112,122,REG,960
+nba-201803060POR,2018,,2018-03-06,Portland Trail Blazers,New York Knicks,111,87,REG,961
+nba-201803060TOR,2018,,2018-03-06,Toronto Raptors,Atlanta Hawks,106,90,REG,962
+nba-201803060WAS,2018,,2018-03-06,Washington Wizards,Miami Heat,117,113,REG,963
+nba-201803070CHI,2018,,2018-03-07,Chicago Bulls,Memphis Grizzlies,119,110,REG,964
+nba-201803070DEN,2018,,2018-03-07,Denver Nuggets,Cleveland Cavaliers,108,113,REG,965
+nba-201803070DET,2018,,2018-03-07,Detroit Pistons,Toronto Raptors,119,121,REG,966
+nba-201803070IND,2018,,2018-03-07,Indiana Pacers,Utah Jazz,84,104,REG,967
+nba-201803070LAL,2018,,2018-03-07,Los Angeles Lakers,Orlando Magic,108,107,REG,968
+nba-201803070MIL,2018,,2018-03-07,Milwaukee Bucks,Houston Rockets,99,110,REG,969
+nba-201803070SAC,2018,,2018-03-07,Sacramento Kings,New Orleans Pelicans,101,114,REG,970
+nba-201803080CHO,2018,,2018-03-08,Charlotte Hornets,Brooklyn Nets,111,125,REG,971
+nba-201803080GSW,2018,,2018-03-08,Golden State Warriors,San Antonio Spurs,110,107,REG,972
+nba-201803080MIA,2018,,2018-03-08,Miami Heat,Philadelphia 76ers,108,99,REG,973
+nba-201803080MIN,2018,,2018-03-08,Minnesota Timberwolves,Boston Celtics,109,117,REG,974
+nba-201803080OKC,2018,,2018-03-08,Oklahoma City Thunder,Phoenix Suns,115,87,REG,975
+nba-201803090DEN,2018,,2018-03-09,Denver Nuggets,Los Angeles Lakers,125,116,REG,976
+nba-201803090DET,2018,,2018-03-09,Detroit Pistons,Chicago Bulls,99,83,REG,977
+nba-201803090IND,2018,,2018-03-09,Indiana Pacers,Atlanta Hawks,112,87,REG,978
+nba-201803090LAC,2018,,2018-03-09,Los Angeles Clippers,Cleveland Cavaliers,116,102,REG,979
+nba-201803090MEM,2018,,2018-03-09,Memphis Grizzlies,Utah Jazz,78,95,REG,980
+nba-201803090MIL,2018,,2018-03-09,Milwaukee Bucks,New York Knicks,120,112,REG,981
+nba-201803090NOP,2018,,2018-03-09,New Orleans Pelicans,Washington Wizards,97,116,REG,982
+nba-201803090POR,2018,,2018-03-09,Portland Trail Blazers,Golden State Warriors,125,108,REG,983
+nba-201803090SAC,2018,,2018-03-09,Sacramento Kings,Orlando Magic,94,88,REG,984
+nba-201803090TOR,2018,,2018-03-09,Toronto Raptors,Houston Rockets,108,105,REG,985
+nba-201803100CHO,2018,,2018-03-10,Charlotte Hornets,Phoenix Suns,122,115,REG,986
+nba-201803100DAL,2018,,2018-03-10,Dallas Mavericks,Memphis Grizzlies,114,80,REG,987
+nba-201803100LAC,2018,,2018-03-10,Los Angeles Clippers,Orlando Magic,113,105,REG,988
+nba-201803100MIA,2018,,2018-03-10,Miami Heat,Washington Wizards,129,102,REG,989
+nba-201803100OKC,2018,,2018-03-10,Oklahoma City Thunder,San Antonio Spurs,104,94,REG,990
+nba-201803110ATL,2018,,2018-03-11,Atlanta Hawks,Chicago Bulls,122,129,REG,991
+nba-201803110BOS,2018,,2018-03-11,Boston Celtics,Indiana Pacers,97,99,REG,992
+nba-201803110BRK,2018,,2018-03-11,Brooklyn Nets,Philadelphia 76ers,97,120,REG,993
+nba-201803110DAL,2018,,2018-03-11,Dallas Mavericks,Houston Rockets,82,105,REG,994
+nba-201803110DEN,2018,,2018-03-11,Denver Nuggets,Sacramento Kings,130,104,REG,995
+nba-201803110LAL,2018,,2018-03-11,Los Angeles Lakers,Cleveland Cavaliers,127,113,REG,996
+nba-201803110MIN,2018,,2018-03-11,Minnesota Timberwolves,Golden State Warriors,109,103,REG,997
+nba-201803110NOP,2018,,2018-03-11,New Orleans Pelicans,Utah Jazz,99,116,REG,998
+nba-201803110NYK,2018,,2018-03-11,New York Knicks,Toronto Raptors,106,132,REG,999
+nba-201803120HOU,2018,,2018-03-12,Houston Rockets,San Antonio Spurs,109,93,REG,1000
+nba-201803120MEM,2018,,2018-03-12,Memphis Grizzlies,Milwaukee Bucks,103,121,REG,1001
+nba-201803120OKC,2018,,2018-03-12,Oklahoma City Thunder,Sacramento Kings,106,101,REG,1002
+nba-201803120POR,2018,,2018-03-12,Portland Trail Blazers,Miami Heat,115,99,REG,1003
+nba-201803130ATL,2018,,2018-03-13,Atlanta Hawks,Oklahoma City Thunder,107,119,REG,1004
+nba-201803130BRK,2018,,2018-03-13,Brooklyn Nets,Toronto Raptors,102,116,REG,1005
+nba-201803130CHI,2018,,2018-03-13,Chicago Bulls,Los Angeles Clippers,106,112,REG,1006
+nba-201803130LAL,2018,,2018-03-13,Los Angeles Lakers,Denver Nuggets,112,103,REG,1007
+nba-201803130NOP,2018,,2018-03-13,New Orleans Pelicans,Charlotte Hornets,119,115,REG,1008
+nba-201803130NYK,2018,,2018-03-13,New York Knicks,Dallas Mavericks,97,110,REG,1009
+nba-201803130PHI,2018,,2018-03-13,Philadelphia 76ers,Indiana Pacers,98,101,REG,1010
+nba-201803130PHO,2018,,2018-03-13,Phoenix Suns,Cleveland Cavaliers,107,129,REG,1011
+nba-201803130SAS,2018,,2018-03-13,San Antonio Spurs,Orlando Magic,108,72,REG,1012
+nba-201803130UTA,2018,,2018-03-13,Utah Jazz,Detroit Pistons,110,79,REG,1013
+nba-201803130WAS,2018,,2018-03-13,Washington Wizards,Minnesota Timberwolves,111,116,REG,1014
+nba-201803140BOS,2018,,2018-03-14,Boston Celtics,Washington Wizards,124,125,REG,1015
+nba-201803140GSW,2018,,2018-03-14,Golden State Warriors,Los Angeles Lakers,117,106,REG,1016
+nba-201803140ORL,2018,,2018-03-14,Orlando Magic,Milwaukee Bucks,126,117,REG,1017
+nba-201803140SAC,2018,,2018-03-14,Sacramento Kings,Miami Heat,123,119,REG,1018
+nba-201803150ATL,2018,,2018-03-15,Atlanta Hawks,Charlotte Hornets,117,129,REG,1019
+nba-201803150DEN,2018,,2018-03-15,Denver Nuggets,Detroit Pistons,120,113,REG,1020
+nba-201803150HOU,2018,,2018-03-15,Houston Rockets,Los Angeles Clippers,101,96,REG,1021
+nba-201803150IND,2018,,2018-03-15,Indiana Pacers,Toronto Raptors,99,106,REG,1022
+nba-201803150MEM,2018,,2018-03-15,Memphis Grizzlies,Chicago Bulls,110,111,REG,1023
+nba-201803150NYK,2018,,2018-03-15,New York Knicks,Philadelphia 76ers,110,118,REG,1024
+nba-201803150POR,2018,,2018-03-15,Portland Trail Blazers,Cleveland Cavaliers,113,105,REG,1025
+nba-201803150SAS,2018,,2018-03-15,San Antonio Spurs,New Orleans Pelicans,98,93,REG,1026
+nba-201803150UTA,2018,,2018-03-15,Utah Jazz,Phoenix Suns,116,88,REG,1027
+nba-201803160GSW,2018,,2018-03-16,Golden State Warriors,Sacramento Kings,93,98,REG,1028
+nba-201803160LAL,2018,,2018-03-16,Los Angeles Lakers,Miami Heat,91,92,REG,1029
+nba-201803160OKC,2018,,2018-03-16,Oklahoma City Thunder,Los Angeles Clippers,121,113,REG,1030
+nba-201803160ORL,2018,,2018-03-16,Orlando Magic,Boston Celtics,83,92,REG,1031
+nba-201803160PHI,2018,,2018-03-16,Philadelphia 76ers,Brooklyn Nets,120,116,REG,1032
+nba-201803160TOR,2018,,2018-03-16,Toronto Raptors,Dallas Mavericks,122,115,REG,1033
+nba-201803170BRK,2018,,2018-03-17,Brooklyn Nets,Dallas Mavericks,114,106,REG,1034
+nba-201803170CHI,2018,,2018-03-17,Chicago Bulls,Cleveland Cavaliers,109,114,REG,1035
+nba-201803170MEM,2018,,2018-03-17,Memphis Grizzlies,Denver Nuggets,101,94,REG,1036
+nba-201803170MIL,2018,,2018-03-17,Milwaukee Bucks,Atlanta Hawks,122,117,REG,1037
+nba-201803170NOP,2018,,2018-03-17,New Orleans Pelicans,Houston Rockets,101,107,REG,1038
+nba-201803170NYK,2018,,2018-03-17,New York Knicks,Charlotte Hornets,124,101,REG,1039
+nba-201803170PHO,2018,,2018-03-17,Phoenix Suns,Golden State Warriors,109,124,REG,1040
+nba-201803170POR,2018,,2018-03-17,Portland Trail Blazers,Detroit Pistons,100,87,REG,1041
+nba-201803170SAS,2018,,2018-03-17,San Antonio Spurs,Minnesota Timberwolves,117,101,REG,1042
+nba-201803170UTA,2018,,2018-03-17,Utah Jazz,Sacramento Kings,103,97,REG,1043
+nba-201803170WAS,2018,,2018-03-17,Washington Wizards,Indiana Pacers,109,102,REG,1044
+nba-201803180LAC,2018,,2018-03-18,Los Angeles Clippers,Portland Trail Blazers,109,122,REG,1045
+nba-201803180MIN,2018,,2018-03-18,Minnesota Timberwolves,Houston Rockets,120,129,REG,1046
+nba-201803180NOP,2018,,2018-03-18,New Orleans Pelicans,Boston Celtics,108,89,REG,1047
+nba-201803180TOR,2018,,2018-03-18,Toronto Raptors,Oklahoma City Thunder,125,132,REG,1048
+nba-201803190BRK,2018,,2018-03-19,Brooklyn Nets,Memphis Grizzlies,118,115,REG,1049
+nba-201803190CLE,2018,,2018-03-19,Cleveland Cavaliers,Milwaukee Bucks,124,117,REG,1050
+nba-201803190IND,2018,,2018-03-19,Indiana Pacers,Los Angeles Lakers,110,100,REG,1051
+nba-201803190MIA,2018,,2018-03-19,Miami Heat,Denver Nuggets,149,141,REG,1052
+nba-201803190NYK,2018,,2018-03-19,New York Knicks,Chicago Bulls,110,92,REG,1053
+nba-201803190PHI,2018,,2018-03-19,Philadelphia 76ers,Charlotte Hornets,108,94,REG,1054
+nba-201803190SAC,2018,,2018-03-19,Sacramento Kings,Detroit Pistons,90,106,REG,1055
+nba-201803190SAS,2018,,2018-03-19,San Antonio Spurs,Golden State Warriors,89,75,REG,1056
+nba-201803200BOS,2018,,2018-03-20,Boston Celtics,Oklahoma City Thunder,100,99,REG,1057
+nba-201803200MIN,2018,,2018-03-20,Minnesota Timberwolves,Los Angeles Clippers,123,109,REG,1058
+nba-201803200NOP,2018,,2018-03-20,New Orleans Pelicans,Dallas Mavericks,115,105,REG,1059
+nba-201803200ORL,2018,,2018-03-20,Orlando Magic,Toronto Raptors,86,93,REG,1060
+nba-201803200PHO,2018,,2018-03-20,Phoenix Suns,Detroit Pistons,88,115,REG,1061
+nba-201803200POR,2018,,2018-03-20,Portland Trail Blazers,Houston Rockets,111,115,REG,1062
+nba-201803200UTA,2018,,2018-03-20,Utah Jazz,Atlanta Hawks,94,99,REG,1063
+nba-201803210BRK,2018,,2018-03-21,Brooklyn Nets,Charlotte Hornets,105,111,REG,1064
+nba-201803210CHI,2018,,2018-03-21,Chicago Bulls,Denver Nuggets,102,135,REG,1065
+nba-201803210CLE,2018,,2018-03-21,Cleveland Cavaliers,Toronto Raptors,132,129,REG,1066
+nba-201803210MIA,2018,,2018-03-21,Miami Heat,New York Knicks,119,98,REG,1067
+nba-201803210MIL,2018,,2018-03-21,Milwaukee Bucks,Los Angeles Clippers,120,127,REG,1068
+nba-201803210NOP,2018,,2018-03-21,New Orleans Pelicans,Indiana Pacers,96,92,REG,1069
+nba-201803210PHI,2018,,2018-03-21,Philadelphia 76ers,Memphis Grizzlies,119,105,REG,1070
+nba-201803210SAS,2018,,2018-03-21,San Antonio Spurs,Washington Wizards,98,90,REG,1071
+nba-201803220CHO,2018,,2018-03-22,Charlotte Hornets,Memphis Grizzlies,140,79,REG,1072
+nba-201803220DAL,2018,,2018-03-22,Dallas Mavericks,Utah Jazz,112,119,REG,1073
+nba-201803220HOU,2018,,2018-03-22,Houston Rockets,Detroit Pistons,100,96,REG,1074
+nba-201803220NOP,2018,,2018-03-22,New Orleans Pelicans,Los Angeles Lakers,128,125,REG,1075
+nba-201803220ORL,2018,,2018-03-22,Orlando Magic,Philadelphia 76ers,98,118,REG,1076
+nba-201803220SAC,2018,,2018-03-22,Sacramento Kings,Atlanta Hawks,105,90,REG,1077
+nba-201803230CHI,2018,,2018-03-23,Chicago Bulls,Milwaukee Bucks,105,118,REG,1078
+nba-201803230CLE,2018,,2018-03-23,Cleveland Cavaliers,Phoenix Suns,120,95,REG,1079
+nba-201803230GSW,2018,,2018-03-23,Golden State Warriors,Atlanta Hawks,106,94,REG,1080
+nba-201803230IND,2018,,2018-03-23,Indiana Pacers,Los Angeles Clippers,109,104,REG,1081
+nba-201803230NYK,2018,,2018-03-23,New York Knicks,Minnesota Timberwolves,104,108,REG,1082
+nba-201803230OKC,2018,,2018-03-23,Oklahoma City Thunder,Miami Heat,105,99,REG,1083
+nba-201803230POR,2018,,2018-03-23,Portland Trail Blazers,Boston Celtics,100,105,REG,1084
+nba-201803230SAS,2018,,2018-03-23,San Antonio Spurs,Utah Jazz,124,120,REG,1085
+nba-201803230TOR,2018,,2018-03-23,Toronto Raptors,Brooklyn Nets,116,112,REG,1086
+nba-201803230WAS,2018,,2018-03-23,Washington Wizards,Denver Nuggets,100,108,REG,1087
+nba-201803240DAL,2018,,2018-03-24,Dallas Mavericks,Charlotte Hornets,98,102,REG,1088
+nba-201803240DET,2018,,2018-03-24,Detroit Pistons,Chicago Bulls,117,95,REG,1089
+nba-201803240HOU,2018,,2018-03-24,Houston Rockets,New Orleans Pelicans,114,91,REG,1090
+nba-201803240MEM,2018,,2018-03-24,Memphis Grizzlies,Los Angeles Lakers,93,100,REG,1091
+nba-201803240ORL,2018,,2018-03-24,Orlando Magic,Phoenix Suns,105,99,REG,1092
+nba-201803240PHI,2018,,2018-03-24,Philadelphia 76ers,Minnesota Timberwolves,120,108,REG,1093
+nba-201803250BRK,2018,,2018-03-25,Brooklyn Nets,Cleveland Cavaliers,114,121,REG,1094
+nba-201803250GSW,2018,,2018-03-25,Golden State Warriors,Utah Jazz,91,110,REG,1095
+nba-201803250HOU,2018,,2018-03-25,Houston Rockets,Atlanta Hawks,118,99,REG,1096
+nba-201803250IND,2018,,2018-03-25,Indiana Pacers,Miami Heat,113,107,REG,1097
+nba-201803250MIL,2018,,2018-03-25,Milwaukee Bucks,San Antonio Spurs,106,103,REG,1098
+nba-201803250OKC,2018,,2018-03-25,Oklahoma City Thunder,Portland Trail Blazers,105,108,REG,1099
+nba-201803250SAC,2018,,2018-03-25,Sacramento Kings,Boston Celtics,93,104,REG,1100
+nba-201803250TOR,2018,,2018-03-25,Toronto Raptors,Los Angeles Clippers,106,117,REG,1101
+nba-201803250WAS,2018,,2018-03-25,Washington Wizards,New York Knicks,97,101,REG,1102
+nba-201803260CHO,2018,,2018-03-26,Charlotte Hornets,New York Knicks,137,128,REG,1103
+nba-201803260DET,2018,,2018-03-26,Detroit Pistons,Los Angeles Lakers,112,106,REG,1104
+nba-201803260MIN,2018,,2018-03-26,Minnesota Timberwolves,Memphis Grizzlies,93,101,REG,1105
+nba-201803260PHI,2018,,2018-03-26,Philadelphia 76ers,Denver Nuggets,123,104,REG,1106
+nba-201803260PHO,2018,,2018-03-26,Phoenix Suns,Boston Celtics,94,102,REG,1107
+nba-201803270GSW,2018,,2018-03-27,Golden State Warriors,Indiana Pacers,81,92,REG,1108
+nba-201803270HOU,2018,,2018-03-27,Houston Rockets,Chicago Bulls,118,86,REG,1109
+nba-201803270LAC,2018,,2018-03-27,Los Angeles Clippers,Milwaukee Bucks,105,98,REG,1110
+nba-201803270MIA,2018,,2018-03-27,Miami Heat,Cleveland Cavaliers,98,79,REG,1111
+nba-201803270NOP,2018,,2018-03-27,New Orleans Pelicans,Portland Trail Blazers,103,107,REG,1112
+nba-201803270SAC,2018,,2018-03-27,Sacramento Kings,Dallas Mavericks,97,103,REG,1113
+nba-201803270TOR,2018,,2018-03-27,Toronto Raptors,Denver Nuggets,114,110,REG,1114
+nba-201803270WAS,2018,,2018-03-27,Washington Wizards,San Antonio Spurs,116,106,REG,1115
+nba-201803280CHO,2018,,2018-03-28,Charlotte Hornets,Cleveland Cavaliers,105,118,REG,1116
+nba-201803280LAL,2018,,2018-03-28,Los Angeles Lakers,Dallas Mavericks,103,93,REG,1117
+nba-201803280MEM,2018,,2018-03-28,Memphis Grizzlies,Portland Trail Blazers,108,103,REG,1118
+nba-201803280MIN,2018,,2018-03-28,Minnesota Timberwolves,Atlanta Hawks,126,114,REG,1119
+nba-201803280ORL,2018,,2018-03-28,Orlando Magic,Brooklyn Nets,104,111,REG,1120
+nba-201803280PHI,2018,,2018-03-28,Philadelphia 76ers,New York Knicks,118,101,REG,1121
+nba-201803280PHO,2018,,2018-03-28,Phoenix Suns,Los Angeles Clippers,99,111,REG,1122
+nba-201803280UTA,2018,,2018-03-28,Utah Jazz,Boston Celtics,94,97,REG,1123
+nba-201803290DET,2018,,2018-03-29,Detroit Pistons,Washington Wizards,103,92,REG,1124
+nba-201803290GSW,2018,,2018-03-29,Golden State Warriors,Milwaukee Bucks,107,116,REG,1125
+nba-201803290MIA,2018,,2018-03-29,Miami Heat,Chicago Bulls,103,92,REG,1126
+nba-201803290SAC,2018,,2018-03-29,Sacramento Kings,Indiana Pacers,103,106,REG,1127
+nba-201803290SAS,2018,,2018-03-29,San Antonio Spurs,Oklahoma City Thunder,103,99,REG,1128
+nba-201803300ATL,2018,,2018-03-30,Atlanta Hawks,Philadelphia 76ers,91,101,REG,1129
+nba-201803300CLE,2018,,2018-03-30,Cleveland Cavaliers,New Orleans Pelicans,107,102,REG,1130
+nba-201803300DAL,2018,,2018-03-30,Dallas Mavericks,Minnesota Timberwolves,92,93,REG,1131
+nba-201803300HOU,2018,,2018-03-30,Houston Rockets,Phoenix Suns,104,103,REG,1132
+nba-201803300LAL,2018,,2018-03-30,Los Angeles Lakers,Milwaukee Bucks,122,124,REG,1133
+nba-201803300OKC,2018,,2018-03-30,Oklahoma City Thunder,Denver Nuggets,125,126,REG,1134
+nba-201803300ORL,2018,,2018-03-30,Orlando Magic,Chicago Bulls,82,90,REG,1135
+nba-201803300POR,2018,,2018-03-30,Portland Trail Blazers,Los Angeles Clippers,105,96,REG,1136
+nba-201803300UTA,2018,,2018-03-30,Utah Jazz,Memphis Grizzlies,107,97,REG,1137
+nba-201803310BOS,2018,,2018-03-31,Boston Celtics,Toronto Raptors,110,99,REG,1138
+nba-201803310MIA,2018,,2018-03-31,Miami Heat,Brooklyn Nets,109,110,REG,1139
+nba-201803310NYK,2018,,2018-03-31,New York Knicks,Detroit Pistons,109,115,REG,1140
+nba-201803310SAC,2018,,2018-03-31,Sacramento Kings,Golden State Warriors,96,112,REG,1141
+nba-201803310WAS,2018,,2018-03-31,Washington Wizards,Charlotte Hornets,107,93,REG,1142
+nba-201804010ATL,2018,,2018-04-01,Atlanta Hawks,Orlando Magic,94,88,REG,1143
+nba-201804010BRK,2018,,2018-04-01,Brooklyn Nets,Detroit Pistons,96,108,REG,1144
+nba-201804010CHO,2018,,2018-04-01,Charlotte Hornets,Philadelphia 76ers,102,119,REG,1145
+nba-201804010CHI,2018,,2018-04-01,Chicago Bulls,Washington Wizards,113,94,REG,1146
+nba-201804010CLE,2018,,2018-04-01,Cleveland Cavaliers,Dallas Mavericks,98,87,REG,1147
+nba-201804010DEN,2018,,2018-04-01,Denver Nuggets,Milwaukee Bucks,128,125,REG,1148
+nba-201804010GSW,2018,,2018-04-01,Golden State Warriors,Phoenix Suns,117,107,REG,1149
+nba-201804010LAC,2018,,2018-04-01,Los Angeles Clippers,Indiana Pacers,104,111,REG,1150
+nba-201804010LAL,2018,,2018-04-01,Los Angeles Lakers,Sacramento Kings,83,84,REG,1151
+nba-201804010MIN,2018,,2018-04-01,Minnesota Timberwolves,Utah Jazz,97,121,REG,1152
+nba-201804010NOP,2018,,2018-04-01,New Orleans Pelicans,Oklahoma City Thunder,104,109,REG,1153
+nba-201804010POR,2018,,2018-04-01,Portland Trail Blazers,Memphis Grizzlies,113,98,REG,1154
+nba-201804010SAS,2018,,2018-04-01,San Antonio Spurs,Houston Rockets,100,83,REG,1155
+nba-201804030CHI,2018,,2018-04-03,Chicago Bulls,Charlotte Hornets,120,114,REG,1156
+nba-201804030CLE,2018,,2018-04-03,Cleveland Cavaliers,Toronto Raptors,112,106,REG,1157
+nba-201804030DAL,2018,,2018-04-03,Dallas Mavericks,Portland Trail Blazers,115,109,REG,1158
+nba-201804030DEN,2018,,2018-04-03,Denver Nuggets,Indiana Pacers,107,104,REG,1159
+nba-201804030HOU,2018,,2018-04-03,Houston Rockets,Washington Wizards,120,104,REG,1160
+nba-201804030LAC,2018,,2018-04-03,Los Angeles Clippers,San Antonio Spurs,113,110,REG,1161
+nba-201804030MIA,2018,,2018-04-03,Miami Heat,Atlanta Hawks,101,98,REG,1162
+nba-201804030MIL,2018,,2018-04-03,Milwaukee Bucks,Boston Celtics,106,102,REG,1163
+nba-201804030NYK,2018,,2018-04-03,New York Knicks,Orlando Magic,73,97,REG,1164
+nba-201804030OKC,2018,,2018-04-03,Oklahoma City Thunder,Golden State Warriors,107,111,REG,1165
+nba-201804030PHI,2018,,2018-04-03,Philadelphia 76ers,Brooklyn Nets,121,95,REG,1166
+nba-201804030PHO,2018,,2018-04-03,Phoenix Suns,Sacramento Kings,97,94,REG,1167
+nba-201804030UTA,2018,,2018-04-03,Utah Jazz,Los Angeles Lakers,117,110,REG,1168
+nba-201804040ATL,2018,,2018-04-04,Atlanta Hawks,Miami Heat,86,115,REG,1169
+nba-201804040DET,2018,,2018-04-04,Detroit Pistons,Philadelphia 76ers,108,115,REG,1170
+nba-201804040LAL,2018,,2018-04-04,Los Angeles Lakers,San Antonio Spurs,122,112,REG,1171
+nba-201804040NOP,2018,,2018-04-04,New Orleans Pelicans,Memphis Grizzlies,123,95,REG,1172
+nba-201804040ORL,2018,,2018-04-04,Orlando Magic,Dallas Mavericks,105,100,REG,1173
+nba-201804040TOR,2018,,2018-04-04,Toronto Raptors,Boston Celtics,96,78,REG,1174
+nba-201804050CLE,2018,,2018-04-05,Cleveland Cavaliers,Washington Wizards,119,115,REG,1175
+nba-201804050DEN,2018,,2018-04-05,Denver Nuggets,Minnesota Timberwolves,100,96,REG,1176
+nba-201804050HOU,2018,,2018-04-05,Houston Rockets,Portland Trail Blazers,96,94,REG,1177
+nba-201804050IND,2018,,2018-04-05,Indiana Pacers,Golden State Warriors,126,106,REG,1178
+nba-201804050MIL,2018,,2018-04-05,Milwaukee Bucks,Brooklyn Nets,111,119,REG,1179
+nba-201804050UTA,2018,,2018-04-05,Utah Jazz,Los Angeles Clippers,117,95,REG,1180
+nba-201804060BOS,2018,,2018-04-06,Boston Celtics,Chicago Bulls,111,104,REG,1181
+nba-201804060DET,2018,,2018-04-06,Detroit Pistons,Dallas Mavericks,113,106,REG,1182
+nba-201804060LAL,2018,,2018-04-06,Los Angeles Lakers,Minnesota Timberwolves,96,113,REG,1183
+nba-201804060MEM,2018,,2018-04-06,Memphis Grizzlies,Sacramento Kings,93,94,REG,1184
+nba-201804060NYK,2018,,2018-04-06,New York Knicks,Miami Heat,122,98,REG,1185
+nba-201804060ORL,2018,,2018-04-06,Orlando Magic,Charlotte Hornets,100,137,REG,1186
+nba-201804060PHI,2018,,2018-04-06,Philadelphia 76ers,Cleveland Cavaliers,132,130,REG,1187
+nba-201804060PHO,2018,,2018-04-06,Phoenix Suns,New Orleans Pelicans,103,122,REG,1188
+nba-201804060TOR,2018,,2018-04-06,Toronto Raptors,Indiana Pacers,92,73,REG,1189
+nba-201804060WAS,2018,,2018-04-06,Washington Wizards,Atlanta Hawks,97,103,REG,1190
+nba-201804070CHI,2018,,2018-04-07,Chicago Bulls,Brooklyn Nets,96,124,REG,1191
+nba-201804070GSW,2018,,2018-04-07,Golden State Warriors,New Orleans Pelicans,120,126,REG,1192
+nba-201804070HOU,2018,,2018-04-07,Houston Rockets,Oklahoma City Thunder,102,108,REG,1193
+nba-201804070LAC,2018,,2018-04-07,Los Angeles Clippers,Denver Nuggets,115,134,REG,1194
+nba-201804070NYK,2018,,2018-04-07,New York Knicks,Milwaukee Bucks,102,115,REG,1195
+nba-201804070SAS,2018,,2018-04-07,San Antonio Spurs,Portland Trail Blazers,116,105,REG,1196
+nba-201804080BOS,2018,,2018-04-08,Boston Celtics,Atlanta Hawks,106,112,REG,1197
+nba-201804080CHO,2018,,2018-04-08,Charlotte Hornets,Indiana Pacers,117,123,REG,1198
+nba-201804080LAL,2018,,2018-04-08,Los Angeles Lakers,Utah Jazz,97,112,REG,1199
+nba-201804080MEM,2018,,2018-04-08,Memphis Grizzlies,Detroit Pistons,130,117,REG,1200
+nba-201804080PHI,2018,,2018-04-08,Philadelphia 76ers,Dallas Mavericks,109,97,REG,1201
+nba-201804080PHO,2018,,2018-04-08,Phoenix Suns,Golden State Warriors,100,117,REG,1202
+nba-201804080TOR,2018,,2018-04-08,Toronto Raptors,Orlando Magic,112,101,REG,1203
+nba-201804090BRK,2018,,2018-04-09,Brooklyn Nets,Chicago Bulls,114,105,REG,1204
+nba-201804090DEN,2018,,2018-04-09,Denver Nuggets,Portland Trail Blazers,88,82,REG,1205
+nba-201804090DET,2018,,2018-04-09,Detroit Pistons,Toronto Raptors,98,108,REG,1206
+nba-201804090LAC,2018,,2018-04-09,Los Angeles Clippers,New Orleans Pelicans,100,113,REG,1207
+nba-201804090MIA,2018,,2018-04-09,Miami Heat,Oklahoma City Thunder,93,115,REG,1208
+nba-201804090MIL,2018,,2018-04-09,Milwaukee Bucks,Orlando Magic,102,86,REG,1209
+nba-201804090MIN,2018,,2018-04-09,Minnesota Timberwolves,Memphis Grizzlies,113,94,REG,1210
+nba-201804090NYK,2018,,2018-04-09,New York Knicks,Cleveland Cavaliers,109,123,REG,1211
+nba-201804090SAS,2018,,2018-04-09,San Antonio Spurs,Sacramento Kings,98,85,REG,1212
+nba-201804100ATL,2018,,2018-04-10,Atlanta Hawks,Philadelphia 76ers,113,121,REG,1213
+nba-201804100DAL,2018,,2018-04-10,Dallas Mavericks,Phoenix Suns,97,124,REG,1214
+nba-201804100IND,2018,,2018-04-10,Indiana Pacers,Charlotte Hornets,93,119,REG,1215
+nba-201804100LAL,2018,,2018-04-10,Los Angeles Lakers,Houston Rockets,99,105,REG,1216
+nba-201804100UTA,2018,,2018-04-10,Utah Jazz,Golden State Warriors,119,79,REG,1217
+nba-201804100WAS,2018,,2018-04-10,Washington Wizards,Boston Celtics,113,101,REG,1218
+nba-201804110BOS,2018,,2018-04-11,Boston Celtics,Brooklyn Nets,110,97,REG,1219
+nba-201804110CHI,2018,,2018-04-11,Chicago Bulls,Detroit Pistons,87,119,REG,1220
+nba-201804110CLE,2018,,2018-04-11,Cleveland Cavaliers,New York Knicks,98,110,REG,1221
+nba-201804110LAC,2018,,2018-04-11,Los Angeles Clippers,Los Angeles Lakers,100,115,REG,1222
+nba-201804110MIA,2018,,2018-04-11,Miami Heat,Toronto Raptors,116,109,REG,1223
+nba-201804110MIN,2018,,2018-04-11,Minnesota Timberwolves,Denver Nuggets,112,106,REG,1224
+nba-201804110NOP,2018,,2018-04-11,New Orleans Pelicans,San Antonio Spurs,122,98,REG,1225
+nba-201804110OKC,2018,,2018-04-11,Oklahoma City Thunder,Memphis Grizzlies,137,123,REG,1226
+nba-201804110ORL,2018,,2018-04-11,Orlando Magic,Washington Wizards,101,92,REG,1227
+nba-201804110PHI,2018,,2018-04-11,Philadelphia 76ers,Milwaukee Bucks,130,95,REG,1228
+nba-201804110POR,2018,,2018-04-11,Portland Trail Blazers,Utah Jazz,102,93,REG,1229
+nba-201804110SAC,2018,,2018-04-11,Sacramento Kings,Houston Rockets,96,83,REG,1230
+nba-201804140GSW,2018,,2018-04-14,Golden State Warriors,San Antonio Spurs,113,92,REG,1231
+nba-2018-post-2018-04-14-golden-state-warriors-san-antonio-spurs,2018,,2018-04-14,Golden State Warriors,San Antonio Spurs,113,92,POST,1232
+nba-201804140PHI,2018,,2018-04-14,Philadelphia 76ers,Miami Heat,130,103,REG,1233
+nba-2018-post-2018-04-14-philadelphia-76ers-miami-heat,2018,,2018-04-14,Philadelphia 76ers,Miami Heat,130,103,POST,1234
+nba-201804140POR,2018,,2018-04-14,Portland Trail Blazers,New Orleans Pelicans,95,97,REG,1235
+nba-2018-post-2018-04-14-portland-trail-blazers-new-orleans-pelicans,2018,,2018-04-14,Portland Trail Blazers,New Orleans Pelicans,95,97,POST,1236
+nba-201804140TOR,2018,,2018-04-14,Toronto Raptors,Washington Wizards,114,106,REG,1237
+nba-2018-post-2018-04-14-toronto-raptors-washington-wizards,2018,,2018-04-14,Toronto Raptors,Washington Wizards,114,106,POST,1238
+nba-201804150BOS,2018,,2018-04-15,Boston Celtics,Milwaukee Bucks,113,107,REG,1239
+nba-2018-post-2018-04-15-boston-celtics-milwaukee-bucks,2018,,2018-04-15,Boston Celtics,Milwaukee Bucks,113,107,POST,1240
+nba-201804150CLE,2018,,2018-04-15,Cleveland Cavaliers,Indiana Pacers,80,98,REG,1241
+nba-2018-post-2018-04-15-cleveland-cavaliers-indiana-pacers,2018,,2018-04-15,Cleveland Cavaliers,Indiana Pacers,80,98,POST,1242
+nba-201804150HOU,2018,,2018-04-15,Houston Rockets,Minnesota Timberwolves,104,101,REG,1243
+nba-2018-post-2018-04-15-houston-rockets-minnesota-timberwolves,2018,,2018-04-15,Houston Rockets,Minnesota Timberwolves,104,101,POST,1244
+nba-201804150OKC,2018,,2018-04-15,Oklahoma City Thunder,Utah Jazz,116,108,REG,1245
+nba-2018-post-2018-04-15-oklahoma-city-thunder-utah-jazz,2018,,2018-04-15,Oklahoma City Thunder,Utah Jazz,116,108,POST,1246
+nba-201804160GSW,2018,,2018-04-16,Golden State Warriors,San Antonio Spurs,116,101,REG,1247
+nba-2018-post-2018-04-16-golden-state-warriors-san-antonio-spurs,2018,,2018-04-16,Golden State Warriors,San Antonio Spurs,116,101,POST,1248
+nba-201804160PHI,2018,,2018-04-16,Philadelphia 76ers,Miami Heat,103,113,REG,1249
+nba-2018-post-2018-04-16-philadelphia-76ers-miami-heat,2018,,2018-04-16,Philadelphia 76ers,Miami Heat,103,113,POST,1250
+nba-201804170BOS,2018,,2018-04-17,Boston Celtics,Milwaukee Bucks,120,106,REG,1251
+nba-2018-post-2018-04-17-boston-celtics-milwaukee-bucks,2018,,2018-04-17,Boston Celtics,Milwaukee Bucks,120,106,POST,1252
+nba-201804170POR,2018,,2018-04-17,Portland Trail Blazers,New Orleans Pelicans,102,111,REG,1253
+nba-2018-post-2018-04-17-portland-trail-blazers-new-orleans-pelicans,2018,,2018-04-17,Portland Trail Blazers,New Orleans Pelicans,102,111,POST,1254
+nba-201804170TOR,2018,,2018-04-17,Toronto Raptors,Washington Wizards,130,119,REG,1255
+nba-2018-post-2018-04-17-toronto-raptors-washington-wizards,2018,,2018-04-17,Toronto Raptors,Washington Wizards,130,119,POST,1256
+nba-201804180CLE,2018,,2018-04-18,Cleveland Cavaliers,Indiana Pacers,100,97,REG,1257
+nba-2018-post-2018-04-18-cleveland-cavaliers-indiana-pacers,2018,,2018-04-18,Cleveland Cavaliers,Indiana Pacers,100,97,POST,1258
+nba-201804180HOU,2018,,2018-04-18,Houston Rockets,Minnesota Timberwolves,102,82,REG,1259
+nba-2018-post-2018-04-18-houston-rockets-minnesota-timberwolves,2018,,2018-04-18,Houston Rockets,Minnesota Timberwolves,102,82,POST,1260
+nba-201804180OKC,2018,,2018-04-18,Oklahoma City Thunder,Utah Jazz,95,102,REG,1261
+nba-2018-post-2018-04-18-oklahoma-city-thunder-utah-jazz,2018,,2018-04-18,Oklahoma City Thunder,Utah Jazz,95,102,POST,1262
+nba-201804190MIA,2018,,2018-04-19,Miami Heat,Philadelphia 76ers,108,128,REG,1263
+nba-2018-post-2018-04-19-miami-heat-philadelphia-76ers,2018,,2018-04-19,Miami Heat,Philadelphia 76ers,108,128,POST,1264
+nba-201804190NOP,2018,,2018-04-19,New Orleans Pelicans,Portland Trail Blazers,119,102,REG,1265
+nba-2018-post-2018-04-19-new-orleans-pelicans-portland-trail-blazers,2018,,2018-04-19,New Orleans Pelicans,Portland Trail Blazers,119,102,POST,1266
+nba-201804190SAS,2018,,2018-04-19,San Antonio Spurs,Golden State Warriors,97,110,REG,1267
+nba-2018-post-2018-04-19-san-antonio-spurs-golden-state-warriors,2018,,2018-04-19,San Antonio Spurs,Golden State Warriors,97,110,POST,1268
+nba-201804200IND,2018,,2018-04-20,Indiana Pacers,Cleveland Cavaliers,92,90,REG,1269
+nba-2018-post-2018-04-20-indiana-pacers-cleveland-cavaliers,2018,,2018-04-20,Indiana Pacers,Cleveland Cavaliers,92,90,POST,1270
+nba-201804200MIL,2018,,2018-04-20,Milwaukee Bucks,Boston Celtics,116,92,REG,1271
+nba-2018-post-2018-04-20-milwaukee-bucks-boston-celtics,2018,,2018-04-20,Milwaukee Bucks,Boston Celtics,116,92,POST,1272
+nba-201804200WAS,2018,,2018-04-20,Washington Wizards,Toronto Raptors,122,103,REG,1273
+nba-2018-post-2018-04-20-washington-wizards-toronto-raptors,2018,,2018-04-20,Washington Wizards,Toronto Raptors,122,103,POST,1274
+nba-201804210MIA,2018,,2018-04-21,Miami Heat,Philadelphia 76ers,102,106,REG,1275
+nba-2018-post-2018-04-21-miami-heat-philadelphia-76ers,2018,,2018-04-21,Miami Heat,Philadelphia 76ers,102,106,POST,1276
+nba-201804210MIN,2018,,2018-04-21,Minnesota Timberwolves,Houston Rockets,121,105,REG,1277
+nba-2018-post-2018-04-21-minnesota-timberwolves-houston-rockets,2018,,2018-04-21,Minnesota Timberwolves,Houston Rockets,121,105,POST,1278
+nba-201804210NOP,2018,,2018-04-21,New Orleans Pelicans,Portland Trail Blazers,131,123,REG,1279
+nba-2018-post-2018-04-21-new-orleans-pelicans-portland-trail-blazers,2018,,2018-04-21,New Orleans Pelicans,Portland Trail Blazers,131,123,POST,1280
+nba-201804210UTA,2018,,2018-04-21,Utah Jazz,Oklahoma City Thunder,115,102,REG,1281
+nba-2018-post-2018-04-21-utah-jazz-oklahoma-city-thunder,2018,,2018-04-21,Utah Jazz,Oklahoma City Thunder,115,102,POST,1282
+nba-201804220IND,2018,,2018-04-22,Indiana Pacers,Cleveland Cavaliers,100,104,REG,1283
+nba-2018-post-2018-04-22-indiana-pacers-cleveland-cavaliers,2018,,2018-04-22,Indiana Pacers,Cleveland Cavaliers,100,104,POST,1284
+nba-201804220MIL,2018,,2018-04-22,Milwaukee Bucks,Boston Celtics,104,102,REG,1285
+nba-2018-post-2018-04-22-milwaukee-bucks-boston-celtics,2018,,2018-04-22,Milwaukee Bucks,Boston Celtics,104,102,POST,1286
+nba-201804220SAS,2018,,2018-04-22,San Antonio Spurs,Golden State Warriors,103,90,REG,1287
+nba-2018-post-2018-04-22-san-antonio-spurs-golden-state-warriors,2018,,2018-04-22,San Antonio Spurs,Golden State Warriors,103,90,POST,1288
+nba-201804220WAS,2018,,2018-04-22,Washington Wizards,Toronto Raptors,106,98,REG,1289
+nba-2018-post-2018-04-22-washington-wizards-toronto-raptors,2018,,2018-04-22,Washington Wizards,Toronto Raptors,106,98,POST,1290
+nba-201804230MIN,2018,,2018-04-23,Minnesota Timberwolves,Houston Rockets,100,119,REG,1291
+nba-2018-post-2018-04-23-minnesota-timberwolves-houston-rockets,2018,,2018-04-23,Minnesota Timberwolves,Houston Rockets,100,119,POST,1292
+nba-201804230UTA,2018,,2018-04-23,Utah Jazz,Oklahoma City Thunder,113,96,REG,1293
+nba-2018-post-2018-04-23-utah-jazz-oklahoma-city-thunder,2018,,2018-04-23,Utah Jazz,Oklahoma City Thunder,113,96,POST,1294
+nba-201804240BOS,2018,,2018-04-24,Boston Celtics,Milwaukee Bucks,92,87,REG,1295
+nba-2018-post-2018-04-24-boston-celtics-milwaukee-bucks,2018,,2018-04-24,Boston Celtics,Milwaukee Bucks,92,87,POST,1296
+nba-201804240GSW,2018,,2018-04-24,Golden State Warriors,San Antonio Spurs,99,91,REG,1297
+nba-2018-post-2018-04-24-golden-state-warriors-san-antonio-spurs,2018,,2018-04-24,Golden State Warriors,San Antonio Spurs,99,91,POST,1298
+nba-201804240PHI,2018,,2018-04-24,Philadelphia 76ers,Miami Heat,104,91,REG,1299
+nba-2018-post-2018-04-24-philadelphia-76ers-miami-heat,2018,,2018-04-24,Philadelphia 76ers,Miami Heat,104,91,POST,1300
+nba-201804250CLE,2018,,2018-04-25,Cleveland Cavaliers,Indiana Pacers,98,95,REG,1301
+nba-2018-post-2018-04-25-cleveland-cavaliers-indiana-pacers,2018,,2018-04-25,Cleveland Cavaliers,Indiana Pacers,98,95,POST,1302
+nba-201804250HOU,2018,,2018-04-25,Houston Rockets,Minnesota Timberwolves,122,104,REG,1303
+nba-2018-post-2018-04-25-houston-rockets-minnesota-timberwolves,2018,,2018-04-25,Houston Rockets,Minnesota Timberwolves,122,104,POST,1304
+nba-201804250OKC,2018,,2018-04-25,Oklahoma City Thunder,Utah Jazz,107,99,REG,1305
+nba-2018-post-2018-04-25-oklahoma-city-thunder-utah-jazz,2018,,2018-04-25,Oklahoma City Thunder,Utah Jazz,107,99,POST,1306
+nba-201804250TOR,2018,,2018-04-25,Toronto Raptors,Washington Wizards,108,98,REG,1307
+nba-2018-post-2018-04-25-toronto-raptors-washington-wizards,2018,,2018-04-25,Toronto Raptors,Washington Wizards,108,98,POST,1308
+nba-201804260MIL,2018,,2018-04-26,Milwaukee Bucks,Boston Celtics,97,86,REG,1309
+nba-2018-post-2018-04-26-milwaukee-bucks-boston-celtics,2018,,2018-04-26,Milwaukee Bucks,Boston Celtics,97,86,POST,1310
+nba-201804270IND,2018,,2018-04-27,Indiana Pacers,Cleveland Cavaliers,121,87,REG,1311
+nba-2018-post-2018-04-27-indiana-pacers-cleveland-cavaliers,2018,,2018-04-27,Indiana Pacers,Cleveland Cavaliers,121,87,POST,1312
+nba-201804270UTA,2018,,2018-04-27,Utah Jazz,Oklahoma City Thunder,96,91,REG,1313
+nba-2018-post-2018-04-27-utah-jazz-oklahoma-city-thunder,2018,,2018-04-27,Utah Jazz,Oklahoma City Thunder,96,91,POST,1314
+nba-201804270WAS,2018,,2018-04-27,Washington Wizards,Toronto Raptors,92,102,REG,1315
+nba-2018-post-2018-04-27-washington-wizards-toronto-raptors,2018,,2018-04-27,Washington Wizards,Toronto Raptors,92,102,POST,1316
+nba-201804280BOS,2018,,2018-04-28,Boston Celtics,Milwaukee Bucks,112,96,REG,1317
+nba-2018-post-2018-04-28-boston-celtics-milwaukee-bucks,2018,,2018-04-28,Boston Celtics,Milwaukee Bucks,112,96,POST,1318
+nba-201804280GSW,2018,,2018-04-28,Golden State Warriors,New Orleans Pelicans,123,101,REG,1319
+nba-2018-post-2018-04-28-golden-state-warriors-new-orleans-pelicans,2018,,2018-04-28,Golden State Warriors,New Orleans Pelicans,123,101,POST,1320
+nba-201804290CLE,2018,,2018-04-29,Cleveland Cavaliers,Indiana Pacers,105,101,REG,1321
+nba-2018-post-2018-04-29-cleveland-cavaliers-indiana-pacers,2018,,2018-04-29,Cleveland Cavaliers,Indiana Pacers,105,101,POST,1322
+nba-201804290HOU,2018,,2018-04-29,Houston Rockets,Utah Jazz,110,96,REG,1323
+nba-2018-post-2018-04-29-houston-rockets-utah-jazz,2018,,2018-04-29,Houston Rockets,Utah Jazz,110,96,POST,1324
+nba-201804300BOS,2018,,2018-04-30,Boston Celtics,Philadelphia 76ers,117,101,REG,1325
+nba-2018-post-2018-04-30-boston-celtics-philadelphia-76ers,2018,,2018-04-30,Boston Celtics,Philadelphia 76ers,117,101,POST,1326
+nba-201805010GSW,2018,,2018-05-01,Golden State Warriors,New Orleans Pelicans,121,116,REG,1327
+nba-2018-post-2018-05-01-golden-state-warriors-new-orleans-pelicans,2018,,2018-05-01,Golden State Warriors,New Orleans Pelicans,121,116,POST,1328
+nba-201805010TOR,2018,,2018-05-01,Toronto Raptors,Cleveland Cavaliers,112,113,REG,1329
+nba-2018-post-2018-05-01-toronto-raptors-cleveland-cavaliers,2018,,2018-05-01,Toronto Raptors,Cleveland Cavaliers,112,113,POST,1330
+nba-201805020HOU,2018,,2018-05-02,Houston Rockets,Utah Jazz,108,116,REG,1331
+nba-2018-post-2018-05-02-houston-rockets-utah-jazz,2018,,2018-05-02,Houston Rockets,Utah Jazz,108,116,POST,1332
+nba-201805030BOS,2018,,2018-05-03,Boston Celtics,Philadelphia 76ers,108,103,REG,1333
+nba-2018-post-2018-05-03-boston-celtics-philadelphia-76ers,2018,,2018-05-03,Boston Celtics,Philadelphia 76ers,108,103,POST,1334
+nba-201805030TOR,2018,,2018-05-03,Toronto Raptors,Cleveland Cavaliers,110,128,REG,1335
+nba-2018-post-2018-05-03-toronto-raptors-cleveland-cavaliers,2018,,2018-05-03,Toronto Raptors,Cleveland Cavaliers,110,128,POST,1336
+nba-201805040NOP,2018,,2018-05-04,New Orleans Pelicans,Golden State Warriors,119,100,REG,1337
+nba-2018-post-2018-05-04-new-orleans-pelicans-golden-state-warriors,2018,,2018-05-04,New Orleans Pelicans,Golden State Warriors,119,100,POST,1338
+nba-201805040UTA,2018,,2018-05-04,Utah Jazz,Houston Rockets,92,113,REG,1339
+nba-2018-post-2018-05-04-utah-jazz-houston-rockets,2018,,2018-05-04,Utah Jazz,Houston Rockets,92,113,POST,1340
+nba-201805050CLE,2018,,2018-05-05,Cleveland Cavaliers,Toronto Raptors,105,103,REG,1341
+nba-2018-post-2018-05-05-cleveland-cavaliers-toronto-raptors,2018,,2018-05-05,Cleveland Cavaliers,Toronto Raptors,105,103,POST,1342
+nba-201805050PHI,2018,,2018-05-05,Philadelphia 76ers,Boston Celtics,98,101,REG,1343
+nba-2018-post-2018-05-05-philadelphia-76ers-boston-celtics,2018,,2018-05-05,Philadelphia 76ers,Boston Celtics,98,101,POST,1344
+nba-201805060NOP,2018,,2018-05-06,New Orleans Pelicans,Golden State Warriors,92,118,REG,1345
+nba-2018-post-2018-05-06-new-orleans-pelicans-golden-state-warriors,2018,,2018-05-06,New Orleans Pelicans,Golden State Warriors,92,118,POST,1346
+nba-201805060UTA,2018,,2018-05-06,Utah Jazz,Houston Rockets,87,100,REG,1347
+nba-2018-post-2018-05-06-utah-jazz-houston-rockets,2018,,2018-05-06,Utah Jazz,Houston Rockets,87,100,POST,1348
+nba-201805070CLE,2018,,2018-05-07,Cleveland Cavaliers,Toronto Raptors,128,93,REG,1349
+nba-2018-post-2018-05-07-cleveland-cavaliers-toronto-raptors,2018,,2018-05-07,Cleveland Cavaliers,Toronto Raptors,128,93,POST,1350
+nba-201805070PHI,2018,,2018-05-07,Philadelphia 76ers,Boston Celtics,103,92,REG,1351
+nba-2018-post-2018-05-07-philadelphia-76ers-boston-celtics,2018,,2018-05-07,Philadelphia 76ers,Boston Celtics,103,92,POST,1352
+nba-201805080GSW,2018,,2018-05-08,Golden State Warriors,New Orleans Pelicans,113,104,REG,1353
+nba-2018-post-2018-05-08-golden-state-warriors-new-orleans-pelicans,2018,,2018-05-08,Golden State Warriors,New Orleans Pelicans,113,104,POST,1354
+nba-201805080HOU,2018,,2018-05-08,Houston Rockets,Utah Jazz,112,102,REG,1355
+nba-2018-post-2018-05-08-houston-rockets-utah-jazz,2018,,2018-05-08,Houston Rockets,Utah Jazz,112,102,POST,1356
+nba-201805090BOS,2018,,2018-05-09,Boston Celtics,Philadelphia 76ers,114,112,REG,1357
+nba-2018-post-2018-05-09-boston-celtics-philadelphia-76ers,2018,,2018-05-09,Boston Celtics,Philadelphia 76ers,114,112,POST,1358
+nba-201805130BOS,2018,,2018-05-13,Boston Celtics,Cleveland Cavaliers,108,83,REG,1359
+nba-2018-post-2018-05-13-boston-celtics-cleveland-cavaliers,2018,,2018-05-13,Boston Celtics,Cleveland Cavaliers,108,83,POST,1360
+nba-201805140HOU,2018,,2018-05-14,Houston Rockets,Golden State Warriors,106,119,REG,1361
+nba-2018-post-2018-05-14-houston-rockets-golden-state-warriors,2018,,2018-05-14,Houston Rockets,Golden State Warriors,106,119,POST,1362
+nba-201805150BOS,2018,,2018-05-15,Boston Celtics,Cleveland Cavaliers,107,94,REG,1363
+nba-2018-post-2018-05-15-boston-celtics-cleveland-cavaliers,2018,,2018-05-15,Boston Celtics,Cleveland Cavaliers,107,94,POST,1364
+nba-201805160HOU,2018,,2018-05-16,Houston Rockets,Golden State Warriors,127,105,REG,1365
+nba-2018-post-2018-05-16-houston-rockets-golden-state-warriors,2018,,2018-05-16,Houston Rockets,Golden State Warriors,127,105,POST,1366
+nba-201805190CLE,2018,,2018-05-19,Cleveland Cavaliers,Boston Celtics,116,86,REG,1367
+nba-2018-post-2018-05-19-cleveland-cavaliers-boston-celtics,2018,,2018-05-19,Cleveland Cavaliers,Boston Celtics,116,86,POST,1368
+nba-201805200GSW,2018,,2018-05-20,Golden State Warriors,Houston Rockets,126,85,REG,1369
+nba-2018-post-2018-05-20-golden-state-warriors-houston-rockets,2018,,2018-05-20,Golden State Warriors,Houston Rockets,126,85,POST,1370
+nba-201805210CLE,2018,,2018-05-21,Cleveland Cavaliers,Boston Celtics,111,102,REG,1371
+nba-2018-post-2018-05-21-cleveland-cavaliers-boston-celtics,2018,,2018-05-21,Cleveland Cavaliers,Boston Celtics,111,102,POST,1372
+nba-201805220GSW,2018,,2018-05-22,Golden State Warriors,Houston Rockets,92,95,REG,1373
+nba-2018-post-2018-05-22-golden-state-warriors-houston-rockets,2018,,2018-05-22,Golden State Warriors,Houston Rockets,92,95,POST,1374
+nba-201805230BOS,2018,,2018-05-23,Boston Celtics,Cleveland Cavaliers,96,83,REG,1375
+nba-2018-post-2018-05-23-boston-celtics-cleveland-cavaliers,2018,,2018-05-23,Boston Celtics,Cleveland Cavaliers,96,83,POST,1376
+nba-201805240HOU,2018,,2018-05-24,Houston Rockets,Golden State Warriors,98,94,REG,1377
+nba-2018-post-2018-05-24-houston-rockets-golden-state-warriors,2018,,2018-05-24,Houston Rockets,Golden State Warriors,98,94,POST,1378
+nba-201805250CLE,2018,,2018-05-25,Cleveland Cavaliers,Boston Celtics,109,99,REG,1379
+nba-2018-post-2018-05-25-cleveland-cavaliers-boston-celtics,2018,,2018-05-25,Cleveland Cavaliers,Boston Celtics,109,99,POST,1380
+nba-201805260GSW,2018,,2018-05-26,Golden State Warriors,Houston Rockets,115,86,REG,1381
+nba-2018-post-2018-05-26-golden-state-warriors-houston-rockets,2018,,2018-05-26,Golden State Warriors,Houston Rockets,115,86,POST,1382
+nba-201805270BOS,2018,,2018-05-27,Boston Celtics,Cleveland Cavaliers,79,87,REG,1383
+nba-2018-post-2018-05-27-boston-celtics-cleveland-cavaliers,2018,,2018-05-27,Boston Celtics,Cleveland Cavaliers,79,87,POST,1384
+nba-201805280HOU,2018,,2018-05-28,Houston Rockets,Golden State Warriors,92,101,REG,1385
+nba-2018-post-2018-05-28-houston-rockets-golden-state-warriors,2018,,2018-05-28,Houston Rockets,Golden State Warriors,92,101,POST,1386
+nba-201805310GSW,2018,,2018-05-31,Golden State Warriors,Cleveland Cavaliers,124,114,REG,1387
+nba-2018-post-2018-05-31-golden-state-warriors-cleveland-cavaliers,2018,,2018-05-31,Golden State Warriors,Cleveland Cavaliers,124,114,POST,1388
+nba-201806030GSW,2018,,2018-06-03,Golden State Warriors,Cleveland Cavaliers,122,103,REG,1389
+nba-2018-post-2018-06-03-golden-state-warriors-cleveland-cavaliers,2018,,2018-06-03,Golden State Warriors,Cleveland Cavaliers,122,103,POST,1390
+nba-201806060CLE,2018,,2018-06-06,Cleveland Cavaliers,Golden State Warriors,102,110,REG,1391
+nba-2018-post-2018-06-06-cleveland-cavaliers-golden-state-warriors,2018,,2018-06-06,Cleveland Cavaliers,Golden State Warriors,102,110,POST,1392
+nba-201806080CLE,2018,,2018-06-08,Cleveland Cavaliers,Golden State Warriors,85,108,REG,1393
+nba-2018-post-2018-06-08-cleveland-cavaliers-golden-state-warriors,2018,,2018-06-08,Cleveland Cavaliers,Golden State Warriors,85,108,POST,1394

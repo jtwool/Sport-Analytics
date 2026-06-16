@@ -1,0 +1,381 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+epl-2014-REG-0001,2014,,2013-08-17,Arsenal,Aston Villa,1,3,REG,1
+epl-2014-REG-0002,2014,,2013-08-17,Liverpool,Stoke City,1,0,REG,2
+epl-2014-REG-0003,2014,,2013-08-17,Norwich City,Everton,2,2,REG,3
+epl-2014-REG-0004,2014,,2013-08-17,Sunderland,Fulham,0,1,REG,4
+epl-2014-REG-0005,2014,,2013-08-17,Swansea City,Manchester United,1,4,REG,5
+epl-2014-REG-0006,2014,,2013-08-17,West Bromwich Albion,Southampton,0,1,REG,6
+epl-2014-REG-0007,2014,,2013-08-17,West Ham United,Cardiff City,2,0,REG,7
+epl-2014-REG-0008,2014,,2013-08-18,Chelsea,Hull City,2,0,REG,8
+epl-2014-REG-0009,2014,,2013-08-18,Crystal Palace,Tottenham Hotspur,0,1,REG,9
+epl-2014-REG-0010,2014,,2013-08-19,Manchester City,Newcastle United,4,0,REG,10
+epl-2014-REG-0011,2014,,2013-08-21,Chelsea,Aston Villa,2,1,REG,11
+epl-2014-REG-0012,2014,,2013-08-24,Aston Villa,Liverpool,0,1,REG,12
+epl-2014-REG-0013,2014,,2013-08-24,Everton,West Bromwich Albion,0,0,REG,13
+epl-2014-REG-0014,2014,,2013-08-24,Fulham,Arsenal,1,3,REG,14
+epl-2014-REG-0015,2014,,2013-08-24,Hull City,Norwich City,1,0,REG,15
+epl-2014-REG-0016,2014,,2013-08-24,Newcastle United,West Ham United,0,0,REG,16
+epl-2014-REG-0017,2014,,2013-08-24,Southampton,Sunderland,1,1,REG,17
+epl-2014-REG-0018,2014,,2013-08-24,Stoke City,Crystal Palace,2,1,REG,18
+epl-2014-REG-0019,2014,,2013-08-25,Cardiff City,Manchester City,3,2,REG,19
+epl-2014-REG-0020,2014,,2013-08-25,Tottenham Hotspur,Swansea City,1,0,REG,20
+epl-2014-REG-0021,2014,,2013-08-26,Manchester United,Chelsea,0,0,REG,21
+epl-2014-REG-0022,2014,,2013-08-31,Cardiff City,Everton,0,0,REG,22
+epl-2014-REG-0023,2014,,2013-08-31,Crystal Palace,Sunderland,3,1,REG,23
+epl-2014-REG-0024,2014,,2013-08-31,Manchester City,Hull City,2,0,REG,24
+epl-2014-REG-0025,2014,,2013-08-31,Newcastle United,Fulham,1,0,REG,25
+epl-2014-REG-0026,2014,,2013-08-31,Norwich City,Southampton,1,0,REG,26
+epl-2014-REG-0027,2014,,2013-08-31,West Ham United,Stoke City,0,1,REG,27
+epl-2014-REG-0028,2014,,2013-09-01,Arsenal,Tottenham Hotspur,1,0,REG,28
+epl-2014-REG-0029,2014,,2013-09-01,Liverpool,Manchester United,1,0,REG,29
+epl-2014-REG-0030,2014,,2013-09-01,West Bromwich Albion,Swansea City,0,2,REG,30
+epl-2014-REG-0031,2014,,2013-09-14,Aston Villa,Newcastle United,1,2,REG,31
+epl-2014-REG-0032,2014,,2013-09-14,Everton,Chelsea,1,0,REG,32
+epl-2014-REG-0033,2014,,2013-09-14,Fulham,West Bromwich Albion,1,1,REG,33
+epl-2014-REG-0034,2014,,2013-09-14,Hull City,Cardiff City,1,1,REG,34
+epl-2014-REG-0035,2014,,2013-09-14,Manchester United,Crystal Palace,2,0,REG,35
+epl-2014-REG-0036,2014,,2013-09-14,Stoke City,Manchester City,0,0,REG,36
+epl-2014-REG-0037,2014,,2013-09-14,Sunderland,Arsenal,1,3,REG,37
+epl-2014-REG-0038,2014,,2013-09-14,Tottenham Hotspur,Norwich City,2,0,REG,38
+epl-2014-REG-0039,2014,,2013-09-15,Southampton,West Ham United,0,0,REG,39
+epl-2014-REG-0040,2014,,2013-09-16,Swansea City,Liverpool,2,2,REG,40
+epl-2014-REG-0041,2014,,2013-09-21,Chelsea,Fulham,2,0,REG,41
+epl-2014-REG-0042,2014,,2013-09-21,Liverpool,Southampton,0,1,REG,42
+epl-2014-REG-0043,2014,,2013-09-21,Newcastle United,Hull City,2,3,REG,43
+epl-2014-REG-0044,2014,,2013-09-21,Norwich City,Aston Villa,0,1,REG,44
+epl-2014-REG-0045,2014,,2013-09-21,West Bromwich Albion,Sunderland,3,0,REG,45
+epl-2014-REG-0046,2014,,2013-09-21,West Ham United,Everton,2,3,REG,46
+epl-2014-REG-0047,2014,,2013-09-22,Arsenal,Stoke City,3,1,REG,47
+epl-2014-REG-0048,2014,,2013-09-22,Cardiff City,Tottenham Hotspur,0,1,REG,48
+epl-2014-REG-0049,2014,,2013-09-22,Crystal Palace,Swansea City,0,2,REG,49
+epl-2014-REG-0050,2014,,2013-09-22,Manchester City,Manchester United,4,1,REG,50
+epl-2014-REG-0051,2014,,2013-09-28,Aston Villa,Manchester City,3,2,REG,51
+epl-2014-REG-0052,2014,,2013-09-28,Fulham,Cardiff City,1,2,REG,52
+epl-2014-REG-0053,2014,,2013-09-28,Hull City,West Ham United,1,0,REG,53
+epl-2014-REG-0054,2014,,2013-09-28,Manchester United,West Bromwich Albion,1,2,REG,54
+epl-2014-REG-0055,2014,,2013-09-28,Southampton,Crystal Palace,2,0,REG,55
+epl-2014-REG-0056,2014,,2013-09-28,Swansea City,Arsenal,1,2,REG,56
+epl-2014-REG-0057,2014,,2013-09-28,Tottenham Hotspur,Chelsea,1,1,REG,57
+epl-2014-REG-0058,2014,,2013-09-29,Stoke City,Norwich City,0,1,REG,58
+epl-2014-REG-0059,2014,,2013-09-29,Sunderland,Liverpool,1,3,REG,59
+epl-2014-REG-0060,2014,,2013-09-30,Everton,Newcastle United,3,2,REG,60
+epl-2014-REG-0061,2014,,2013-10-05,Cardiff City,Newcastle United,1,2,REG,61
+epl-2014-REG-0062,2014,,2013-10-05,Fulham,Stoke City,1,0,REG,62
+epl-2014-REG-0063,2014,,2013-10-05,Hull City,Aston Villa,0,0,REG,63
+epl-2014-REG-0064,2014,,2013-10-05,Liverpool,Crystal Palace,3,1,REG,64
+epl-2014-REG-0065,2014,,2013-10-05,Manchester City,Everton,3,1,REG,65
+epl-2014-REG-0066,2014,,2013-10-05,Sunderland,Manchester United,1,2,REG,66
+epl-2014-REG-0067,2014,,2013-10-06,Norwich City,Chelsea,1,3,REG,67
+epl-2014-REG-0068,2014,,2013-10-06,Southampton,Swansea City,2,0,REG,68
+epl-2014-REG-0069,2014,,2013-10-06,Tottenham Hotspur,West Ham United,0,3,REG,69
+epl-2014-REG-0070,2014,,2013-10-06,West Bromwich Albion,Arsenal,1,1,REG,70
+epl-2014-REG-0071,2014,,2013-10-19,Arsenal,Norwich City,4,1,REG,71
+epl-2014-REG-0072,2014,,2013-10-19,Chelsea,Cardiff City,4,1,REG,72
+epl-2014-REG-0073,2014,,2013-10-19,Everton,Hull City,2,1,REG,73
+epl-2014-REG-0074,2014,,2013-10-19,Manchester United,Southampton,1,1,REG,74
+epl-2014-REG-0075,2014,,2013-10-19,Newcastle United,Liverpool,2,2,REG,75
+epl-2014-REG-0076,2014,,2013-10-19,Stoke City,West Bromwich Albion,0,0,REG,76
+epl-2014-REG-0077,2014,,2013-10-19,Swansea City,Sunderland,4,0,REG,77
+epl-2014-REG-0078,2014,,2013-10-19,West Ham United,Manchester City,1,3,REG,78
+epl-2014-REG-0079,2014,,2013-10-20,Aston Villa,Tottenham Hotspur,0,2,REG,79
+epl-2014-REG-0080,2014,,2013-10-21,Crystal Palace,Fulham,1,4,REG,80
+epl-2014-REG-0081,2014,,2013-10-26,Aston Villa,Everton,0,2,REG,81
+epl-2014-REG-0082,2014,,2013-10-26,Crystal Palace,Arsenal,0,2,REG,82
+epl-2014-REG-0083,2014,,2013-10-26,Liverpool,West Bromwich Albion,4,1,REG,83
+epl-2014-REG-0084,2014,,2013-10-26,Manchester United,Stoke City,3,2,REG,84
+epl-2014-REG-0085,2014,,2013-10-26,Norwich City,Cardiff City,0,0,REG,85
+epl-2014-REG-0086,2014,,2013-10-26,Southampton,Fulham,2,0,REG,86
+epl-2014-REG-0087,2014,,2013-10-27,Chelsea,Manchester City,2,1,REG,87
+epl-2014-REG-0088,2014,,2013-10-27,Sunderland,Newcastle United,2,1,REG,88
+epl-2014-REG-0089,2014,,2013-10-27,Swansea City,West Ham United,0,0,REG,89
+epl-2014-REG-0090,2014,,2013-10-27,Tottenham Hotspur,Hull City,1,0,REG,90
+epl-2014-REG-0091,2014,,2013-11-02,Arsenal,Liverpool,2,0,REG,91
+epl-2014-REG-0092,2014,,2013-11-02,Fulham,Manchester United,1,3,REG,92
+epl-2014-REG-0093,2014,,2013-11-02,Hull City,Sunderland,1,0,REG,93
+epl-2014-REG-0094,2014,,2013-11-02,Manchester City,Norwich City,7,0,REG,94
+epl-2014-REG-0095,2014,,2013-11-02,Newcastle United,Chelsea,2,0,REG,95
+epl-2014-REG-0096,2014,,2013-11-02,Stoke City,Southampton,1,1,REG,96
+epl-2014-REG-0097,2014,,2013-11-02,West Bromwich Albion,Crystal Palace,2,0,REG,97
+epl-2014-REG-0098,2014,,2013-11-02,West Ham United,Aston Villa,0,0,REG,98
+epl-2014-REG-0099,2014,,2013-11-03,Cardiff City,Swansea City,1,0,REG,99
+epl-2014-REG-0100,2014,,2013-11-03,Everton,Tottenham Hotspur,0,0,REG,100
+epl-2014-REG-0101,2014,,2013-11-09,Aston Villa,Cardiff City,2,0,REG,101
+epl-2014-REG-0102,2014,,2013-11-09,Chelsea,West Bromwich Albion,2,2,REG,102
+epl-2014-REG-0103,2014,,2013-11-09,Crystal Palace,Everton,0,0,REG,103
+epl-2014-REG-0104,2014,,2013-11-09,Liverpool,Fulham,4,0,REG,104
+epl-2014-REG-0105,2014,,2013-11-09,Norwich City,West Ham United,3,1,REG,105
+epl-2014-REG-0106,2014,,2013-11-09,Southampton,Hull City,4,1,REG,106
+epl-2014-REG-0107,2014,,2013-11-10,Manchester United,Arsenal,1,0,REG,107
+epl-2014-REG-0108,2014,,2013-11-10,Sunderland,Manchester City,1,0,REG,108
+epl-2014-REG-0109,2014,,2013-11-10,Swansea City,Stoke City,3,3,REG,109
+epl-2014-REG-0110,2014,,2013-11-10,Tottenham Hotspur,Newcastle United,0,1,REG,110
+epl-2014-REG-0111,2014,,2013-11-23,Arsenal,Southampton,2,0,REG,111
+epl-2014-REG-0112,2014,,2013-11-23,Everton,Liverpool,3,3,REG,112
+epl-2014-REG-0113,2014,,2013-11-23,Fulham,Swansea City,1,2,REG,113
+epl-2014-REG-0114,2014,,2013-11-23,Hull City,Crystal Palace,0,1,REG,114
+epl-2014-REG-0115,2014,,2013-11-23,Newcastle United,Norwich City,2,1,REG,115
+epl-2014-REG-0116,2014,,2013-11-23,Stoke City,Sunderland,2,0,REG,116
+epl-2014-REG-0117,2014,,2013-11-23,West Ham United,Chelsea,0,3,REG,117
+epl-2014-REG-0118,2014,,2013-11-24,Cardiff City,Manchester United,2,2,REG,118
+epl-2014-REG-0119,2014,,2013-11-24,Manchester City,Tottenham Hotspur,6,0,REG,119
+epl-2014-REG-0120,2014,,2013-11-25,West Bromwich Albion,Aston Villa,2,2,REG,120
+epl-2014-REG-0121,2014,,2013-11-30,Aston Villa,Sunderland,0,0,REG,121
+epl-2014-REG-0122,2014,,2013-11-30,Cardiff City,Arsenal,0,3,REG,122
+epl-2014-REG-0123,2014,,2013-11-30,Everton,Stoke City,4,0,REG,123
+epl-2014-REG-0124,2014,,2013-11-30,Newcastle United,West Bromwich Albion,2,1,REG,124
+epl-2014-REG-0125,2014,,2013-11-30,Norwich City,Crystal Palace,1,0,REG,125
+epl-2014-REG-0126,2014,,2013-11-30,West Ham United,Fulham,3,0,REG,126
+epl-2014-REG-0127,2014,,2013-12-01,Chelsea,Southampton,3,1,REG,127
+epl-2014-REG-0128,2014,,2013-12-01,Hull City,Liverpool,3,1,REG,128
+epl-2014-REG-0129,2014,,2013-12-01,Manchester City,Swansea City,3,0,REG,129
+epl-2014-REG-0130,2014,,2013-12-01,Tottenham Hotspur,Manchester United,2,2,REG,130
+epl-2014-REG-0131,2014,,2013-12-03,Crystal Palace,West Ham United,1,0,REG,131
+epl-2014-REG-0132,2014,,2013-12-04,Arsenal,Hull City,2,0,REG,132
+epl-2014-REG-0133,2014,,2013-12-04,Fulham,Tottenham Hotspur,1,2,REG,133
+epl-2014-REG-0134,2014,,2013-12-04,Liverpool,Norwich City,5,1,REG,134
+epl-2014-REG-0135,2014,,2013-12-04,Manchester United,Everton,0,1,REG,135
+epl-2014-REG-0136,2014,,2013-12-04,Southampton,Aston Villa,2,3,REG,136
+epl-2014-REG-0137,2014,,2013-12-04,Stoke City,Cardiff City,0,0,REG,137
+epl-2014-REG-0138,2014,,2013-12-04,Sunderland,Chelsea,3,4,REG,138
+epl-2014-REG-0139,2014,,2013-12-04,Swansea City,Newcastle United,3,0,REG,139
+epl-2014-REG-0140,2014,,2013-12-04,West Bromwich Albion,Manchester City,2,3,REG,140
+epl-2014-REG-0141,2014,,2013-12-07,Crystal Palace,Cardiff City,2,0,REG,141
+epl-2014-REG-0142,2014,,2013-12-07,Liverpool,West Ham United,4,1,REG,142
+epl-2014-REG-0143,2014,,2013-12-07,Manchester United,Newcastle United,0,1,REG,143
+epl-2014-REG-0144,2014,,2013-12-07,Southampton,Manchester City,1,1,REG,144
+epl-2014-REG-0145,2014,,2013-12-07,Stoke City,Chelsea,3,2,REG,145
+epl-2014-REG-0146,2014,,2013-12-07,Sunderland,Tottenham Hotspur,1,2,REG,146
+epl-2014-REG-0147,2014,,2013-12-07,West Bromwich Albion,Norwich City,0,2,REG,147
+epl-2014-REG-0148,2014,,2013-12-08,Arsenal,Everton,1,1,REG,148
+epl-2014-REG-0149,2014,,2013-12-08,Fulham,Aston Villa,2,0,REG,149
+epl-2014-REG-0150,2014,,2013-12-09,Swansea City,Hull City,1,1,REG,150
+epl-2014-REG-0151,2014,,2013-12-14,Cardiff City,West Bromwich Albion,1,0,REG,151
+epl-2014-REG-0152,2014,,2013-12-14,Chelsea,Crystal Palace,2,1,REG,152
+epl-2014-REG-0153,2014,,2013-12-14,Everton,Fulham,4,1,REG,153
+epl-2014-REG-0154,2014,,2013-12-14,Hull City,Stoke City,0,0,REG,154
+epl-2014-REG-0155,2014,,2013-12-14,Manchester City,Arsenal,6,3,REG,155
+epl-2014-REG-0156,2014,,2013-12-14,Newcastle United,Southampton,1,1,REG,156
+epl-2014-REG-0157,2014,,2013-12-14,West Ham United,Sunderland,0,0,REG,157
+epl-2014-REG-0158,2014,,2013-12-15,Aston Villa,Manchester United,0,3,REG,158
+epl-2014-REG-0159,2014,,2013-12-15,Norwich City,Swansea City,1,1,REG,159
+epl-2014-REG-0160,2014,,2013-12-15,Tottenham Hotspur,Liverpool,0,5,REG,160
+epl-2014-REG-0161,2014,,2013-12-21,Crystal Palace,Newcastle United,0,3,REG,161
+epl-2014-REG-0162,2014,,2013-12-21,Fulham,Manchester City,2,4,REG,162
+epl-2014-REG-0163,2014,,2013-12-21,Liverpool,Cardiff City,3,1,REG,163
+epl-2014-REG-0164,2014,,2013-12-21,Manchester United,West Ham United,3,1,REG,164
+epl-2014-REG-0165,2014,,2013-12-21,Stoke City,Aston Villa,2,1,REG,165
+epl-2014-REG-0166,2014,,2013-12-21,Sunderland,Norwich City,0,0,REG,166
+epl-2014-REG-0167,2014,,2013-12-21,West Bromwich Albion,Hull City,1,1,REG,167
+epl-2014-REG-0168,2014,,2013-12-22,Southampton,Tottenham Hotspur,2,3,REG,168
+epl-2014-REG-0169,2014,,2013-12-22,Swansea City,Everton,1,2,REG,169
+epl-2014-REG-0170,2014,,2013-12-23,Arsenal,Chelsea,0,0,REG,170
+epl-2014-REG-0171,2014,,2013-12-26,Aston Villa,Crystal Palace,0,1,REG,171
+epl-2014-REG-0172,2014,,2013-12-26,Cardiff City,Southampton,0,3,REG,172
+epl-2014-REG-0173,2014,,2013-12-26,Chelsea,Swansea City,1,0,REG,173
+epl-2014-REG-0174,2014,,2013-12-26,Everton,Sunderland,0,1,REG,174
+epl-2014-REG-0175,2014,,2013-12-26,Hull City,Manchester United,2,3,REG,175
+epl-2014-REG-0176,2014,,2013-12-26,Manchester City,Liverpool,2,1,REG,176
+epl-2014-REG-0177,2014,,2013-12-26,Newcastle United,Stoke City,5,1,REG,177
+epl-2014-REG-0178,2014,,2013-12-26,Norwich City,Fulham,1,2,REG,178
+epl-2014-REG-0179,2014,,2013-12-26,Tottenham Hotspur,West Bromwich Albion,1,1,REG,179
+epl-2014-REG-0180,2014,,2013-12-26,West Ham United,Arsenal,1,3,REG,180
+epl-2014-REG-0181,2014,,2013-12-28,Aston Villa,Swansea City,1,1,REG,181
+epl-2014-REG-0182,2014,,2013-12-28,Cardiff City,Sunderland,2,2,REG,182
+epl-2014-REG-0183,2014,,2013-12-28,Hull City,Fulham,6,0,REG,183
+epl-2014-REG-0184,2014,,2013-12-28,Manchester City,Crystal Palace,1,0,REG,184
+epl-2014-REG-0185,2014,,2013-12-28,Norwich City,Manchester United,0,1,REG,185
+epl-2014-REG-0186,2014,,2013-12-28,West Ham United,West Bromwich Albion,3,3,REG,186
+epl-2014-REG-0187,2014,,2013-12-29,Chelsea,Liverpool,2,1,REG,187
+epl-2014-REG-0188,2014,,2013-12-29,Everton,Southampton,2,1,REG,188
+epl-2014-REG-0189,2014,,2013-12-29,Newcastle United,Arsenal,0,1,REG,189
+epl-2014-REG-0190,2014,,2013-12-29,Tottenham Hotspur,Stoke City,3,0,REG,190
+epl-2014-REG-0191,2014,,2014-01-01,Arsenal,Cardiff City,2,0,REG,191
+epl-2014-REG-0192,2014,,2014-01-01,Crystal Palace,Norwich City,1,1,REG,192
+epl-2014-REG-0193,2014,,2014-01-01,Fulham,West Ham United,2,1,REG,193
+epl-2014-REG-0194,2014,,2014-01-01,Liverpool,Hull City,2,0,REG,194
+epl-2014-REG-0195,2014,,2014-01-01,Manchester United,Tottenham Hotspur,1,2,REG,195
+epl-2014-REG-0196,2014,,2014-01-01,Southampton,Chelsea,0,3,REG,196
+epl-2014-REG-0197,2014,,2014-01-01,Stoke City,Everton,1,1,REG,197
+epl-2014-REG-0198,2014,,2014-01-01,Sunderland,Aston Villa,0,1,REG,198
+epl-2014-REG-0199,2014,,2014-01-01,Swansea City,Manchester City,2,3,REG,199
+epl-2014-REG-0200,2014,,2014-01-01,West Bromwich Albion,Newcastle United,1,0,REG,200
+epl-2014-REG-0201,2014,,2014-01-11,Cardiff City,West Ham United,0,2,REG,201
+epl-2014-REG-0202,2014,,2014-01-11,Everton,Norwich City,2,0,REG,202
+epl-2014-REG-0203,2014,,2014-01-11,Fulham,Sunderland,1,4,REG,203
+epl-2014-REG-0204,2014,,2014-01-11,Hull City,Chelsea,0,2,REG,204
+epl-2014-REG-0205,2014,,2014-01-11,Manchester United,Swansea City,2,0,REG,205
+epl-2014-REG-0206,2014,,2014-01-11,Southampton,West Bromwich Albion,1,0,REG,206
+epl-2014-REG-0207,2014,,2014-01-11,Tottenham Hotspur,Crystal Palace,2,0,REG,207
+epl-2014-REG-0208,2014,,2014-01-12,Newcastle United,Manchester City,0,2,REG,208
+epl-2014-REG-0209,2014,,2014-01-12,Stoke City,Liverpool,3,5,REG,209
+epl-2014-REG-0210,2014,,2014-01-13,Aston Villa,Arsenal,1,2,REG,210
+epl-2014-REG-0211,2014,,2014-01-18,Arsenal,Fulham,2,0,REG,211
+epl-2014-REG-0212,2014,,2014-01-18,Crystal Palace,Stoke City,1,0,REG,212
+epl-2014-REG-0213,2014,,2014-01-18,Liverpool,Aston Villa,2,2,REG,213
+epl-2014-REG-0214,2014,,2014-01-18,Manchester City,Cardiff City,4,2,REG,214
+epl-2014-REG-0215,2014,,2014-01-18,Norwich City,Hull City,1,0,REG,215
+epl-2014-REG-0216,2014,,2014-01-18,Sunderland,Southampton,2,2,REG,216
+epl-2014-REG-0217,2014,,2014-01-18,West Ham United,Newcastle United,1,3,REG,217
+epl-2014-REG-0218,2014,,2014-01-19,Chelsea,Manchester United,3,1,REG,218
+epl-2014-REG-0219,2014,,2014-01-19,Swansea City,Tottenham Hotspur,1,3,REG,219
+epl-2014-REG-0220,2014,,2014-01-20,West Bromwich Albion,Everton,1,1,REG,220
+epl-2014-REG-0221,2014,,2014-01-28,Crystal Palace,Hull City,1,0,REG,221
+epl-2014-REG-0222,2014,,2014-01-28,Liverpool,Everton,4,0,REG,222
+epl-2014-REG-0223,2014,,2014-01-28,Manchester United,Cardiff City,2,0,REG,223
+epl-2014-REG-0224,2014,,2014-01-28,Norwich City,Newcastle United,0,0,REG,224
+epl-2014-REG-0225,2014,,2014-01-28,Southampton,Arsenal,2,2,REG,225
+epl-2014-REG-0226,2014,,2014-01-28,Swansea City,Fulham,2,0,REG,226
+epl-2014-REG-0227,2014,,2014-01-29,Aston Villa,West Bromwich Albion,4,3,REG,227
+epl-2014-REG-0228,2014,,2014-01-29,Chelsea,West Ham United,0,0,REG,228
+epl-2014-REG-0229,2014,,2014-01-29,Sunderland,Stoke City,1,0,REG,229
+epl-2014-REG-0230,2014,,2014-01-29,Tottenham Hotspur,Manchester City,1,5,REG,230
+epl-2014-REG-0231,2014,,2014-02-01,Cardiff City,Norwich City,2,1,REG,231
+epl-2014-REG-0232,2014,,2014-02-01,Everton,Aston Villa,2,1,REG,232
+epl-2014-REG-0233,2014,,2014-02-01,Fulham,Southampton,0,3,REG,233
+epl-2014-REG-0234,2014,,2014-02-01,Hull City,Tottenham Hotspur,1,1,REG,234
+epl-2014-REG-0235,2014,,2014-02-01,Newcastle United,Sunderland,0,3,REG,235
+epl-2014-REG-0236,2014,,2014-02-01,Stoke City,Manchester United,2,1,REG,236
+epl-2014-REG-0237,2014,,2014-02-01,West Ham United,Swansea City,2,0,REG,237
+epl-2014-REG-0238,2014,,2014-02-02,Arsenal,Crystal Palace,2,0,REG,238
+epl-2014-REG-0239,2014,,2014-02-02,West Bromwich Albion,Liverpool,1,1,REG,239
+epl-2014-REG-0240,2014,,2014-02-03,Manchester City,Chelsea,0,1,REG,240
+epl-2014-REG-0241,2014,,2014-02-08,Aston Villa,West Ham United,0,2,REG,241
+epl-2014-REG-0242,2014,,2014-02-08,Chelsea,Newcastle United,3,0,REG,242
+epl-2014-REG-0243,2014,,2014-02-08,Crystal Palace,West Bromwich Albion,3,1,REG,243
+epl-2014-REG-0244,2014,,2014-02-08,Liverpool,Arsenal,5,1,REG,244
+epl-2014-REG-0245,2014,,2014-02-08,Norwich City,Manchester City,0,0,REG,245
+epl-2014-REG-0246,2014,,2014-02-08,Southampton,Stoke City,2,2,REG,246
+epl-2014-REG-0247,2014,,2014-02-08,Sunderland,Hull City,0,2,REG,247
+epl-2014-REG-0248,2014,,2014-02-08,Swansea City,Cardiff City,3,0,REG,248
+epl-2014-REG-0249,2014,,2014-02-09,Manchester United,Fulham,2,2,REG,249
+epl-2014-REG-0250,2014,,2014-02-09,Tottenham Hotspur,Everton,1,0,REG,250
+epl-2014-REG-0251,2014,,2014-02-11,Cardiff City,Aston Villa,0,0,REG,251
+epl-2014-REG-0252,2014,,2014-02-11,Hull City,Southampton,0,1,REG,252
+epl-2014-REG-0253,2014,,2014-02-11,West Bromwich Albion,Chelsea,1,1,REG,253
+epl-2014-REG-0254,2014,,2014-02-11,West Ham United,Norwich City,2,0,REG,254
+epl-2014-REG-0255,2014,,2014-02-12,Arsenal,Manchester United,0,0,REG,255
+epl-2014-REG-0256,2014,,2014-02-12,Fulham,Liverpool,2,3,REG,256
+epl-2014-REG-0257,2014,,2014-02-12,Newcastle United,Tottenham Hotspur,0,4,REG,257
+epl-2014-REG-0258,2014,,2014-02-12,Stoke City,Swansea City,1,1,REG,258
+epl-2014-REG-0259,2014,,2014-02-22,Arsenal,Sunderland,4,1,REG,259
+epl-2014-REG-0260,2014,,2014-02-22,Cardiff City,Hull City,0,4,REG,260
+epl-2014-REG-0261,2014,,2014-02-22,Chelsea,Everton,1,0,REG,261
+epl-2014-REG-0262,2014,,2014-02-22,Crystal Palace,Manchester United,0,2,REG,262
+epl-2014-REG-0263,2014,,2014-02-22,Manchester City,Stoke City,1,0,REG,263
+epl-2014-REG-0264,2014,,2014-02-22,West Bromwich Albion,Fulham,1,1,REG,264
+epl-2014-REG-0265,2014,,2014-02-22,West Ham United,Southampton,3,1,REG,265
+epl-2014-REG-0266,2014,,2014-02-23,Liverpool,Swansea City,4,3,REG,266
+epl-2014-REG-0267,2014,,2014-02-23,Newcastle United,Aston Villa,1,0,REG,267
+epl-2014-REG-0268,2014,,2014-02-23,Norwich City,Tottenham Hotspur,1,0,REG,268
+epl-2014-REG-0269,2014,,2014-03-01,Everton,West Ham United,1,0,REG,269
+epl-2014-REG-0270,2014,,2014-03-01,Fulham,Chelsea,1,3,REG,270
+epl-2014-REG-0271,2014,,2014-03-01,Hull City,Newcastle United,1,4,REG,271
+epl-2014-REG-0272,2014,,2014-03-01,Southampton,Liverpool,0,3,REG,272
+epl-2014-REG-0273,2014,,2014-03-01,Stoke City,Arsenal,1,0,REG,273
+epl-2014-REG-0274,2014,,2014-03-02,Aston Villa,Norwich City,4,1,REG,274
+epl-2014-REG-0275,2014,,2014-03-02,Swansea City,Crystal Palace,1,1,REG,275
+epl-2014-REG-0276,2014,,2014-03-02,Tottenham Hotspur,Cardiff City,1,0,REG,276
+epl-2014-REG-0277,2014,,2014-03-08,Cardiff City,Fulham,3,1,REG,277
+epl-2014-REG-0278,2014,,2014-03-08,Chelsea,Tottenham Hotspur,4,0,REG,278
+epl-2014-REG-0279,2014,,2014-03-08,Crystal Palace,Southampton,0,1,REG,279
+epl-2014-REG-0280,2014,,2014-03-08,Norwich City,Stoke City,1,1,REG,280
+epl-2014-REG-0281,2014,,2014-03-08,West Bromwich Albion,Manchester United,0,3,REG,281
+epl-2014-REG-0282,2014,,2014-03-15,Aston Villa,Chelsea,1,0,REG,282
+epl-2014-REG-0283,2014,,2014-03-15,Everton,Cardiff City,2,1,REG,283
+epl-2014-REG-0284,2014,,2014-03-15,Fulham,Newcastle United,1,0,REG,284
+epl-2014-REG-0285,2014,,2014-03-15,Hull City,Manchester City,0,2,REG,285
+epl-2014-REG-0286,2014,,2014-03-15,Southampton,Norwich City,4,2,REG,286
+epl-2014-REG-0287,2014,,2014-03-15,Stoke City,West Ham United,3,1,REG,287
+epl-2014-REG-0288,2014,,2014-03-15,Sunderland,Crystal Palace,0,0,REG,288
+epl-2014-REG-0289,2014,,2014-03-15,Swansea City,West Bromwich Albion,1,2,REG,289
+epl-2014-REG-0290,2014,,2014-03-16,Manchester United,Liverpool,0,3,REG,290
+epl-2014-REG-0291,2014,,2014-03-16,Tottenham Hotspur,Arsenal,0,1,REG,291
+epl-2014-REG-0292,2014,,2014-03-22,Cardiff City,Liverpool,3,6,REG,292
+epl-2014-REG-0293,2014,,2014-03-22,Chelsea,Arsenal,6,0,REG,293
+epl-2014-REG-0294,2014,,2014-03-22,Everton,Swansea City,3,2,REG,294
+epl-2014-REG-0295,2014,,2014-03-22,Hull City,West Bromwich Albion,2,0,REG,295
+epl-2014-REG-0296,2014,,2014-03-22,Manchester City,Fulham,5,0,REG,296
+epl-2014-REG-0297,2014,,2014-03-22,Newcastle United,Crystal Palace,1,0,REG,297
+epl-2014-REG-0298,2014,,2014-03-22,Norwich City,Sunderland,2,0,REG,298
+epl-2014-REG-0299,2014,,2014-03-22,West Ham United,Manchester United,0,2,REG,299
+epl-2014-REG-0300,2014,,2014-03-23,Aston Villa,Stoke City,1,4,REG,300
+epl-2014-REG-0301,2014,,2014-03-23,Tottenham Hotspur,Southampton,3,2,REG,301
+epl-2014-REG-0302,2014,,2014-03-25,Arsenal,Swansea City,2,2,REG,302
+epl-2014-REG-0303,2014,,2014-03-25,Manchester United,Manchester City,0,3,REG,303
+epl-2014-REG-0304,2014,,2014-03-25,Newcastle United,Everton,0,3,REG,304
+epl-2014-REG-0305,2014,,2014-03-26,Liverpool,Sunderland,2,1,REG,305
+epl-2014-REG-0306,2014,,2014-03-26,West Ham United,Hull City,2,1,REG,306
+epl-2014-REG-0307,2014,,2014-03-29,Arsenal,Manchester City,1,1,REG,307
+epl-2014-REG-0308,2014,,2014-03-29,Crystal Palace,Chelsea,1,0,REG,308
+epl-2014-REG-0309,2014,,2014-03-29,Manchester United,Aston Villa,4,1,REG,309
+epl-2014-REG-0310,2014,,2014-03-29,Southampton,Newcastle United,4,0,REG,310
+epl-2014-REG-0311,2014,,2014-03-29,Stoke City,Hull City,1,0,REG,311
+epl-2014-REG-0312,2014,,2014-03-29,Swansea City,Norwich City,3,0,REG,312
+epl-2014-REG-0313,2014,,2014-03-29,West Bromwich Albion,Cardiff City,3,3,REG,313
+epl-2014-REG-0314,2014,,2014-03-30,Fulham,Everton,1,3,REG,314
+epl-2014-REG-0315,2014,,2014-03-30,Liverpool,Tottenham Hotspur,4,0,REG,315
+epl-2014-REG-0316,2014,,2014-03-31,Sunderland,West Ham United,1,2,REG,316
+epl-2014-REG-0317,2014,,2014-04-05,Aston Villa,Fulham,1,2,REG,317
+epl-2014-REG-0318,2014,,2014-04-05,Cardiff City,Crystal Palace,0,3,REG,318
+epl-2014-REG-0319,2014,,2014-04-05,Chelsea,Stoke City,3,0,REG,319
+epl-2014-REG-0320,2014,,2014-04-05,Hull City,Swansea City,1,0,REG,320
+epl-2014-REG-0321,2014,,2014-04-05,Manchester City,Southampton,4,1,REG,321
+epl-2014-REG-0322,2014,,2014-04-05,Newcastle United,Manchester United,0,4,REG,322
+epl-2014-REG-0323,2014,,2014-04-05,Norwich City,West Bromwich Albion,0,1,REG,323
+epl-2014-REG-0324,2014,,2014-04-06,Everton,Arsenal,3,0,REG,324
+epl-2014-REG-0325,2014,,2014-04-06,West Ham United,Liverpool,1,2,REG,325
+epl-2014-REG-0326,2014,,2014-04-07,Tottenham Hotspur,Sunderland,5,1,REG,326
+epl-2014-REG-0327,2014,,2014-04-12,Crystal Palace,Aston Villa,1,0,REG,327
+epl-2014-REG-0328,2014,,2014-04-12,Fulham,Norwich City,1,0,REG,328
+epl-2014-REG-0329,2014,,2014-04-12,Southampton,Cardiff City,0,1,REG,329
+epl-2014-REG-0330,2014,,2014-04-12,Stoke City,Newcastle United,1,0,REG,330
+epl-2014-REG-0331,2014,,2014-04-12,Sunderland,Everton,0,1,REG,331
+epl-2014-REG-0332,2014,,2014-04-12,West Bromwich Albion,Tottenham Hotspur,3,3,REG,332
+epl-2014-REG-0333,2014,,2014-04-13,Liverpool,Manchester City,3,2,REG,333
+epl-2014-REG-0334,2014,,2014-04-13,Swansea City,Chelsea,0,1,REG,334
+epl-2014-REG-0335,2014,,2014-04-15,Arsenal,West Ham United,3,1,REG,335
+epl-2014-REG-0336,2014,,2014-04-16,Everton,Crystal Palace,2,3,REG,336
+epl-2014-REG-0337,2014,,2014-04-16,Manchester City,Sunderland,2,2,REG,337
+epl-2014-REG-0338,2014,,2014-04-19,Aston Villa,Southampton,0,0,REG,338
+epl-2014-REG-0339,2014,,2014-04-19,Cardiff City,Stoke City,1,1,REG,339
+epl-2014-REG-0340,2014,,2014-04-19,Chelsea,Sunderland,1,2,REG,340
+epl-2014-REG-0341,2014,,2014-04-19,Newcastle United,Swansea City,1,2,REG,341
+epl-2014-REG-0342,2014,,2014-04-19,Tottenham Hotspur,Fulham,3,1,REG,342
+epl-2014-REG-0343,2014,,2014-04-19,West Ham United,Crystal Palace,0,1,REG,343
+epl-2014-REG-0344,2014,,2014-04-20,Everton,Manchester United,2,0,REG,344
+epl-2014-REG-0345,2014,,2014-04-20,Hull City,Arsenal,0,3,REG,345
+epl-2014-REG-0346,2014,,2014-04-20,Norwich City,Liverpool,2,3,REG,346
+epl-2014-REG-0347,2014,,2014-04-21,Manchester City,West Bromwich Albion,3,1,REG,347
+epl-2014-REG-0348,2014,,2014-04-26,Fulham,Hull City,2,2,REG,348
+epl-2014-REG-0349,2014,,2014-04-26,Manchester United,Norwich City,4,0,REG,349
+epl-2014-REG-0350,2014,,2014-04-26,Southampton,Everton,2,0,REG,350
+epl-2014-REG-0351,2014,,2014-04-26,Stoke City,Tottenham Hotspur,0,1,REG,351
+epl-2014-REG-0352,2014,,2014-04-26,Swansea City,Aston Villa,4,1,REG,352
+epl-2014-REG-0353,2014,,2014-04-26,West Bromwich Albion,West Ham United,1,0,REG,353
+epl-2014-REG-0354,2014,,2014-04-27,Crystal Palace,Manchester City,0,2,REG,354
+epl-2014-REG-0355,2014,,2014-04-27,Liverpool,Chelsea,0,2,REG,355
+epl-2014-REG-0356,2014,,2014-04-27,Sunderland,Cardiff City,4,0,REG,356
+epl-2014-REG-0357,2014,,2014-04-28,Arsenal,Newcastle United,3,0,REG,357
+epl-2014-REG-0358,2014,,2014-05-03,Aston Villa,Hull City,3,1,REG,358
+epl-2014-REG-0359,2014,,2014-05-03,Everton,Manchester City,2,3,REG,359
+epl-2014-REG-0360,2014,,2014-05-03,Manchester United,Sunderland,0,1,REG,360
+epl-2014-REG-0361,2014,,2014-05-03,Newcastle United,Cardiff City,3,0,REG,361
+epl-2014-REG-0362,2014,,2014-05-03,Stoke City,Fulham,4,1,REG,362
+epl-2014-REG-0363,2014,,2014-05-03,Swansea City,Southampton,0,1,REG,363
+epl-2014-REG-0364,2014,,2014-05-03,West Ham United,Tottenham Hotspur,2,0,REG,364
+epl-2014-REG-0365,2014,,2014-05-04,Arsenal,West Bromwich Albion,1,0,REG,365
+epl-2014-REG-0366,2014,,2014-05-04,Chelsea,Norwich City,0,0,REG,366
+epl-2014-REG-0367,2014,,2014-05-05,Crystal Palace,Liverpool,3,3,REG,367
+epl-2014-REG-0368,2014,,2014-05-06,Manchester United,Hull City,3,1,REG,368
+epl-2014-REG-0369,2014,,2014-05-07,Manchester City,Aston Villa,4,0,REG,369
+epl-2014-REG-0370,2014,,2014-05-07,Sunderland,West Bromwich Albion,2,0,REG,370
+epl-2014-REG-0371,2014,,2014-05-11,Cardiff City,Chelsea,1,2,REG,371
+epl-2014-REG-0372,2014,,2014-05-11,Fulham,Crystal Palace,2,2,REG,372
+epl-2014-REG-0373,2014,,2014-05-11,Hull City,Everton,0,2,REG,373
+epl-2014-REG-0374,2014,,2014-05-11,Liverpool,Newcastle United,2,1,REG,374
+epl-2014-REG-0375,2014,,2014-05-11,Manchester City,West Ham United,2,0,REG,375
+epl-2014-REG-0376,2014,,2014-05-11,Norwich City,Arsenal,0,2,REG,376
+epl-2014-REG-0377,2014,,2014-05-11,Southampton,Manchester United,1,1,REG,377
+epl-2014-REG-0378,2014,,2014-05-11,Sunderland,Swansea City,1,3,REG,378
+epl-2014-REG-0379,2014,,2014-05-11,Tottenham Hotspur,Aston Villa,3,0,REG,379
+epl-2014-REG-0380,2014,,2014-05-11,West Bromwich Albion,Stoke City,1,2,REG,380

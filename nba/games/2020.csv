@@ -1,0 +1,1055 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nba-201910220LAC,2020,,2019-10-22,Los Angeles Clippers,Los Angeles Lakers,112,102,REG,1
+nba-201910220TOR,2020,,2019-10-22,Toronto Raptors,New Orleans Pelicans,130,122,REG,2
+nba-201910230BRK,2020,,2019-10-23,Brooklyn Nets,Minnesota Timberwolves,126,127,REG,3
+nba-201910230CHO,2020,,2019-10-23,Charlotte Hornets,Chicago Bulls,126,125,REG,4
+nba-201910230DAL,2020,,2019-10-23,Dallas Mavericks,Washington Wizards,108,100,REG,5
+nba-201910230IND,2020,,2019-10-23,Indiana Pacers,Detroit Pistons,110,119,REG,6
+nba-201910230MIA,2020,,2019-10-23,Miami Heat,Memphis Grizzlies,120,101,REG,7
+nba-201910230ORL,2020,,2019-10-23,Orlando Magic,Cleveland Cavaliers,94,85,REG,8
+nba-201910230PHI,2020,,2019-10-23,Philadelphia 76ers,Boston Celtics,107,93,REG,9
+nba-201910230PHO,2020,,2019-10-23,Phoenix Suns,Sacramento Kings,124,95,REG,10
+nba-201910230POR,2020,,2019-10-23,Portland Trail Blazers,Denver Nuggets,100,108,REG,11
+nba-201910230SAS,2020,,2019-10-23,San Antonio Spurs,New York Knicks,120,111,REG,12
+nba-201910230UTA,2020,,2019-10-23,Utah Jazz,Oklahoma City Thunder,100,95,REG,13
+nba-201910240DET,2020,,2019-10-24,Detroit Pistons,Atlanta Hawks,100,117,REG,14
+nba-201910240GSW,2020,,2019-10-24,Golden State Warriors,Los Angeles Clippers,122,141,REG,15
+nba-201910240HOU,2020,,2019-10-24,Houston Rockets,Milwaukee Bucks,111,117,REG,16
+nba-201910250BOS,2020,,2019-10-25,Boston Celtics,Toronto Raptors,112,106,REG,17
+nba-201910250BRK,2020,,2019-10-25,Brooklyn Nets,New York Knicks,113,109,REG,18
+nba-201910250CHO,2020,,2019-10-25,Charlotte Hornets,Minnesota Timberwolves,99,121,REG,19
+nba-201910250DEN,2020,,2019-10-25,Denver Nuggets,Phoenix Suns,108,107,REG,20
+nba-201910250LAL,2020,,2019-10-25,Los Angeles Lakers,Utah Jazz,95,86,REG,21
+nba-201910250MEM,2020,,2019-10-25,Memphis Grizzlies,Chicago Bulls,102,110,REG,22
+nba-201910250NOP,2020,,2019-10-25,New Orleans Pelicans,Dallas Mavericks,116,123,REG,23
+nba-201910250OKC,2020,,2019-10-25,Oklahoma City Thunder,Washington Wizards,85,97,REG,24
+nba-201910250SAC,2020,,2019-10-25,Sacramento Kings,Portland Trail Blazers,112,122,REG,25
+nba-201910260ATL,2020,,2019-10-26,Atlanta Hawks,Orlando Magic,103,99,REG,26
+nba-201910260CHI,2020,,2019-10-26,Chicago Bulls,Toronto Raptors,84,108,REG,27
+nba-201910260CLE,2020,,2019-10-26,Cleveland Cavaliers,Indiana Pacers,110,99,REG,28
+nba-201910260DET,2020,,2019-10-26,Detroit Pistons,Philadelphia 76ers,111,117,REG,29
+nba-201910260HOU,2020,,2019-10-26,Houston Rockets,New Orleans Pelicans,126,123,REG,30
+nba-201910260MIL,2020,,2019-10-26,Milwaukee Bucks,Miami Heat,126,131,REG,31
+nba-201910260NYK,2020,,2019-10-26,New York Knicks,Boston Celtics,95,118,REG,32
+nba-201910260PHO,2020,,2019-10-26,Phoenix Suns,Los Angeles Clippers,130,122,REG,33
+nba-201910260SAS,2020,,2019-10-26,San Antonio Spurs,Washington Wizards,124,122,REG,34
+nba-201910260UTA,2020,,2019-10-26,Utah Jazz,Sacramento Kings,113,81,REG,35
+nba-201910270DAL,2020,,2019-10-27,Dallas Mavericks,Portland Trail Blazers,119,121,REG,36
+nba-201910270LAL,2020,,2019-10-27,Los Angeles Lakers,Charlotte Hornets,120,101,REG,37
+nba-201910270MEM,2020,,2019-10-27,Memphis Grizzlies,Brooklyn Nets,134,133,REG,38
+nba-201910270MIN,2020,,2019-10-27,Minnesota Timberwolves,Miami Heat,116,109,REG,39
+nba-201910270OKC,2020,,2019-10-27,Oklahoma City Thunder,Golden State Warriors,120,92,REG,40
+nba-201910280ATL,2020,,2019-10-28,Atlanta Hawks,Philadelphia 76ers,103,105,REG,41
+nba-201910280DET,2020,,2019-10-28,Detroit Pistons,Indiana Pacers,96,94,REG,42
+nba-201910280HOU,2020,,2019-10-28,Houston Rockets,Oklahoma City Thunder,116,112,REG,43
+nba-201910280LAC,2020,,2019-10-28,Los Angeles Clippers,Charlotte Hornets,111,96,REG,44
+nba-201910280MIL,2020,,2019-10-28,Milwaukee Bucks,Cleveland Cavaliers,129,112,REG,45
+nba-201910280NOP,2020,,2019-10-28,New Orleans Pelicans,Golden State Warriors,123,134,REG,46
+nba-201910280NYK,2020,,2019-10-28,New York Knicks,Chicago Bulls,105,98,REG,47
+nba-201910280PHO,2020,,2019-10-28,Phoenix Suns,Utah Jazz,95,96,REG,48
+nba-201910280SAC,2020,,2019-10-28,Sacramento Kings,Denver Nuggets,94,101,REG,49
+nba-201910280SAS,2020,,2019-10-28,San Antonio Spurs,Portland Trail Blazers,113,110,REG,50
+nba-201910280TOR,2020,,2019-10-28,Toronto Raptors,Orlando Magic,104,95,REG,51
+nba-201910290DEN,2020,,2019-10-29,Denver Nuggets,Dallas Mavericks,106,109,REG,52
+nba-201910290LAL,2020,,2019-10-29,Los Angeles Lakers,Memphis Grizzlies,120,91,REG,53
+nba-201910290MIA,2020,,2019-10-29,Miami Heat,Atlanta Hawks,112,97,REG,54
+nba-201910300BOS,2020,,2019-10-30,Boston Celtics,Milwaukee Bucks,116,105,REG,55
+nba-201910300BRK,2020,,2019-10-30,Brooklyn Nets,Indiana Pacers,108,118,REG,56
+nba-201910300CLE,2020,,2019-10-30,Cleveland Cavaliers,Chicago Bulls,117,111,REG,57
+nba-201910300GSW,2020,,2019-10-30,Golden State Warriors,Phoenix Suns,110,121,REG,58
+nba-201910300OKC,2020,,2019-10-30,Oklahoma City Thunder,Portland Trail Blazers,99,102,REG,59
+nba-201910300ORL,2020,,2019-10-30,Orlando Magic,New York Knicks,95,83,REG,60
+nba-201910300PHI,2020,,2019-10-30,Philadelphia 76ers,Minnesota Timberwolves,117,95,REG,61
+nba-201910300SAC,2020,,2019-10-30,Sacramento Kings,Charlotte Hornets,111,118,REG,62
+nba-201910300TOR,2020,,2019-10-30,Toronto Raptors,Detroit Pistons,125,113,REG,63
+nba-201910300UTA,2020,,2019-10-30,Utah Jazz,Los Angeles Clippers,110,96,REG,64
+nba-201910300WAS,2020,,2019-10-30,Washington Wizards,Houston Rockets,158,159,REG,65
+nba-201910310ATL,2020,,2019-10-31,Atlanta Hawks,Miami Heat,97,106,REG,66
+nba-201910310LAC,2020,,2019-10-31,Los Angeles Clippers,San Antonio Spurs,103,97,REG,67
+nba-201910310NOP,2020,,2019-10-31,New Orleans Pelicans,Denver Nuggets,122,107,REG,68
+nba-201911010BOS,2020,,2019-11-01,Boston Celtics,New York Knicks,104,102,REG,69
+nba-201911010BRK,2020,,2019-11-01,Brooklyn Nets,Houston Rockets,123,116,REG,70
+nba-201911010CHI,2020,,2019-11-01,Chicago Bulls,Detroit Pistons,112,106,REG,71
+nba-201911010DAL,2020,,2019-11-01,Dallas Mavericks,Los Angeles Lakers,110,119,REG,72
+nba-201911010GSW,2020,,2019-11-01,Golden State Warriors,San Antonio Spurs,110,127,REG,73
+nba-201911010IND,2020,,2019-11-01,Indiana Pacers,Cleveland Cavaliers,102,95,REG,74
+nba-201911010ORL,2020,,2019-11-01,Orlando Magic,Milwaukee Bucks,91,123,REG,75
+nba-201911010SAC,2020,,2019-11-01,Sacramento Kings,Utah Jazz,102,101,REG,76
+nba-201911020DET,2020,,2019-11-02,Detroit Pistons,Brooklyn Nets,113,109,REG,77
+nba-201911020GSW,2020,,2019-11-02,Golden State Warriors,Charlotte Hornets,87,93,REG,78
+nba-201911020MEM,2020,,2019-11-02,Memphis Grizzlies,Phoenix Suns,105,114,REG,79
+nba-201911020MIL,2020,,2019-11-02,Milwaukee Bucks,Toronto Raptors,115,105,REG,80
+nba-201911020OKC,2020,,2019-11-02,Oklahoma City Thunder,New Orleans Pelicans,115,104,REG,81
+nba-201911020ORL,2020,,2019-11-02,Orlando Magic,Denver Nuggets,87,91,REG,82
+nba-201911020POR,2020,,2019-11-02,Portland Trail Blazers,Philadelphia 76ers,128,129,REG,83
+nba-201911020WAS,2020,,2019-11-02,Washington Wizards,Minnesota Timberwolves,109,131,REG,84
+nba-201911030CLE,2020,,2019-11-03,Cleveland Cavaliers,Dallas Mavericks,111,131,REG,85
+nba-201911030IND,2020,,2019-11-03,Indiana Pacers,Chicago Bulls,108,95,REG,86
+nba-201911030LAC,2020,,2019-11-03,Los Angeles Clippers,Utah Jazz,105,94,REG,87
+nba-201911030MIA,2020,,2019-11-03,Miami Heat,Houston Rockets,129,100,REG,88
+nba-201911030NYK,2020,,2019-11-03,New York Knicks,Sacramento Kings,92,113,REG,89
+nba-201911030SAS,2020,,2019-11-03,San Antonio Spurs,Los Angeles Lakers,96,103,REG,90
+nba-201911040BRK,2020,,2019-11-04,Brooklyn Nets,New Orleans Pelicans,135,125,REG,91
+nba-201911040GSW,2020,,2019-11-04,Golden State Warriors,Portland Trail Blazers,127,118,REG,92
+nba-201911040MEM,2020,,2019-11-04,Memphis Grizzlies,Houston Rockets,100,107,REG,93
+nba-201911040MIN,2020,,2019-11-04,Minnesota Timberwolves,Milwaukee Bucks,106,134,REG,94
+nba-201911040PHO,2020,,2019-11-04,Phoenix Suns,Philadelphia 76ers,114,109,REG,95
+nba-201911040WAS,2020,,2019-11-04,Washington Wizards,Detroit Pistons,115,99,REG,96
+nba-201911050ATL,2020,,2019-11-05,Atlanta Hawks,San Antonio Spurs,108,100,REG,97
+nba-201911050CHO,2020,,2019-11-05,Charlotte Hornets,Indiana Pacers,122,120,REG,98
+nba-201911050CHI,2020,,2019-11-05,Chicago Bulls,Los Angeles Lakers,112,118,REG,99
+nba-201911050CLE,2020,,2019-11-05,Cleveland Cavaliers,Boston Celtics,113,119,REG,100
+nba-201911050DEN,2020,,2019-11-05,Denver Nuggets,Miami Heat,109,89,REG,101
+nba-201911050OKC,2020,,2019-11-05,Oklahoma City Thunder,Orlando Magic,102,94,REG,102
+nba-201911060ATL,2020,,2019-11-06,Atlanta Hawks,Chicago Bulls,93,113,REG,103
+nba-201911060DAL,2020,,2019-11-06,Dallas Mavericks,Orlando Magic,107,106,REG,104
+nba-201911060DET,2020,,2019-11-06,Detroit Pistons,New York Knicks,122,102,REG,105
+nba-201911060HOU,2020,,2019-11-06,Houston Rockets,Golden State Warriors,129,112,REG,106
+nba-201911060IND,2020,,2019-11-06,Indiana Pacers,Washington Wizards,121,106,REG,107
+nba-201911060LAC,2020,,2019-11-06,Los Angeles Clippers,Milwaukee Bucks,124,129,REG,108
+nba-201911060MEM,2020,,2019-11-06,Memphis Grizzlies,Minnesota Timberwolves,137,121,REG,109
+nba-201911060TOR,2020,,2019-11-06,Toronto Raptors,Sacramento Kings,124,120,REG,110
+nba-201911060UTA,2020,,2019-11-06,Utah Jazz,Philadelphia 76ers,106,104,REG,111
+nba-201911070CHO,2020,,2019-11-07,Charlotte Hornets,Boston Celtics,87,108,REG,112
+nba-201911070LAC,2020,,2019-11-07,Los Angeles Clippers,Portland Trail Blazers,107,101,REG,113
+nba-201911070PHO,2020,,2019-11-07,Phoenix Suns,Miami Heat,108,124,REG,114
+nba-201911070SAS,2020,,2019-11-07,San Antonio Spurs,Oklahoma City Thunder,121,112,REG,115
+nba-201911080ATL,2020,,2019-11-08,Atlanta Hawks,Sacramento Kings,109,121,REG,116
+nba-201911080DAL,2020,,2019-11-08,Dallas Mavericks,New York Knicks,102,106,REG,117
+nba-201911080DEN,2020,,2019-11-08,Denver Nuggets,Philadelphia 76ers,100,97,REG,118
+nba-201911080IND,2020,,2019-11-08,Indiana Pacers,Detroit Pistons,112,106,REG,119
+nba-201911080LAL,2020,,2019-11-08,Los Angeles Lakers,Miami Heat,95,80,REG,120
+nba-201911080MIN,2020,,2019-11-08,Minnesota Timberwolves,Golden State Warriors,125,119,REG,121
+nba-201911080NOP,2020,,2019-11-08,New Orleans Pelicans,Toronto Raptors,104,122,REG,122
+nba-201911080ORL,2020,,2019-11-08,Orlando Magic,Memphis Grizzlies,118,86,REG,123
+nba-201911080POR,2020,,2019-11-08,Portland Trail Blazers,Brooklyn Nets,115,119,REG,124
+nba-201911080UTA,2020,,2019-11-08,Utah Jazz,Milwaukee Bucks,103,100,REG,125
+nba-201911080WAS,2020,,2019-11-08,Washington Wizards,Cleveland Cavaliers,100,113,REG,126
+nba-201911090CHO,2020,,2019-11-09,Charlotte Hornets,New Orleans Pelicans,110,115,REG,127
+nba-201911090CHI,2020,,2019-11-09,Chicago Bulls,Houston Rockets,94,117,REG,128
+nba-201911090MEM,2020,,2019-11-09,Memphis Grizzlies,Dallas Mavericks,122,138,REG,129
+nba-201911090OKC,2020,,2019-11-09,Oklahoma City Thunder,Golden State Warriors,114,108,REG,130
+nba-201911090SAS,2020,,2019-11-09,San Antonio Spurs,Boston Celtics,115,135,REG,131
+nba-201911100LAL,2020,,2019-11-10,Los Angeles Lakers,Toronto Raptors,104,113,REG,132
+nba-201911100MIN,2020,,2019-11-10,Minnesota Timberwolves,Denver Nuggets,98,100,REG,133
+nba-201911100NYK,2020,,2019-11-10,New York Knicks,Cleveland Cavaliers,87,108,REG,134
+nba-201911100OKC,2020,,2019-11-10,Oklahoma City Thunder,Milwaukee Bucks,119,121,REG,135
+nba-201911100ORL,2020,,2019-11-10,Orlando Magic,Indiana Pacers,102,109,REG,136
+nba-201911100PHI,2020,,2019-11-10,Philadelphia 76ers,Charlotte Hornets,114,106,REG,137
+nba-201911100PHO,2020,,2019-11-10,Phoenix Suns,Brooklyn Nets,138,112,REG,138
+nba-201911100POR,2020,,2019-11-10,Portland Trail Blazers,Atlanta Hawks,124,113,REG,139
+nba-201911110BOS,2020,,2019-11-11,Boston Celtics,Dallas Mavericks,116,106,REG,140
+nba-201911110DET,2020,,2019-11-11,Detroit Pistons,Minnesota Timberwolves,114,120,REG,141
+nba-201911110GSW,2020,,2019-11-11,Golden State Warriors,Utah Jazz,108,122,REG,142
+nba-201911110LAC,2020,,2019-11-11,Los Angeles Clippers,Toronto Raptors,98,88,REG,143
+nba-201911110NOP,2020,,2019-11-11,New Orleans Pelicans,Houston Rockets,116,122,REG,144
+nba-201911110SAS,2020,,2019-11-11,San Antonio Spurs,Memphis Grizzlies,109,113,REG,145
+nba-201911120CHI,2020,,2019-11-12,Chicago Bulls,New York Knicks,120,102,REG,146
+nba-201911120DEN,2020,,2019-11-12,Denver Nuggets,Atlanta Hawks,121,125,REG,147
+nba-201911120IND,2020,,2019-11-12,Indiana Pacers,Oklahoma City Thunder,111,85,REG,148
+nba-201911120MIA,2020,,2019-11-12,Miami Heat,Detroit Pistons,117,108,REG,149
+nba-201911120PHI,2020,,2019-11-12,Philadelphia 76ers,Cleveland Cavaliers,98,97,REG,150
+nba-201911120PHO,2020,,2019-11-12,Phoenix Suns,Los Angeles Lakers,115,123,REG,151
+nba-201911120SAC,2020,,2019-11-12,Sacramento Kings,Portland Trail Blazers,107,99,REG,152
+nba-201911120UTA,2020,,2019-11-12,Utah Jazz,Brooklyn Nets,119,114,REG,153
+nba-201911130BOS,2020,,2019-11-13,Boston Celtics,Washington Wizards,140,133,REG,154
+nba-201911130CHO,2020,,2019-11-13,Charlotte Hornets,Memphis Grizzlies,117,119,REG,155
+nba-201911130HOU,2020,,2019-11-13,Houston Rockets,Los Angeles Clippers,102,93,REG,156
+nba-201911130LAL,2020,,2019-11-13,Los Angeles Lakers,Golden State Warriors,120,94,REG,157
+nba-201911130MIN,2020,,2019-11-13,Minnesota Timberwolves,San Antonio Spurs,129,114,REG,158
+nba-201911130ORL,2020,,2019-11-13,Orlando Magic,Philadelphia 76ers,112,97,REG,159
+nba-201911130POR,2020,,2019-11-13,Portland Trail Blazers,Toronto Raptors,106,114,REG,160
+nba-201911140CLE,2020,,2019-11-14,Cleveland Cavaliers,Miami Heat,97,108,REG,161
+nba-201911140DEN,2020,,2019-11-14,Denver Nuggets,Brooklyn Nets,101,93,REG,162
+nba-201911140MIL,2020,,2019-11-14,Milwaukee Bucks,Chicago Bulls,124,115,REG,163
+nba-201911140NOP,2020,,2019-11-14,New Orleans Pelicans,Los Angeles Clippers,132,127,REG,164
+nba-201911140NYK,2020,,2019-11-14,New York Knicks,Dallas Mavericks,106,103,REG,165
+nba-201911140PHO,2020,,2019-11-14,Phoenix Suns,Atlanta Hawks,128,112,REG,166
+nba-201911150CHO,2020,,2019-11-15,Charlotte Hornets,Detroit Pistons,109,106,REG,167
+nba-201911150GSW,2020,,2019-11-15,Golden State Warriors,Boston Celtics,100,105,REG,168
+nba-201911150HOU,2020,,2019-11-15,Houston Rockets,Indiana Pacers,111,102,REG,169
+nba-201911150LAL,2020,,2019-11-15,Los Angeles Lakers,Sacramento Kings,99,97,REG,170
+nba-201911150MEM,2020,,2019-11-15,Memphis Grizzlies,Utah Jazz,107,106,REG,171
+nba-201911150MIN,2020,,2019-11-15,Minnesota Timberwolves,Washington Wizards,116,137,REG,172
+nba-201911150OKC,2020,,2019-11-15,Oklahoma City Thunder,Philadelphia 76ers,127,119,REG,173
+nba-201911150ORL,2020,,2019-11-15,Orlando Magic,San Antonio Spurs,111,109,REG,174
+nba-201911160CHI,2020,,2019-11-16,Chicago Bulls,Brooklyn Nets,111,117,REG,175
+nba-201911160DAL,2020,,2019-11-16,Dallas Mavericks,Toronto Raptors,110,102,REG,176
+nba-201911160IND,2020,,2019-11-16,Indiana Pacers,Milwaukee Bucks,83,102,REG,177
+nba-201911160LAC,2020,,2019-11-16,Los Angeles Clippers,Atlanta Hawks,150,101,REG,178
+nba-201911160MIA,2020,,2019-11-16,Miami Heat,New Orleans Pelicans,109,94,REG,179
+nba-201911160MIN,2020,,2019-11-16,Minnesota Timberwolves,Houston Rockets,105,125,REG,180
+nba-201911160NYK,2020,,2019-11-16,New York Knicks,Charlotte Hornets,102,103,REG,181
+nba-201911160SAS,2020,,2019-11-16,San Antonio Spurs,Portland Trail Blazers,116,121,REG,182
+nba-201911170CLE,2020,,2019-11-17,Cleveland Cavaliers,Philadelphia 76ers,95,114,REG,183
+nba-201911170LAL,2020,,2019-11-17,Los Angeles Lakers,Atlanta Hawks,122,101,REG,184
+nba-201911170MEM,2020,,2019-11-17,Memphis Grizzlies,Denver Nuggets,114,131,REG,185
+nba-201911170NOP,2020,,2019-11-17,New Orleans Pelicans,Golden State Warriors,108,100,REG,186
+nba-201911170ORL,2020,,2019-11-17,Orlando Magic,Washington Wizards,125,121,REG,187
+nba-201911170SAC,2020,,2019-11-17,Sacramento Kings,Boston Celtics,100,99,REG,188
+nba-201911180BRK,2020,,2019-11-18,Brooklyn Nets,Indiana Pacers,86,115,REG,189
+nba-201911180CHI,2020,,2019-11-18,Chicago Bulls,Milwaukee Bucks,101,115,REG,190
+nba-201911180DAL,2020,,2019-11-18,Dallas Mavericks,San Antonio Spurs,117,110,REG,191
+nba-201911180HOU,2020,,2019-11-18,Houston Rockets,Portland Trail Blazers,132,108,REG,192
+nba-201911180LAC,2020,,2019-11-18,Los Angeles Clippers,Oklahoma City Thunder,90,88,REG,193
+nba-201911180NYK,2020,,2019-11-18,New York Knicks,Cleveland Cavaliers,123,105,REG,194
+nba-201911180PHO,2020,,2019-11-18,Phoenix Suns,Boston Celtics,85,99,REG,195
+nba-201911180TOR,2020,,2019-11-18,Toronto Raptors,Charlotte Hornets,132,96,REG,196
+nba-201911180UTA,2020,,2019-11-18,Utah Jazz,Minnesota Timberwolves,102,112,REG,197
+nba-201911190LAL,2020,,2019-11-19,Los Angeles Lakers,Oklahoma City Thunder,112,107,REG,198
+nba-201911190MEM,2020,,2019-11-19,Memphis Grizzlies,Golden State Warriors,95,114,REG,199
+nba-201911190NOP,2020,,2019-11-19,New Orleans Pelicans,Portland Trail Blazers,115,104,REG,200
+nba-201911190SAC,2020,,2019-11-19,Sacramento Kings,Phoenix Suns,120,116,REG,201
+nba-201911200ATL,2020,,2019-11-20,Atlanta Hawks,Milwaukee Bucks,127,135,REG,202
+nba-201911200BRK,2020,,2019-11-20,Brooklyn Nets,Charlotte Hornets,101,91,REG,203
+nba-201911200CHI,2020,,2019-11-20,Chicago Bulls,Detroit Pistons,109,89,REG,204
+nba-201911200DAL,2020,,2019-11-20,Dallas Mavericks,Golden State Warriors,142,94,REG,205
+nba-201911200DEN,2020,,2019-11-20,Denver Nuggets,Houston Rockets,105,95,REG,206
+nba-201911200LAC,2020,,2019-11-20,Los Angeles Clippers,Boston Celtics,107,104,REG,207
+nba-201911200MIA,2020,,2019-11-20,Miami Heat,Cleveland Cavaliers,124,100,REG,208
+nba-201911200MIN,2020,,2019-11-20,Minnesota Timberwolves,Utah Jazz,95,103,REG,209
+nba-201911200PHI,2020,,2019-11-20,Philadelphia 76ers,New York Knicks,109,104,REG,210
+nba-201911200TOR,2020,,2019-11-20,Toronto Raptors,Orlando Magic,113,97,REG,211
+nba-201911200WAS,2020,,2019-11-20,Washington Wizards,San Antonio Spurs,138,132,REG,212
+nba-201911210MIL,2020,,2019-11-21,Milwaukee Bucks,Portland Trail Blazers,137,129,REG,213
+nba-201911210PHO,2020,,2019-11-21,Phoenix Suns,New Orleans Pelicans,121,124,REG,214
+nba-201911220BRK,2020,,2019-11-22,Brooklyn Nets,Sacramento Kings,116,97,REG,215
+nba-201911220CHI,2020,,2019-11-22,Chicago Bulls,Miami Heat,108,116,REG,216
+nba-201911220DAL,2020,,2019-11-22,Dallas Mavericks,Cleveland Cavaliers,143,101,REG,217
+nba-201911220DEN,2020,,2019-11-22,Denver Nuggets,Boston Celtics,96,92,REG,218
+nba-201911220DET,2020,,2019-11-22,Detroit Pistons,Atlanta Hawks,128,103,REG,219
+nba-201911220LAC,2020,,2019-11-22,Los Angeles Clippers,Houston Rockets,122,119,REG,220
+nba-201911220OKC,2020,,2019-11-22,Oklahoma City Thunder,Los Angeles Lakers,127,130,REG,221
+nba-201911220PHI,2020,,2019-11-22,Philadelphia 76ers,San Antonio Spurs,115,104,REG,222
+nba-201911220UTA,2020,,2019-11-22,Utah Jazz,Golden State Warriors,113,109,REG,223
+nba-201911220WAS,2020,,2019-11-22,Washington Wizards,Charlotte Hornets,125,118,REG,224
+nba-201911230ATL,2020,,2019-11-23,Atlanta Hawks,Toronto Raptors,116,119,REG,225
+nba-201911230CHO,2020,,2019-11-23,Charlotte Hornets,Chicago Bulls,115,116,REG,226
+nba-201911230CLE,2020,,2019-11-23,Cleveland Cavaliers,Portland Trail Blazers,110,104,REG,227
+nba-201911230IND,2020,,2019-11-23,Indiana Pacers,Orlando Magic,111,106,REG,228
+nba-201911230MEM,2020,,2019-11-23,Memphis Grizzlies,Los Angeles Lakers,108,109,REG,229
+nba-201911230MIL,2020,,2019-11-23,Milwaukee Bucks,Detroit Pistons,104,90,REG,230
+nba-201911230MIN,2020,,2019-11-23,Minnesota Timberwolves,Phoenix Suns,98,100,REG,231
+nba-201911230NYK,2020,,2019-11-23,New York Knicks,San Antonio Spurs,104,111,REG,232
+nba-201911230PHI,2020,,2019-11-23,Philadelphia 76ers,Miami Heat,113,86,REG,233
+nba-201911230UTA,2020,,2019-11-23,Utah Jazz,New Orleans Pelicans,128,120,REG,234
+nba-201911240DEN,2020,,2019-11-24,Denver Nuggets,Phoenix Suns,116,104,REG,235
+nba-201911240HOU,2020,,2019-11-24,Houston Rockets,Dallas Mavericks,123,137,REG,236
+nba-201911240LAC,2020,,2019-11-24,Los Angeles Clippers,New Orleans Pelicans,134,109,REG,237
+nba-201911240NYK,2020,,2019-11-24,New York Knicks,Brooklyn Nets,101,103,REG,238
+nba-201911240WAS,2020,,2019-11-24,Washington Wizards,Sacramento Kings,106,113,REG,239
+nba-201911250ATL,2020,,2019-11-25,Atlanta Hawks,Minnesota Timberwolves,113,125,REG,240
+nba-201911250BOS,2020,,2019-11-25,Boston Celtics,Sacramento Kings,103,102,REG,241
+nba-201911250CHI,2020,,2019-11-25,Chicago Bulls,Portland Trail Blazers,94,117,REG,242
+nba-201911250CLE,2020,,2019-11-25,Cleveland Cavaliers,Brooklyn Nets,106,108,REG,243
+nba-201911250DET,2020,,2019-11-25,Detroit Pistons,Orlando Magic,103,88,REG,244
+nba-201911250GSW,2020,,2019-11-25,Golden State Warriors,Oklahoma City Thunder,97,100,REG,245
+nba-201911250IND,2020,,2019-11-25,Indiana Pacers,Memphis Grizzlies,126,114,REG,246
+nba-201911250MIA,2020,,2019-11-25,Miami Heat,Charlotte Hornets,117,100,REG,247
+nba-201911250MIL,2020,,2019-11-25,Milwaukee Bucks,Utah Jazz,122,118,REG,248
+nba-201911250SAS,2020,,2019-11-25,San Antonio Spurs,Los Angeles Lakers,104,114,REG,249
+nba-201911250TOR,2020,,2019-11-25,Toronto Raptors,Philadelphia 76ers,101,96,REG,250
+nba-201911260DAL,2020,,2019-11-26,Dallas Mavericks,Los Angeles Clippers,99,114,REG,251
+nba-201911260DEN,2020,,2019-11-26,Denver Nuggets,Washington Wizards,117,104,REG,252
+nba-201911270BOS,2020,,2019-11-27,Boston Celtics,Brooklyn Nets,121,110,REG,253
+nba-201911270CHO,2020,,2019-11-27,Charlotte Hornets,Detroit Pistons,102,101,REG,254
+nba-201911270CLE,2020,,2019-11-27,Cleveland Cavaliers,Orlando Magic,104,116,REG,255
+nba-201911270GSW,2020,,2019-11-27,Golden State Warriors,Chicago Bulls,104,90,REG,256
+nba-201911270HOU,2020,,2019-11-27,Houston Rockets,Miami Heat,117,108,REG,257
+nba-201911270IND,2020,,2019-11-27,Indiana Pacers,Utah Jazz,121,102,REG,258
+nba-201911270MEM,2020,,2019-11-27,Memphis Grizzlies,Los Angeles Clippers,119,121,REG,259
+nba-201911270MIL,2020,,2019-11-27,Milwaukee Bucks,Atlanta Hawks,111,102,REG,260
+nba-201911270NOP,2020,,2019-11-27,New Orleans Pelicans,Los Angeles Lakers,110,114,REG,261
+nba-201911270PHI,2020,,2019-11-27,Philadelphia 76ers,Sacramento Kings,97,91,REG,262
+nba-201911270PHO,2020,,2019-11-27,Phoenix Suns,Washington Wizards,132,140,REG,263
+nba-201911270POR,2020,,2019-11-27,Portland Trail Blazers,Oklahoma City Thunder,136,119,REG,264
+nba-201911270SAS,2020,,2019-11-27,San Antonio Spurs,Minnesota Timberwolves,101,113,REG,265
+nba-201911270TOR,2020,,2019-11-27,Toronto Raptors,New York Knicks,126,98,REG,266
+nba-201911290BRK,2020,,2019-11-29,Brooklyn Nets,Boston Celtics,112,107,REG,267
+nba-201911290CLE,2020,,2019-11-29,Cleveland Cavaliers,Milwaukee Bucks,110,119,REG,268
+nba-201911290DET,2020,,2019-11-29,Detroit Pistons,Charlotte Hornets,107,110,REG,269
+nba-201911290IND,2020,,2019-11-29,Indiana Pacers,Atlanta Hawks,105,104,REG,270
+nba-201911290LAL,2020,,2019-11-29,Los Angeles Lakers,Washington Wizards,125,103,REG,271
+nba-201911290MEM,2020,,2019-11-29,Memphis Grizzlies,Utah Jazz,94,103,REG,272
+nba-201911290MIA,2020,,2019-11-29,Miami Heat,Golden State Warriors,122,105,REG,273
+nba-201911290NYK,2020,,2019-11-29,New York Knicks,Philadelphia 76ers,95,101,REG,274
+nba-201911290OKC,2020,,2019-11-29,Oklahoma City Thunder,New Orleans Pelicans,109,104,REG,275
+nba-201911290ORL,2020,,2019-11-29,Orlando Magic,Toronto Raptors,83,90,REG,276
+nba-201911290PHO,2020,,2019-11-29,Phoenix Suns,Dallas Mavericks,113,120,REG,277
+nba-201911290POR,2020,,2019-11-29,Portland Trail Blazers,Chicago Bulls,107,103,REG,278
+nba-201911290SAS,2020,,2019-11-29,San Antonio Spurs,Los Angeles Clippers,107,97,REG,279
+nba-201911300HOU,2020,,2019-11-30,Houston Rockets,Atlanta Hawks,158,111,REG,280
+nba-201911300MIL,2020,,2019-11-30,Milwaukee Bucks,Charlotte Hornets,137,96,REG,281
+nba-201911300PHI,2020,,2019-11-30,Philadelphia 76ers,Indiana Pacers,119,116,REG,282
+nba-201911300SAC,2020,,2019-11-30,Sacramento Kings,Denver Nuggets,100,97,REG,283
+nba-201912010BRK,2020,,2019-12-01,Brooklyn Nets,Miami Heat,106,109,REG,284
+nba-201912010DET,2020,,2019-12-01,Detroit Pistons,San Antonio Spurs,132,98,REG,285
+nba-201912010LAC,2020,,2019-12-01,Los Angeles Clippers,Washington Wizards,150,125,REG,286
+nba-201912010LAL,2020,,2019-12-01,Los Angeles Lakers,Dallas Mavericks,100,114,REG,287
+nba-201912010MIN,2020,,2019-12-01,Minnesota Timberwolves,Memphis Grizzlies,107,115,REG,288
+nba-201912010NOP,2020,,2019-12-01,New Orleans Pelicans,Oklahoma City Thunder,104,107,REG,289
+nba-201912010NYK,2020,,2019-12-01,New York Knicks,Boston Celtics,104,113,REG,290
+nba-201912010ORL,2020,,2019-12-01,Orlando Magic,Golden State Warriors,100,96,REG,291
+nba-201912010TOR,2020,,2019-12-01,Toronto Raptors,Utah Jazz,130,110,REG,292
+nba-201912020ATL,2020,,2019-12-02,Atlanta Hawks,Golden State Warriors,104,79,REG,293
+nba-201912020CHO,2020,,2019-12-02,Charlotte Hornets,Phoenix Suns,104,109,REG,294
+nba-201912020MEM,2020,,2019-12-02,Memphis Grizzlies,Indiana Pacers,104,117,REG,295
+nba-201912020MIL,2020,,2019-12-02,Milwaukee Bucks,New York Knicks,132,88,REG,296
+nba-201912020PHI,2020,,2019-12-02,Philadelphia 76ers,Utah Jazz,103,94,REG,297
+nba-201912020SAC,2020,,2019-12-02,Sacramento Kings,Chicago Bulls,106,113,REG,298
+nba-201912030CLE,2020,,2019-12-03,Cleveland Cavaliers,Detroit Pistons,94,127,REG,299
+nba-201912030DEN,2020,,2019-12-03,Denver Nuggets,Los Angeles Lakers,96,105,REG,300
+nba-201912030LAC,2020,,2019-12-03,Los Angeles Clippers,Portland Trail Blazers,117,97,REG,301
+nba-201912030NOP,2020,,2019-12-03,New Orleans Pelicans,Dallas Mavericks,97,118,REG,302
+nba-201912030SAS,2020,,2019-12-03,San Antonio Spurs,Houston Rockets,135,133,REG,303
+nba-201912030TOR,2020,,2019-12-03,Toronto Raptors,Miami Heat,110,121,REG,304
+nba-201912030WAS,2020,,2019-12-03,Washington Wizards,Orlando Magic,120,127,REG,305
+nba-201912040ATL,2020,,2019-12-04,Atlanta Hawks,Brooklyn Nets,118,130,REG,306
+nba-201912040BOS,2020,,2019-12-04,Boston Celtics,Miami Heat,112,93,REG,307
+nba-201912040CHO,2020,,2019-12-04,Charlotte Hornets,Golden State Warriors,106,91,REG,308
+nba-201912040CHI,2020,,2019-12-04,Chicago Bulls,Memphis Grizzlies,106,99,REG,309
+nba-201912040DAL,2020,,2019-12-04,Dallas Mavericks,Minnesota Timberwolves,121,114,REG,310
+nba-201912040DET,2020,,2019-12-04,Detroit Pistons,Milwaukee Bucks,103,127,REG,311
+nba-201912040OKC,2020,,2019-12-04,Oklahoma City Thunder,Indiana Pacers,100,107,REG,312
+nba-201912040ORL,2020,,2019-12-04,Orlando Magic,Phoenix Suns,128,114,REG,313
+nba-201912040POR,2020,,2019-12-04,Portland Trail Blazers,Sacramento Kings,127,116,REG,314
+nba-201912040UTA,2020,,2019-12-04,Utah Jazz,Los Angeles Lakers,96,121,REG,315
+nba-201912050NOP,2020,,2019-12-05,New Orleans Pelicans,Phoenix Suns,132,139,REG,316
+nba-201912050NYK,2020,,2019-12-05,New York Knicks,Denver Nuggets,92,129,REG,317
+nba-201912050TOR,2020,,2019-12-05,Toronto Raptors,Houston Rockets,109,119,REG,318
+nba-201912050WAS,2020,,2019-12-05,Washington Wizards,Philadelphia 76ers,119,113,REG,319
+nba-201912060BOS,2020,,2019-12-06,Boston Celtics,Denver Nuggets,108,95,REG,320
+nba-201912060CHO,2020,,2019-12-06,Charlotte Hornets,Brooklyn Nets,104,111,REG,321
+nba-201912060CHI,2020,,2019-12-06,Chicago Bulls,Golden State Warriors,98,100,REG,322
+nba-201912060CLE,2020,,2019-12-06,Cleveland Cavaliers,Orlando Magic,87,93,REG,323
+nba-201912060DET,2020,,2019-12-06,Detroit Pistons,Indiana Pacers,108,101,REG,324
+nba-201912060MIA,2020,,2019-12-06,Miami Heat,Washington Wizards,112,103,REG,325
+nba-201912060MIL,2020,,2019-12-06,Milwaukee Bucks,Los Angeles Clippers,119,91,REG,326
+nba-201912060OKC,2020,,2019-12-06,Oklahoma City Thunder,Minnesota Timberwolves,139,127,REG,327
+nba-201912060POR,2020,,2019-12-06,Portland Trail Blazers,Los Angeles Lakers,113,136,REG,328
+nba-201912060SAS,2020,,2019-12-06,San Antonio Spurs,Sacramento Kings,105,104,REG,329
+nba-201912070DAL,2020,,2019-12-07,Dallas Mavericks,New Orleans Pelicans,130,84,REG,330
+nba-201912070HOU,2020,,2019-12-07,Houston Rockets,Phoenix Suns,115,109,REG,331
+nba-201912070NYK,2020,,2019-12-07,New York Knicks,Indiana Pacers,103,104,REG,332
+nba-201912070PHI,2020,,2019-12-07,Philadelphia 76ers,Cleveland Cavaliers,141,94,REG,333
+nba-201912070UTA,2020,,2019-12-07,Utah Jazz,Memphis Grizzlies,126,112,REG,334
+nba-201912080BRK,2020,,2019-12-08,Brooklyn Nets,Denver Nuggets,105,102,REG,335
+nba-201912080CHO,2020,,2019-12-08,Charlotte Hornets,Atlanta Hawks,107,122,REG,336
+nba-201912080DAL,2020,,2019-12-08,Dallas Mavericks,Sacramento Kings,106,110,REG,337
+nba-201912080LAL,2020,,2019-12-08,Los Angeles Lakers,Minnesota Timberwolves,142,125,REG,338
+nba-201912080MIA,2020,,2019-12-08,Miami Heat,Chicago Bulls,110,105,REG,339
+nba-201912080PHI,2020,,2019-12-08,Philadelphia 76ers,Toronto Raptors,110,104,REG,340
+nba-201912080POR,2020,,2019-12-08,Portland Trail Blazers,Oklahoma City Thunder,96,108,REG,341
+nba-201912080WAS,2020,,2019-12-08,Washington Wizards,Los Angeles Clippers,119,135,REG,342
+nba-201912090BOS,2020,,2019-12-09,Boston Celtics,Cleveland Cavaliers,110,88,REG,343
+nba-201912090CHI,2020,,2019-12-09,Chicago Bulls,Toronto Raptors,92,93,REG,344
+nba-201912090GSW,2020,,2019-12-09,Golden State Warriors,Memphis Grizzlies,102,110,REG,345
+nba-201912090HOU,2020,,2019-12-09,Houston Rockets,Sacramento Kings,118,119,REG,346
+nba-201912090IND,2020,,2019-12-09,Indiana Pacers,Los Angeles Clippers,99,110,REG,347
+nba-201912090MIL,2020,,2019-12-09,Milwaukee Bucks,Orlando Magic,110,101,REG,348
+nba-201912090NOP,2020,,2019-12-09,New Orleans Pelicans,Detroit Pistons,103,105,REG,349
+nba-201912090PHO,2020,,2019-12-09,Phoenix Suns,Minnesota Timberwolves,125,109,REG,350
+nba-201912090UTA,2020,,2019-12-09,Utah Jazz,Oklahoma City Thunder,90,104,REG,351
+nba-201912100CHO,2020,,2019-12-10,Charlotte Hornets,Washington Wizards,114,107,REG,352
+nba-201912100MIA,2020,,2019-12-10,Miami Heat,Atlanta Hawks,135,121,REG,353
+nba-201912100PHI,2020,,2019-12-10,Philadelphia 76ers,Denver Nuggets,97,92,REG,354
+nba-201912100POR,2020,,2019-12-10,Portland Trail Blazers,New York Knicks,115,87,REG,355
+nba-201912110BRK,2020,,2019-12-11,Brooklyn Nets,Charlotte Hornets,108,113,REG,356
+nba-201912110CHI,2020,,2019-12-11,Chicago Bulls,Atlanta Hawks,136,102,REG,357
+nba-201912110CLE,2020,,2019-12-11,Cleveland Cavaliers,Houston Rockets,110,116,REG,358
+nba-201912110GSW,2020,,2019-12-11,Golden State Warriors,New York Knicks,122,124,REG,359
+nba-201912110IND,2020,,2019-12-11,Indiana Pacers,Boston Celtics,122,117,REG,360
+nba-201912110MIL,2020,,2019-12-11,Milwaukee Bucks,New Orleans Pelicans,127,112,REG,361
+nba-201912110MIN,2020,,2019-12-11,Minnesota Timberwolves,Utah Jazz,116,127,REG,362
+nba-201912110ORL,2020,,2019-12-11,Orlando Magic,Los Angeles Lakers,87,96,REG,363
+nba-201912110PHO,2020,,2019-12-11,Phoenix Suns,Memphis Grizzlies,108,115,REG,364
+nba-201912110SAC,2020,,2019-12-11,Sacramento Kings,Oklahoma City Thunder,94,93,REG,365
+nba-201912110TOR,2020,,2019-12-11,Toronto Raptors,Los Angeles Clippers,92,112,REG,366
+nba-201912120BOS,2020,,2019-12-12,Boston Celtics,Philadelphia 76ers,109,115,REG,367
+nba-201912120DEN,2020,,2019-12-12,Denver Nuggets,Portland Trail Blazers,114,99,REG,368
+nba-201912120DET,2020,,2019-12-12,Detroit Pistons,Dallas Mavericks,111,122,REG,369
+nba-201912120SAS,2020,,2019-12-12,San Antonio Spurs,Cleveland Cavaliers,109,117,REG,370
+nba-201912130ATL,2020,,2019-12-13,Atlanta Hawks,Indiana Pacers,100,110,REG,371
+nba-201912130CHI,2020,,2019-12-13,Chicago Bulls,Charlotte Hornets,73,83,REG,372
+nba-201912130MEM,2020,,2019-12-13,Memphis Grizzlies,Milwaukee Bucks,114,127,REG,373
+nba-201912130MIA,2020,,2019-12-13,Miami Heat,Los Angeles Lakers,110,113,REG,374
+nba-201912130MIN,2020,,2019-12-13,Minnesota Timberwolves,Los Angeles Clippers,117,124,REG,375
+nba-201912130ORL,2020,,2019-12-13,Orlando Magic,Houston Rockets,107,130,REG,376
+nba-201912130PHI,2020,,2019-12-13,Philadelphia 76ers,New Orleans Pelicans,116,109,REG,377
+nba-201912130SAC,2020,,2019-12-13,Sacramento Kings,New York Knicks,101,103,REG,378
+nba-201912130UTA,2020,,2019-12-13,Utah Jazz,Golden State Warriors,114,106,REG,379
+nba-201912140CHI,2020,,2019-12-14,Chicago Bulls,Los Angeles Clippers,109,106,REG,380
+nba-201912140DAL,2020,,2019-12-14,Dallas Mavericks,Miami Heat,118,122,REG,381
+nba-201912140DEN,2020,,2019-12-14,Denver Nuggets,Oklahoma City Thunder,110,102,REG,382
+nba-201912140HOU,2020,,2019-12-14,Houston Rockets,Detroit Pistons,107,115,REG,383
+nba-201912140MEM,2020,,2019-12-14,Memphis Grizzlies,Washington Wizards,128,111,REG,384
+nba-201912140MIL,2020,,2019-12-14,Milwaukee Bucks,Cleveland Cavaliers,125,108,REG,385
+nba-201912140PHO,2020,,2019-12-14,Phoenix Suns,San Antonio Spurs,119,121,REG,386
+nba-201912140TOR,2020,,2019-12-14,Toronto Raptors,Brooklyn Nets,110,102,REG,387
+nba-201912150ATL,2020,,2019-12-15,Atlanta Hawks,Los Angeles Lakers,96,101,REG,388
+nba-201912150BRK,2020,,2019-12-15,Brooklyn Nets,Philadelphia 76ers,109,89,REG,389
+nba-201912150DEN,2020,,2019-12-15,Denver Nuggets,New York Knicks,111,105,REG,390
+nba-201912150GSW,2020,,2019-12-15,Golden State Warriors,Sacramento Kings,79,100,REG,391
+nba-201912150IND,2020,,2019-12-15,Indiana Pacers,Charlotte Hornets,107,85,REG,392
+nba-201912150NOP,2020,,2019-12-15,New Orleans Pelicans,Orlando Magic,119,130,REG,393
+nba-201912160DET,2020,,2019-12-16,Detroit Pistons,Washington Wizards,119,133,REG,394
+nba-201912160HOU,2020,,2019-12-16,Houston Rockets,San Antonio Spurs,109,107,REG,395
+nba-201912160MEM,2020,,2019-12-16,Memphis Grizzlies,Miami Heat,118,111,REG,396
+nba-201912160MIL,2020,,2019-12-16,Milwaukee Bucks,Dallas Mavericks,116,120,REG,397
+nba-201912160OKC,2020,,2019-12-16,Oklahoma City Thunder,Chicago Bulls,109,106,REG,398
+nba-201912160PHO,2020,,2019-12-16,Phoenix Suns,Portland Trail Blazers,110,111,REG,399
+nba-201912160TOR,2020,,2019-12-16,Toronto Raptors,Cleveland Cavaliers,133,113,REG,400
+nba-201912170CHO,2020,,2019-12-17,Charlotte Hornets,Sacramento Kings,110,102,REG,401
+nba-201912170IND,2020,,2019-12-17,Indiana Pacers,Los Angeles Lakers,105,102,REG,402
+nba-201912170LAC,2020,,2019-12-17,Los Angeles Clippers,Phoenix Suns,120,99,REG,403
+nba-201912170NOP,2020,,2019-12-17,New Orleans Pelicans,Brooklyn Nets,101,108,REG,404
+nba-201912170NYK,2020,,2019-12-17,New York Knicks,Atlanta Hawks,143,120,REG,405
+nba-201912170UTA,2020,,2019-12-17,Utah Jazz,Orlando Magic,109,102,REG,406
+nba-201912180CLE,2020,,2019-12-18,Cleveland Cavaliers,Charlotte Hornets,100,98,REG,407
+nba-201912180DAL,2020,,2019-12-18,Dallas Mavericks,Boston Celtics,103,109,REG,408
+nba-201912180DEN,2020,,2019-12-18,Denver Nuggets,Orlando Magic,113,104,REG,409
+nba-201912180DET,2020,,2019-12-18,Detroit Pistons,Toronto Raptors,99,112,REG,410
+nba-201912180MIN,2020,,2019-12-18,Minnesota Timberwolves,New Orleans Pelicans,99,107,REG,411
+nba-201912180OKC,2020,,2019-12-18,Oklahoma City Thunder,Memphis Grizzlies,126,122,REG,412
+nba-201912180PHI,2020,,2019-12-18,Philadelphia 76ers,Miami Heat,104,108,REG,413
+nba-201912180POR,2020,,2019-12-18,Portland Trail Blazers,Golden State Warriors,122,112,REG,414
+nba-201912180WAS,2020,,2019-12-18,Washington Wizards,Chicago Bulls,109,110,REG,415
+nba-201912190ATL,2020,,2019-12-19,Atlanta Hawks,Utah Jazz,106,111,REG,416
+nba-201912190LAC,2020,,2019-12-19,Los Angeles Clippers,Houston Rockets,117,122,REG,417
+nba-201912190MIL,2020,,2019-12-19,Milwaukee Bucks,Los Angeles Lakers,111,104,REG,418
+nba-201912190SAS,2020,,2019-12-19,San Antonio Spurs,Brooklyn Nets,118,105,REG,419
+nba-201912200BOS,2020,,2019-12-20,Boston Celtics,Detroit Pistons,114,93,REG,420
+nba-201912200CLE,2020,,2019-12-20,Cleveland Cavaliers,Memphis Grizzlies,114,107,REG,421
+nba-201912200DEN,2020,,2019-12-20,Denver Nuggets,Minnesota Timberwolves,109,100,REG,422
+nba-201912200GSW,2020,,2019-12-20,Golden State Warriors,New Orleans Pelicans,106,102,REG,423
+nba-201912200IND,2020,,2019-12-20,Indiana Pacers,Sacramento Kings,119,105,REG,424
+nba-201912200MIA,2020,,2019-12-20,Miami Heat,New York Knicks,129,114,REG,425
+nba-201912200OKC,2020,,2019-12-20,Oklahoma City Thunder,Phoenix Suns,126,108,REG,426
+nba-201912200PHI,2020,,2019-12-20,Philadelphia 76ers,Dallas Mavericks,98,117,REG,427
+nba-201912200POR,2020,,2019-12-20,Portland Trail Blazers,Orlando Magic,118,103,REG,428
+nba-201912200TOR,2020,,2019-12-20,Toronto Raptors,Washington Wizards,122,118,REG,429
+nba-201912210BRK,2020,,2019-12-21,Brooklyn Nets,Atlanta Hawks,122,112,REG,430
+nba-201912210CHO,2020,,2019-12-21,Charlotte Hornets,Utah Jazz,107,114,REG,431
+nba-201912210DET,2020,,2019-12-21,Detroit Pistons,Chicago Bulls,107,119,REG,432
+nba-201912210MEM,2020,,2019-12-21,Memphis Grizzlies,Sacramento Kings,119,115,REG,433
+nba-201912210NYK,2020,,2019-12-21,New York Knicks,Milwaukee Bucks,102,123,REG,434
+nba-201912210PHI,2020,,2019-12-21,Philadelphia 76ers,Washington Wizards,125,108,REG,435
+nba-201912210PHO,2020,,2019-12-21,Phoenix Suns,Houston Rockets,125,139,REG,436
+nba-201912210POR,2020,,2019-12-21,Portland Trail Blazers,Minnesota Timberwolves,113,106,REG,437
+nba-201912210SAS,2020,,2019-12-21,San Antonio Spurs,Los Angeles Clippers,109,134,REG,438
+nba-201912220BOS,2020,,2019-12-22,Boston Celtics,Charlotte Hornets,119,93,REG,439
+nba-201912220LAL,2020,,2019-12-22,Los Angeles Lakers,Denver Nuggets,104,128,REG,440
+nba-201912220MIL,2020,,2019-12-22,Milwaukee Bucks,Indiana Pacers,117,89,REG,441
+nba-201912220OKC,2020,,2019-12-22,Oklahoma City Thunder,Los Angeles Clippers,118,112,REG,442
+nba-201912220TOR,2020,,2019-12-22,Toronto Raptors,Dallas Mavericks,110,107,REG,443
+nba-201912230CLE,2020,,2019-12-23,Cleveland Cavaliers,Atlanta Hawks,121,118,REG,444
+nba-201912230DET,2020,,2019-12-23,Detroit Pistons,Philadelphia 76ers,109,125,REG,445
+nba-201912230GSW,2020,,2019-12-23,Golden State Warriors,Minnesota Timberwolves,113,104,REG,446
+nba-201912230IND,2020,,2019-12-23,Indiana Pacers,Toronto Raptors,120,115,REG,447
+nba-201912230MEM,2020,,2019-12-23,Memphis Grizzlies,San Antonio Spurs,115,145,REG,448
+nba-201912230MIA,2020,,2019-12-23,Miami Heat,Utah Jazz,107,104,REG,449
+nba-201912230NYK,2020,,2019-12-23,New York Knicks,Washington Wizards,115,121,REG,450
+nba-201912230ORL,2020,,2019-12-23,Orlando Magic,Chicago Bulls,103,95,REG,451
+nba-201912230PHO,2020,,2019-12-23,Phoenix Suns,Denver Nuggets,111,113,REG,452
+nba-201912230POR,2020,,2019-12-23,Portland Trail Blazers,New Orleans Pelicans,94,102,REG,453
+nba-201912230SAC,2020,,2019-12-23,Sacramento Kings,Houston Rockets,104,113,REG,454
+nba-201912250DEN,2020,,2019-12-25,Denver Nuggets,New Orleans Pelicans,100,112,REG,455
+nba-201912250GSW,2020,,2019-12-25,Golden State Warriors,Houston Rockets,116,104,REG,456
+nba-201912250LAL,2020,,2019-12-25,Los Angeles Lakers,Los Angeles Clippers,106,111,REG,457
+nba-201912250PHI,2020,,2019-12-25,Philadelphia 76ers,Milwaukee Bucks,121,109,REG,458
+nba-201912250TOR,2020,,2019-12-25,Toronto Raptors,Boston Celtics,102,118,REG,459
+nba-201912260BRK,2020,,2019-12-26,Brooklyn Nets,New York Knicks,82,94,REG,460
+nba-201912260DAL,2020,,2019-12-26,Dallas Mavericks,San Antonio Spurs,102,98,REG,461
+nba-201912260DET,2020,,2019-12-26,Detroit Pistons,Washington Wizards,132,102,REG,462
+nba-201912260OKC,2020,,2019-12-26,Oklahoma City Thunder,Memphis Grizzlies,97,110,REG,463
+nba-201912260SAC,2020,,2019-12-26,Sacramento Kings,Minnesota Timberwolves,104,105,REG,464
+nba-201912260UTA,2020,,2019-12-26,Utah Jazz,Portland Trail Blazers,121,115,REG,465
+nba-201912270ATL,2020,,2019-12-27,Atlanta Hawks,Milwaukee Bucks,86,112,REG,466
+nba-201912270BOS,2020,,2019-12-27,Boston Celtics,Cleveland Cavaliers,129,117,REG,467
+nba-201912270CHO,2020,,2019-12-27,Charlotte Hornets,Oklahoma City Thunder,102,104,REG,468
+nba-201912270GSW,2020,,2019-12-27,Golden State Warriors,Phoenix Suns,105,96,REG,469
+nba-201912270MIA,2020,,2019-12-27,Miami Heat,Indiana Pacers,113,112,REG,470
+nba-201912270ORL,2020,,2019-12-27,Orlando Magic,Philadelphia 76ers,98,97,REG,471
+nba-201912280BOS,2020,,2019-12-28,Boston Celtics,Toronto Raptors,97,113,REG,472
+nba-201912280CHI,2020,,2019-12-28,Chicago Bulls,Atlanta Hawks,116,81,REG,473
+nba-201912280DEN,2020,,2019-12-28,Denver Nuggets,Memphis Grizzlies,119,110,REG,474
+nba-201912280GSW,2020,,2019-12-28,Golden State Warriors,Dallas Mavericks,121,141,REG,475
+nba-201912280HOU,2020,,2019-12-28,Houston Rockets,Brooklyn Nets,108,98,REG,476
+nba-201912280LAC,2020,,2019-12-28,Los Angeles Clippers,Utah Jazz,107,120,REG,477
+nba-201912280MIA,2020,,2019-12-28,Miami Heat,Philadelphia 76ers,117,116,REG,478
+nba-201912280MIL,2020,,2019-12-28,Milwaukee Bucks,Orlando Magic,111,100,REG,479
+nba-201912280MIN,2020,,2019-12-28,Minnesota Timberwolves,Cleveland Cavaliers,88,94,REG,480
+nba-201912280NOP,2020,,2019-12-28,New Orleans Pelicans,Indiana Pacers,120,98,REG,481
+nba-201912280POR,2020,,2019-12-28,Portland Trail Blazers,Los Angeles Lakers,120,128,REG,482
+nba-201912280SAC,2020,,2019-12-28,Sacramento Kings,Phoenix Suns,110,112,REG,483
+nba-201912280SAS,2020,,2019-12-28,San Antonio Spurs,Detroit Pistons,136,109,REG,484
+nba-201912280WAS,2020,,2019-12-28,Washington Wizards,New York Knicks,100,107,REG,485
+nba-201912290DEN,2020,,2019-12-29,Denver Nuggets,Sacramento Kings,120,115,REG,486
+nba-201912290LAL,2020,,2019-12-29,Los Angeles Lakers,Dallas Mavericks,108,95,REG,487
+nba-201912290MEM,2020,,2019-12-29,Memphis Grizzlies,Charlotte Hornets,117,104,REG,488
+nba-201912290NOP,2020,,2019-12-29,New Orleans Pelicans,Houston Rockets,127,112,REG,489
+nba-201912290TOR,2020,,2019-12-29,Toronto Raptors,Oklahoma City Thunder,97,98,REG,490
+nba-201912300CHI,2020,,2019-12-30,Chicago Bulls,Milwaukee Bucks,102,123,REG,491
+nba-201912300MIN,2020,,2019-12-30,Minnesota Timberwolves,Brooklyn Nets,122,115,REG,492
+nba-201912300ORL,2020,,2019-12-30,Orlando Magic,Atlanta Hawks,93,101,REG,493
+nba-201912300POR,2020,,2019-12-30,Portland Trail Blazers,Phoenix Suns,116,122,REG,494
+nba-201912300UTA,2020,,2019-12-30,Utah Jazz,Detroit Pistons,104,81,REG,495
+nba-201912300WAS,2020,,2019-12-30,Washington Wizards,Miami Heat,123,105,REG,496
+nba-201912310CHO,2020,,2019-12-31,Charlotte Hornets,Boston Celtics,92,109,REG,497
+nba-201912310HOU,2020,,2019-12-31,Houston Rockets,Denver Nuggets,130,104,REG,498
+nba-201912310IND,2020,,2019-12-31,Indiana Pacers,Philadelphia 76ers,115,97,REG,499
+nba-201912310OKC,2020,,2019-12-31,Oklahoma City Thunder,Dallas Mavericks,106,101,REG,500
+nba-201912310SAC,2020,,2019-12-31,Sacramento Kings,Los Angeles Clippers,87,105,REG,501
+nba-201912310SAS,2020,,2019-12-31,San Antonio Spurs,Golden State Warriors,117,113,REG,502
+nba-201912310TOR,2020,,2019-12-31,Toronto Raptors,Cleveland Cavaliers,117,97,REG,503
+nba-202001010LAL,2020,,2020-01-01,Los Angeles Lakers,Phoenix Suns,117,107,REG,504
+nba-202001010MIL,2020,,2020-01-01,Milwaukee Bucks,Minnesota Timberwolves,106,104,REG,505
+nba-202001010NYK,2020,,2020-01-01,New York Knicks,Portland Trail Blazers,117,93,REG,506
+nba-202001010WAS,2020,,2020-01-01,Washington Wizards,Orlando Magic,101,122,REG,507
+nba-202001020CHI,2020,,2020-01-02,Chicago Bulls,Utah Jazz,98,102,REG,508
+nba-202001020CLE,2020,,2020-01-02,Cleveland Cavaliers,Charlotte Hornets,106,109,REG,509
+nba-202001020DAL,2020,,2020-01-02,Dallas Mavericks,Brooklyn Nets,123,111,REG,510
+nba-202001020IND,2020,,2020-01-02,Indiana Pacers,Denver Nuggets,116,124,REG,511
+nba-202001020LAC,2020,,2020-01-02,Los Angeles Clippers,Detroit Pistons,126,112,REG,512
+nba-202001020MIA,2020,,2020-01-02,Miami Heat,Toronto Raptors,84,76,REG,513
+nba-202001020MIN,2020,,2020-01-02,Minnesota Timberwolves,Golden State Warriors,99,84,REG,514
+nba-202001020SAC,2020,,2020-01-02,Sacramento Kings,Memphis Grizzlies,128,123,REG,515
+nba-202001020SAS,2020,,2020-01-02,San Antonio Spurs,Oklahoma City Thunder,103,109,REG,516
+nba-202001030BOS,2020,,2020-01-03,Boston Celtics,Atlanta Hawks,109,106,REG,517
+nba-202001030HOU,2020,,2020-01-03,Houston Rockets,Philadelphia 76ers,118,108,REG,518
+nba-202001030LAL,2020,,2020-01-03,Los Angeles Lakers,New Orleans Pelicans,123,113,REG,519
+nba-202001030ORL,2020,,2020-01-03,Orlando Magic,Miami Heat,105,85,REG,520
+nba-202001030PHO,2020,,2020-01-03,Phoenix Suns,New York Knicks,120,112,REG,521
+nba-202001030WAS,2020,,2020-01-03,Washington Wizards,Portland Trail Blazers,103,122,REG,522
+nba-202001040ATL,2020,,2020-01-04,Atlanta Hawks,Indiana Pacers,116,111,REG,523
+nba-202001040BRK,2020,,2020-01-04,Brooklyn Nets,Toronto Raptors,102,121,REG,524
+nba-202001040CHI,2020,,2020-01-04,Chicago Bulls,Boston Celtics,104,111,REG,525
+nba-202001040CLE,2020,,2020-01-04,Cleveland Cavaliers,Oklahoma City Thunder,106,121,REG,526
+nba-202001040DAL,2020,,2020-01-04,Dallas Mavericks,Charlotte Hornets,120,123,REG,527
+nba-202001040GSW,2020,,2020-01-04,Golden State Warriors,Detroit Pistons,104,111,REG,528
+nba-202001040LAC,2020,,2020-01-04,Los Angeles Clippers,Memphis Grizzlies,114,140,REG,529
+nba-202001040MIL,2020,,2020-01-04,Milwaukee Bucks,San Antonio Spurs,127,118,REG,530
+nba-202001040ORL,2020,,2020-01-04,Orlando Magic,Utah Jazz,96,109,REG,531
+nba-202001040SAC,2020,,2020-01-04,Sacramento Kings,New Orleans Pelicans,115,117,REG,532
+nba-202001040WAS,2020,,2020-01-04,Washington Wizards,Denver Nuggets,128,114,REG,533
+nba-202001050CLE,2020,,2020-01-05,Cleveland Cavaliers,Minnesota Timberwolves,103,118,REG,534
+nba-202001050LAC,2020,,2020-01-05,Los Angeles Clippers,New York Knicks,135,132,REG,535
+nba-202001050LAL,2020,,2020-01-05,Los Angeles Lakers,Detroit Pistons,106,99,REG,536
+nba-202001050MIA,2020,,2020-01-05,Miami Heat,Portland Trail Blazers,122,111,REG,537
+nba-202001050PHO,2020,,2020-01-05,Phoenix Suns,Memphis Grizzlies,114,121,REG,538
+nba-202001060ATL,2020,,2020-01-06,Atlanta Hawks,Denver Nuggets,115,123,REG,539
+nba-202001060CHO,2020,,2020-01-06,Charlotte Hornets,Indiana Pacers,104,115,REG,540
+nba-202001060DAL,2020,,2020-01-06,Dallas Mavericks,Chicago Bulls,118,110,REG,541
+nba-202001060NOP,2020,,2020-01-06,New Orleans Pelicans,Utah Jazz,126,128,REG,542
+nba-202001060ORL,2020,,2020-01-06,Orlando Magic,Brooklyn Nets,101,89,REG,543
+nba-202001060PHI,2020,,2020-01-06,Philadelphia 76ers,Oklahoma City Thunder,120,113,REG,544
+nba-202001060SAC,2020,,2020-01-06,Sacramento Kings,Golden State Warriors,111,98,REG,545
+nba-202001060SAS,2020,,2020-01-06,San Antonio Spurs,Milwaukee Bucks,126,104,REG,546
+nba-202001060WAS,2020,,2020-01-06,Washington Wizards,Boston Celtics,99,94,REG,547
+nba-202001070BRK,2020,,2020-01-07,Brooklyn Nets,Oklahoma City Thunder,103,111,REG,548
+nba-202001070CLE,2020,,2020-01-07,Cleveland Cavaliers,Detroit Pistons,113,115,REG,549
+nba-202001070LAL,2020,,2020-01-07,Los Angeles Lakers,New York Knicks,117,87,REG,550
+nba-202001070MEM,2020,,2020-01-07,Memphis Grizzlies,Minnesota Timberwolves,119,112,REG,551
+nba-202001070PHO,2020,,2020-01-07,Phoenix Suns,Sacramento Kings,103,114,REG,552
+nba-202001070TOR,2020,,2020-01-07,Toronto Raptors,Portland Trail Blazers,99,101,REG,553
+nba-202001080ATL,2020,,2020-01-08,Atlanta Hawks,Houston Rockets,115,122,REG,554
+nba-202001080BOS,2020,,2020-01-08,Boston Celtics,San Antonio Spurs,114,129,REG,555
+nba-202001080CHO,2020,,2020-01-08,Charlotte Hornets,Toronto Raptors,110,112,REG,556
+nba-202001080DAL,2020,,2020-01-08,Dallas Mavericks,Denver Nuggets,106,107,REG,557
+nba-202001080GSW,2020,,2020-01-08,Golden State Warriors,Milwaukee Bucks,98,107,REG,558
+nba-202001080IND,2020,,2020-01-08,Indiana Pacers,Miami Heat,108,122,REG,559
+nba-202001080NOP,2020,,2020-01-08,New Orleans Pelicans,Chicago Bulls,123,108,REG,560
+nba-202001080ORL,2020,,2020-01-08,Orlando Magic,Washington Wizards,123,89,REG,561
+nba-202001080UTA,2020,,2020-01-08,Utah Jazz,New York Knicks,128,104,REG,562
+nba-202001090DET,2020,,2020-01-09,Detroit Pistons,Cleveland Cavaliers,112,115,REG,563
+nba-202001090MIN,2020,,2020-01-09,Minnesota Timberwolves,Portland Trail Blazers,116,102,REG,564
+nba-202001090OKC,2020,,2020-01-09,Oklahoma City Thunder,Houston Rockets,113,92,REG,565
+nba-202001090PHI,2020,,2020-01-09,Philadelphia 76ers,Boston Celtics,109,98,REG,566
+nba-202001100BRK,2020,,2020-01-10,Brooklyn Nets,Miami Heat,117,113,REG,567
+nba-202001100CHI,2020,,2020-01-10,Chicago Bulls,Indiana Pacers,105,116,REG,568
+nba-202001100DAL,2020,,2020-01-10,Dallas Mavericks,Los Angeles Lakers,114,129,REG,569
+nba-202001100LAC,2020,,2020-01-10,Los Angeles Clippers,Golden State Warriors,109,100,REG,570
+nba-202001100MEM,2020,,2020-01-10,Memphis Grizzlies,San Antonio Spurs,134,121,REG,571
+nba-202001100NYK,2020,,2020-01-10,New York Knicks,New Orleans Pelicans,111,123,REG,572
+nba-202001100PHO,2020,,2020-01-10,Phoenix Suns,Orlando Magic,98,94,REG,573
+nba-202001100SAC,2020,,2020-01-10,Sacramento Kings,Milwaukee Bucks,106,127,REG,574
+nba-202001100UTA,2020,,2020-01-10,Utah Jazz,Charlotte Hornets,109,92,REG,575
+nba-202001100WAS,2020,,2020-01-10,Washington Wizards,Atlanta Hawks,111,101,REG,576
+nba-202001110BOS,2020,,2020-01-11,Boston Celtics,New Orleans Pelicans,140,105,REG,577
+nba-202001110DAL,2020,,2020-01-11,Dallas Mavericks,Philadelphia 76ers,109,91,REG,578
+nba-202001110DEN,2020,,2020-01-11,Denver Nuggets,Cleveland Cavaliers,103,111,REG,579
+nba-202001110DET,2020,,2020-01-11,Detroit Pistons,Chicago Bulls,99,108,REG,580
+nba-202001110HOU,2020,,2020-01-11,Houston Rockets,Minnesota Timberwolves,139,109,REG,581
+nba-202001110OKC,2020,,2020-01-11,Oklahoma City Thunder,Los Angeles Lakers,110,125,REG,582
+nba-202001110POR,2020,,2020-01-11,Portland Trail Blazers,Milwaukee Bucks,101,122,REG,583
+nba-202001120BRK,2020,,2020-01-12,Brooklyn Nets,Atlanta Hawks,108,86,REG,584
+nba-202001120DEN,2020,,2020-01-12,Denver Nuggets,Los Angeles Clippers,114,104,REG,585
+nba-202001120MEM,2020,,2020-01-12,Memphis Grizzlies,Golden State Warriors,122,102,REG,586
+nba-202001120NYK,2020,,2020-01-12,New York Knicks,Miami Heat,124,121,REG,587
+nba-202001120PHO,2020,,2020-01-12,Phoenix Suns,Charlotte Hornets,100,92,REG,588
+nba-202001120TOR,2020,,2020-01-12,Toronto Raptors,San Antonio Spurs,104,105,REG,589
+nba-202001120WAS,2020,,2020-01-12,Washington Wizards,Utah Jazz,116,127,REG,590
+nba-202001130BOS,2020,,2020-01-13,Boston Celtics,Chicago Bulls,113,101,REG,591
+nba-202001130DET,2020,,2020-01-13,Detroit Pistons,New Orleans Pelicans,110,117,REG,592
+nba-202001130IND,2020,,2020-01-13,Indiana Pacers,Philadelphia 76ers,101,95,REG,593
+nba-202001130LAL,2020,,2020-01-13,Los Angeles Lakers,Cleveland Cavaliers,128,99,REG,594
+nba-202001130MIN,2020,,2020-01-13,Minnesota Timberwolves,Oklahoma City Thunder,104,117,REG,595
+nba-202001130POR,2020,,2020-01-13,Portland Trail Blazers,Charlotte Hornets,115,112,REG,596
+nba-202001130SAC,2020,,2020-01-13,Sacramento Kings,Orlando Magic,112,114,REG,597
+nba-202001140ATL,2020,,2020-01-14,Atlanta Hawks,Phoenix Suns,123,110,REG,598
+nba-202001140BRK,2020,,2020-01-14,Brooklyn Nets,Utah Jazz,107,118,REG,599
+nba-202001140GSW,2020,,2020-01-14,Golden State Warriors,Dallas Mavericks,97,124,REG,600
+nba-202001140LAC,2020,,2020-01-14,Los Angeles Clippers,Cleveland Cavaliers,128,103,REG,601
+nba-202001140MEM,2020,,2020-01-14,Memphis Grizzlies,Houston Rockets,121,110,REG,602
+nba-202001140MIL,2020,,2020-01-14,Milwaukee Bucks,New York Knicks,128,102,REG,603
+nba-202001150BOS,2020,,2020-01-15,Boston Celtics,Detroit Pistons,103,116,REG,604
+nba-202001150CHI,2020,,2020-01-15,Chicago Bulls,Washington Wizards,115,106,REG,605
+nba-202001150DEN,2020,,2020-01-15,Denver Nuggets,Charlotte Hornets,100,86,REG,606
+nba-202001150HOU,2020,,2020-01-15,Houston Rockets,Portland Trail Blazers,107,117,REG,607
+nba-202001150LAL,2020,,2020-01-15,Los Angeles Lakers,Orlando Magic,118,119,REG,608
+nba-202001150MIA,2020,,2020-01-15,Miami Heat,San Antonio Spurs,106,100,REG,609
+nba-202001150MIN,2020,,2020-01-15,Minnesota Timberwolves,Indiana Pacers,99,104,REG,610
+nba-202001150OKC,2020,,2020-01-15,Oklahoma City Thunder,Toronto Raptors,121,130,REG,611
+nba-202001150PHI,2020,,2020-01-15,Philadelphia 76ers,Brooklyn Nets,117,106,REG,612
+nba-202001150SAC,2020,,2020-01-15,Sacramento Kings,Dallas Mavericks,123,127,REG,613
+nba-202001160GSW,2020,,2020-01-16,Golden State Warriors,Denver Nuggets,131,134,REG,614
+nba-202001160LAC,2020,,2020-01-16,Los Angeles Clippers,Orlando Magic,122,95,REG,615
+nba-202001160MIL,2020,,2020-01-16,Milwaukee Bucks,Boston Celtics,128,123,REG,616
+nba-202001160NOP,2020,,2020-01-16,New Orleans Pelicans,Utah Jazz,138,132,REG,617
+nba-202001160NYK,2020,,2020-01-16,New York Knicks,Phoenix Suns,98,121,REG,618
+nba-202001170DAL,2020,,2020-01-17,Dallas Mavericks,Portland Trail Blazers,120,112,REG,619
+nba-202001170IND,2020,,2020-01-17,Indiana Pacers,Minnesota Timberwolves,116,114,REG,620
+nba-202001170MEM,2020,,2020-01-17,Memphis Grizzlies,Cleveland Cavaliers,113,109,REG,621
+nba-202001170OKC,2020,,2020-01-17,Oklahoma City Thunder,Miami Heat,108,115,REG,622
+nba-202001170PHI,2020,,2020-01-17,Philadelphia 76ers,Chicago Bulls,100,89,REG,623
+nba-202001170SAS,2020,,2020-01-17,San Antonio Spurs,Atlanta Hawks,120,121,REG,624
+nba-202001170TOR,2020,,2020-01-17,Toronto Raptors,Washington Wizards,140,111,REG,625
+nba-202001180ATL,2020,,2020-01-18,Atlanta Hawks,Detroit Pistons,103,136,REG,626
+nba-202001180BOS,2020,,2020-01-18,Boston Celtics,Phoenix Suns,119,123,REG,627
+nba-202001180BRK,2020,,2020-01-18,Brooklyn Nets,Milwaukee Bucks,97,117,REG,628
+nba-202001180CHI,2020,,2020-01-18,Chicago Bulls,Cleveland Cavaliers,118,116,REG,629
+nba-202001180GSW,2020,,2020-01-18,Golden State Warriors,Orlando Magic,109,95,REG,630
+nba-202001180HOU,2020,,2020-01-18,Houston Rockets,Los Angeles Lakers,115,124,REG,631
+nba-202001180MIN,2020,,2020-01-18,Minnesota Timberwolves,Toronto Raptors,112,122,REG,632
+nba-202001180NOP,2020,,2020-01-18,New Orleans Pelicans,Los Angeles Clippers,130,133,REG,633
+nba-202001180NYK,2020,,2020-01-18,New York Knicks,Philadelphia 76ers,87,90,REG,634
+nba-202001180OKC,2020,,2020-01-18,Oklahoma City Thunder,Portland Trail Blazers,119,106,REG,635
+nba-202001180UTA,2020,,2020-01-18,Utah Jazz,Sacramento Kings,123,101,REG,636
+nba-202001190DEN,2020,,2020-01-19,Denver Nuggets,Indiana Pacers,107,115,REG,637
+nba-202001190SAS,2020,,2020-01-19,San Antonio Spurs,Miami Heat,107,102,REG,638
+nba-202001200ATL,2020,,2020-01-20,Atlanta Hawks,Toronto Raptors,117,122,REG,639
+nba-202001200BOS,2020,,2020-01-20,Boston Celtics,Los Angeles Lakers,139,107,REG,640
+nba-202001200BRK,2020,,2020-01-20,Brooklyn Nets,Philadelphia 76ers,111,117,REG,641
+nba-202001200CHO,2020,,2020-01-20,Charlotte Hornets,Orlando Magic,83,106,REG,642
+nba-202001200CLE,2020,,2020-01-20,Cleveland Cavaliers,New York Knicks,86,106,REG,643
+nba-202001200HOU,2020,,2020-01-20,Houston Rockets,Oklahoma City Thunder,107,112,REG,644
+nba-202001200MEM,2020,,2020-01-20,Memphis Grizzlies,New Orleans Pelicans,116,126,REG,645
+nba-202001200MIA,2020,,2020-01-20,Miami Heat,Sacramento Kings,118,113,REG,646
+nba-202001200MIL,2020,,2020-01-20,Milwaukee Bucks,Chicago Bulls,111,98,REG,647
+nba-202001200MIN,2020,,2020-01-20,Minnesota Timberwolves,Denver Nuggets,100,107,REG,648
+nba-202001200PHO,2020,,2020-01-20,Phoenix Suns,San Antonio Spurs,118,120,REG,649
+nba-202001200POR,2020,,2020-01-20,Portland Trail Blazers,Golden State Warriors,129,124,REG,650
+nba-202001200UTA,2020,,2020-01-20,Utah Jazz,Indiana Pacers,118,88,REG,651
+nba-202001200WAS,2020,,2020-01-20,Washington Wizards,Detroit Pistons,106,100,REG,652
+nba-202001210DAL,2020,,2020-01-21,Dallas Mavericks,Los Angeles Clippers,107,110,REG,653
+nba-202001220ATL,2020,,2020-01-22,Atlanta Hawks,Los Angeles Clippers,102,95,REG,654
+nba-202001220BOS,2020,,2020-01-22,Boston Celtics,Memphis Grizzlies,119,95,REG,655
+nba-202001220CHI,2020,,2020-01-22,Chicago Bulls,Minnesota Timberwolves,117,110,REG,656
+nba-202001220DET,2020,,2020-01-22,Detroit Pistons,Sacramento Kings,127,106,REG,657
+nba-202001220GSW,2020,,2020-01-22,Golden State Warriors,Utah Jazz,96,129,REG,658
+nba-202001220HOU,2020,,2020-01-22,Houston Rockets,Denver Nuggets,121,105,REG,659
+nba-202001220MIA,2020,,2020-01-22,Miami Heat,Washington Wizards,134,129,REG,660
+nba-202001220NOP,2020,,2020-01-22,New Orleans Pelicans,San Antonio Spurs,117,121,REG,661
+nba-202001220NYK,2020,,2020-01-22,New York Knicks,Los Angeles Lakers,92,100,REG,662
+nba-202001220ORL,2020,,2020-01-22,Orlando Magic,Oklahoma City Thunder,114,120,REG,663
+nba-202001220PHO,2020,,2020-01-22,Phoenix Suns,Indiana Pacers,87,112,REG,664
+nba-202001220TOR,2020,,2020-01-22,Toronto Raptors,Philadelphia 76ers,107,95,REG,665
+nba-202001230BRK,2020,,2020-01-23,Brooklyn Nets,Los Angeles Lakers,113,128,REG,666
+nba-202001230CLE,2020,,2020-01-23,Cleveland Cavaliers,Washington Wizards,112,124,REG,667
+nba-202001230POR,2020,,2020-01-23,Portland Trail Blazers,Dallas Mavericks,125,133,REG,668
+nba-202001240CHO,2020,,2020-01-24,Charlotte Hornets,Milwaukee Bucks,103,116,REG,669
+nba-202001240CHI,2020,,2020-01-24,Chicago Bulls,Sacramento Kings,81,98,REG,670
+nba-202001240DET,2020,,2020-01-24,Detroit Pistons,Memphis Grizzlies,112,125,REG,671
+nba-202001240GSW,2020,,2020-01-24,Golden State Warriors,Indiana Pacers,118,129,REG,672
+nba-202001240MIA,2020,,2020-01-24,Miami Heat,Los Angeles Clippers,117,122,REG,673
+nba-202001240MIN,2020,,2020-01-24,Minnesota Timberwolves,Houston Rockets,124,131,REG,674
+nba-202001240NOP,2020,,2020-01-24,New Orleans Pelicans,Denver Nuggets,106,113,REG,675
+nba-202001240NYK,2020,,2020-01-24,New York Knicks,Toronto Raptors,112,118,REG,676
+nba-202001240OKC,2020,,2020-01-24,Oklahoma City Thunder,Atlanta Hawks,140,111,REG,677
+nba-202001240ORL,2020,,2020-01-24,Orlando Magic,Boston Celtics,98,109,REG,678
+nba-202001240SAS,2020,,2020-01-24,San Antonio Spurs,Phoenix Suns,99,103,REG,679
+nba-202001250CLE,2020,,2020-01-25,Cleveland Cavaliers,Chicago Bulls,106,118,REG,680
+nba-202001250DET,2020,,2020-01-25,Detroit Pistons,Brooklyn Nets,111,121,REG,681
+nba-202001250MIN,2020,,2020-01-25,Minnesota Timberwolves,Oklahoma City Thunder,104,113,REG,682
+nba-202001250PHI,2020,,2020-01-25,Philadelphia 76ers,Los Angeles Lakers,108,91,REG,683
+nba-202001250UTA,2020,,2020-01-25,Utah Jazz,Dallas Mavericks,112,107,REG,684
+nba-202001260ATL,2020,,2020-01-26,Atlanta Hawks,Washington Wizards,152,133,REG,685
+nba-202001260DEN,2020,,2020-01-26,Denver Nuggets,Houston Rockets,117,110,REG,686
+nba-202001260MEM,2020,,2020-01-26,Memphis Grizzlies,Phoenix Suns,114,109,REG,687
+nba-202001260NOP,2020,,2020-01-26,New Orleans Pelicans,Boston Celtics,123,108,REG,688
+nba-202001260NYK,2020,,2020-01-26,New York Knicks,Brooklyn Nets,110,97,REG,689
+nba-202001260ORL,2020,,2020-01-26,Orlando Magic,Los Angeles Clippers,97,112,REG,690
+nba-202001260POR,2020,,2020-01-26,Portland Trail Blazers,Indiana Pacers,139,129,REG,691
+nba-202001260SAS,2020,,2020-01-26,San Antonio Spurs,Toronto Raptors,106,110,REG,692
+nba-202001270CHI,2020,,2020-01-27,Chicago Bulls,San Antonio Spurs,110,109,REG,693
+nba-202001270DET,2020,,2020-01-27,Detroit Pistons,Cleveland Cavaliers,100,115,REG,694
+nba-202001270MIA,2020,,2020-01-27,Miami Heat,Orlando Magic,113,92,REG,695
+nba-202001270MIN,2020,,2020-01-27,Minnesota Timberwolves,Sacramento Kings,129,133,REG,696
+nba-202001270OKC,2020,,2020-01-27,Oklahoma City Thunder,Dallas Mavericks,97,107,REG,697
+nba-202001270UTA,2020,,2020-01-27,Utah Jazz,Houston Rockets,117,126,REG,698
+nba-202001280CHO,2020,,2020-01-28,Charlotte Hornets,New York Knicks,97,92,REG,699
+nba-202001280CLE,2020,,2020-01-28,Cleveland Cavaliers,New Orleans Pelicans,111,125,REG,700
+nba-202001280DAL,2020,,2020-01-28,Dallas Mavericks,Phoenix Suns,104,133,REG,701
+nba-202001280MEM,2020,,2020-01-28,Memphis Grizzlies,Denver Nuggets,104,96,REG,702
+nba-202001280MIA,2020,,2020-01-28,Miami Heat,Boston Celtics,101,109,REG,703
+nba-202001280MIL,2020,,2020-01-28,Milwaukee Bucks,Washington Wizards,151,131,REG,704
+nba-202001280PHI,2020,,2020-01-28,Philadelphia 76ers,Golden State Warriors,115,104,REG,705
+nba-202001280TOR,2020,,2020-01-28,Toronto Raptors,Atlanta Hawks,130,114,REG,706
+nba-202001290BRK,2020,,2020-01-29,Brooklyn Nets,Detroit Pistons,125,115,REG,707
+nba-202001290IND,2020,,2020-01-29,Indiana Pacers,Chicago Bulls,115,106,REG,708
+nba-202001290NYK,2020,,2020-01-29,New York Knicks,Memphis Grizzlies,106,127,REG,709
+nba-202001290POR,2020,,2020-01-29,Portland Trail Blazers,Houston Rockets,125,112,REG,710
+nba-202001290SAC,2020,,2020-01-29,Sacramento Kings,Oklahoma City Thunder,100,120,REG,711
+nba-202001290SAS,2020,,2020-01-29,San Antonio Spurs,Utah Jazz,127,120,REG,712
+nba-202001300ATL,2020,,2020-01-30,Atlanta Hawks,Philadelphia 76ers,127,117,REG,713
+nba-202001300BOS,2020,,2020-01-30,Boston Celtics,Golden State Warriors,119,104,REG,714
+nba-202001300CLE,2020,,2020-01-30,Cleveland Cavaliers,Toronto Raptors,109,115,REG,715
+nba-202001300DEN,2020,,2020-01-30,Denver Nuggets,Utah Jazz,106,100,REG,716
+nba-202001300LAC,2020,,2020-01-30,Los Angeles Clippers,Sacramento Kings,103,124,REG,717
+nba-202001300WAS,2020,,2020-01-30,Washington Wizards,Charlotte Hornets,121,107,REG,718
+nba-202001310BRK,2020,,2020-01-31,Brooklyn Nets,Chicago Bulls,133,118,REG,719
+nba-202001310DET,2020,,2020-01-31,Detroit Pistons,Toronto Raptors,92,105,REG,720
+nba-202001310HOU,2020,,2020-01-31,Houston Rockets,Dallas Mavericks,128,121,REG,721
+nba-202001310LAL,2020,,2020-01-31,Los Angeles Lakers,Portland Trail Blazers,119,127,REG,722
+nba-202001310MIL,2020,,2020-01-31,Milwaukee Bucks,Denver Nuggets,115,127,REG,723
+nba-202001310NOP,2020,,2020-01-31,New Orleans Pelicans,Memphis Grizzlies,139,111,REG,724
+nba-202001310PHO,2020,,2020-01-31,Phoenix Suns,Oklahoma City Thunder,107,111,REG,725
+nba-202002010BOS,2020,,2020-02-01,Boston Celtics,Philadelphia 76ers,116,95,REG,726
+nba-202002010CLE,2020,,2020-02-01,Cleveland Cavaliers,Golden State Warriors,112,131,REG,727
+nba-202002010DAL,2020,,2020-02-01,Dallas Mavericks,Atlanta Hawks,123,100,REG,728
+nba-202002010IND,2020,,2020-02-01,Indiana Pacers,New York Knicks,85,92,REG,729
+nba-202002010LAC,2020,,2020-02-01,Los Angeles Clippers,Minnesota Timberwolves,118,106,REG,730
+nba-202002010ORL,2020,,2020-02-01,Orlando Magic,Miami Heat,89,102,REG,731
+nba-202002010POR,2020,,2020-02-01,Portland Trail Blazers,Utah Jazz,124,107,REG,732
+nba-202002010SAC,2020,,2020-02-01,Sacramento Kings,Los Angeles Lakers,113,129,REG,733
+nba-202002010SAS,2020,,2020-02-01,San Antonio Spurs,Charlotte Hornets,114,90,REG,734
+nba-202002010WAS,2020,,2020-02-01,Washington Wizards,Brooklyn Nets,113,107,REG,735
+nba-202002020DET,2020,,2020-02-02,Detroit Pistons,Denver Nuggets,128,123,REG,736
+nba-202002020HOU,2020,,2020-02-02,Houston Rockets,New Orleans Pelicans,117,109,REG,737
+nba-202002020MIL,2020,,2020-02-02,Milwaukee Bucks,Phoenix Suns,129,108,REG,738
+nba-202002020TOR,2020,,2020-02-02,Toronto Raptors,Chicago Bulls,129,102,REG,739
+nba-202002030ATL,2020,,2020-02-03,Atlanta Hawks,Boston Celtics,115,123,REG,740
+nba-202002030BRK,2020,,2020-02-03,Brooklyn Nets,Phoenix Suns,119,97,REG,741
+nba-202002030CHO,2020,,2020-02-03,Charlotte Hornets,Orlando Magic,100,112,REG,742
+nba-202002030CLE,2020,,2020-02-03,Cleveland Cavaliers,New York Knicks,134,139,REG,743
+nba-202002030IND,2020,,2020-02-03,Indiana Pacers,Dallas Mavericks,103,112,REG,744
+nba-202002030LAC,2020,,2020-02-03,Los Angeles Clippers,San Antonio Spurs,108,105,REG,745
+nba-202002030MEM,2020,,2020-02-03,Memphis Grizzlies,Detroit Pistons,96,82,REG,746
+nba-202002030MIA,2020,,2020-02-03,Miami Heat,Philadelphia 76ers,137,106,REG,747
+nba-202002030SAC,2020,,2020-02-03,Sacramento Kings,Minnesota Timberwolves,113,109,REG,748
+nba-202002030WAS,2020,,2020-02-03,Washington Wizards,Golden State Warriors,117,125,REG,749
+nba-202002040DEN,2020,,2020-02-04,Denver Nuggets,Portland Trail Blazers,127,99,REG,750
+nba-202002040HOU,2020,,2020-02-04,Houston Rockets,Charlotte Hornets,125,110,REG,751
+nba-202002040LAL,2020,,2020-02-04,Los Angeles Lakers,San Antonio Spurs,129,102,REG,752
+nba-202002040NOP,2020,,2020-02-04,New Orleans Pelicans,Milwaukee Bucks,108,120,REG,753
+nba-202002050BOS,2020,,2020-02-05,Boston Celtics,Orlando Magic,116,100,REG,754
+nba-202002050BRK,2020,,2020-02-05,Brooklyn Nets,Golden State Warriors,129,88,REG,755
+nba-202002050DAL,2020,,2020-02-05,Dallas Mavericks,Memphis Grizzlies,107,121,REG,756
+nba-202002050DET,2020,,2020-02-05,Detroit Pistons,Phoenix Suns,116,108,REG,757
+nba-202002050LAC,2020,,2020-02-05,Los Angeles Clippers,Miami Heat,128,111,REG,758
+nba-202002050MIN,2020,,2020-02-05,Minnesota Timberwolves,Atlanta Hawks,120,127,REG,759
+nba-202002050OKC,2020,,2020-02-05,Oklahoma City Thunder,Cleveland Cavaliers,109,103,REG,760
+nba-202002050TOR,2020,,2020-02-05,Toronto Raptors,Indiana Pacers,119,118,REG,761
+nba-202002050UTA,2020,,2020-02-05,Utah Jazz,Denver Nuggets,95,98,REG,762
+nba-202002060CHI,2020,,2020-02-06,Chicago Bulls,New Orleans Pelicans,119,125,REG,763
+nba-202002060LAL,2020,,2020-02-06,Los Angeles Lakers,Houston Rockets,111,121,REG,764
+nba-202002060MIL,2020,,2020-02-06,Milwaukee Bucks,Philadelphia 76ers,112,101,REG,765
+nba-202002060NYK,2020,,2020-02-06,New York Knicks,Orlando Magic,105,103,REG,766
+nba-202002060POR,2020,,2020-02-06,Portland Trail Blazers,San Antonio Spurs,125,117,REG,767
+nba-202002070BOS,2020,,2020-02-07,Boston Celtics,Atlanta Hawks,112,107,REG,768
+nba-202002070IND,2020,,2020-02-07,Indiana Pacers,Toronto Raptors,106,115,REG,769
+nba-202002070OKC,2020,,2020-02-07,Oklahoma City Thunder,Detroit Pistons,108,101,REG,770
+nba-202002070PHI,2020,,2020-02-07,Philadelphia 76ers,Memphis Grizzlies,119,107,REG,771
+nba-202002070PHO,2020,,2020-02-07,Phoenix Suns,Houston Rockets,127,91,REG,772
+nba-202002070SAC,2020,,2020-02-07,Sacramento Kings,Miami Heat,105,97,REG,773
+nba-202002070UTA,2020,,2020-02-07,Utah Jazz,Portland Trail Blazers,117,114,REG,774
+nba-202002070WAS,2020,,2020-02-07,Washington Wizards,Dallas Mavericks,119,118,REG,775
+nba-202002080CHO,2020,,2020-02-08,Charlotte Hornets,Dallas Mavericks,100,116,REG,776
+nba-202002080DET,2020,,2020-02-08,Detroit Pistons,New York Knicks,92,95,REG,777
+nba-202002080GSW,2020,,2020-02-08,Golden State Warriors,Los Angeles Lakers,120,125,REG,778
+nba-202002080IND,2020,,2020-02-08,Indiana Pacers,New Orleans Pelicans,117,124,REG,779
+nba-202002080MIN,2020,,2020-02-08,Minnesota Timberwolves,Los Angeles Clippers,142,115,REG,780
+nba-202002080ORL,2020,,2020-02-08,Orlando Magic,Milwaukee Bucks,95,111,REG,781
+nba-202002080PHO,2020,,2020-02-08,Phoenix Suns,Denver Nuggets,108,117,REG,782
+nba-202002080SAC,2020,,2020-02-08,Sacramento Kings,San Antonio Spurs,122,102,REG,783
+nba-202002080TOR,2020,,2020-02-08,Toronto Raptors,Brooklyn Nets,119,118,REG,784
+nba-202002090ATL,2020,,2020-02-09,Atlanta Hawks,New York Knicks,140,135,REG,785
+nba-202002090CLE,2020,,2020-02-09,Cleveland Cavaliers,Los Angeles Clippers,92,133,REG,786
+nba-202002090HOU,2020,,2020-02-09,Houston Rockets,Utah Jazz,113,114,REG,787
+nba-202002090OKC,2020,,2020-02-09,Oklahoma City Thunder,Boston Celtics,111,112,REG,788
+nba-202002090PHI,2020,,2020-02-09,Philadelphia 76ers,Chicago Bulls,118,111,REG,789
+nba-202002090POR,2020,,2020-02-09,Portland Trail Blazers,Miami Heat,115,109,REG,790
+nba-202002090WAS,2020,,2020-02-09,Washington Wizards,Memphis Grizzlies,99,106,REG,791
+nba-202002100DAL,2020,,2020-02-10,Dallas Mavericks,Utah Jazz,119,123,REG,792
+nba-202002100DEN,2020,,2020-02-10,Denver Nuggets,San Antonio Spurs,127,120,REG,793
+nba-202002100DET,2020,,2020-02-10,Detroit Pistons,Charlotte Hornets,76,87,REG,794
+nba-202002100GSW,2020,,2020-02-10,Golden State Warriors,Miami Heat,101,113,REG,795
+nba-202002100IND,2020,,2020-02-10,Indiana Pacers,Brooklyn Nets,105,106,REG,796
+nba-202002100LAL,2020,,2020-02-10,Los Angeles Lakers,Phoenix Suns,125,100,REG,797
+nba-202002100MIL,2020,,2020-02-10,Milwaukee Bucks,Sacramento Kings,123,111,REG,798
+nba-202002100ORL,2020,,2020-02-10,Orlando Magic,Atlanta Hawks,135,126,REG,799
+nba-202002100TOR,2020,,2020-02-10,Toronto Raptors,Minnesota Timberwolves,137,126,REG,800
+nba-202002110HOU,2020,,2020-02-11,Houston Rockets,Boston Celtics,116,105,REG,801
+nba-202002110NOP,2020,,2020-02-11,New Orleans Pelicans,Portland Trail Blazers,138,117,REG,802
+nba-202002110OKC,2020,,2020-02-11,Oklahoma City Thunder,San Antonio Spurs,106,114,REG,803
+nba-202002110PHI,2020,,2020-02-11,Philadelphia 76ers,Los Angeles Clippers,110,103,REG,804
+nba-202002110WAS,2020,,2020-02-11,Washington Wizards,Chicago Bulls,126,114,REG,805
+nba-202002120BRK,2020,,2020-02-12,Brooklyn Nets,Toronto Raptors,101,91,REG,806
+nba-202002120CLE,2020,,2020-02-12,Cleveland Cavaliers,Atlanta Hawks,127,105,REG,807
+nba-202002120DAL,2020,,2020-02-12,Dallas Mavericks,Sacramento Kings,130,111,REG,808
+nba-202002120DEN,2020,,2020-02-12,Denver Nuggets,Los Angeles Lakers,116,120,REG,809
+nba-202002120IND,2020,,2020-02-12,Indiana Pacers,Milwaukee Bucks,118,111,REG,810
+nba-202002120MEM,2020,,2020-02-12,Memphis Grizzlies,Portland Trail Blazers,111,104,REG,811
+nba-202002120MIN,2020,,2020-02-12,Minnesota Timberwolves,Charlotte Hornets,108,115,REG,812
+nba-202002120NYK,2020,,2020-02-12,New York Knicks,Washington Wizards,96,114,REG,813
+nba-202002120ORL,2020,,2020-02-12,Orlando Magic,Detroit Pistons,116,112,REG,814
+nba-202002120PHO,2020,,2020-02-12,Phoenix Suns,Golden State Warriors,112,106,REG,815
+nba-202002120UTA,2020,,2020-02-12,Utah Jazz,Miami Heat,116,101,REG,816
+nba-202002130BOS,2020,,2020-02-13,Boston Celtics,Los Angeles Clippers,141,133,REG,817
+nba-202002130NOP,2020,,2020-02-13,New Orleans Pelicans,Oklahoma City Thunder,118,123,REG,818
+nba-202002200ATL,2020,,2020-02-20,Atlanta Hawks,Miami Heat,129,124,REG,819
+nba-202002200CHI,2020,,2020-02-20,Chicago Bulls,Charlotte Hornets,93,103,REG,820
+nba-202002200DET,2020,,2020-02-20,Detroit Pistons,Milwaukee Bucks,106,126,REG,821
+nba-202002200GSW,2020,,2020-02-20,Golden State Warriors,Houston Rockets,105,135,REG,822
+nba-202002200PHI,2020,,2020-02-20,Philadelphia 76ers,Brooklyn Nets,112,104,REG,823
+nba-202002200SAC,2020,,2020-02-20,Sacramento Kings,Memphis Grizzlies,129,125,REG,824
+nba-202002210LAL,2020,,2020-02-21,Los Angeles Lakers,Memphis Grizzlies,117,105,REG,825
+nba-202002210MIN,2020,,2020-02-21,Minnesota Timberwolves,Boston Celtics,117,127,REG,826
+nba-202002210NYK,2020,,2020-02-21,New York Knicks,Indiana Pacers,98,106,REG,827
+nba-202002210OKC,2020,,2020-02-21,Oklahoma City Thunder,Denver Nuggets,113,101,REG,828
+nba-202002210ORL,2020,,2020-02-21,Orlando Magic,Dallas Mavericks,106,122,REG,829
+nba-202002210POR,2020,,2020-02-21,Portland Trail Blazers,New Orleans Pelicans,115,128,REG,830
+nba-202002210TOR,2020,,2020-02-21,Toronto Raptors,Phoenix Suns,118,101,REG,831
+nba-202002210UTA,2020,,2020-02-21,Utah Jazz,San Antonio Spurs,104,113,REG,832
+nba-202002210WAS,2020,,2020-02-21,Washington Wizards,Cleveland Cavaliers,108,113,REG,833
+nba-202002220ATL,2020,,2020-02-22,Atlanta Hawks,Dallas Mavericks,111,107,REG,834
+nba-202002220CHO,2020,,2020-02-22,Charlotte Hornets,Brooklyn Nets,86,115,REG,835
+nba-202002220CHI,2020,,2020-02-22,Chicago Bulls,Phoenix Suns,104,112,REG,836
+nba-202002220LAC,2020,,2020-02-22,Los Angeles Clippers,Sacramento Kings,103,112,REG,837
+nba-202002220MIA,2020,,2020-02-22,Miami Heat,Cleveland Cavaliers,124,105,REG,838
+nba-202002220MIL,2020,,2020-02-22,Milwaukee Bucks,Philadelphia 76ers,119,98,REG,839
+nba-202002220UTA,2020,,2020-02-22,Utah Jazz,Houston Rockets,110,120,REG,840
+nba-202002230CHI,2020,,2020-02-23,Chicago Bulls,Washington Wizards,126,117,REG,841
+nba-202002230DEN,2020,,2020-02-23,Denver Nuggets,Minnesota Timberwolves,128,116,REG,842
+nba-202002230GSW,2020,,2020-02-23,Golden State Warriors,New Orleans Pelicans,101,115,REG,843
+nba-202002230LAL,2020,,2020-02-23,Los Angeles Lakers,Boston Celtics,114,112,REG,844
+nba-202002230OKC,2020,,2020-02-23,Oklahoma City Thunder,San Antonio Spurs,131,103,REG,845
+nba-202002230POR,2020,,2020-02-23,Portland Trail Blazers,Detroit Pistons,107,104,REG,846
+nba-202002230TOR,2020,,2020-02-23,Toronto Raptors,Indiana Pacers,127,81,REG,847
+nba-202002240BRK,2020,,2020-02-24,Brooklyn Nets,Orlando Magic,113,115,REG,848
+nba-202002240CLE,2020,,2020-02-24,Cleveland Cavaliers,Miami Heat,125,119,REG,849
+nba-202002240DAL,2020,,2020-02-24,Dallas Mavericks,Minnesota Timberwolves,139,123,REG,850
+nba-202002240HOU,2020,,2020-02-24,Houston Rockets,New York Knicks,123,112,REG,851
+nba-202002240LAC,2020,,2020-02-24,Los Angeles Clippers,Memphis Grizzlies,124,97,REG,852
+nba-202002240PHI,2020,,2020-02-24,Philadelphia 76ers,Atlanta Hawks,129,112,REG,853
+nba-202002240UTA,2020,,2020-02-24,Utah Jazz,Phoenix Suns,111,131,REG,854
+nba-202002240WAS,2020,,2020-02-24,Washington Wizards,Milwaukee Bucks,134,137,REG,855
+nba-202002250CHI,2020,,2020-02-25,Chicago Bulls,Oklahoma City Thunder,122,124,REG,856
+nba-202002250DEN,2020,,2020-02-25,Denver Nuggets,Detroit Pistons,115,98,REG,857
+nba-202002250GSW,2020,,2020-02-25,Golden State Warriors,Sacramento Kings,94,112,REG,858
+nba-202002250IND,2020,,2020-02-25,Indiana Pacers,Charlotte Hornets,119,80,REG,859
+nba-202002250LAL,2020,,2020-02-25,Los Angeles Lakers,New Orleans Pelicans,118,109,REG,860
+nba-202002250POR,2020,,2020-02-25,Portland Trail Blazers,Boston Celtics,106,118,REG,861
+nba-202002250TOR,2020,,2020-02-25,Toronto Raptors,Milwaukee Bucks,97,108,REG,862
+nba-202002260ATL,2020,,2020-02-26,Atlanta Hawks,Orlando Magic,120,130,REG,863
+nba-202002260CHO,2020,,2020-02-26,Charlotte Hornets,New York Knicks,107,101,REG,864
+nba-202002260CLE,2020,,2020-02-26,Cleveland Cavaliers,Philadelphia 76ers,108,94,REG,865
+nba-202002260HOU,2020,,2020-02-26,Houston Rockets,Memphis Grizzlies,140,112,REG,866
+nba-202002260MIA,2020,,2020-02-26,Miami Heat,Minnesota Timberwolves,126,129,REG,867
+nba-202002260PHO,2020,,2020-02-26,Phoenix Suns,Los Angeles Clippers,92,102,REG,868
+nba-202002260SAS,2020,,2020-02-26,San Antonio Spurs,Dallas Mavericks,103,109,REG,869
+nba-202002260UTA,2020,,2020-02-26,Utah Jazz,Boston Celtics,103,114,REG,870
+nba-202002260WAS,2020,,2020-02-26,Washington Wizards,Brooklyn Nets,110,106,REG,871
+nba-202002270GSW,2020,,2020-02-27,Golden State Warriors,Los Angeles Lakers,86,116,REG,872
+nba-202002270IND,2020,,2020-02-27,Indiana Pacers,Portland Trail Blazers,106,100,REG,873
+nba-202002270OKC,2020,,2020-02-27,Oklahoma City Thunder,Sacramento Kings,112,108,REG,874
+nba-202002270PHI,2020,,2020-02-27,Philadelphia 76ers,New York Knicks,115,106,REG,875
+nba-202002280ATL,2020,,2020-02-28,Atlanta Hawks,Brooklyn Nets,141,118,REG,876
+nba-202002280LAC,2020,,2020-02-28,Los Angeles Clippers,Denver Nuggets,132,103,REG,877
+nba-202002280MEM,2020,,2020-02-28,Memphis Grizzlies,Sacramento Kings,101,104,REG,878
+nba-202002280MIA,2020,,2020-02-28,Miami Heat,Dallas Mavericks,126,118,REG,879
+nba-202002280MIL,2020,,2020-02-28,Milwaukee Bucks,Oklahoma City Thunder,133,86,REG,880
+nba-202002280NOP,2020,,2020-02-28,New Orleans Pelicans,Cleveland Cavaliers,116,104,REG,881
+nba-202002280ORL,2020,,2020-02-28,Orlando Magic,Minnesota Timberwolves,136,125,REG,882
+nba-202002280PHO,2020,,2020-02-28,Phoenix Suns,Detroit Pistons,111,113,REG,883
+nba-202002280TOR,2020,,2020-02-28,Toronto Raptors,Charlotte Hornets,96,99,REG,884
+nba-202002280UTA,2020,,2020-02-28,Utah Jazz,Washington Wizards,129,119,REG,885
+nba-202002290ATL,2020,,2020-02-29,Atlanta Hawks,Portland Trail Blazers,129,117,REG,886
+nba-202002290BOS,2020,,2020-02-29,Boston Celtics,Houston Rockets,110,111,REG,887
+nba-202002290CLE,2020,,2020-02-29,Cleveland Cavaliers,Indiana Pacers,104,113,REG,888
+nba-202002290MEM,2020,,2020-02-29,Memphis Grizzlies,Los Angeles Lakers,105,88,REG,889
+nba-202002290MIA,2020,,2020-02-29,Miami Heat,Brooklyn Nets,116,113,REG,890
+nba-202002290NYK,2020,,2020-02-29,New York Knicks,Chicago Bulls,125,115,REG,891
+nba-202002290PHO,2020,,2020-02-29,Phoenix Suns,Golden State Warriors,99,115,REG,892
+nba-202002290SAS,2020,,2020-02-29,San Antonio Spurs,Orlando Magic,114,113,REG,893
+nba-202003010CHO,2020,,2020-03-01,Charlotte Hornets,Milwaukee Bucks,85,93,REG,894
+nba-202003010DEN,2020,,2020-03-01,Denver Nuggets,Toronto Raptors,133,118,REG,895
+nba-202003010GSW,2020,,2020-03-01,Golden State Warriors,Washington Wizards,110,124,REG,896
+nba-202003010LAC,2020,,2020-03-01,Los Angeles Clippers,Philadelphia 76ers,136,130,REG,897
+nba-202003010MIN,2020,,2020-03-01,Minnesota Timberwolves,Dallas Mavericks,91,111,REG,898
+nba-202003010NOP,2020,,2020-03-01,New Orleans Pelicans,Los Angeles Lakers,114,122,REG,899
+nba-202003010SAC,2020,,2020-03-01,Sacramento Kings,Detroit Pistons,106,100,REG,900
+nba-202003020ATL,2020,,2020-03-02,Atlanta Hawks,Memphis Grizzlies,88,127,REG,901
+nba-202003020CHI,2020,,2020-03-02,Chicago Bulls,Dallas Mavericks,109,107,REG,902
+nba-202003020CLE,2020,,2020-03-02,Cleveland Cavaliers,Utah Jazz,113,126,REG,903
+nba-202003020MIA,2020,,2020-03-02,Miami Heat,Milwaukee Bucks,105,89,REG,904
+nba-202003020NYK,2020,,2020-03-02,New York Knicks,Houston Rockets,125,123,REG,905
+nba-202003020ORL,2020,,2020-03-02,Orlando Magic,Portland Trail Blazers,107,130,REG,906
+nba-202003020SAS,2020,,2020-03-02,San Antonio Spurs,Indiana Pacers,111,116,REG,907
+nba-202003030BOS,2020,,2020-03-03,Boston Celtics,Brooklyn Nets,120,129,REG,908
+nba-202003030CHO,2020,,2020-03-03,Charlotte Hornets,San Antonio Spurs,103,104,REG,909
+nba-202003030DEN,2020,,2020-03-03,Denver Nuggets,Golden State Warriors,100,116,REG,910
+nba-202003030LAL,2020,,2020-03-03,Los Angeles Lakers,Philadelphia 76ers,120,107,REG,911
+nba-202003030NOP,2020,,2020-03-03,New Orleans Pelicans,Minnesota Timberwolves,134,139,REG,912
+nba-202003030OKC,2020,,2020-03-03,Oklahoma City Thunder,Los Angeles Clippers,94,109,REG,913
+nba-202003030PHO,2020,,2020-03-03,Phoenix Suns,Toronto Raptors,114,123,REG,914
+nba-202003030SAC,2020,,2020-03-03,Sacramento Kings,Washington Wizards,133,126,REG,915
+nba-202003040BRK,2020,,2020-03-04,Brooklyn Nets,Memphis Grizzlies,79,118,REG,916
+nba-202003040CLE,2020,,2020-03-04,Cleveland Cavaliers,Boston Celtics,106,112,REG,917
+nba-202003040DAL,2020,,2020-03-04,Dallas Mavericks,New Orleans Pelicans,127,123,REG,918
+nba-202003040DET,2020,,2020-03-04,Detroit Pistons,Oklahoma City Thunder,107,114,REG,919
+nba-202003040MIA,2020,,2020-03-04,Miami Heat,Orlando Magic,116,113,REG,920
+nba-202003040MIL,2020,,2020-03-04,Milwaukee Bucks,Indiana Pacers,119,100,REG,921
+nba-202003040MIN,2020,,2020-03-04,Minnesota Timberwolves,Chicago Bulls,115,108,REG,922
+nba-202003040NYK,2020,,2020-03-04,New York Knicks,Utah Jazz,104,112,REG,923
+nba-202003040POR,2020,,2020-03-04,Portland Trail Blazers,Washington Wizards,125,104,REG,924
+nba-202003050CHO,2020,,2020-03-05,Charlotte Hornets,Denver Nuggets,112,114,REG,925
+nba-202003050GSW,2020,,2020-03-05,Golden State Warriors,Toronto Raptors,113,121,REG,926
+nba-202003050HOU,2020,,2020-03-05,Houston Rockets,Los Angeles Clippers,105,120,REG,927
+nba-202003050SAC,2020,,2020-03-05,Sacramento Kings,Philadelphia 76ers,108,125,REG,928
+nba-202003060BOS,2020,,2020-03-06,Boston Celtics,Utah Jazz,94,99,REG,929
+nba-202003060BRK,2020,,2020-03-06,Brooklyn Nets,San Antonio Spurs,139,120,REG,930
+nba-202003060CHI,2020,,2020-03-06,Chicago Bulls,Indiana Pacers,102,108,REG,931
+nba-202003060DAL,2020,,2020-03-06,Dallas Mavericks,Memphis Grizzlies,121,96,REG,932
+nba-202003060LAL,2020,,2020-03-06,Los Angeles Lakers,Milwaukee Bucks,113,103,REG,933
+nba-202003060MIN,2020,,2020-03-06,Minnesota Timberwolves,Orlando Magic,118,132,REG,934
+nba-202003060NOP,2020,,2020-03-06,New Orleans Pelicans,Miami Heat,110,104,REG,935
+nba-202003060NYK,2020,,2020-03-06,New York Knicks,Oklahoma City Thunder,103,126,REG,936
+nba-202003060PHO,2020,,2020-03-06,Phoenix Suns,Portland Trail Blazers,127,117,REG,937
+nba-202003060WAS,2020,,2020-03-06,Washington Wizards,Atlanta Hawks,118,112,REG,938
+nba-202003070CHO,2020,,2020-03-07,Charlotte Hornets,Houston Rockets,108,99,REG,939
+nba-202003070CLE,2020,,2020-03-07,Cleveland Cavaliers,Denver Nuggets,104,102,REG,940
+nba-202003070DET,2020,,2020-03-07,Detroit Pistons,Utah Jazz,105,111,REG,941
+nba-202003070GSW,2020,,2020-03-07,Golden State Warriors,Philadelphia 76ers,118,114,REG,942
+nba-202003070MEM,2020,,2020-03-07,Memphis Grizzlies,Atlanta Hawks,118,101,REG,943
+nba-202003070POR,2020,,2020-03-07,Portland Trail Blazers,Sacramento Kings,111,123,REG,944
+nba-202003080BOS,2020,,2020-03-08,Boston Celtics,Oklahoma City Thunder,104,105,REG,945
+nba-202003080BRK,2020,,2020-03-08,Brooklyn Nets,Chicago Bulls,110,107,REG,946
+nba-202003080CLE,2020,,2020-03-08,Cleveland Cavaliers,San Antonio Spurs,132,129,REG,947
+nba-202003080DAL,2020,,2020-03-08,Dallas Mavericks,Indiana Pacers,109,112,REG,948
+nba-202003080HOU,2020,,2020-03-08,Houston Rockets,Orlando Magic,106,126,REG,949
+nba-202003080LAC,2020,,2020-03-08,Los Angeles Clippers,Los Angeles Lakers,103,112,REG,950
+nba-202003080MIN,2020,,2020-03-08,Minnesota Timberwolves,New Orleans Pelicans,107,120,REG,951
+nba-202003080NYK,2020,,2020-03-08,New York Knicks,Detroit Pistons,96,84,REG,952
+nba-202003080PHO,2020,,2020-03-08,Phoenix Suns,Milwaukee Bucks,140,131,REG,953
+nba-202003080SAC,2020,,2020-03-08,Sacramento Kings,Toronto Raptors,113,118,REG,954
+nba-202003080WAS,2020,,2020-03-08,Washington Wizards,Miami Heat,89,100,REG,955
+nba-202003090ATL,2020,,2020-03-09,Atlanta Hawks,Charlotte Hornets,143,138,REG,956
+nba-202003090DEN,2020,,2020-03-09,Denver Nuggets,Milwaukee Bucks,109,95,REG,957
+nba-202003090UTA,2020,,2020-03-09,Utah Jazz,Toronto Raptors,92,101,REG,958
+nba-202003100CHI,2020,,2020-03-10,Chicago Bulls,Cleveland Cavaliers,108,103,REG,959
+nba-202003100GSW,2020,,2020-03-10,Golden State Warriors,Los Angeles Clippers,107,131,REG,960
+nba-202003100HOU,2020,,2020-03-10,Houston Rockets,Minnesota Timberwolves,117,111,REG,961
+nba-202003100IND,2020,,2020-03-10,Indiana Pacers,Boston Celtics,111,114,REG,962
+nba-202003100LAL,2020,,2020-03-10,Los Angeles Lakers,Brooklyn Nets,102,104,REG,963
+nba-202003100MEM,2020,,2020-03-10,Memphis Grizzlies,Orlando Magic,115,120,REG,964
+nba-202003100POR,2020,,2020-03-10,Portland Trail Blazers,Phoenix Suns,121,105,REG,965
+nba-202003100SAS,2020,,2020-03-10,San Antonio Spurs,Dallas Mavericks,119,109,REG,966
+nba-202003100WAS,2020,,2020-03-10,Washington Wizards,New York Knicks,122,115,REG,967
+nba-202003110ATL,2020,,2020-03-11,Atlanta Hawks,New York Knicks,131,136,REG,968
+nba-202003110DAL,2020,,2020-03-11,Dallas Mavericks,Denver Nuggets,113,97,REG,969
+nba-202003110MIA,2020,,2020-03-11,Miami Heat,Charlotte Hornets,98,109,REG,970
+nba-202003110PHI,2020,,2020-03-11,Philadelphia 76ers,Detroit Pistons,124,106,REG,971
+nba-2020-post-2020-08-17-boston-celtics-philadelphia-76ers,2020,,2020-08-17,Boston Celtics,Philadelphia 76ers,109,101,POST,972
+nba-2020-post-2020-08-17-denver-nuggets-utah-jazz,2020,,2020-08-17,Denver Nuggets,Utah Jazz,135,125,POST,973
+nba-2020-post-2020-08-17-los-angeles-clippers-dallas-mavericks,2020,,2020-08-17,Los Angeles Clippers,Dallas Mavericks,118,110,POST,974
+nba-2020-post-2020-08-17-toronto-raptors-brooklyn-nets,2020,,2020-08-17,Toronto Raptors,Brooklyn Nets,134,110,POST,975
+nba-2020-post-2020-08-18-houston-rockets-oklahoma-city-thunder,2020,,2020-08-18,Houston Rockets,Oklahoma City Thunder,123,108,POST,976
+nba-2020-post-2020-08-18-indiana-pacers-miami-heat,2020,,2020-08-18,Indiana Pacers,Miami Heat,101,113,POST,977
+nba-2020-post-2020-08-18-los-angeles-lakers-portland-trail-blazers,2020,,2020-08-18,Los Angeles Lakers,Portland Trail Blazers,93,100,POST,978
+nba-2020-post-2020-08-18-milwaukee-bucks-orlando-magic,2020,,2020-08-18,Milwaukee Bucks,Orlando Magic,110,122,POST,979
+nba-2020-post-2020-08-19-boston-celtics-philadelphia-76ers,2020,,2020-08-19,Boston Celtics,Philadelphia 76ers,128,101,POST,980
+nba-2020-post-2020-08-19-denver-nuggets-utah-jazz,2020,,2020-08-19,Denver Nuggets,Utah Jazz,105,124,POST,981
+nba-2020-post-2020-08-19-los-angeles-clippers-dallas-mavericks,2020,,2020-08-19,Los Angeles Clippers,Dallas Mavericks,114,127,POST,982
+nba-2020-post-2020-08-19-toronto-raptors-brooklyn-nets,2020,,2020-08-19,Toronto Raptors,Brooklyn Nets,104,99,POST,983
+nba-2020-post-2020-08-20-houston-rockets-oklahoma-city-thunder,2020,,2020-08-20,Houston Rockets,Oklahoma City Thunder,111,98,POST,984
+nba-2020-post-2020-08-20-indiana-pacers-miami-heat,2020,,2020-08-20,Indiana Pacers,Miami Heat,100,109,POST,985
+nba-2020-post-2020-08-20-los-angeles-lakers-portland-trail-blazers,2020,,2020-08-20,Los Angeles Lakers,Portland Trail Blazers,111,88,POST,986
+nba-2020-post-2020-08-20-milwaukee-bucks-orlando-magic,2020,,2020-08-20,Milwaukee Bucks,Orlando Magic,111,96,POST,987
+nba-2020-post-2020-08-21-brooklyn-nets-toronto-raptors,2020,,2020-08-21,Brooklyn Nets,Toronto Raptors,92,117,POST,988
+nba-2020-post-2020-08-21-dallas-mavericks-los-angeles-clippers,2020,,2020-08-21,Dallas Mavericks,Los Angeles Clippers,122,130,POST,989
+nba-2020-post-2020-08-21-philadelphia-76ers-boston-celtics,2020,,2020-08-21,Philadelphia 76ers,Boston Celtics,94,102,POST,990
+nba-2020-post-2020-08-21-utah-jazz-denver-nuggets,2020,,2020-08-21,Utah Jazz,Denver Nuggets,124,87,POST,991
+nba-2020-post-2020-08-22-miami-heat-indiana-pacers,2020,,2020-08-22,Miami Heat,Indiana Pacers,124,115,POST,992
+nba-2020-post-2020-08-22-oklahoma-city-thunder-houston-rockets,2020,,2020-08-22,Oklahoma City Thunder,Houston Rockets,119,107,POST,993
+nba-2020-post-2020-08-22-orlando-magic-milwaukee-bucks,2020,,2020-08-22,Orlando Magic,Milwaukee Bucks,107,121,POST,994
+nba-2020-post-2020-08-22-portland-trail-blazers-los-angeles-lakers,2020,,2020-08-22,Portland Trail Blazers,Los Angeles Lakers,108,116,POST,995
+nba-2020-post-2020-08-23-brooklyn-nets-toronto-raptors,2020,,2020-08-23,Brooklyn Nets,Toronto Raptors,122,150,POST,996
+nba-2020-post-2020-08-23-dallas-mavericks-los-angeles-clippers,2020,,2020-08-23,Dallas Mavericks,Los Angeles Clippers,135,133,POST,997
+nba-2020-post-2020-08-23-philadelphia-76ers-boston-celtics,2020,,2020-08-23,Philadelphia 76ers,Boston Celtics,106,110,POST,998
+nba-2020-post-2020-08-23-utah-jazz-denver-nuggets,2020,,2020-08-23,Utah Jazz,Denver Nuggets,129,127,POST,999
+nba-2020-post-2020-08-24-miami-heat-indiana-pacers,2020,,2020-08-24,Miami Heat,Indiana Pacers,99,87,POST,1000
+nba-2020-post-2020-08-24-oklahoma-city-thunder-houston-rockets,2020,,2020-08-24,Oklahoma City Thunder,Houston Rockets,117,114,POST,1001
+nba-2020-post-2020-08-24-orlando-magic-milwaukee-bucks,2020,,2020-08-24,Orlando Magic,Milwaukee Bucks,106,121,POST,1002
+nba-2020-post-2020-08-24-portland-trail-blazers-los-angeles-lakers,2020,,2020-08-24,Portland Trail Blazers,Los Angeles Lakers,115,135,POST,1003
+nba-2020-post-2020-08-25-denver-nuggets-utah-jazz,2020,,2020-08-25,Denver Nuggets,Utah Jazz,117,107,POST,1004
+nba-2020-post-2020-08-25-los-angeles-clippers-dallas-mavericks,2020,,2020-08-25,Los Angeles Clippers,Dallas Mavericks,154,111,POST,1005
+nba-2020-post-2020-08-29-houston-rockets-oklahoma-city-thunder,2020,,2020-08-29,Houston Rockets,Oklahoma City Thunder,114,80,POST,1006
+nba-2020-post-2020-08-29-los-angeles-lakers-portland-trail-blazers,2020,,2020-08-29,Los Angeles Lakers,Portland Trail Blazers,131,122,POST,1007
+nba-2020-post-2020-08-29-milwaukee-bucks-orlando-magic,2020,,2020-08-29,Milwaukee Bucks,Orlando Magic,118,104,POST,1008
+nba-2020-post-2020-08-30-dallas-mavericks-los-angeles-clippers,2020,,2020-08-30,Dallas Mavericks,Los Angeles Clippers,97,111,POST,1009
+nba-2020-post-2020-08-30-toronto-raptors-boston-celtics,2020,,2020-08-30,Toronto Raptors,Boston Celtics,94,112,POST,1010
+nba-2020-post-2020-08-30-utah-jazz-denver-nuggets,2020,,2020-08-30,Utah Jazz,Denver Nuggets,107,119,POST,1011
+nba-2020-post-2020-08-31-milwaukee-bucks-miami-heat,2020,,2020-08-31,Milwaukee Bucks,Miami Heat,104,115,POST,1012
+nba-2020-post-2020-08-31-oklahoma-city-thunder-houston-rockets,2020,,2020-08-31,Oklahoma City Thunder,Houston Rockets,104,100,POST,1013
+nba-2020-post-2020-09-01-denver-nuggets-utah-jazz,2020,,2020-09-01,Denver Nuggets,Utah Jazz,80,78,POST,1014
+nba-2020-post-2020-09-01-toronto-raptors-boston-celtics,2020,,2020-09-01,Toronto Raptors,Boston Celtics,99,102,POST,1015
+nba-2020-post-2020-09-02-houston-rockets-oklahoma-city-thunder,2020,,2020-09-02,Houston Rockets,Oklahoma City Thunder,104,102,POST,1016
+nba-2020-post-2020-09-02-milwaukee-bucks-miami-heat,2020,,2020-09-02,Milwaukee Bucks,Miami Heat,114,116,POST,1017
+nba-2020-post-2020-09-03-boston-celtics-toronto-raptors,2020,,2020-09-03,Boston Celtics,Toronto Raptors,103,104,POST,1018
+nba-2020-post-2020-09-03-los-angeles-clippers-denver-nuggets,2020,,2020-09-03,Los Angeles Clippers,Denver Nuggets,120,97,POST,1019
+nba-2020-post-2020-09-04-los-angeles-lakers-houston-rockets,2020,,2020-09-04,Los Angeles Lakers,Houston Rockets,97,112,POST,1020
+nba-2020-post-2020-09-04-miami-heat-milwaukee-bucks,2020,,2020-09-04,Miami Heat,Milwaukee Bucks,115,100,POST,1021
+nba-2020-post-2020-09-05-boston-celtics-toronto-raptors,2020,,2020-09-05,Boston Celtics,Toronto Raptors,93,100,POST,1022
+nba-2020-post-2020-09-05-los-angeles-clippers-denver-nuggets,2020,,2020-09-05,Los Angeles Clippers,Denver Nuggets,101,110,POST,1023
+nba-2020-post-2020-09-06-los-angeles-lakers-houston-rockets,2020,,2020-09-06,Los Angeles Lakers,Houston Rockets,117,109,POST,1024
+nba-2020-post-2020-09-06-miami-heat-milwaukee-bucks,2020,,2020-09-06,Miami Heat,Milwaukee Bucks,115,118,POST,1025
+nba-2020-post-2020-09-07-denver-nuggets-los-angeles-clippers,2020,,2020-09-07,Denver Nuggets,Los Angeles Clippers,107,113,POST,1026
+nba-2020-post-2020-09-07-toronto-raptors-boston-celtics,2020,,2020-09-07,Toronto Raptors,Boston Celtics,89,111,POST,1027
+nba-2020-post-2020-09-08-houston-rockets-los-angeles-lakers,2020,,2020-09-08,Houston Rockets,Los Angeles Lakers,102,112,POST,1028
+nba-2020-post-2020-09-08-milwaukee-bucks-miami-heat,2020,,2020-09-08,Milwaukee Bucks,Miami Heat,94,103,POST,1029
+nba-2020-post-2020-09-09-boston-celtics-toronto-raptors,2020,,2020-09-09,Boston Celtics,Toronto Raptors,122,125,POST,1030
+nba-2020-post-2020-09-09-denver-nuggets-los-angeles-clippers,2020,,2020-09-09,Denver Nuggets,Los Angeles Clippers,85,96,POST,1031
+nba-2020-post-2020-09-10-houston-rockets-los-angeles-lakers,2020,,2020-09-10,Houston Rockets,Los Angeles Lakers,100,110,POST,1032
+nba-2020-post-2020-09-11-los-angeles-clippers-denver-nuggets,2020,,2020-09-11,Los Angeles Clippers,Denver Nuggets,105,111,POST,1033
+nba-2020-post-2020-09-11-toronto-raptors-boston-celtics,2020,,2020-09-11,Toronto Raptors,Boston Celtics,87,92,POST,1034
+nba-2020-post-2020-09-12-los-angeles-lakers-houston-rockets,2020,,2020-09-12,Los Angeles Lakers,Houston Rockets,119,96,POST,1035
+nba-2020-post-2020-09-13-denver-nuggets-los-angeles-clippers,2020,,2020-09-13,Denver Nuggets,Los Angeles Clippers,111,98,POST,1036
+nba-2020-post-2020-09-15-boston-celtics-miami-heat,2020,,2020-09-15,Boston Celtics,Miami Heat,114,117,POST,1037
+nba-2020-post-2020-09-15-los-angeles-clippers-denver-nuggets,2020,,2020-09-15,Los Angeles Clippers,Denver Nuggets,89,104,POST,1038
+nba-2020-post-2020-09-17-boston-celtics-miami-heat,2020,,2020-09-17,Boston Celtics,Miami Heat,101,106,POST,1039
+nba-2020-post-2020-09-18-los-angeles-lakers-denver-nuggets,2020,,2020-09-18,Los Angeles Lakers,Denver Nuggets,126,114,POST,1040
+nba-2020-post-2020-09-19-miami-heat-boston-celtics,2020,,2020-09-19,Miami Heat,Boston Celtics,106,117,POST,1041
+nba-2020-post-2020-09-20-los-angeles-lakers-denver-nuggets,2020,,2020-09-20,Los Angeles Lakers,Denver Nuggets,105,103,POST,1042
+nba-2020-post-2020-09-22-denver-nuggets-los-angeles-lakers,2020,,2020-09-22,Denver Nuggets,Los Angeles Lakers,114,106,POST,1043
+nba-2020-post-2020-09-23-miami-heat-boston-celtics,2020,,2020-09-23,Miami Heat,Boston Celtics,112,109,POST,1044
+nba-2020-post-2020-09-24-denver-nuggets-los-angeles-lakers,2020,,2020-09-24,Denver Nuggets,Los Angeles Lakers,108,114,POST,1045
+nba-2020-post-2020-09-25-boston-celtics-miami-heat,2020,,2020-09-25,Boston Celtics,Miami Heat,121,108,POST,1046
+nba-2020-post-2020-09-26-los-angeles-lakers-denver-nuggets,2020,,2020-09-26,Los Angeles Lakers,Denver Nuggets,117,107,POST,1047
+nba-2020-post-2020-09-27-miami-heat-boston-celtics,2020,,2020-09-27,Miami Heat,Boston Celtics,125,113,POST,1048
+nba-2020-post-2020-09-30-los-angeles-lakers-miami-heat,2020,,2020-09-30,Los Angeles Lakers,Miami Heat,116,98,POST,1049
+nba-2020-post-2020-10-02-los-angeles-lakers-miami-heat,2020,,2020-10-02,Los Angeles Lakers,Miami Heat,124,114,POST,1050
+nba-2020-post-2020-10-04-miami-heat-los-angeles-lakers,2020,,2020-10-04,Miami Heat,Los Angeles Lakers,115,104,POST,1051
+nba-2020-post-2020-10-06-miami-heat-los-angeles-lakers,2020,,2020-10-06,Miami Heat,Los Angeles Lakers,96,102,POST,1052
+nba-2020-post-2020-10-09-los-angeles-lakers-miami-heat,2020,,2020-10-09,Los Angeles Lakers,Miami Heat,108,111,POST,1053
+nba-2020-post-2020-10-11-miami-heat-los-angeles-lakers,2020,,2020-10-11,Miami Heat,Los Angeles Lakers,93,106,POST,1054

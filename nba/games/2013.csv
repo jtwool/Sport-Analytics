@@ -1,0 +1,1400 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nba-201210300CLE,2013,,2012-10-30,Cleveland Cavaliers,Washington Wizards,94,84,REG,1
+nba-201210300LAL,2013,,2012-10-30,Los Angeles Lakers,Dallas Mavericks,91,99,REG,2
+nba-201210300MIA,2013,,2012-10-30,Miami Heat,Boston Celtics,120,107,REG,3
+nba-201210310CHI,2013,,2012-10-31,Chicago Bulls,Sacramento Kings,93,87,REG,4
+nba-201210310DET,2013,,2012-10-31,Detroit Pistons,Houston Rockets,96,105,REG,5
+nba-201210310LAC,2013,,2012-10-31,Los Angeles Clippers,Memphis Grizzlies,101,92,REG,6
+nba-201210310NOH,2013,,2012-10-31,New Orleans Hornets,San Antonio Spurs,95,99,REG,7
+nba-201210310PHI,2013,,2012-10-31,Philadelphia 76ers,Denver Nuggets,84,75,REG,8
+nba-201210310PHO,2013,,2012-10-31,Phoenix Suns,Golden State Warriors,85,87,REG,9
+nba-201210310POR,2013,,2012-10-31,Portland Trail Blazers,Los Angeles Lakers,116,106,REG,10
+nba-201210310TOR,2013,,2012-10-31,Toronto Raptors,Indiana Pacers,88,90,REG,11
+nba-201210310UTA,2013,,2012-10-31,Utah Jazz,Dallas Mavericks,113,94,REG,12
+nba-201211010SAS,2013,,2012-11-01,San Antonio Spurs,Oklahoma City Thunder,86,84,REG,13
+nba-201211020ATL,2013,,2012-11-02,Atlanta Hawks,Houston Rockets,102,109,REG,14
+nba-201211020BOS,2013,,2012-11-02,Boston Celtics,Milwaukee Bucks,88,99,REG,15
+nba-201211020CHA,2013,,2012-11-02,Charlotte Bobcats,Indiana Pacers,90,89,REG,16
+nba-201211020CLE,2013,,2012-11-02,Cleveland Cavaliers,Chicago Bulls,86,115,REG,17
+nba-201211020GSW,2013,,2012-11-02,Golden State Warriors,Memphis Grizzlies,94,104,REG,18
+nba-201211020LAL,2013,,2012-11-02,Los Angeles Lakers,Los Angeles Clippers,95,105,REG,19
+nba-201211020MIN,2013,,2012-11-02,Minnesota Timberwolves,Sacramento Kings,92,80,REG,20
+nba-201211020NOH,2013,,2012-11-02,New Orleans Hornets,Utah Jazz,88,86,REG,21
+nba-201211020NYK,2013,,2012-11-02,New York Knicks,Miami Heat,104,84,REG,22
+nba-201211020OKC,2013,,2012-11-02,Oklahoma City Thunder,Portland Trail Blazers,106,92,REG,23
+nba-201211020ORL,2013,,2012-11-02,Orlando Magic,Denver Nuggets,102,89,REG,24
+nba-201211020PHO,2013,,2012-11-02,Phoenix Suns,Detroit Pistons,92,89,REG,25
+nba-201211030BRK,2013,,2012-11-03,Brooklyn Nets,Toronto Raptors,107,100,REG,26
+nba-201211030CHI,2013,,2012-11-03,Chicago Bulls,New Orleans Hornets,82,89,REG,27
+nba-201211030DAL,2013,,2012-11-03,Dallas Mavericks,Charlotte Bobcats,126,99,REG,28
+nba-201211030HOU,2013,,2012-11-03,Houston Rockets,Portland Trail Blazers,85,95,REG,29
+nba-201211030IND,2013,,2012-11-03,Indiana Pacers,Sacramento Kings,106,98,REG,30
+nba-201211030LAC,2013,,2012-11-03,Los Angeles Clippers,Golden State Warriors,110,114,REG,31
+nba-201211030MIA,2013,,2012-11-03,Miami Heat,Denver Nuggets,119,116,REG,32
+nba-201211030MIL,2013,,2012-11-03,Milwaukee Bucks,Cleveland Cavaliers,105,102,REG,33
+nba-201211030SAS,2013,,2012-11-03,San Antonio Spurs,Utah Jazz,110,100,REG,34
+nba-201211030WAS,2013,,2012-11-03,Washington Wizards,Boston Celtics,86,89,REG,35
+nba-201211040LAL,2013,,2012-11-04,Los Angeles Lakers,Detroit Pistons,108,79,REG,36
+nba-201211040NYK,2013,,2012-11-04,New York Knicks,Philadelphia 76ers,100,84,REG,37
+nba-201211040OKC,2013,,2012-11-04,Oklahoma City Thunder,Atlanta Hawks,95,104,REG,38
+nba-201211040ORL,2013,,2012-11-04,Orlando Magic,Phoenix Suns,115,94,REG,39
+nba-201211040TOR,2013,,2012-11-04,Toronto Raptors,Minnesota Timberwolves,105,86,REG,40
+nba-201211050BRK,2013,,2012-11-05,Brooklyn Nets,Minnesota Timberwolves,96,107,REG,41
+nba-201211050DAL,2013,,2012-11-05,Dallas Mavericks,Portland Trail Blazers,114,91,REG,42
+nba-201211050LAC,2013,,2012-11-05,Los Angeles Clippers,Cleveland Cavaliers,101,108,REG,43
+nba-201211050MEM,2013,,2012-11-05,Memphis Grizzlies,Utah Jazz,103,94,REG,44
+nba-201211050MIA,2013,,2012-11-05,Miami Heat,Phoenix Suns,124,99,REG,45
+nba-201211050PHI,2013,,2012-11-05,Philadelphia 76ers,New York Knicks,88,110,REG,46
+nba-201211050SAC,2013,,2012-11-05,Sacramento Kings,Golden State Warriors,94,92,REG,47
+nba-201211050SAS,2013,,2012-11-05,San Antonio Spurs,Indiana Pacers,101,79,REG,48
+nba-201211060CHI,2013,,2012-11-06,Chicago Bulls,Orlando Magic,99,93,REG,49
+nba-201211060DEN,2013,,2012-11-06,Denver Nuggets,Detroit Pistons,109,97,REG,50
+nba-201211060OKC,2013,,2012-11-06,Oklahoma City Thunder,Toronto Raptors,108,88,REG,51
+nba-201211070ATL,2013,,2012-11-07,Atlanta Hawks,Indiana Pacers,89,86,REG,52
+nba-201211070BOS,2013,,2012-11-07,Boston Celtics,Washington Wizards,100,94,REG,53
+nba-201211070CHA,2013,,2012-11-07,Charlotte Bobcats,Phoenix Suns,110,117,REG,54
+nba-201211070DAL,2013,,2012-11-07,Dallas Mavericks,Toronto Raptors,109,104,REG,55
+nba-201211070GSW,2013,,2012-11-07,Golden State Warriors,Cleveland Cavaliers,106,96,REG,56
+nba-201211070HOU,2013,,2012-11-07,Houston Rockets,Denver Nuggets,87,93,REG,57
+nba-201211070LAC,2013,,2012-11-07,Los Angeles Clippers,San Antonio Spurs,106,84,REG,58
+nba-201211070MIA,2013,,2012-11-07,Miami Heat,Brooklyn Nets,103,73,REG,59
+nba-201211070MIL,2013,,2012-11-07,Milwaukee Bucks,Memphis Grizzlies,90,108,REG,60
+nba-201211070MIN,2013,,2012-11-07,Minnesota Timberwolves,Orlando Magic,90,75,REG,61
+nba-201211070NOH,2013,,2012-11-07,New Orleans Hornets,Philadelphia 76ers,62,77,REG,62
+nba-201211070SAC,2013,,2012-11-07,Sacramento Kings,Detroit Pistons,105,103,REG,63
+nba-201211070UTA,2013,,2012-11-07,Utah Jazz,Los Angeles Lakers,95,86,REG,64
+nba-201211080CHI,2013,,2012-11-08,Chicago Bulls,Oklahoma City Thunder,91,97,REG,65
+nba-201211080POR,2013,,2012-11-08,Portland Trail Blazers,Los Angeles Clippers,90,103,REG,66
+nba-201211090ATL,2013,,2012-11-09,Atlanta Hawks,Miami Heat,89,95,REG,67
+nba-201211090BOS,2013,,2012-11-09,Boston Celtics,Philadelphia 76ers,100,106,REG,68
+nba-201211090DEN,2013,,2012-11-09,Denver Nuggets,Utah Jazz,104,84,REG,69
+nba-201211090LAL,2013,,2012-11-09,Los Angeles Lakers,Golden State Warriors,101,77,REG,70
+nba-201211090MEM,2013,,2012-11-09,Memphis Grizzlies,Houston Rockets,93,85,REG,71
+nba-201211090MIN,2013,,2012-11-09,Minnesota Timberwolves,Indiana Pacers,96,94,REG,72
+nba-201211090NOH,2013,,2012-11-09,New Orleans Hornets,Charlotte Bobcats,107,99,REG,73
+nba-201211090NYK,2013,,2012-11-09,New York Knicks,Dallas Mavericks,104,94,REG,74
+nba-201211090OKC,2013,,2012-11-09,Oklahoma City Thunder,Detroit Pistons,105,94,REG,75
+nba-201211090ORL,2013,,2012-11-09,Orlando Magic,Brooklyn Nets,68,107,REG,76
+nba-201211090PHO,2013,,2012-11-09,Phoenix Suns,Cleveland Cavaliers,107,105,REG,77
+nba-201211090SAC,2013,,2012-11-09,Sacramento Kings,San Antonio Spurs,86,97,REG,78
+nba-201211090WAS,2013,,2012-11-09,Washington Wizards,Milwaukee Bucks,91,101,REG,79
+nba-201211100CHA,2013,,2012-11-10,Charlotte Bobcats,Dallas Mavericks,101,97,REG,80
+nba-201211100CHI,2013,,2012-11-10,Chicago Bulls,Minnesota Timberwolves,87,80,REG,81
+nba-201211100GSW,2013,,2012-11-10,Golden State Warriors,Denver Nuggets,101,107,REG,82
+nba-201211100HOU,2013,,2012-11-10,Houston Rockets,Detroit Pistons,96,82,REG,83
+nba-201211100IND,2013,,2012-11-10,Indiana Pacers,Washington Wizards,89,85,REG,84
+nba-201211100MIL,2013,,2012-11-10,Milwaukee Bucks,Boston Celtics,92,96,REG,85
+nba-201211100POR,2013,,2012-11-10,Portland Trail Blazers,San Antonio Spurs,109,112,REG,86
+nba-201211100TOR,2013,,2012-11-10,Toronto Raptors,Philadelphia 76ers,83,93,REG,87
+nba-201211100UTA,2013,,2012-11-10,Utah Jazz,Phoenix Suns,94,81,REG,88
+nba-201211110BRK,2013,,2012-11-11,Brooklyn Nets,Orlando Magic,82,74,REG,89
+nba-201211110LAC,2013,,2012-11-11,Los Angeles Clippers,Atlanta Hawks,89,76,REG,90
+nba-201211110LAL,2013,,2012-11-11,Los Angeles Lakers,Sacramento Kings,103,90,REG,91
+nba-201211110MEM,2013,,2012-11-11,Memphis Grizzlies,Miami Heat,104,86,REG,92
+nba-201211110OKC,2013,,2012-11-11,Oklahoma City Thunder,Cleveland Cavaliers,106,91,REG,93
+nba-201211120CHI,2013,,2012-11-12,Chicago Bulls,Boston Celtics,95,101,REG,94
+nba-201211120DAL,2013,,2012-11-12,Dallas Mavericks,Minnesota Timberwolves,82,90,REG,95
+nba-201211120DET,2013,,2012-11-12,Detroit Pistons,Oklahoma City Thunder,90,92,REG,96
+nba-201211120HOU,2013,,2012-11-12,Houston Rockets,Miami Heat,110,113,REG,97
+nba-201211120PHI,2013,,2012-11-12,Philadelphia 76ers,Milwaukee Bucks,96,105,REG,98
+nba-201211120PHO,2013,,2012-11-12,Phoenix Suns,Denver Nuggets,110,100,REG,99
+nba-201211120POR,2013,,2012-11-12,Portland Trail Blazers,Atlanta Hawks,87,95,REG,100
+nba-201211120TOR,2013,,2012-11-12,Toronto Raptors,Utah Jazz,133,140,REG,101
+nba-201211130BRK,2013,,2012-11-13,Brooklyn Nets,Cleveland Cavaliers,114,101,REG,102
+nba-201211130CHA,2013,,2012-11-13,Charlotte Bobcats,Washington Wizards,92,76,REG,103
+nba-201211130IND,2013,,2012-11-13,Indiana Pacers,Toronto Raptors,72,74,REG,104
+nba-201211130LAL,2013,,2012-11-13,Los Angeles Lakers,San Antonio Spurs,82,84,REG,105
+nba-201211130ORL,2013,,2012-11-13,Orlando Magic,New York Knicks,89,99,REG,106
+nba-201211130SAC,2013,,2012-11-13,Sacramento Kings,Portland Trail Blazers,86,103,REG,107
+nba-201211140BOS,2013,,2012-11-14,Boston Celtics,Utah Jazz,98,93,REG,108
+nba-201211140DAL,2013,,2012-11-14,Dallas Mavericks,Washington Wizards,107,101,REG,109
+nba-201211140GSW,2013,,2012-11-14,Golden State Warriors,Atlanta Hawks,92,88,REG,110
+nba-201211140HOU,2013,,2012-11-14,Houston Rockets,New Orleans Hornets,100,96,REG,111
+nba-201211140LAC,2013,,2012-11-14,Los Angeles Clippers,Miami Heat,107,100,REG,112
+nba-201211140MIL,2013,,2012-11-14,Milwaukee Bucks,Indiana Pacers,99,85,REG,113
+nba-201211140MIN,2013,,2012-11-14,Minnesota Timberwolves,Charlotte Bobcats,87,89,REG,114
+nba-201211140OKC,2013,,2012-11-14,Oklahoma City Thunder,Memphis Grizzlies,97,107,REG,115
+nba-201211140PHI,2013,,2012-11-14,Philadelphia 76ers,Detroit Pistons,76,94,REG,116
+nba-201211140PHO,2013,,2012-11-14,Phoenix Suns,Chicago Bulls,106,112,REG,117
+nba-201211150BRK,2013,,2012-11-15,Brooklyn Nets,Boston Celtics,102,97,REG,118
+nba-201211150DEN,2013,,2012-11-15,Denver Nuggets,Miami Heat,93,98,REG,119
+nba-201211150SAS,2013,,2012-11-15,San Antonio Spurs,New York Knicks,100,104,REG,120
+nba-201211160DET,2013,,2012-11-16,Detroit Pistons,Orlando Magic,106,110,REG,121
+nba-201211160IND,2013,,2012-11-16,Indiana Pacers,Dallas Mavericks,103,83,REG,122
+nba-201211160LAL,2013,,2012-11-16,Los Angeles Lakers,Phoenix Suns,114,102,REG,123
+nba-201211160MEM,2013,,2012-11-16,Memphis Grizzlies,New York Knicks,105,95,REG,124
+nba-201211160MIN,2013,,2012-11-16,Minnesota Timberwolves,Golden State Warriors,98,106,REG,125
+nba-201211160NOH,2013,,2012-11-16,New Orleans Hornets,Oklahoma City Thunder,95,110,REG,126
+nba-201211160PHI,2013,,2012-11-16,Philadelphia 76ers,Utah Jazz,99,93,REG,127
+nba-201211160POR,2013,,2012-11-16,Portland Trail Blazers,Houston Rockets,119,117,REG,128
+nba-201211160SAC,2013,,2012-11-16,Sacramento Kings,Atlanta Hawks,96,112,REG,129
+nba-201211170BOS,2013,,2012-11-17,Boston Celtics,Toronto Raptors,107,89,REG,130
+nba-201211170CHA,2013,,2012-11-17,Charlotte Bobcats,Memphis Grizzlies,87,94,REG,131
+nba-201211170CLE,2013,,2012-11-17,Cleveland Cavaliers,Dallas Mavericks,95,103,REG,132
+nba-201211170LAC,2013,,2012-11-17,Los Angeles Clippers,Chicago Bulls,101,80,REG,133
+nba-201211170MIL,2013,,2012-11-17,Milwaukee Bucks,New Orleans Hornets,117,113,REG,134
+nba-201211170PHO,2013,,2012-11-17,Phoenix Suns,Miami Heat,88,97,REG,135
+nba-201211170SAS,2013,,2012-11-17,San Antonio Spurs,Denver Nuggets,126,100,REG,136
+nba-201211170WAS,2013,,2012-11-17,Washington Wizards,Utah Jazz,76,83,REG,137
+nba-201211180DET,2013,,2012-11-18,Detroit Pistons,Boston Celtics,103,83,REG,138
+nba-201211180LAL,2013,,2012-11-18,Los Angeles Lakers,Houston Rockets,119,108,REG,139
+nba-201211180NYK,2013,,2012-11-18,New York Knicks,Indiana Pacers,88,76,REG,140
+nba-201211180OKC,2013,,2012-11-18,Oklahoma City Thunder,Golden State Warriors,119,109,REG,141
+nba-201211180PHI,2013,,2012-11-18,Philadelphia 76ers,Cleveland Cavaliers,86,79,REG,142
+nba-201211180POR,2013,,2012-11-18,Portland Trail Blazers,Chicago Bulls,102,94,REG,143
+nba-201211180SAC,2013,,2012-11-18,Sacramento Kings,Brooklyn Nets,90,99,REG,144
+nba-201211180TOR,2013,,2012-11-18,Toronto Raptors,Orlando Magic,97,86,REG,145
+nba-201211190ATL,2013,,2012-11-19,Atlanta Hawks,Orlando Magic,81,72,REG,146
+nba-201211190CHA,2013,,2012-11-19,Charlotte Bobcats,Milwaukee Bucks,102,98,REG,147
+nba-201211190DAL,2013,,2012-11-19,Dallas Mavericks,Golden State Warriors,101,105,REG,148
+nba-201211190MEM,2013,,2012-11-19,Memphis Grizzlies,Denver Nuggets,92,97,REG,149
+nba-201211190SAS,2013,,2012-11-19,San Antonio Spurs,Los Angeles Clippers,87,92,REG,150
+nba-201211190UTA,2013,,2012-11-19,Utah Jazz,Houston Rockets,102,91,REG,151
+nba-201211190WAS,2013,,2012-11-19,Washington Wizards,Indiana Pacers,89,96,REG,152
+nba-201211200LAL,2013,,2012-11-20,Los Angeles Lakers,Brooklyn Nets,95,90,REG,153
+nba-201211200NOH,2013,,2012-11-20,New Orleans Hornets,New York Knicks,80,102,REG,154
+nba-201211200PHI,2013,,2012-11-20,Philadelphia 76ers,Toronto Raptors,106,98,REG,155
+nba-201211210ATL,2013,,2012-11-21,Atlanta Hawks,Washington Wizards,101,100,REG,156
+nba-201211210BOS,2013,,2012-11-21,Boston Celtics,San Antonio Spurs,100,112,REG,157
+nba-201211210CHA,2013,,2012-11-21,Charlotte Bobcats,Toronto Raptors,98,97,REG,158
+nba-201211210CLE,2013,,2012-11-21,Cleveland Cavaliers,Philadelphia 76ers,92,83,REG,159
+nba-201211210DAL,2013,,2012-11-21,Dallas Mavericks,New York Knicks,114,111,REG,160
+nba-201211210GSW,2013,,2012-11-21,Golden State Warriors,Brooklyn Nets,102,93,REG,161
+nba-201211210HOU,2013,,2012-11-21,Houston Rockets,Chicago Bulls,93,89,REG,162
+nba-201211210IND,2013,,2012-11-21,Indiana Pacers,New Orleans Hornets,115,107,REG,163
+nba-201211210MIA,2013,,2012-11-21,Miami Heat,Milwaukee Bucks,113,106,REG,164
+nba-201211210MIN,2013,,2012-11-21,Minnesota Timberwolves,Denver Nuggets,94,101,REG,165
+nba-201211210OKC,2013,,2012-11-21,Oklahoma City Thunder,Los Angeles Clippers,117,111,REG,166
+nba-201211210ORL,2013,,2012-11-21,Orlando Magic,Detroit Pistons,90,74,REG,167
+nba-201211210PHO,2013,,2012-11-21,Phoenix Suns,Portland Trail Blazers,114,87,REG,168
+nba-201211210SAC,2013,,2012-11-21,Sacramento Kings,Los Angeles Lakers,113,97,REG,169
+nba-201211230BOS,2013,,2012-11-23,Boston Celtics,Oklahoma City Thunder,108,100,REG,170
+nba-201211230BRK,2013,,2012-11-23,Brooklyn Nets,Los Angeles Clippers,86,76,REG,171
+nba-201211230CHA,2013,,2012-11-23,Charlotte Bobcats,Atlanta Hawks,91,101,REG,172
+nba-201211230DEN,2013,,2012-11-23,Denver Nuggets,Golden State Warriors,102,91,REG,173
+nba-201211230DET,2013,,2012-11-23,Detroit Pistons,Toronto Raptors,91,90,REG,174
+nba-201211230HOU,2013,,2012-11-23,Houston Rockets,New York Knicks,131,103,REG,175
+nba-201211230IND,2013,,2012-11-23,Indiana Pacers,San Antonio Spurs,97,104,REG,176
+nba-201211230MEM,2013,,2012-11-23,Memphis Grizzlies,Los Angeles Lakers,106,98,REG,177
+nba-201211230ORL,2013,,2012-11-23,Orlando Magic,Cleveland Cavaliers,108,104,REG,178
+nba-201211230PHO,2013,,2012-11-23,Phoenix Suns,New Orleans Hornets,111,108,REG,179
+nba-201211230POR,2013,,2012-11-23,Portland Trail Blazers,Minnesota Timberwolves,103,95,REG,180
+nba-201211230UTA,2013,,2012-11-23,Utah Jazz,Sacramento Kings,104,102,REG,181
+nba-201211240ATL,2013,,2012-11-24,Atlanta Hawks,Los Angeles Clippers,104,93,REG,182
+nba-201211240DAL,2013,,2012-11-24,Dallas Mavericks,Los Angeles Lakers,89,115,REG,183
+nba-201211240GSW,2013,,2012-11-24,Golden State Warriors,Minnesota Timberwolves,96,85,REG,184
+nba-201211240MIA,2013,,2012-11-24,Miami Heat,Cleveland Cavaliers,110,108,REG,185
+nba-201211240MIL,2013,,2012-11-24,Milwaukee Bucks,Chicago Bulls,86,93,REG,186
+nba-201211240PHI,2013,,2012-11-24,Philadelphia 76ers,Oklahoma City Thunder,109,116,REG,187
+nba-201211240SAC,2013,,2012-11-24,Sacramento Kings,Utah Jazz,108,97,REG,188
+nba-201211240WAS,2013,,2012-11-24,Washington Wizards,Charlotte Bobcats,106,108,REG,189
+nba-201211250BRK,2013,,2012-11-25,Brooklyn Nets,Portland Trail Blazers,98,85,REG,190
+nba-201211250DEN,2013,,2012-11-25,Denver Nuggets,New Orleans Hornets,102,84,REG,191
+nba-201211250NYK,2013,,2012-11-25,New York Knicks,Detroit Pistons,121,100,REG,192
+nba-201211250ORL,2013,,2012-11-25,Orlando Magic,Boston Celtics,110,116,REG,193
+nba-201211250PHI,2013,,2012-11-25,Philadelphia 76ers,Phoenix Suns,104,101,REG,194
+nba-201211250TOR,2013,,2012-11-25,Toronto Raptors,San Antonio Spurs,106,111,REG,195
+nba-201211260BRK,2013,,2012-11-26,Brooklyn Nets,New York Knicks,96,89,REG,196
+nba-201211260CHI,2013,,2012-11-26,Chicago Bulls,Milwaukee Bucks,92,93,REG,197
+nba-201211260DET,2013,,2012-11-26,Detroit Pistons,Portland Trail Blazers,108,101,REG,198
+nba-201211260LAC,2013,,2012-11-26,Los Angeles Clippers,New Orleans Hornets,98,105,REG,199
+nba-201211260MEM,2013,,2012-11-26,Memphis Grizzlies,Cleveland Cavaliers,84,78,REG,200
+nba-201211260OKC,2013,,2012-11-26,Oklahoma City Thunder,Charlotte Bobcats,114,69,REG,201
+nba-201211260UTA,2013,,2012-11-26,Utah Jazz,Denver Nuggets,105,103,REG,202
+nba-201211260WAS,2013,,2012-11-26,Washington Wizards,San Antonio Spurs,92,118,REG,203
+nba-201211270CLE,2013,,2012-11-27,Cleveland Cavaliers,Phoenix Suns,78,91,REG,204
+nba-201211270HOU,2013,,2012-11-27,Houston Rockets,Toronto Raptors,117,101,REG,205
+nba-201211270LAL,2013,,2012-11-27,Los Angeles Lakers,Indiana Pacers,77,79,REG,206
+nba-201211270PHI,2013,,2012-11-27,Philadelphia 76ers,Dallas Mavericks,100,98,REG,207
+nba-201211270SAC,2013,,2012-11-27,Sacramento Kings,Minnesota Timberwolves,89,97,REG,208
+nba-201211280ATL,2013,,2012-11-28,Atlanta Hawks,Charlotte Bobcats,94,91,REG,209
+nba-201211280BOS,2013,,2012-11-28,Boston Celtics,Brooklyn Nets,83,95,REG,210
+nba-201211280CHI,2013,,2012-11-28,Chicago Bulls,Dallas Mavericks,101,78,REG,211
+nba-201211280DET,2013,,2012-11-28,Detroit Pistons,Phoenix Suns,117,77,REG,212
+nba-201211280LAC,2013,,2012-11-28,Los Angeles Clippers,Minnesota Timberwolves,101,95,REG,213
+nba-201211280MEM,2013,,2012-11-28,Memphis Grizzlies,Toronto Raptors,103,82,REG,214
+nba-201211280MIL,2013,,2012-11-28,Milwaukee Bucks,New York Knicks,88,102,REG,215
+nba-201211280NOH,2013,,2012-11-28,New Orleans Hornets,Utah Jazz,84,96,REG,216
+nba-201211280OKC,2013,,2012-11-28,Oklahoma City Thunder,Houston Rockets,120,98,REG,217
+nba-201211280ORL,2013,,2012-11-28,Orlando Magic,San Antonio Spurs,89,110,REG,218
+nba-201211280WAS,2013,,2012-11-28,Washington Wizards,Portland Trail Blazers,84,82,REG,219
+nba-201211290GSW,2013,,2012-11-29,Golden State Warriors,Denver Nuggets,106,105,REG,220
+nba-201211290MIA,2013,,2012-11-29,Miami Heat,San Antonio Spurs,105,100,REG,221
+nba-201211300ATL,2013,,2012-11-30,Atlanta Hawks,Cleveland Cavaliers,111,113,REG,222
+nba-201211300BOS,2013,,2012-11-30,Boston Celtics,Portland Trail Blazers,96,78,REG,223
+nba-201211300CHA,2013,,2012-11-30,Charlotte Bobcats,Philadelphia 76ers,98,104,REG,224
+nba-201211300LAL,2013,,2012-11-30,Los Angeles Lakers,Denver Nuggets,122,103,REG,225
+nba-201211300MEM,2013,,2012-11-30,Memphis Grizzlies,Detroit Pistons,90,78,REG,226
+nba-201211300MIN,2013,,2012-11-30,Minnesota Timberwolves,Milwaukee Bucks,95,85,REG,227
+nba-201211300NYK,2013,,2012-11-30,New York Knicks,Washington Wizards,108,87,REG,228
+nba-201211300OKC,2013,,2012-11-30,Oklahoma City Thunder,Utah Jazz,106,94,REG,229
+nba-201211300ORL,2013,,2012-11-30,Orlando Magic,Brooklyn Nets,86,98,REG,230
+nba-201211300SAC,2013,,2012-11-30,Sacramento Kings,Indiana Pacers,92,97,REG,231
+nba-201211300TOR,2013,,2012-11-30,Toronto Raptors,Phoenix Suns,101,97,REG,232
+nba-201212010CHI,2013,,2012-12-01,Chicago Bulls,Philadelphia 76ers,93,88,REG,233
+nba-201212010CLE,2013,,2012-12-01,Cleveland Cavaliers,Portland Trail Blazers,117,118,REG,234
+nba-201212010DAL,2013,,2012-12-01,Dallas Mavericks,Detroit Pistons,92,77,REG,235
+nba-201212010GSW,2013,,2012-12-01,Golden State Warriors,Indiana Pacers,103,92,REG,236
+nba-201212010HOU,2013,,2012-12-01,Houston Rockets,Utah Jazz,124,116,REG,237
+nba-201212010LAC,2013,,2012-12-01,Los Angeles Clippers,Sacramento Kings,116,81,REG,238
+nba-201212010MIA,2013,,2012-12-01,Miami Heat,Brooklyn Nets,102,89,REG,239
+nba-201212010MIL,2013,,2012-12-01,Milwaukee Bucks,Boston Celtics,91,88,REG,240
+nba-201212010NOH,2013,,2012-12-01,New Orleans Hornets,Oklahoma City Thunder,79,100,REG,241
+nba-201212010SAS,2013,,2012-12-01,San Antonio Spurs,Memphis Grizzlies,99,95,REG,242
+nba-201212020LAL,2013,,2012-12-02,Los Angeles Lakers,Orlando Magic,103,113,REG,243
+nba-201212020NYK,2013,,2012-12-02,New York Knicks,Phoenix Suns,106,99,REG,244
+nba-201212030CHA,2013,,2012-12-03,Charlotte Bobcats,Portland Trail Blazers,112,118,REG,245
+nba-201212030DEN,2013,,2012-12-03,Denver Nuggets,Toronto Raptors,113,110,REG,246
+nba-201212030DET,2013,,2012-12-03,Detroit Pistons,Cleveland Cavaliers,89,79,REG,247
+nba-201212030GSW,2013,,2012-12-03,Golden State Warriors,Orlando Magic,94,102,REG,248
+nba-201212030NOH,2013,,2012-12-03,New Orleans Hornets,Milwaukee Bucks,102,81,REG,249
+nba-201212030UTA,2013,,2012-12-03,Utah Jazz,Los Angeles Clippers,104,105,REG,250
+nba-201212040BRK,2013,,2012-12-04,Brooklyn Nets,Oklahoma City Thunder,111,117,REG,251
+nba-201212040CHI,2013,,2012-12-04,Chicago Bulls,Indiana Pacers,76,80,REG,252
+nba-201212040HOU,2013,,2012-12-04,Houston Rockets,Los Angeles Lakers,107,105,REG,253
+nba-201212040MEM,2013,,2012-12-04,Memphis Grizzlies,Phoenix Suns,108,98,REG,254
+nba-201212040PHI,2013,,2012-12-04,Philadelphia 76ers,Minnesota Timberwolves,88,105,REG,255
+nba-201212040WAS,2013,,2012-12-04,Washington Wizards,Miami Heat,105,101,REG,256
+nba-201212050ATL,2013,,2012-12-05,Atlanta Hawks,Denver Nuggets,108,104,REG,257
+nba-201212050BOS,2013,,2012-12-05,Boston Celtics,Minnesota Timberwolves,104,94,REG,258
+nba-201212050CHA,2013,,2012-12-05,Charlotte Bobcats,New York Knicks,98,100,REG,259
+nba-201212050CLE,2013,,2012-12-05,Cleveland Cavaliers,Chicago Bulls,85,95,REG,260
+nba-201212050DET,2013,,2012-12-05,Detroit Pistons,Golden State Warriors,97,104,REG,261
+nba-201212050IND,2013,,2012-12-05,Indiana Pacers,Portland Trail Blazers,99,92,REG,262
+nba-201212050LAC,2013,,2012-12-05,Los Angeles Clippers,Dallas Mavericks,112,90,REG,263
+nba-201212050NOH,2013,,2012-12-05,New Orleans Hornets,Los Angeles Lakers,87,103,REG,264
+nba-201212050SAC,2013,,2012-12-05,Sacramento Kings,Toronto Raptors,107,100,REG,265
+nba-201212050SAS,2013,,2012-12-05,San Antonio Spurs,Milwaukee Bucks,110,99,REG,266
+nba-201212050UTA,2013,,2012-12-05,Utah Jazz,Orlando Magic,87,81,REG,267
+nba-201212060MIA,2013,,2012-12-06,Miami Heat,New York Knicks,92,112,REG,268
+nba-201212060PHO,2013,,2012-12-06,Phoenix Suns,Dallas Mavericks,94,97,REG,269
+nba-201212070ATL,2013,,2012-12-07,Atlanta Hawks,Washington Wizards,104,95,REG,270
+nba-201212070BRK,2013,,2012-12-07,Brooklyn Nets,Golden State Warriors,102,109,REG,271
+nba-201212070DET,2013,,2012-12-07,Detroit Pistons,Chicago Bulls,104,108,REG,272
+nba-201212070IND,2013,,2012-12-07,Indiana Pacers,Denver Nuggets,89,92,REG,273
+nba-201212070MIL,2013,,2012-12-07,Milwaukee Bucks,Charlotte Bobcats,108,93,REG,274
+nba-201212070MIN,2013,,2012-12-07,Minnesota Timberwolves,Cleveland Cavaliers,91,73,REG,275
+nba-201212070NOH,2013,,2012-12-07,New Orleans Hornets,Memphis Grizzlies,89,96,REG,276
+nba-201212070OKC,2013,,2012-12-07,Oklahoma City Thunder,Los Angeles Lakers,114,108,REG,277
+nba-201212070PHI,2013,,2012-12-07,Philadelphia 76ers,Boston Celtics,95,94,REG,278
+nba-201212070SAC,2013,,2012-12-07,Sacramento Kings,Orlando Magic,91,82,REG,279
+nba-201212070SAS,2013,,2012-12-07,San Antonio Spurs,Houston Rockets,114,92,REG,280
+nba-201212070UTA,2013,,2012-12-07,Utah Jazz,Toronto Raptors,131,99,REG,281
+nba-201212080BOS,2013,,2012-12-08,Boston Celtics,Philadelphia 76ers,92,79,REG,282
+nba-201212080CHA,2013,,2012-12-08,Charlotte Bobcats,San Antonio Spurs,102,132,REG,283
+nba-201212080CHI,2013,,2012-12-08,Chicago Bulls,New York Knicks,93,85,REG,284
+nba-201212080CLE,2013,,2012-12-08,Cleveland Cavaliers,Detroit Pistons,97,104,REG,285
+nba-201212080HOU,2013,,2012-12-08,Houston Rockets,Dallas Mavericks,109,116,REG,286
+nba-201212080LAC,2013,,2012-12-08,Los Angeles Clippers,Phoenix Suns,117,99,REG,287
+nba-201212080MEM,2013,,2012-12-08,Memphis Grizzlies,Atlanta Hawks,83,93,REG,288
+nba-201212080MIA,2013,,2012-12-08,Miami Heat,New Orleans Hornets,106,90,REG,289
+nba-201212080POR,2013,,2012-12-08,Portland Trail Blazers,Sacramento Kings,80,99,REG,290
+nba-201212080WAS,2013,,2012-12-08,Washington Wizards,Golden State Warriors,97,101,REG,291
+nba-201212090BRK,2013,,2012-12-09,Brooklyn Nets,Milwaukee Bucks,88,97,REG,292
+nba-201212090LAC,2013,,2012-12-09,Los Angeles Clippers,Toronto Raptors,102,83,REG,293
+nba-201212090LAL,2013,,2012-12-09,Los Angeles Lakers,Utah Jazz,110,117,REG,294
+nba-201212090NYK,2013,,2012-12-09,New York Knicks,Denver Nuggets,112,106,REG,295
+nba-201212090OKC,2013,,2012-12-09,Oklahoma City Thunder,Indiana Pacers,104,93,REG,296
+nba-201212090PHO,2013,,2012-12-09,Phoenix Suns,Orlando Magic,90,98,REG,297
+nba-201212100CHA,2013,,2012-12-10,Charlotte Bobcats,Golden State Warriors,96,104,REG,298
+nba-201212100DAL,2013,,2012-12-10,Dallas Mavericks,Sacramento Kings,119,96,REG,299
+nba-201212100HOU,2013,,2012-12-10,Houston Rockets,San Antonio Spurs,126,134,REG,300
+nba-201212100MIA,2013,,2012-12-10,Miami Heat,Atlanta Hawks,101,92,REG,301
+nba-201212100PHI,2013,,2012-12-10,Philadelphia 76ers,Detroit Pistons,104,97,REG,302
+nba-201212100POR,2013,,2012-12-10,Portland Trail Blazers,Toronto Raptors,92,74,REG,303
+nba-201212110BRK,2013,,2012-12-11,Brooklyn Nets,New York Knicks,97,100,REG,304
+nba-201212110CHI,2013,,2012-12-11,Chicago Bulls,Los Angeles Clippers,89,94,REG,305
+nba-201212110CLE,2013,,2012-12-11,Cleveland Cavaliers,Los Angeles Lakers,100,94,REG,306
+nba-201212110DET,2013,,2012-12-11,Detroit Pistons,Denver Nuggets,94,101,REG,307
+nba-201212110NOH,2013,,2012-12-11,New Orleans Hornets,Washington Wizards,70,77,REG,308
+nba-201212120BOS,2013,,2012-12-12,Boston Celtics,Dallas Mavericks,117,115,REG,309
+nba-201212120CHA,2013,,2012-12-12,Charlotte Bobcats,Los Angeles Clippers,94,100,REG,310
+nba-201212120HOU,2013,,2012-12-12,Houston Rockets,Washington Wizards,99,93,REG,311
+nba-201212120IND,2013,,2012-12-12,Indiana Pacers,Cleveland Cavaliers,96,81,REG,312
+nba-201212120MIA,2013,,2012-12-12,Miami Heat,Golden State Warriors,95,97,REG,313
+nba-201212120MIL,2013,,2012-12-12,Milwaukee Bucks,Sacramento Kings,98,85,REG,314
+nba-201212120MIN,2013,,2012-12-12,Minnesota Timberwolves,Denver Nuggets,108,105,REG,315
+nba-201212120OKC,2013,,2012-12-12,Oklahoma City Thunder,New Orleans Hornets,92,88,REG,316
+nba-201212120ORL,2013,,2012-12-12,Orlando Magic,Atlanta Hawks,80,86,REG,317
+nba-201212120PHI,2013,,2012-12-12,Philadelphia 76ers,Chicago Bulls,89,96,REG,318
+nba-201212120PHO,2013,,2012-12-12,Phoenix Suns,Memphis Grizzlies,82,80,REG,319
+nba-201212120TOR,2013,,2012-12-12,Toronto Raptors,Brooklyn Nets,88,94,REG,320
+nba-201212120UTA,2013,,2012-12-12,Utah Jazz,San Antonio Spurs,99,96,REG,321
+nba-201212130ATL,2013,,2012-12-13,Atlanta Hawks,Charlotte Bobcats,113,90,REG,322
+nba-201212130NYK,2013,,2012-12-13,New York Knicks,Los Angeles Lakers,116,107,REG,323
+nba-201212130POR,2013,,2012-12-13,Portland Trail Blazers,San Antonio Spurs,98,90,REG,324
+nba-201212140BRK,2013,,2012-12-14,Brooklyn Nets,Detroit Pistons,107,105,REG,325
+nba-201212140CLE,2013,,2012-12-14,Cleveland Cavaliers,Milwaukee Bucks,86,90,REG,326
+nba-201212140DEN,2013,,2012-12-14,Denver Nuggets,Memphis Grizzlies,99,94,REG,327
+nba-201212140HOU,2013,,2012-12-14,Houston Rockets,Boston Celtics,101,89,REG,328
+nba-201212140IND,2013,,2012-12-14,Indiana Pacers,Philadelphia 76ers,95,85,REG,329
+nba-201212140NOH,2013,,2012-12-14,New Orleans Hornets,Minnesota Timberwolves,102,113,REG,330
+nba-201212140OKC,2013,,2012-12-14,Oklahoma City Thunder,Sacramento Kings,113,103,REG,331
+nba-201212140ORL,2013,,2012-12-14,Orlando Magic,Golden State Warriors,99,85,REG,332
+nba-201212140PHO,2013,,2012-12-14,Phoenix Suns,Utah Jazz,99,84,REG,333
+nba-201212140TOR,2013,,2012-12-14,Toronto Raptors,Dallas Mavericks,95,74,REG,334
+nba-201212140WAS,2013,,2012-12-14,Washington Wizards,Los Angeles Lakers,96,102,REG,335
+nba-201212150ATL,2013,,2012-12-15,Atlanta Hawks,Golden State Warriors,93,115,REG,336
+nba-201212150CHA,2013,,2012-12-15,Charlotte Bobcats,Orlando Magic,98,107,REG,337
+nba-201212150CHI,2013,,2012-12-15,Chicago Bulls,Brooklyn Nets,83,82,REG,338
+nba-201212150DET,2013,,2012-12-15,Detroit Pistons,Indiana Pacers,77,88,REG,339
+nba-201212150MIA,2013,,2012-12-15,Miami Heat,Washington Wizards,102,72,REG,340
+nba-201212150MIL,2013,,2012-12-15,Milwaukee Bucks,Los Angeles Clippers,85,111,REG,341
+nba-201212150MIN,2013,,2012-12-15,Minnesota Timberwolves,Dallas Mavericks,114,106,REG,342
+nba-201212150NYK,2013,,2012-12-15,New York Knicks,Cleveland Cavaliers,103,102,REG,343
+nba-201212150SAS,2013,,2012-12-15,San Antonio Spurs,Boston Celtics,103,88,REG,344
+nba-201212150UTA,2013,,2012-12-15,Utah Jazz,Memphis Grizzlies,86,99,REG,345
+nba-201212160PHI,2013,,2012-12-16,Philadelphia 76ers,Los Angeles Lakers,98,111,REG,346
+nba-201212160POR,2013,,2012-12-16,Portland Trail Blazers,New Orleans Hornets,95,94,REG,347
+nba-201212160SAC,2013,,2012-12-16,Sacramento Kings,Denver Nuggets,97,122,REG,348
+nba-201212160TOR,2013,,2012-12-16,Toronto Raptors,Houston Rockets,103,96,REG,349
+nba-201212170DET,2013,,2012-12-17,Detroit Pistons,Los Angeles Clippers,76,88,REG,350
+nba-201212170MEM,2013,,2012-12-17,Memphis Grizzlies,Chicago Bulls,80,71,REG,351
+nba-201212170NYK,2013,,2012-12-17,New York Knicks,Houston Rockets,96,109,REG,352
+nba-201212170OKC,2013,,2012-12-17,Oklahoma City Thunder,San Antonio Spurs,107,93,REG,353
+nba-201212170ORL,2013,,2012-12-17,Orlando Magic,Minnesota Timberwolves,102,93,REG,354
+nba-201212170PHO,2013,,2012-12-17,Phoenix Suns,Sacramento Kings,101,90,REG,355
+nba-201212180BRK,2013,,2012-12-18,Brooklyn Nets,Utah Jazz,90,92,REG,356
+nba-201212180CHI,2013,,2012-12-18,Chicago Bulls,Boston Celtics,100,89,REG,357
+nba-201212180CLE,2013,,2012-12-18,Cleveland Cavaliers,Toronto Raptors,99,113,REG,358
+nba-201212180DAL,2013,,2012-12-18,Dallas Mavericks,Philadelphia 76ers,107,100,REG,359
+nba-201212180DEN,2013,,2012-12-18,Denver Nuggets,San Antonio Spurs,112,106,REG,360
+nba-201212180GSW,2013,,2012-12-18,Golden State Warriors,New Orleans Hornets,103,96,REG,361
+nba-201212180LAL,2013,,2012-12-18,Los Angeles Lakers,Charlotte Bobcats,101,100,REG,362
+nba-201212180MIA,2013,,2012-12-18,Miami Heat,Minnesota Timberwolves,103,92,REG,363
+nba-201212180MIL,2013,,2012-12-18,Milwaukee Bucks,Indiana Pacers,98,93,REG,364
+nba-201212180WAS,2013,,2012-12-18,Washington Wizards,Atlanta Hawks,95,100,REG,365
+nba-201212190ATL,2013,,2012-12-19,Atlanta Hawks,Oklahoma City Thunder,92,100,REG,366
+nba-201212190BOS,2013,,2012-12-19,Boston Celtics,Cleveland Cavaliers,103,91,REG,367
+nba-201212190HOU,2013,,2012-12-19,Houston Rockets,Philadelphia 76ers,125,103,REG,368
+nba-201212190IND,2013,,2012-12-19,Indiana Pacers,Utah Jazz,104,84,REG,369
+nba-201212190LAC,2013,,2012-12-19,Los Angeles Clippers,New Orleans Hornets,93,77,REG,370
+nba-201212190MEM,2013,,2012-12-19,Memphis Grizzlies,Milwaukee Bucks,90,80,REG,371
+nba-201212190NYK,2013,,2012-12-19,New York Knicks,Brooklyn Nets,100,86,REG,372
+nba-201212190ORL,2013,,2012-12-19,Orlando Magic,Washington Wizards,90,83,REG,373
+nba-201212190PHO,2013,,2012-12-19,Phoenix Suns,Charlotte Bobcats,121,104,REG,374
+nba-201212190SAC,2013,,2012-12-19,Sacramento Kings,Golden State Warriors,131,127,REG,375
+nba-201212190TOR,2013,,2012-12-19,Toronto Raptors,Detroit Pistons,97,91,REG,376
+nba-201212200DAL,2013,,2012-12-20,Dallas Mavericks,Miami Heat,95,110,REG,377
+nba-201212200MIN,2013,,2012-12-20,Minnesota Timberwolves,Oklahoma City Thunder,99,93,REG,378
+nba-201212200POR,2013,,2012-12-20,Portland Trail Blazers,Denver Nuggets,101,93,REG,379
+nba-201212210BOS,2013,,2012-12-21,Boston Celtics,Milwaukee Bucks,94,99,REG,380
+nba-201212210CLE,2013,,2012-12-21,Cleveland Cavaliers,Indiana Pacers,89,99,REG,381
+nba-201212210DET,2013,,2012-12-21,Detroit Pistons,Washington Wizards,100,68,REG,382
+nba-201212210GSW,2013,,2012-12-21,Golden State Warriors,Charlotte Bobcats,115,100,REG,383
+nba-201212210LAC,2013,,2012-12-21,Los Angeles Clippers,Sacramento Kings,97,85,REG,384
+nba-201212210MEM,2013,,2012-12-21,Memphis Grizzlies,Dallas Mavericks,92,82,REG,385
+nba-201212210NYK,2013,,2012-12-21,New York Knicks,Chicago Bulls,106,110,REG,386
+nba-201212210PHI,2013,,2012-12-21,Philadelphia 76ers,Atlanta Hawks,99,80,REG,387
+nba-201212210SAS,2013,,2012-12-21,San Antonio Spurs,New Orleans Hornets,99,94,REG,388
+nba-201212210TOR,2013,,2012-12-21,Toronto Raptors,Orlando Magic,93,90,REG,389
+nba-201212220ATL,2013,,2012-12-22,Atlanta Hawks,Chicago Bulls,92,75,REG,390
+nba-201212220DEN,2013,,2012-12-22,Denver Nuggets,Charlotte Bobcats,110,88,REG,391
+nba-201212220GSW,2013,,2012-12-22,Golden State Warriors,Los Angeles Lakers,115,118,REG,392
+nba-201212220HOU,2013,,2012-12-22,Houston Rockets,Memphis Grizzlies,121,96,REG,393
+nba-201212220MIA,2013,,2012-12-22,Miami Heat,Utah Jazz,105,89,REG,394
+nba-201212220MIL,2013,,2012-12-22,Milwaukee Bucks,Cleveland Cavaliers,82,94,REG,395
+nba-201212220NOH,2013,,2012-12-22,New Orleans Hornets,Indiana Pacers,75,81,REG,396
+nba-201212220POR,2013,,2012-12-22,Portland Trail Blazers,Phoenix Suns,96,93,REG,397
+nba-201212220WAS,2013,,2012-12-22,Washington Wizards,Detroit Pistons,87,96,REG,398
+nba-201212230BRK,2013,,2012-12-23,Brooklyn Nets,Philadelphia 76ers,95,92,REG,399
+nba-201212230NYK,2013,,2012-12-23,New York Knicks,Minnesota Timberwolves,94,91,REG,400
+nba-201212230ORL,2013,,2012-12-23,Orlando Magic,Utah Jazz,93,97,REG,401
+nba-201212230PHO,2013,,2012-12-23,Phoenix Suns,Los Angeles Clippers,77,103,REG,402
+nba-201212230SAC,2013,,2012-12-23,Sacramento Kings,Portland Trail Blazers,108,96,REG,403
+nba-201212230SAS,2013,,2012-12-23,San Antonio Spurs,Dallas Mavericks,129,91,REG,404
+nba-201212250BRK,2013,,2012-12-25,Brooklyn Nets,Boston Celtics,76,93,REG,405
+nba-201212250CHI,2013,,2012-12-25,Chicago Bulls,Houston Rockets,97,120,REG,406
+nba-201212250LAC,2013,,2012-12-25,Los Angeles Clippers,Denver Nuggets,112,100,REG,407
+nba-201212250LAL,2013,,2012-12-25,Los Angeles Lakers,New York Knicks,100,94,REG,408
+nba-201212250MIA,2013,,2012-12-25,Miami Heat,Oklahoma City Thunder,103,97,REG,409
+nba-201212260ATL,2013,,2012-12-26,Atlanta Hawks,Detroit Pistons,126,119,REG,410
+nba-201212260CHA,2013,,2012-12-26,Charlotte Bobcats,Miami Heat,92,105,REG,411
+nba-201212260DEN,2013,,2012-12-26,Denver Nuggets,Los Angeles Lakers,126,114,REG,412
+nba-201212260MEM,2013,,2012-12-26,Memphis Grizzlies,Philadelphia 76ers,89,99,REG,413
+nba-201212260MIL,2013,,2012-12-26,Milwaukee Bucks,Brooklyn Nets,108,93,REG,414
+nba-201212260MIN,2013,,2012-12-26,Minnesota Timberwolves,Houston Rockets,84,87,REG,415
+nba-201212260ORL,2013,,2012-12-26,Orlando Magic,New Orleans Hornets,94,97,REG,416
+nba-201212260PHO,2013,,2012-12-26,Phoenix Suns,New York Knicks,97,99,REG,417
+nba-201212260POR,2013,,2012-12-26,Portland Trail Blazers,Sacramento Kings,109,91,REG,418
+nba-201212260SAS,2013,,2012-12-26,San Antonio Spurs,Toronto Raptors,100,80,REG,419
+nba-201212260UTA,2013,,2012-12-26,Utah Jazz,Golden State Warriors,83,94,REG,420
+nba-201212260WAS,2013,,2012-12-26,Washington Wizards,Cleveland Cavaliers,84,87,REG,421
+nba-201212270LAC,2013,,2012-12-27,Los Angeles Clippers,Boston Celtics,106,77,REG,422
+nba-201212270OKC,2013,,2012-12-27,Oklahoma City Thunder,Dallas Mavericks,111,105,REG,423
+nba-201212280BRK,2013,,2012-12-28,Brooklyn Nets,Charlotte Bobcats,97,81,REG,424
+nba-201212280CLE,2013,,2012-12-28,Cleveland Cavaliers,Atlanta Hawks,94,102,REG,425
+nba-201212280DAL,2013,,2012-12-28,Dallas Mavericks,Denver Nuggets,85,106,REG,426
+nba-201212280DET,2013,,2012-12-28,Detroit Pistons,Miami Heat,109,99,REG,427
+nba-201212280GSW,2013,,2012-12-28,Golden State Warriors,Philadelphia 76ers,96,89,REG,428
+nba-201212280IND,2013,,2012-12-28,Indiana Pacers,Phoenix Suns,97,91,REG,429
+nba-201212280LAL,2013,,2012-12-28,Los Angeles Lakers,Portland Trail Blazers,104,87,REG,430
+nba-201212280NOH,2013,,2012-12-28,New Orleans Hornets,Toronto Raptors,97,104,REG,431
+nba-201212280SAC,2013,,2012-12-28,Sacramento Kings,New York Knicks,106,105,REG,432
+nba-201212280SAS,2013,,2012-12-28,San Antonio Spurs,Houston Rockets,122,116,REG,433
+nba-201212280UTA,2013,,2012-12-28,Utah Jazz,Los Angeles Clippers,114,116,REG,434
+nba-201212280WAS,2013,,2012-12-28,Washington Wizards,Orlando Magic,105,97,REG,435
+nba-201212290ATL,2013,,2012-12-29,Atlanta Hawks,Indiana Pacers,109,100,REG,436
+nba-201212290BRK,2013,,2012-12-29,Brooklyn Nets,Cleveland Cavaliers,103,100,REG,437
+nba-201212290CHA,2013,,2012-12-29,Charlotte Bobcats,New Orleans Hornets,95,98,REG,438
+nba-201212290CHI,2013,,2012-12-29,Chicago Bulls,Washington Wizards,87,77,REG,439
+nba-201212290GSW,2013,,2012-12-29,Golden State Warriors,Boston Celtics,101,83,REG,440
+nba-201212290HOU,2013,,2012-12-29,Houston Rockets,Oklahoma City Thunder,94,124,REG,441
+nba-201212290MEM,2013,,2012-12-29,Memphis Grizzlies,Denver Nuggets,81,72,REG,442
+nba-201212290MIL,2013,,2012-12-29,Milwaukee Bucks,Miami Heat,104,85,REG,443
+nba-201212290MIN,2013,,2012-12-29,Minnesota Timberwolves,Phoenix Suns,111,107,REG,444
+nba-201212290ORL,2013,,2012-12-29,Orlando Magic,Toronto Raptors,88,123,REG,445
+nba-201212290POR,2013,,2012-12-29,Portland Trail Blazers,Philadelphia 76ers,89,85,REG,446
+nba-201212300DAL,2013,,2012-12-30,Dallas Mavericks,San Antonio Spurs,86,111,REG,447
+nba-201212300DET,2013,,2012-12-30,Detroit Pistons,Milwaukee Bucks,96,94,REG,448
+nba-201212300LAC,2013,,2012-12-30,Los Angeles Clippers,Utah Jazz,107,96,REG,449
+nba-201212300SAC,2013,,2012-12-30,Sacramento Kings,Boston Celtics,118,96,REG,450
+nba-201212310CHI,2013,,2012-12-31,Chicago Bulls,Charlotte Bobcats,81,91,REG,451
+nba-201212310HOU,2013,,2012-12-31,Houston Rockets,Atlanta Hawks,123,104,REG,452
+nba-201212310IND,2013,,2012-12-31,Indiana Pacers,Memphis Grizzlies,88,83,REG,453
+nba-201212310OKC,2013,,2012-12-31,Oklahoma City Thunder,Phoenix Suns,114,96,REG,454
+nba-201212310ORL,2013,,2012-12-31,Orlando Magic,Miami Heat,110,112,REG,455
+nba-201212310SAS,2013,,2012-12-31,San Antonio Spurs,Brooklyn Nets,104,73,REG,456
+nba-201301010DEN,2013,,2013-01-01,Denver Nuggets,Los Angeles Clippers,92,78,REG,457
+nba-201301010DET,2013,,2013-01-01,Detroit Pistons,Sacramento Kings,103,97,REG,458
+nba-201301010LAL,2013,,2013-01-01,Los Angeles Lakers,Philadelphia 76ers,99,103,REG,459
+nba-201301010NOH,2013,,2013-01-01,New Orleans Hornets,Atlanta Hawks,86,95,REG,460
+nba-201301010NYK,2013,,2013-01-01,New York Knicks,Portland Trail Blazers,100,105,REG,461
+nba-201301010WAS,2013,,2013-01-01,Washington Wizards,Dallas Mavericks,94,103,REG,462
+nba-201301020BOS,2013,,2013-01-02,Boston Celtics,Memphis Grizzlies,83,93,REG,463
+nba-201301020CLE,2013,,2013-01-02,Cleveland Cavaliers,Sacramento Kings,94,97,REG,464
+nba-201301020GSW,2013,,2013-01-02,Golden State Warriors,Los Angeles Clippers,115,94,REG,465
+nba-201301020HOU,2013,,2013-01-02,Houston Rockets,New Orleans Hornets,104,92,REG,466
+nba-201301020IND,2013,,2013-01-02,Indiana Pacers,Washington Wizards,89,81,REG,467
+nba-201301020MIA,2013,,2013-01-02,Miami Heat,Dallas Mavericks,119,109,REG,468
+nba-201301020MIL,2013,,2013-01-02,Milwaukee Bucks,San Antonio Spurs,110,117,REG,469
+nba-201301020OKC,2013,,2013-01-02,Oklahoma City Thunder,Brooklyn Nets,93,110,REG,470
+nba-201301020ORL,2013,,2013-01-02,Orlando Magic,Chicago Bulls,94,96,REG,471
+nba-201301020PHO,2013,,2013-01-02,Phoenix Suns,Philadelphia 76ers,95,89,REG,472
+nba-201301020TOR,2013,,2013-01-02,Toronto Raptors,Portland Trail Blazers,102,79,REG,473
+nba-201301020UTA,2013,,2013-01-02,Utah Jazz,Minnesota Timberwolves,106,84,REG,474
+nba-201301030DEN,2013,,2013-01-03,Denver Nuggets,Minnesota Timberwolves,97,101,REG,475
+nba-201301030NYK,2013,,2013-01-03,New York Knicks,San Antonio Spurs,100,83,REG,476
+nba-201301040BOS,2013,,2013-01-04,Boston Celtics,Indiana Pacers,94,75,REG,477
+nba-201301040CHA,2013,,2013-01-04,Charlotte Bobcats,Cleveland Cavaliers,104,106,REG,478
+nba-201301040DET,2013,,2013-01-04,Detroit Pistons,Atlanta Hawks,85,84,REG,479
+nba-201301040LAC,2013,,2013-01-04,Los Angeles Clippers,Los Angeles Lakers,107,102,REG,480
+nba-201301040MEM,2013,,2013-01-04,Memphis Grizzlies,Portland Trail Blazers,84,86,REG,481
+nba-201301040MIA,2013,,2013-01-04,Miami Heat,Chicago Bulls,89,96,REG,482
+nba-201301040MIL,2013,,2013-01-04,Milwaukee Bucks,Houston Rockets,101,115,REG,483
+nba-201301040OKC,2013,,2013-01-04,Oklahoma City Thunder,Philadelphia 76ers,109,85,REG,484
+nba-201301040PHO,2013,,2013-01-04,Phoenix Suns,Utah Jazz,80,87,REG,485
+nba-201301040TOR,2013,,2013-01-04,Toronto Raptors,Sacramento Kings,96,105,REG,486
+nba-201301040WAS,2013,,2013-01-04,Washington Wizards,Brooklyn Nets,113,115,REG,487
+nba-201301050ATL,2013,,2013-01-05,Atlanta Hawks,Boston Celtics,81,89,REG,488
+nba-201301050BRK,2013,,2013-01-05,Brooklyn Nets,Sacramento Kings,113,93,REG,489
+nba-201301050CLE,2013,,2013-01-05,Cleveland Cavaliers,Houston Rockets,104,112,REG,490
+nba-201301050DAL,2013,,2013-01-05,Dallas Mavericks,New Orleans Hornets,96,99,REG,491
+nba-201301050DEN,2013,,2013-01-05,Denver Nuggets,Utah Jazz,110,91,REG,492
+nba-201301050IND,2013,,2013-01-05,Indiana Pacers,Milwaukee Bucks,95,80,REG,493
+nba-201301050LAC,2013,,2013-01-05,Los Angeles Clippers,Golden State Warriors,115,89,REG,494
+nba-201301050MIN,2013,,2013-01-05,Minnesota Timberwolves,Portland Trail Blazers,97,102,REG,495
+nba-201301050ORL,2013,,2013-01-05,Orlando Magic,New York Knicks,106,114,REG,496
+nba-201301050SAS,2013,,2013-01-05,San Antonio Spurs,Philadelphia 76ers,109,86,REG,497
+nba-201301060DET,2013,,2013-01-06,Detroit Pistons,Charlotte Bobcats,101,108,REG,498
+nba-201301060LAL,2013,,2013-01-06,Los Angeles Lakers,Denver Nuggets,105,112,REG,499
+nba-201301060MIA,2013,,2013-01-06,Miami Heat,Washington Wizards,99,71,REG,500
+nba-201301060PHO,2013,,2013-01-06,Phoenix Suns,Memphis Grizzlies,81,92,REG,501
+nba-201301060TOR,2013,,2013-01-06,Toronto Raptors,Oklahoma City Thunder,92,104,REG,502
+nba-201301070CHI,2013,,2013-01-07,Chicago Bulls,Cleveland Cavaliers,118,92,REG,503
+nba-201301070NOH,2013,,2013-01-07,New Orleans Hornets,San Antonio Spurs,95,88,REG,504
+nba-201301070NYK,2013,,2013-01-07,New York Knicks,Boston Celtics,96,102,REG,505
+nba-201301070POR,2013,,2013-01-07,Portland Trail Blazers,Orlando Magic,125,119,REG,506
+nba-201301070SAC,2013,,2013-01-07,Sacramento Kings,Memphis Grizzlies,81,113,REG,507
+nba-201301070UTA,2013,,2013-01-07,Utah Jazz,Dallas Mavericks,100,94,REG,508
+nba-201301070WAS,2013,,2013-01-07,Washington Wizards,Oklahoma City Thunder,101,99,REG,509
+nba-201301080HOU,2013,,2013-01-08,Houston Rockets,Los Angeles Lakers,125,112,REG,510
+nba-201301080IND,2013,,2013-01-08,Indiana Pacers,Miami Heat,87,77,REG,511
+nba-201301080MIL,2013,,2013-01-08,Milwaukee Bucks,Phoenix Suns,108,99,REG,512
+nba-201301080MIN,2013,,2013-01-08,Minnesota Timberwolves,Atlanta Hawks,108,103,REG,513
+nba-201301080PHI,2013,,2013-01-08,Philadelphia 76ers,Brooklyn Nets,89,109,REG,514
+nba-201301090BOS,2013,,2013-01-09,Boston Celtics,Phoenix Suns,87,79,REG,515
+nba-201301090CHA,2013,,2013-01-09,Charlotte Bobcats,Utah Jazz,102,112,REG,516
+nba-201301090CHI,2013,,2013-01-09,Chicago Bulls,Milwaukee Bucks,96,104,REG,517
+nba-201301090CLE,2013,,2013-01-09,Cleveland Cavaliers,Atlanta Hawks,99,83,REG,518
+nba-201301090DEN,2013,,2013-01-09,Denver Nuggets,Orlando Magic,108,105,REG,519
+nba-201301090GSW,2013,,2013-01-09,Golden State Warriors,Memphis Grizzlies,87,94,REG,520
+nba-201301090LAC,2013,,2013-01-09,Los Angeles Clippers,Dallas Mavericks,99,93,REG,521
+nba-201301090NOH,2013,,2013-01-09,New Orleans Hornets,Houston Rockets,88,79,REG,522
+nba-201301090OKC,2013,,2013-01-09,Oklahoma City Thunder,Minnesota Timberwolves,106,84,REG,523
+nba-201301090SAS,2013,,2013-01-09,San Antonio Spurs,Los Angeles Lakers,108,105,REG,524
+nba-201301090TOR,2013,,2013-01-09,Toronto Raptors,Philadelphia 76ers,90,72,REG,525
+nba-201301100IND,2013,,2013-01-10,Indiana Pacers,New York Knicks,81,76,REG,526
+nba-201301100POR,2013,,2013-01-10,Portland Trail Blazers,Miami Heat,92,90,REG,527
+nba-201301100SAC,2013,,2013-01-10,Sacramento Kings,Dallas Mavericks,112,117,REG,528
+nba-201301110ATL,2013,,2013-01-11,Atlanta Hawks,Utah Jazz,103,95,REG,529
+nba-201301110BOS,2013,,2013-01-11,Boston Celtics,Houston Rockets,103,91,REG,530
+nba-201301110BRK,2013,,2013-01-11,Brooklyn Nets,Phoenix Suns,99,79,REG,531
+nba-201301110DEN,2013,,2013-01-11,Denver Nuggets,Cleveland Cavaliers,98,91,REG,532
+nba-201301110GSW,2013,,2013-01-11,Golden State Warriors,Portland Trail Blazers,103,97,REG,533
+nba-201301110LAL,2013,,2013-01-11,Los Angeles Lakers,Oklahoma City Thunder,101,116,REG,534
+nba-201301110MEM,2013,,2013-01-11,Memphis Grizzlies,San Antonio Spurs,101,98,REG,535
+nba-201301110MIL,2013,,2013-01-11,Milwaukee Bucks,Detroit Pistons,87,103,REG,536
+nba-201301110NOH,2013,,2013-01-11,New Orleans Hornets,Minnesota Timberwolves,104,92,REG,537
+nba-201301110NYK,2013,,2013-01-11,New York Knicks,Chicago Bulls,101,108,REG,538
+nba-201301110TOR,2013,,2013-01-11,Toronto Raptors,Charlotte Bobcats,99,78,REG,539
+nba-201301120CHI,2013,,2013-01-12,Chicago Bulls,Phoenix Suns,81,97,REG,540
+nba-201301120DAL,2013,,2013-01-12,Dallas Mavericks,Memphis Grizzlies,104,83,REG,541
+nba-201301120DET,2013,,2013-01-12,Detroit Pistons,Utah Jazz,87,90,REG,542
+nba-201301120IND,2013,,2013-01-12,Indiana Pacers,Charlotte Bobcats,96,88,REG,543
+nba-201301120LAC,2013,,2013-01-12,Los Angeles Clippers,Orlando Magic,101,104,REG,544
+nba-201301120PHI,2013,,2013-01-12,Philadelphia 76ers,Houston Rockets,107,100,REG,545
+nba-201301120SAC,2013,,2013-01-12,Sacramento Kings,Miami Heat,99,128,REG,546
+nba-201301120WAS,2013,,2013-01-12,Washington Wizards,Atlanta Hawks,93,83,REG,547
+nba-201301130BRK,2013,,2013-01-13,Brooklyn Nets,Indiana Pacers,97,86,REG,548
+nba-201301130DEN,2013,,2013-01-13,Denver Nuggets,Golden State Warriors,116,105,REG,549
+nba-201301130LAL,2013,,2013-01-13,Los Angeles Lakers,Cleveland Cavaliers,113,93,REG,550
+nba-201301130NYK,2013,,2013-01-13,New York Knicks,New Orleans Hornets,100,87,REG,551
+nba-201301130POR,2013,,2013-01-13,Portland Trail Blazers,Oklahoma City Thunder,83,87,REG,552
+nba-201301130SAS,2013,,2013-01-13,San Antonio Spurs,Minnesota Timberwolves,106,88,REG,553
+nba-201301130TOR,2013,,2013-01-13,Toronto Raptors,Milwaukee Bucks,96,107,REG,554
+nba-201301140BOS,2013,,2013-01-14,Boston Celtics,Charlotte Bobcats,100,89,REG,555
+nba-201301140CHI,2013,,2013-01-14,Chicago Bulls,Atlanta Hawks,97,58,REG,556
+nba-201301140DAL,2013,,2013-01-14,Dallas Mavericks,Minnesota Timberwolves,113,98,REG,557
+nba-201301140MEM,2013,,2013-01-14,Memphis Grizzlies,Los Angeles Clippers,73,99,REG,558
+nba-201301140PHO,2013,,2013-01-14,Phoenix Suns,Oklahoma City Thunder,90,102,REG,559
+nba-201301140SAC,2013,,2013-01-14,Sacramento Kings,Cleveland Cavaliers,124,118,REG,560
+nba-201301140UTA,2013,,2013-01-14,Utah Jazz,Miami Heat,104,97,REG,561
+nba-201301140WAS,2013,,2013-01-14,Washington Wizards,Orlando Magic,120,91,REG,562
+nba-201301150BRK,2013,,2013-01-15,Brooklyn Nets,Toronto Raptors,113,106,REG,563
+nba-201301150CHA,2013,,2013-01-15,Charlotte Bobcats,Indiana Pacers,76,103,REG,564
+nba-201301150DEN,2013,,2013-01-15,Denver Nuggets,Portland Trail Blazers,115,111,REG,565
+nba-201301150HOU,2013,,2013-01-15,Houston Rockets,Los Angeles Clippers,109,117,REG,566
+nba-201301150LAL,2013,,2013-01-15,Los Angeles Lakers,Milwaukee Bucks,104,88,REG,567
+nba-201301150PHI,2013,,2013-01-15,Philadelphia 76ers,New Orleans Hornets,99,111,REG,568
+nba-201301160ATL,2013,,2013-01-16,Atlanta Hawks,Brooklyn Nets,109,95,REG,569
+nba-201301160BOS,2013,,2013-01-16,Boston Celtics,New Orleans Hornets,78,90,REG,570
+nba-201301160DAL,2013,,2013-01-16,Dallas Mavericks,Houston Rockets,105,100,REG,571
+nba-201301160GSW,2013,,2013-01-16,Golden State Warriors,Miami Heat,75,92,REG,572
+nba-201301160OKC,2013,,2013-01-16,Oklahoma City Thunder,Denver Nuggets,117,97,REG,573
+nba-201301160ORL,2013,,2013-01-16,Orlando Magic,Indiana Pacers,97,86,REG,574
+nba-201301160POR,2013,,2013-01-16,Portland Trail Blazers,Cleveland Cavaliers,88,93,REG,575
+nba-201301160SAC,2013,,2013-01-16,Sacramento Kings,Washington Wizards,95,94,REG,576
+nba-201301160SAS,2013,,2013-01-16,San Antonio Spurs,Memphis Grizzlies,103,82,REG,577
+nba-201301160TOR,2013,,2013-01-16,Toronto Raptors,Chicago Bulls,105,107,REG,578
+nba-201301170DET,2013,,2013-01-17,Detroit Pistons,New York Knicks,87,102,REG,579
+nba-201301170LAL,2013,,2013-01-17,Los Angeles Lakers,Miami Heat,90,99,REG,580
+nba-201301170MIN,2013,,2013-01-17,Minnesota Timberwolves,Los Angeles Clippers,77,90,REG,581
+nba-201301170PHO,2013,,2013-01-17,Phoenix Suns,Milwaukee Bucks,94,98,REG,582
+nba-201301180BOS,2013,,2013-01-18,Boston Celtics,Chicago Bulls,99,100,REG,583
+nba-201301180BRK,2013,,2013-01-18,Brooklyn Nets,Atlanta Hawks,94,89,REG,584
+nba-201301180DAL,2013,,2013-01-18,Dallas Mavericks,Oklahoma City Thunder,114,117,REG,585
+nba-201301180DEN,2013,,2013-01-18,Denver Nuggets,Washington Wizards,108,112,REG,586
+nba-201301180IND,2013,,2013-01-18,Indiana Pacers,Houston Rockets,105,95,REG,587
+nba-201301180MEM,2013,,2013-01-18,Memphis Grizzlies,Sacramento Kings,85,69,REG,588
+nba-201301180ORL,2013,,2013-01-18,Orlando Magic,Charlotte Bobcats,100,106,REG,589
+nba-201301180PHI,2013,,2013-01-18,Philadelphia 76ers,Toronto Raptors,108,101,REG,590
+nba-201301180SAS,2013,,2013-01-18,San Antonio Spurs,Golden State Warriors,95,88,REG,591
+nba-201301190ATL,2013,,2013-01-19,Atlanta Hawks,San Antonio Spurs,93,98,REG,592
+nba-201301190CHA,2013,,2013-01-19,Charlotte Bobcats,Sacramento Kings,93,97,REG,593
+nba-201301190CHI,2013,,2013-01-19,Chicago Bulls,Memphis Grizzlies,82,85,REG,594
+nba-201301190LAC,2013,,2013-01-19,Los Angeles Clippers,Washington Wizards,94,87,REG,595
+nba-201301190MIN,2013,,2013-01-19,Minnesota Timberwolves,Houston Rockets,92,79,REG,596
+nba-201301190NOH,2013,,2013-01-19,New Orleans Hornets,Golden State Warriors,112,116,REG,597
+nba-201301190POR,2013,,2013-01-19,Portland Trail Blazers,Milwaukee Bucks,104,110,REG,598
+nba-201301190UTA,2013,,2013-01-19,Utah Jazz,Cleveland Cavaliers,109,98,REG,599
+nba-201301200DEN,2013,,2013-01-20,Denver Nuggets,Oklahoma City Thunder,121,118,REG,600
+nba-201301200DET,2013,,2013-01-20,Detroit Pistons,Boston Celtics,103,88,REG,601
+nba-201301200ORL,2013,,2013-01-20,Orlando Magic,Dallas Mavericks,105,111,REG,602
+nba-201301200TOR,2013,,2013-01-20,Toronto Raptors,Los Angeles Lakers,108,103,REG,603
+nba-201301210ATL,2013,,2013-01-21,Atlanta Hawks,Minnesota Timberwolves,104,96,REG,604
+nba-201301210CHA,2013,,2013-01-21,Charlotte Bobcats,Houston Rockets,94,100,REG,605
+nba-201301210CHI,2013,,2013-01-21,Chicago Bulls,Los Angeles Lakers,95,83,REG,606
+nba-201301210GSW,2013,,2013-01-21,Golden State Warriors,Los Angeles Clippers,106,99,REG,607
+nba-201301210MEM,2013,,2013-01-21,Memphis Grizzlies,Indiana Pacers,81,82,REG,608
+nba-201301210NOH,2013,,2013-01-21,New Orleans Hornets,Sacramento Kings,114,105,REG,609
+nba-201301210NYK,2013,,2013-01-21,New York Knicks,Brooklyn Nets,85,88,REG,610
+nba-201301210PHI,2013,,2013-01-21,Philadelphia 76ers,San Antonio Spurs,85,90,REG,611
+nba-201301210POR,2013,,2013-01-21,Portland Trail Blazers,Washington Wizards,95,98,REG,612
+nba-201301220CLE,2013,,2013-01-22,Cleveland Cavaliers,Boston Celtics,95,90,REG,613
+nba-201301220DET,2013,,2013-01-22,Detroit Pistons,Orlando Magic,105,90,REG,614
+nba-201301220LAC,2013,,2013-01-22,Los Angeles Clippers,Oklahoma City Thunder,97,109,REG,615
+nba-201301220MIL,2013,,2013-01-22,Milwaukee Bucks,Philadelphia 76ers,110,102,REG,616
+nba-201301230CHA,2013,,2013-01-23,Charlotte Bobcats,Atlanta Hawks,92,104,REG,617
+nba-201301230CHI,2013,,2013-01-23,Chicago Bulls,Detroit Pistons,85,82,REG,618
+nba-201301230GSW,2013,,2013-01-23,Golden State Warriors,Oklahoma City Thunder,104,99,REG,619
+nba-201301230HOU,2013,,2013-01-23,Houston Rockets,Denver Nuggets,95,105,REG,620
+nba-201301230MEM,2013,,2013-01-23,Memphis Grizzlies,Los Angeles Lakers,106,93,REG,621
+nba-201301230MIA,2013,,2013-01-23,Miami Heat,Toronto Raptors,123,116,REG,622
+nba-201301230MIN,2013,,2013-01-23,Minnesota Timberwolves,Brooklyn Nets,83,91,REG,623
+nba-201301230POR,2013,,2013-01-23,Portland Trail Blazers,Indiana Pacers,100,80,REG,624
+nba-201301230SAC,2013,,2013-01-23,Sacramento Kings,Phoenix Suns,96,106,REG,625
+nba-201301230SAS,2013,,2013-01-23,San Antonio Spurs,New Orleans Hornets,106,102,REG,626
+nba-201301230UTA,2013,,2013-01-23,Utah Jazz,Washington Wizards,92,88,REG,627
+nba-201301240BOS,2013,,2013-01-24,Boston Celtics,New York Knicks,86,89,REG,628
+nba-201301240ORL,2013,,2013-01-24,Orlando Magic,Toronto Raptors,95,97,REG,629
+nba-201301240PHO,2013,,2013-01-24,Phoenix Suns,Los Angeles Clippers,93,88,REG,630
+nba-201301250ATL,2013,,2013-01-25,Atlanta Hawks,Boston Celtics,123,111,REG,631
+nba-201301250CHI,2013,,2013-01-25,Chicago Bulls,Golden State Warriors,103,87,REG,632
+nba-201301250CLE,2013,,2013-01-25,Cleveland Cavaliers,Milwaukee Bucks,113,108,REG,633
+nba-201301250DAL,2013,,2013-01-25,Dallas Mavericks,San Antonio Spurs,107,113,REG,634
+nba-201301250LAL,2013,,2013-01-25,Los Angeles Lakers,Utah Jazz,102,84,REG,635
+nba-201301250MEM,2013,,2013-01-25,Memphis Grizzlies,Brooklyn Nets,101,77,REG,636
+nba-201301250MIA,2013,,2013-01-25,Miami Heat,Detroit Pistons,110,88,REG,637
+nba-201301250NOH,2013,,2013-01-25,New Orleans Hornets,Houston Rockets,82,100,REG,638
+nba-201301250SAC,2013,,2013-01-25,Sacramento Kings,Oklahoma City Thunder,95,105,REG,639
+nba-201301250WAS,2013,,2013-01-25,Washington Wizards,Minnesota Timberwolves,114,101,REG,640
+nba-201301260CHA,2013,,2013-01-26,Charlotte Bobcats,Minnesota Timberwolves,102,101,REG,641
+nba-201301260DEN,2013,,2013-01-26,Denver Nuggets,Sacramento Kings,121,93,REG,642
+nba-201301260HOU,2013,,2013-01-26,Houston Rockets,Brooklyn Nets,119,106,REG,643
+nba-201301260MIL,2013,,2013-01-26,Milwaukee Bucks,Golden State Warriors,109,102,REG,644
+nba-201301260PHI,2013,,2013-01-26,Philadelphia 76ers,New York Knicks,97,80,REG,645
+nba-201301260POR,2013,,2013-01-26,Portland Trail Blazers,Los Angeles Clippers,101,100,REG,646
+nba-201301260SAS,2013,,2013-01-26,San Antonio Spurs,Phoenix Suns,108,99,REG,647
+nba-201301260TOR,2013,,2013-01-26,Toronto Raptors,Cleveland Cavaliers,98,99,REG,648
+nba-201301260UTA,2013,,2013-01-26,Utah Jazz,Indiana Pacers,114,110,REG,649
+nba-201301260WAS,2013,,2013-01-26,Washington Wizards,Chicago Bulls,86,73,REG,650
+nba-201301270BOS,2013,,2013-01-27,Boston Celtics,Miami Heat,100,98,REG,651
+nba-201301270DAL,2013,,2013-01-27,Dallas Mavericks,Phoenix Suns,110,95,REG,652
+nba-201301270LAC,2013,,2013-01-27,Los Angeles Clippers,Portland Trail Blazers,96,83,REG,653
+nba-201301270LAL,2013,,2013-01-27,Los Angeles Lakers,Oklahoma City Thunder,105,96,REG,654
+nba-201301270MEM,2013,,2013-01-27,Memphis Grizzlies,New Orleans Hornets,83,91,REG,655
+nba-201301270NYK,2013,,2013-01-27,New York Knicks,Atlanta Hawks,106,104,REG,656
+nba-201301270ORL,2013,,2013-01-27,Orlando Magic,Detroit Pistons,102,104,REG,657
+nba-201301280BRK,2013,,2013-01-28,Brooklyn Nets,Orlando Magic,97,77,REG,658
+nba-201301280CHI,2013,,2013-01-28,Chicago Bulls,Charlotte Bobcats,93,85,REG,659
+nba-201301280DEN,2013,,2013-01-28,Denver Nuggets,Indiana Pacers,102,101,REG,660
+nba-201301280PHI,2013,,2013-01-28,Philadelphia 76ers,Memphis Grizzlies,100,103,REG,661
+nba-201301280TOR,2013,,2013-01-28,Toronto Raptors,Golden State Warriors,102,114,REG,662
+nba-201301280UTA,2013,,2013-01-28,Utah Jazz,Houston Rockets,80,125,REG,663
+nba-201301280WAS,2013,,2013-01-28,Washington Wizards,Sacramento Kings,94,96,REG,664
+nba-201301290CLE,2013,,2013-01-29,Cleveland Cavaliers,Golden State Warriors,95,108,REG,665
+nba-201301290DET,2013,,2013-01-29,Detroit Pistons,Milwaukee Bucks,90,117,REG,666
+nba-201301290LAL,2013,,2013-01-29,Los Angeles Lakers,New Orleans Hornets,111,106,REG,667
+nba-201301290POR,2013,,2013-01-29,Portland Trail Blazers,Dallas Mavericks,106,104,REG,668
+nba-201301300ATL,2013,,2013-01-30,Atlanta Hawks,Toronto Raptors,93,92,REG,669
+nba-201301300BOS,2013,,2013-01-30,Boston Celtics,Sacramento Kings,99,81,REG,670
+nba-201301300BRK,2013,,2013-01-30,Brooklyn Nets,Miami Heat,85,105,REG,671
+nba-201301300DEN,2013,,2013-01-30,Denver Nuggets,Houston Rockets,118,110,REG,672
+nba-201301300IND,2013,,2013-01-30,Indiana Pacers,Detroit Pistons,98,79,REG,673
+nba-201301300MIL,2013,,2013-01-30,Milwaukee Bucks,Chicago Bulls,88,104,REG,674
+nba-201301300MIN,2013,,2013-01-30,Minnesota Timberwolves,Los Angeles Clippers,90,96,REG,675
+nba-201301300NYK,2013,,2013-01-30,New York Knicks,Orlando Magic,113,97,REG,676
+nba-201301300PHI,2013,,2013-01-30,Philadelphia 76ers,Washington Wizards,92,84,REG,677
+nba-201301300PHO,2013,,2013-01-30,Phoenix Suns,Los Angeles Lakers,92,86,REG,678
+nba-201301300SAS,2013,,2013-01-30,San Antonio Spurs,Charlotte Bobcats,102,78,REG,679
+nba-201301300UTA,2013,,2013-01-30,Utah Jazz,New Orleans Hornets,104,99,REG,680
+nba-201301310GSW,2013,,2013-01-31,Golden State Warriors,Dallas Mavericks,100,97,REG,681
+nba-201301310OKC,2013,,2013-01-31,Oklahoma City Thunder,Memphis Grizzlies,106,89,REG,682
+nba-201302010BOS,2013,,2013-02-01,Boston Celtics,Orlando Magic,97,84,REG,683
+nba-201302010BRK,2013,,2013-02-01,Brooklyn Nets,Chicago Bulls,93,89,REG,684
+nba-201302010DEN,2013,,2013-02-01,Denver Nuggets,New Orleans Hornets,113,98,REG,685
+nba-201302010DET,2013,,2013-02-01,Detroit Pistons,Cleveland Cavaliers,117,99,REG,686
+nba-201302010IND,2013,,2013-02-01,Indiana Pacers,Miami Heat,102,89,REG,687
+nba-201302010MEM,2013,,2013-02-01,Memphis Grizzlies,Washington Wizards,85,76,REG,688
+nba-201302010MIN,2013,,2013-02-01,Minnesota Timberwolves,Los Angeles Lakers,100,111,REG,689
+nba-201302010NYK,2013,,2013-02-01,New York Knicks,Milwaukee Bucks,96,86,REG,690
+nba-201302010PHI,2013,,2013-02-01,Philadelphia 76ers,Sacramento Kings,89,80,REG,691
+nba-201302010PHO,2013,,2013-02-01,Phoenix Suns,Dallas Mavericks,99,109,REG,692
+nba-201302010TOR,2013,,2013-02-01,Toronto Raptors,Los Angeles Clippers,98,73,REG,693
+nba-201302010UTA,2013,,2013-02-01,Utah Jazz,Portland Trail Blazers,86,77,REG,694
+nba-201302020ATL,2013,,2013-02-02,Atlanta Hawks,Chicago Bulls,76,93,REG,695
+nba-201302020CLE,2013,,2013-02-02,Cleveland Cavaliers,Oklahoma City Thunder,115,110,REG,696
+nba-201302020GSW,2013,,2013-02-02,Golden State Warriors,Phoenix Suns,113,93,REG,697
+nba-201302020HOU,2013,,2013-02-02,Houston Rockets,Charlotte Bobcats,109,95,REG,698
+nba-201302020MIL,2013,,2013-02-02,Milwaukee Bucks,Orlando Magic,107,98,REG,699
+nba-201302020MIN,2013,,2013-02-02,Minnesota Timberwolves,New Orleans Hornets,115,86,REG,700
+nba-201302020NYK,2013,,2013-02-02,New York Knicks,Sacramento Kings,120,81,REG,701
+nba-201302020POR,2013,,2013-02-02,Portland Trail Blazers,Utah Jazz,105,99,REG,702
+nba-201302020SAS,2013,,2013-02-02,San Antonio Spurs,Washington Wizards,96,86,REG,703
+nba-201302030BOS,2013,,2013-02-03,Boston Celtics,Los Angeles Clippers,106,104,REG,704
+nba-201302030DET,2013,,2013-02-03,Detroit Pistons,Los Angeles Lakers,97,98,REG,705
+nba-201302030TOR,2013,,2013-02-03,Toronto Raptors,Miami Heat,85,100,REG,706
+nba-201302040IND,2013,,2013-02-04,Indiana Pacers,Chicago Bulls,111,101,REG,707
+nba-201302040MIA,2013,,2013-02-04,Miami Heat,Charlotte Bobcats,99,94,REG,708
+nba-201302040MIN,2013,,2013-02-04,Minnesota Timberwolves,Portland Trail Blazers,98,100,REG,709
+nba-201302040NYK,2013,,2013-02-04,New York Knicks,Detroit Pistons,99,85,REG,710
+nba-201302040OKC,2013,,2013-02-04,Oklahoma City Thunder,Dallas Mavericks,112,91,REG,711
+nba-201302040PHI,2013,,2013-02-04,Philadelphia 76ers,Orlando Magic,78,61,REG,712
+nba-201302040UTA,2013,,2013-02-04,Utah Jazz,Sacramento Kings,98,91,REG,713
+nba-201302040WAS,2013,,2013-02-04,Washington Wizards,Los Angeles Clippers,98,90,REG,714
+nba-201302050BRK,2013,,2013-02-05,Brooklyn Nets,Los Angeles Lakers,83,92,REG,715
+nba-201302050DEN,2013,,2013-02-05,Denver Nuggets,Milwaukee Bucks,112,104,REG,716
+nba-201302050HOU,2013,,2013-02-05,Houston Rockets,Golden State Warriors,140,109,REG,717
+nba-201302050IND,2013,,2013-02-05,Indiana Pacers,Atlanta Hawks,114,103,REG,718
+nba-201302050MEM,2013,,2013-02-05,Memphis Grizzlies,Phoenix Suns,90,96,REG,719
+nba-201302060ATL,2013,,2013-02-06,Atlanta Hawks,Memphis Grizzlies,103,92,REG,720
+nba-201302060CLE,2013,,2013-02-06,Cleveland Cavaliers,Charlotte Bobcats,122,95,REG,721
+nba-201302060DAL,2013,,2013-02-06,Dallas Mavericks,Portland Trail Blazers,105,99,REG,722
+nba-201302060DET,2013,,2013-02-06,Detroit Pistons,Brooklyn Nets,90,93,REG,723
+nba-201302060MIA,2013,,2013-02-06,Miami Heat,Houston Rockets,114,108,REG,724
+nba-201302060MIN,2013,,2013-02-06,Minnesota Timberwolves,San Antonio Spurs,94,104,REG,725
+nba-201302060NOH,2013,,2013-02-06,New Orleans Hornets,Phoenix Suns,93,84,REG,726
+nba-201302060OKC,2013,,2013-02-06,Oklahoma City Thunder,Golden State Warriors,119,98,REG,727
+nba-201302060ORL,2013,,2013-02-06,Orlando Magic,Los Angeles Clippers,76,86,REG,728
+nba-201302060PHI,2013,,2013-02-06,Philadelphia 76ers,Indiana Pacers,69,88,REG,729
+nba-201302060TOR,2013,,2013-02-06,Toronto Raptors,Boston Celtics,95,99,REG,730
+nba-201302060UTA,2013,,2013-02-06,Utah Jazz,Milwaukee Bucks,100,86,REG,731
+nba-201302060WAS,2013,,2013-02-06,Washington Wizards,New York Knicks,106,96,REG,732
+nba-201302070BOS,2013,,2013-02-07,Boston Celtics,Los Angeles Lakers,116,95,REG,733
+nba-201302070DEN,2013,,2013-02-07,Denver Nuggets,Chicago Bulls,128,96,REG,734
+nba-201302080ATL,2013,,2013-02-08,Atlanta Hawks,New Orleans Hornets,100,111,REG,735
+nba-201302080CHA,2013,,2013-02-08,Charlotte Bobcats,Los Angeles Lakers,93,100,REG,736
+nba-201302080CLE,2013,,2013-02-08,Cleveland Cavaliers,Orlando Magic,119,108,REG,737
+nba-201302080DET,2013,,2013-02-08,Detroit Pistons,San Antonio Spurs,119,109,REG,738
+nba-201302080HOU,2013,,2013-02-08,Houston Rockets,Portland Trail Blazers,118,103,REG,739
+nba-201302080IND,2013,,2013-02-08,Indiana Pacers,Toronto Raptors,98,100,REG,740
+nba-201302080MEM,2013,,2013-02-08,Memphis Grizzlies,Golden State Warriors,99,93,REG,741
+nba-201302080MIA,2013,,2013-02-08,Miami Heat,Los Angeles Clippers,111,89,REG,742
+nba-201302080MIN,2013,,2013-02-08,Minnesota Timberwolves,New York Knicks,94,100,REG,743
+nba-201302080OKC,2013,,2013-02-08,Oklahoma City Thunder,Phoenix Suns,127,96,REG,744
+nba-201302080UTA,2013,,2013-02-08,Utah Jazz,Chicago Bulls,89,93,REG,745
+nba-201302080WAS,2013,,2013-02-08,Washington Wizards,Brooklyn Nets,89,74,REG,746
+nba-201302090CLE,2013,,2013-02-09,Cleveland Cavaliers,Denver Nuggets,103,111,REG,747
+nba-201302090DAL,2013,,2013-02-09,Dallas Mavericks,Golden State Warriors,116,91,REG,748
+nba-201302090MIL,2013,,2013-02-09,Milwaukee Bucks,Detroit Pistons,100,105,REG,749
+nba-201302090PHI,2013,,2013-02-09,Philadelphia 76ers,Charlotte Bobcats,87,76,REG,750
+nba-201302090SAC,2013,,2013-02-09,Sacramento Kings,Utah Jazz,120,109,REG,751
+nba-201302100BOS,2013,,2013-02-10,Boston Celtics,Denver Nuggets,118,114,REG,752
+nba-201302100BRK,2013,,2013-02-10,Brooklyn Nets,San Antonio Spurs,86,111,REG,753
+nba-201302100MEM,2013,,2013-02-10,Memphis Grizzlies,Minnesota Timberwolves,105,88,REG,754
+nba-201302100MIA,2013,,2013-02-10,Miami Heat,Los Angeles Lakers,107,97,REG,755
+nba-201302100NYK,2013,,2013-02-10,New York Knicks,Los Angeles Clippers,88,102,REG,756
+nba-201302100ORL,2013,,2013-02-10,Orlando Magic,Portland Trail Blazers,110,104,REG,757
+nba-201302100PHO,2013,,2013-02-10,Phoenix Suns,Oklahoma City Thunder,69,97,REG,758
+nba-201302100SAC,2013,,2013-02-10,Sacramento Kings,Houston Rockets,117,111,REG,759
+nba-201302100TOR,2013,,2013-02-10,Toronto Raptors,New Orleans Hornets,102,89,REG,760
+nba-201302110CHA,2013,,2013-02-11,Charlotte Bobcats,Boston Celtics,94,91,REG,761
+nba-201302110CHI,2013,,2013-02-11,Chicago Bulls,San Antonio Spurs,89,103,REG,762
+nba-201302110CLE,2013,,2013-02-11,Cleveland Cavaliers,Minnesota Timberwolves,92,100,REG,763
+nba-201302110DAL,2013,,2013-02-11,Dallas Mavericks,Atlanta Hawks,101,105,REG,764
+nba-201302110DET,2013,,2013-02-11,Detroit Pistons,New Orleans Hornets,86,105,REG,765
+nba-201302110IND,2013,,2013-02-11,Indiana Pacers,Brooklyn Nets,84,89,REG,766
+nba-201302110MIL,2013,,2013-02-11,Milwaukee Bucks,Washington Wizards,90,102,REG,767
+nba-201302110PHI,2013,,2013-02-11,Philadelphia 76ers,Los Angeles Clippers,90,107,REG,768
+nba-201302120GSW,2013,,2013-02-12,Golden State Warriors,Houston Rockets,107,116,REG,769
+nba-201302120LAL,2013,,2013-02-12,Los Angeles Lakers,Phoenix Suns,91,85,REG,770
+nba-201302120MEM,2013,,2013-02-12,Memphis Grizzlies,Sacramento Kings,108,101,REG,771
+nba-201302120MIA,2013,,2013-02-12,Miami Heat,Portland Trail Blazers,117,104,REG,772
+nba-201302120TOR,2013,,2013-02-12,Toronto Raptors,Denver Nuggets,109,108,REG,773
+nba-201302120UTA,2013,,2013-02-12,Utah Jazz,Oklahoma City Thunder,109,94,REG,774
+nba-201302130BOS,2013,,2013-02-13,Boston Celtics,Chicago Bulls,71,69,REG,775
+nba-201302130BRK,2013,,2013-02-13,Brooklyn Nets,Denver Nuggets,119,108,REG,776
+nba-201302130CLE,2013,,2013-02-13,Cleveland Cavaliers,San Antonio Spurs,95,96,REG,777
+nba-201302130DAL,2013,,2013-02-13,Dallas Mavericks,Sacramento Kings,123,100,REG,778
+nba-201302130DET,2013,,2013-02-13,Detroit Pistons,Washington Wizards,96,85,REG,779
+nba-201302130IND,2013,,2013-02-13,Indiana Pacers,Charlotte Bobcats,101,77,REG,780
+nba-201302130LAC,2013,,2013-02-13,Los Angeles Clippers,Houston Rockets,106,96,REG,781
+nba-201302130MIL,2013,,2013-02-13,Milwaukee Bucks,Philadelphia 76ers,94,92,REG,782
+nba-201302130MIN,2013,,2013-02-13,Minnesota Timberwolves,Utah Jazz,93,97,REG,783
+nba-201302130NOH,2013,,2013-02-13,New Orleans Hornets,Portland Trail Blazers,99,63,REG,784
+nba-201302130NYK,2013,,2013-02-13,New York Knicks,Toronto Raptors,88,92,REG,785
+nba-201302130ORL,2013,,2013-02-13,Orlando Magic,Atlanta Hawks,76,108,REG,786
+nba-201302140LAL,2013,,2013-02-14,Los Angeles Lakers,Los Angeles Clippers,101,125,REG,787
+nba-201302140OKC,2013,,2013-02-14,Oklahoma City Thunder,Miami Heat,100,110,REG,788
+nba-201302190BRK,2013,,2013-02-19,Brooklyn Nets,Milwaukee Bucks,113,111,REG,789
+nba-201302190DEN,2013,,2013-02-19,Denver Nuggets,Boston Celtics,97,90,REG,790
+nba-201302190DET,2013,,2013-02-19,Detroit Pistons,Memphis Grizzlies,91,105,REG,791
+nba-201302190NOH,2013,,2013-02-19,New Orleans Hornets,Chicago Bulls,87,96,REG,792
+nba-201302190ORL,2013,,2013-02-19,Orlando Magic,Charlotte Bobcats,92,105,REG,793
+nba-201302190POR,2013,,2013-02-19,Portland Trail Blazers,Phoenix Suns,98,102,REG,794
+nba-201302190SAC,2013,,2013-02-19,Sacramento Kings,San Antonio Spurs,102,108,REG,795
+nba-201302190UTA,2013,,2013-02-19,Utah Jazz,Golden State Warriors,115,101,REG,796
+nba-201302190WAS,2013,,2013-02-19,Washington Wizards,Toronto Raptors,88,96,REG,797
+nba-201302200ATL,2013,,2013-02-20,Atlanta Hawks,Miami Heat,90,103,REG,798
+nba-201302200CHA,2013,,2013-02-20,Charlotte Bobcats,Detroit Pistons,99,105,REG,799
+nba-201302200CLE,2013,,2013-02-20,Cleveland Cavaliers,New Orleans Hornets,105,100,REG,800
+nba-201302200DAL,2013,,2013-02-20,Dallas Mavericks,Orlando Magic,111,96,REG,801
+nba-201302200GSW,2013,,2013-02-20,Golden State Warriors,Phoenix Suns,108,98,REG,802
+nba-201302200HOU,2013,,2013-02-20,Houston Rockets,Oklahoma City Thunder,122,119,REG,803
+nba-201302200IND,2013,,2013-02-20,Indiana Pacers,New York Knicks,125,91,REG,804
+nba-201302200LAL,2013,,2013-02-20,Los Angeles Lakers,Boston Celtics,113,99,REG,805
+nba-201302200MIL,2013,,2013-02-20,Milwaukee Bucks,Brooklyn Nets,94,97,REG,806
+nba-201302200MIN,2013,,2013-02-20,Minnesota Timberwolves,Philadelphia 76ers,94,87,REG,807
+nba-201302200TOR,2013,,2013-02-20,Toronto Raptors,Memphis Grizzlies,82,88,REG,808
+nba-201302210CHI,2013,,2013-02-21,Chicago Bulls,Miami Heat,67,86,REG,809
+nba-201302210LAC,2013,,2013-02-21,Los Angeles Clippers,San Antonio Spurs,90,116,REG,810
+nba-201302220ATL,2013,,2013-02-22,Atlanta Hawks,Sacramento Kings,122,108,REG,811
+nba-201302220BRK,2013,,2013-02-22,Brooklyn Nets,Houston Rockets,96,106,REG,812
+nba-201302220CHA,2013,,2013-02-22,Charlotte Bobcats,Chicago Bulls,75,105,REG,813
+nba-201302220GSW,2013,,2013-02-22,Golden State Warriors,San Antonio Spurs,107,101,REG,814
+nba-201302220IND,2013,,2013-02-22,Indiana Pacers,Detroit Pistons,114,82,REG,815
+nba-201302220LAL,2013,,2013-02-22,Los Angeles Lakers,Portland Trail Blazers,111,107,REG,816
+nba-201302220MEM,2013,,2013-02-22,Memphis Grizzlies,Orlando Magic,88,82,REG,817
+nba-201302220NOH,2013,,2013-02-22,New Orleans Hornets,Dallas Mavericks,100,104,REG,818
+nba-201302220OKC,2013,,2013-02-22,Oklahoma City Thunder,Minnesota Timberwolves,127,111,REG,819
+nba-201302220PHO,2013,,2013-02-22,Phoenix Suns,Boston Celtics,88,113,REG,820
+nba-201302220TOR,2013,,2013-02-22,Toronto Raptors,New York Knicks,100,98,REG,821
+nba-201302220WAS,2013,,2013-02-22,Washington Wizards,Denver Nuggets,119,113,REG,822
+nba-201302230CHA,2013,,2013-02-23,Charlotte Bobcats,Denver Nuggets,99,113,REG,823
+nba-201302230DET,2013,,2013-02-23,Detroit Pistons,Indiana Pacers,72,90,REG,824
+nba-201302230LAC,2013,,2013-02-23,Los Angeles Clippers,Utah Jazz,107,94,REG,825
+nba-201302230MIL,2013,,2013-02-23,Milwaukee Bucks,Atlanta Hawks,102,103,REG,826
+nba-201302230ORL,2013,,2013-02-23,Orlando Magic,Cleveland Cavaliers,94,118,REG,827
+nba-201302230PHI,2013,,2013-02-23,Philadelphia 76ers,Miami Heat,90,114,REG,828
+nba-201302230WAS,2013,,2013-02-23,Washington Wizards,Houston Rockets,105,103,REG,829
+nba-201302240BRK,2013,,2013-02-24,Brooklyn Nets,Memphis Grizzlies,72,76,REG,830
+nba-201302240DAL,2013,,2013-02-24,Dallas Mavericks,Los Angeles Lakers,99,103,REG,831
+nba-201302240MIA,2013,,2013-02-24,Miami Heat,Cleveland Cavaliers,109,105,REG,832
+nba-201302240MIN,2013,,2013-02-24,Minnesota Timberwolves,Golden State Warriors,99,100,REG,833
+nba-201302240NOH,2013,,2013-02-24,New Orleans Hornets,Sacramento Kings,110,95,REG,834
+nba-201302240NYK,2013,,2013-02-24,New York Knicks,Philadelphia 76ers,99,93,REG,835
+nba-201302240OKC,2013,,2013-02-24,Oklahoma City Thunder,Chicago Bulls,102,72,REG,836
+nba-201302240PHO,2013,,2013-02-24,Phoenix Suns,San Antonio Spurs,87,97,REG,837
+nba-201302240POR,2013,,2013-02-24,Portland Trail Blazers,Boston Celtics,92,86,REG,838
+nba-201302250DEN,2013,,2013-02-25,Denver Nuggets,Los Angeles Lakers,119,108,REG,839
+nba-201302250DET,2013,,2013-02-25,Detroit Pistons,Atlanta Hawks,103,114,REG,840
+nba-201302250TOR,2013,,2013-02-25,Toronto Raptors,Washington Wizards,84,90,REG,841
+nba-201302250UTA,2013,,2013-02-25,Utah Jazz,Boston Celtics,107,110,REG,842
+nba-201302260CHI,2013,,2013-02-26,Chicago Bulls,Cleveland Cavaliers,98,101,REG,843
+nba-201302260DAL,2013,,2013-02-26,Dallas Mavericks,Milwaukee Bucks,90,95,REG,844
+nba-201302260IND,2013,,2013-02-26,Indiana Pacers,Golden State Warriors,108,97,REG,845
+nba-201302260LAC,2013,,2013-02-26,Los Angeles Clippers,Charlotte Bobcats,106,84,REG,846
+nba-201302260MIA,2013,,2013-02-26,Miami Heat,Sacramento Kings,141,129,REG,847
+nba-201302260NOH,2013,,2013-02-26,New Orleans Hornets,Brooklyn Nets,97,101,REG,848
+nba-201302260PHI,2013,,2013-02-26,Philadelphia 76ers,Orlando Magic,84,98,REG,849
+nba-201302260PHO,2013,,2013-02-26,Phoenix Suns,Minnesota Timberwolves,84,83,REG,850
+nba-201302270CLE,2013,,2013-02-27,Cleveland Cavaliers,Toronto Raptors,103,92,REG,851
+nba-201302270HOU,2013,,2013-02-27,Houston Rockets,Milwaukee Bucks,107,110,REG,852
+nba-201302270MEM,2013,,2013-02-27,Memphis Grizzlies,Dallas Mavericks,90,84,REG,853
+nba-201302270NYK,2013,,2013-02-27,New York Knicks,Golden State Warriors,109,105,REG,854
+nba-201302270OKC,2013,,2013-02-27,Oklahoma City Thunder,New Orleans Hornets,119,74,REG,855
+nba-201302270ORL,2013,,2013-02-27,Orlando Magic,Sacramento Kings,101,125,REG,856
+nba-201302270POR,2013,,2013-02-27,Portland Trail Blazers,Denver Nuggets,109,111,REG,857
+nba-201302270SAS,2013,,2013-02-27,San Antonio Spurs,Phoenix Suns,101,105,REG,858
+nba-201302270UTA,2013,,2013-02-27,Utah Jazz,Atlanta Hawks,91,102,REG,859
+nba-201302270WAS,2013,,2013-02-27,Washington Wizards,Detroit Pistons,95,96,REG,860
+nba-201302280CHI,2013,,2013-02-28,Chicago Bulls,Philadelphia 76ers,93,82,REG,861
+nba-201302280IND,2013,,2013-02-28,Indiana Pacers,Los Angeles Clippers,91,99,REG,862
+nba-201302280LAL,2013,,2013-02-28,Los Angeles Lakers,Minnesota Timberwolves,116,94,REG,863
+nba-201303010BOS,2013,,2013-03-01,Boston Celtics,Golden State Warriors,94,86,REG,864
+nba-201303010BRK,2013,,2013-03-01,Brooklyn Nets,Dallas Mavericks,90,98,REG,865
+nba-201303010CLE,2013,,2013-03-01,Cleveland Cavaliers,Los Angeles Clippers,89,105,REG,866
+nba-201303010DEN,2013,,2013-03-01,Denver Nuggets,Oklahoma City Thunder,105,103,REG,867
+nba-201303010MIA,2013,,2013-03-01,Miami Heat,Memphis Grizzlies,98,91,REG,868
+nba-201303010NOH,2013,,2013-03-01,New Orleans Hornets,Detroit Pistons,100,95,REG,869
+nba-201303010ORL,2013,,2013-03-01,Orlando Magic,Houston Rockets,110,118,REG,870
+nba-201303010PHO,2013,,2013-03-01,Phoenix Suns,Atlanta Hawks,92,87,REG,871
+nba-201303010SAS,2013,,2013-03-01,San Antonio Spurs,Sacramento Kings,130,102,REG,872
+nba-201303010TOR,2013,,2013-03-01,Toronto Raptors,Indiana Pacers,81,93,REG,873
+nba-201303010UTA,2013,,2013-03-01,Utah Jazz,Charlotte Bobcats,98,68,REG,874
+nba-201303010WAS,2013,,2013-03-01,Washington Wizards,New York Knicks,88,96,REG,875
+nba-201303020CHI,2013,,2013-03-02,Chicago Bulls,Brooklyn Nets,96,85,REG,876
+nba-201303020MIL,2013,,2013-03-02,Milwaukee Bucks,Toronto Raptors,122,114,REG,877
+nba-201303020PHI,2013,,2013-03-02,Philadelphia 76ers,Golden State Warriors,104,97,REG,878
+nba-201303020POR,2013,,2013-03-02,Portland Trail Blazers,Minnesota Timberwolves,109,94,REG,879
+nba-201303030HOU,2013,,2013-03-03,Houston Rockets,Dallas Mavericks,136,103,REG,880
+nba-201303030IND,2013,,2013-03-03,Indiana Pacers,Chicago Bulls,97,92,REG,881
+nba-201303030LAC,2013,,2013-03-03,Los Angeles Clippers,Oklahoma City Thunder,104,108,REG,882
+nba-201303030LAL,2013,,2013-03-03,Los Angeles Lakers,Atlanta Hawks,99,98,REG,883
+nba-201303030NYK,2013,,2013-03-03,New York Knicks,Miami Heat,93,99,REG,884
+nba-201303030ORL,2013,,2013-03-03,Orlando Magic,Memphis Grizzlies,82,108,REG,885
+nba-201303030SAC,2013,,2013-03-03,Sacramento Kings,Charlotte Bobcats,119,83,REG,886
+nba-201303030SAS,2013,,2013-03-03,San Antonio Spurs,Detroit Pistons,114,75,REG,887
+nba-201303030WAS,2013,,2013-03-03,Washington Wizards,Philadelphia 76ers,90,87,REG,888
+nba-201303040CLE,2013,,2013-03-04,Cleveland Cavaliers,New York Knicks,97,102,REG,889
+nba-201303040DEN,2013,,2013-03-04,Denver Nuggets,Atlanta Hawks,104,88,REG,890
+nba-201303040GSW,2013,,2013-03-04,Golden State Warriors,Toronto Raptors,125,118,REG,891
+nba-201303040MIL,2013,,2013-03-04,Milwaukee Bucks,Utah Jazz,109,108,REG,892
+nba-201303040MIN,2013,,2013-03-04,Minnesota Timberwolves,Miami Heat,81,97,REG,893
+nba-201303040NOH,2013,,2013-03-04,New Orleans Hornets,Orlando Magic,102,105,REG,894
+nba-201303040POR,2013,,2013-03-04,Portland Trail Blazers,Charlotte Bobcats,122,105,REG,895
+nba-201303050OKC,2013,,2013-03-05,Oklahoma City Thunder,Los Angeles Lakers,122,105,REG,896
+nba-201303050PHI,2013,,2013-03-05,Philadelphia 76ers,Boston Celtics,101,109,REG,897
+nba-201303050SAC,2013,,2013-03-05,Sacramento Kings,Denver Nuggets,113,120,REG,898
+nba-201303060ATL,2013,,2013-03-06,Atlanta Hawks,Philadelphia 76ers,107,96,REG,899
+nba-201303060CHA,2013,,2013-03-06,Charlotte Bobcats,Brooklyn Nets,78,99,REG,900
+nba-201303060CLE,2013,,2013-03-06,Cleveland Cavaliers,Utah Jazz,104,101,REG,901
+nba-201303060DAL,2013,,2013-03-06,Dallas Mavericks,Houston Rockets,112,108,REG,902
+nba-201303060DET,2013,,2013-03-06,Detroit Pistons,New York Knicks,77,87,REG,903
+nba-201303060GSW,2013,,2013-03-06,Golden State Warriors,Sacramento Kings,87,83,REG,904
+nba-201303060IND,2013,,2013-03-06,Indiana Pacers,Boston Celtics,81,83,REG,905
+nba-201303060LAC,2013,,2013-03-06,Los Angeles Clippers,Milwaukee Bucks,117,101,REG,906
+nba-201303060MEM,2013,,2013-03-06,Memphis Grizzlies,Portland Trail Blazers,91,85,REG,907
+nba-201303060MIA,2013,,2013-03-06,Miami Heat,Orlando Magic,97,96,REG,908
+nba-201303060MIN,2013,,2013-03-06,Minnesota Timberwolves,Washington Wizards,87,82,REG,909
+nba-201303060NOH,2013,,2013-03-06,New Orleans Hornets,Los Angeles Lakers,102,108,REG,910
+nba-201303060PHO,2013,,2013-03-06,Phoenix Suns,Toronto Raptors,71,98,REG,911
+nba-201303060SAS,2013,,2013-03-06,San Antonio Spurs,Chicago Bulls,101,83,REG,912
+nba-201303070DEN,2013,,2013-03-07,Denver Nuggets,Los Angeles Clippers,107,92,REG,913
+nba-201303070NYK,2013,,2013-03-07,New York Knicks,Oklahoma City Thunder,94,95,REG,914
+nba-201303080BOS,2013,,2013-03-08,Boston Celtics,Atlanta Hawks,107,102,REG,915
+nba-201303080BRK,2013,,2013-03-08,Brooklyn Nets,Washington Wizards,95,78,REG,916
+nba-201303080CHA,2013,,2013-03-08,Charlotte Bobcats,Oklahoma City Thunder,94,116,REG,917
+nba-201303080CHI,2013,,2013-03-08,Chicago Bulls,Utah Jazz,89,88,REG,918
+nba-201303080CLE,2013,,2013-03-08,Cleveland Cavaliers,Memphis Grizzlies,92,103,REG,919
+nba-201303080DET,2013,,2013-03-08,Detroit Pistons,Dallas Mavericks,99,102,REG,920
+nba-201303080GSW,2013,,2013-03-08,Golden State Warriors,Houston Rockets,88,94,REG,921
+nba-201303080LAL,2013,,2013-03-08,Los Angeles Lakers,Toronto Raptors,118,116,REG,922
+nba-201303080MIA,2013,,2013-03-08,Miami Heat,Philadelphia 76ers,102,93,REG,923
+nba-201303080ORL,2013,,2013-03-08,Orlando Magic,Indiana Pacers,86,115,REG,924
+nba-201303080SAC,2013,,2013-03-08,Sacramento Kings,Phoenix Suns,121,112,REG,925
+nba-201303080SAS,2013,,2013-03-08,San Antonio Spurs,Portland Trail Blazers,106,136,REG,926
+nba-201303090ATL,2013,,2013-03-09,Atlanta Hawks,Brooklyn Nets,80,93,REG,927
+nba-201303090DEN,2013,,2013-03-09,Denver Nuggets,Minnesota Timberwolves,111,88,REG,928
+nba-201303090GSW,2013,,2013-03-09,Golden State Warriors,Milwaukee Bucks,93,103,REG,929
+nba-201303090MEM,2013,,2013-03-09,Memphis Grizzlies,New Orleans Hornets,96,85,REG,930
+nba-201303090NYK,2013,,2013-03-09,New York Knicks,Utah Jazz,113,84,REG,931
+nba-201303090PHO,2013,,2013-03-09,Phoenix Suns,Houston Rockets,107,105,REG,932
+nba-201303090WAS,2013,,2013-03-09,Washington Wizards,Charlotte Bobcats,104,87,REG,933
+nba-201303100LAC,2013,,2013-03-10,Los Angeles Clippers,Detroit Pistons,129,97,REG,934
+nba-201303100LAL,2013,,2013-03-10,Los Angeles Lakers,Chicago Bulls,90,81,REG,935
+nba-201303100MIA,2013,,2013-03-10,Miami Heat,Indiana Pacers,105,91,REG,936
+nba-201303100MIN,2013,,2013-03-10,Minnesota Timberwolves,Dallas Mavericks,77,100,REG,937
+nba-201303100NOH,2013,,2013-03-10,New Orleans Hornets,Portland Trail Blazers,98,96,REG,938
+nba-201303100OKC,2013,,2013-03-10,Oklahoma City Thunder,Boston Celtics,91,79,REG,939
+nba-201303100ORL,2013,,2013-03-10,Orlando Magic,Philadelphia 76ers,99,91,REG,940
+nba-201303100SAC,2013,,2013-03-10,Sacramento Kings,Milwaukee Bucks,113,115,REG,941
+nba-201303100TOR,2013,,2013-03-10,Toronto Raptors,Cleveland Cavaliers,100,96,REG,942
+nba-201303110GSW,2013,,2013-03-11,Golden State Warriors,New York Knicks,92,63,REG,943
+nba-201303110PHI,2013,,2013-03-11,Philadelphia 76ers,Brooklyn Nets,106,97,REG,944
+nba-201303110PHO,2013,,2013-03-11,Phoenix Suns,Denver Nuggets,93,108,REG,945
+nba-201303110SAS,2013,,2013-03-11,San Antonio Spurs,Oklahoma City Thunder,105,93,REG,946
+nba-201303110UTA,2013,,2013-03-11,Utah Jazz,Detroit Pistons,103,90,REG,947
+nba-201303120BRK,2013,,2013-03-12,Brooklyn Nets,New Orleans Hornets,108,98,REG,948
+nba-201303120CHA,2013,,2013-03-12,Charlotte Bobcats,Boston Celtics,100,74,REG,949
+nba-201303120CLE,2013,,2013-03-12,Cleveland Cavaliers,Washington Wizards,95,90,REG,950
+nba-201303120MIA,2013,,2013-03-12,Miami Heat,Atlanta Hawks,98,81,REG,951
+nba-201303120MIL,2013,,2013-03-12,Milwaukee Bucks,Dallas Mavericks,108,115,REG,952
+nba-201303120MIN,2013,,2013-03-12,Minnesota Timberwolves,San Antonio Spurs,107,83,REG,953
+nba-201303120ORL,2013,,2013-03-12,Orlando Magic,Los Angeles Lakers,97,106,REG,954
+nba-201303120POR,2013,,2013-03-12,Portland Trail Blazers,Memphis Grizzlies,97,102,REG,955
+nba-201303130ATL,2013,,2013-03-13,Atlanta Hawks,Los Angeles Lakers,96,92,REG,956
+nba-201303130BOS,2013,,2013-03-13,Boston Celtics,Toronto Raptors,112,88,REG,957
+nba-201303130DEN,2013,,2013-03-13,Denver Nuggets,New York Knicks,117,94,REG,958
+nba-201303130GSW,2013,,2013-03-13,Golden State Warriors,Detroit Pistons,105,97,REG,959
+nba-201303130HOU,2013,,2013-03-13,Houston Rockets,Phoenix Suns,111,81,REG,960
+nba-201303130IND,2013,,2013-03-13,Indiana Pacers,Minnesota Timberwolves,107,91,REG,961
+nba-201303130LAC,2013,,2013-03-13,Los Angeles Clippers,Memphis Grizzlies,85,96,REG,962
+nba-201303130OKC,2013,,2013-03-13,Oklahoma City Thunder,Utah Jazz,110,87,REG,963
+nba-201303130PHI,2013,,2013-03-13,Philadelphia 76ers,Miami Heat,94,98,REG,964
+nba-201303130SAC,2013,,2013-03-13,Sacramento Kings,Chicago Bulls,121,79,REG,965
+nba-201303130WAS,2013,,2013-03-13,Washington Wizards,Milwaukee Bucks,106,93,REG,966
+nba-201303140POR,2013,,2013-03-14,Portland Trail Blazers,New York Knicks,105,90,REG,967
+nba-201303140SAS,2013,,2013-03-14,San Antonio Spurs,Dallas Mavericks,92,91,REG,968
+nba-201303150ATL,2013,,2013-03-15,Atlanta Hawks,Phoenix Suns,107,94,REG,969
+nba-201303150DAL,2013,,2013-03-15,Dallas Mavericks,Cleveland Cavaliers,96,86,REG,970
+nba-201303150DEN,2013,,2013-03-15,Denver Nuggets,Memphis Grizzlies,87,80,REG,971
+nba-201303150GSW,2013,,2013-03-15,Golden State Warriors,Chicago Bulls,95,113,REG,972
+nba-201303150HOU,2013,,2013-03-15,Houston Rockets,Minnesota Timberwolves,108,100,REG,973
+nba-201303150IND,2013,,2013-03-15,Indiana Pacers,Los Angeles Lakers,93,99,REG,974
+nba-201303150MIL,2013,,2013-03-15,Milwaukee Bucks,Miami Heat,94,107,REG,975
+nba-201303150OKC,2013,,2013-03-15,Oklahoma City Thunder,Orlando Magic,117,104,REG,976
+nba-201303150TOR,2013,,2013-03-15,Toronto Raptors,Charlotte Bobcats,92,78,REG,977
+nba-201303150WAS,2013,,2013-03-15,Washington Wizards,New Orleans Hornets,96,87,REG,978
+nba-201303160BOS,2013,,2013-03-16,Boston Celtics,Charlotte Bobcats,105,88,REG,979
+nba-201303160PHI,2013,,2013-03-16,Philadelphia 76ers,Indiana Pacers,98,91,REG,980
+nba-201303160POR,2013,,2013-03-16,Portland Trail Blazers,Detroit Pistons,112,101,REG,981
+nba-201303160SAS,2013,,2013-03-16,San Antonio Spurs,Cleveland Cavaliers,119,113,REG,982
+nba-201303160UTA,2013,,2013-03-16,Utah Jazz,Memphis Grizzlies,90,84,REG,983
+nba-201303160WAS,2013,,2013-03-16,Washington Wizards,Phoenix Suns,127,105,REG,984
+nba-201303170BRK,2013,,2013-03-17,Brooklyn Nets,Atlanta Hawks,93,105,REG,985
+nba-201303170DAL,2013,,2013-03-17,Dallas Mavericks,Oklahoma City Thunder,101,107,REG,986
+nba-201303170HOU,2013,,2013-03-17,Houston Rockets,Golden State Warriors,78,108,REG,987
+nba-201303170LAC,2013,,2013-03-17,Los Angeles Clippers,New York Knicks,93,80,REG,988
+nba-201303170LAL,2013,,2013-03-17,Los Angeles Lakers,Sacramento Kings,113,102,REG,989
+nba-201303170MIL,2013,,2013-03-17,Milwaukee Bucks,Orlando Magic,115,109,REG,990
+nba-201303170MIN,2013,,2013-03-17,Minnesota Timberwolves,New Orleans Hornets,97,95,REG,991
+nba-201303170TOR,2013,,2013-03-17,Toronto Raptors,Miami Heat,91,108,REG,992
+nba-201303180ATL,2013,,2013-03-18,Atlanta Hawks,Dallas Mavericks,113,127,REG,993
+nba-201303180BOS,2013,,2013-03-18,Boston Celtics,Miami Heat,103,105,REG,994
+nba-201303180CHA,2013,,2013-03-18,Charlotte Bobcats,Washington Wizards,119,114,REG,995
+nba-201303180CHI,2013,,2013-03-18,Chicago Bulls,Denver Nuggets,118,119,REG,996
+nba-201303180CLE,2013,,2013-03-18,Cleveland Cavaliers,Indiana Pacers,90,111,REG,997
+nba-201303180DET,2013,,2013-03-18,Detroit Pistons,Brooklyn Nets,82,119,REG,998
+nba-201303180MEM,2013,,2013-03-18,Memphis Grizzlies,Minnesota Timberwolves,92,77,REG,999
+nba-201303180NOH,2013,,2013-03-18,New Orleans Hornets,Golden State Warriors,72,93,REG,1000
+nba-201303180PHI,2013,,2013-03-18,Philadelphia 76ers,Portland Trail Blazers,101,100,REG,1001
+nba-201303180PHO,2013,,2013-03-18,Phoenix Suns,Los Angeles Lakers,99,76,REG,1002
+nba-201303180UTA,2013,,2013-03-18,Utah Jazz,New York Knicks,83,90,REG,1003
+nba-201303190IND,2013,,2013-03-19,Indiana Pacers,Orlando Magic,95,73,REG,1004
+nba-201303190MIL,2013,,2013-03-19,Milwaukee Bucks,Portland Trail Blazers,102,95,REG,1005
+nba-201303190OKC,2013,,2013-03-19,Oklahoma City Thunder,Denver Nuggets,104,114,REG,1006
+nba-201303190SAC,2013,,2013-03-19,Sacramento Kings,Los Angeles Clippers,116,101,REG,1007
+nba-201303200ATL,2013,,2013-03-20,Atlanta Hawks,Milwaukee Bucks,98,90,REG,1008
+nba-201303200CHA,2013,,2013-03-20,Charlotte Bobcats,Toronto Raptors,107,101,REG,1009
+nba-201303200CLE,2013,,2013-03-20,Cleveland Cavaliers,Miami Heat,95,98,REG,1010
+nba-201303200DAL,2013,,2013-03-20,Dallas Mavericks,Brooklyn Nets,96,113,REG,1011
+nba-201303200HOU,2013,,2013-03-20,Houston Rockets,Utah Jazz,100,93,REG,1012
+nba-201303200LAC,2013,,2013-03-20,Los Angeles Clippers,Philadelphia 76ers,101,72,REG,1013
+nba-201303200MEM,2013,,2013-03-20,Memphis Grizzlies,Oklahoma City Thunder,90,89,REG,1014
+nba-201303200NOH,2013,,2013-03-20,New Orleans Hornets,Boston Celtics,87,86,REG,1015
+nba-201303200NYK,2013,,2013-03-20,New York Knicks,Orlando Magic,106,94,REG,1016
+nba-201303200PHO,2013,,2013-03-20,Phoenix Suns,Washington Wizards,79,88,REG,1017
+nba-201303200SAS,2013,,2013-03-20,San Antonio Spurs,Golden State Warriors,104,93,REG,1018
+nba-201303210CHI,2013,,2013-03-21,Chicago Bulls,Portland Trail Blazers,89,99,REG,1019
+nba-201303210DEN,2013,,2013-03-21,Denver Nuggets,Philadelphia 76ers,101,100,REG,1020
+nba-201303210SAC,2013,,2013-03-21,Sacramento Kings,Minnesota Timberwolves,101,98,REG,1021
+nba-201303220ATL,2013,,2013-03-22,Atlanta Hawks,Portland Trail Blazers,93,104,REG,1022
+nba-201303220DAL,2013,,2013-03-22,Dallas Mavericks,Boston Celtics,104,94,REG,1023
+nba-201303220HOU,2013,,2013-03-22,Houston Rockets,Cleveland Cavaliers,116,78,REG,1024
+nba-201303220IND,2013,,2013-03-22,Indiana Pacers,Milwaukee Bucks,102,78,REG,1025
+nba-201303220LAL,2013,,2013-03-22,Los Angeles Lakers,Washington Wizards,100,103,REG,1026
+nba-201303220MIA,2013,,2013-03-22,Miami Heat,Detroit Pistons,103,89,REG,1027
+nba-201303220NOH,2013,,2013-03-22,New Orleans Hornets,Memphis Grizzlies,90,83,REG,1028
+nba-201303220ORL,2013,,2013-03-22,Orlando Magic,Oklahoma City Thunder,89,97,REG,1029
+nba-201303220PHO,2013,,2013-03-22,Phoenix Suns,Minnesota Timberwolves,86,117,REG,1030
+nba-201303220SAS,2013,,2013-03-22,San Antonio Spurs,Utah Jazz,104,97,REG,1031
+nba-201303220TOR,2013,,2013-03-22,Toronto Raptors,New York Knicks,94,99,REG,1032
+nba-201303230CHA,2013,,2013-03-23,Charlotte Bobcats,Detroit Pistons,91,92,REG,1033
+nba-201303230CHI,2013,,2013-03-23,Chicago Bulls,Indiana Pacers,87,84,REG,1034
+nba-201303230DEN,2013,,2013-03-23,Denver Nuggets,Sacramento Kings,101,95,REG,1035
+nba-201303230GSW,2013,,2013-03-23,Golden State Warriors,Washington Wizards,101,92,REG,1036
+nba-201303230LAC,2013,,2013-03-23,Los Angeles Clippers,Brooklyn Nets,101,95,REG,1037
+nba-201303230MEM,2013,,2013-03-23,Memphis Grizzlies,Boston Celtics,110,106,REG,1038
+nba-201303230NYK,2013,,2013-03-23,New York Knicks,Toronto Raptors,110,84,REG,1039
+nba-201303240DAL,2013,,2013-03-24,Dallas Mavericks,Utah Jazz,113,108,REG,1040
+nba-201303240HOU,2013,,2013-03-24,Houston Rockets,San Antonio Spurs,96,95,REG,1041
+nba-201303240MIA,2013,,2013-03-24,Miami Heat,Charlotte Bobcats,109,77,REG,1042
+nba-201303240MIL,2013,,2013-03-24,Milwaukee Bucks,Atlanta Hawks,99,104,REG,1043
+nba-201303240MIN,2013,,2013-03-24,Minnesota Timberwolves,Chicago Bulls,97,104,REG,1044
+nba-201303240OKC,2013,,2013-03-24,Oklahoma City Thunder,Portland Trail Blazers,103,83,REG,1045
+nba-201303240PHO,2013,,2013-03-24,Phoenix Suns,Brooklyn Nets,100,102,REG,1046
+nba-201303240SAC,2013,,2013-03-24,Sacramento Kings,Philadelphia 76ers,103,117,REG,1047
+nba-201303250GSW,2013,,2013-03-25,Golden State Warriors,Los Angeles Lakers,109,103,REG,1048
+nba-201303250IND,2013,,2013-03-25,Indiana Pacers,Atlanta Hawks,100,94,REG,1049
+nba-201303250NOH,2013,,2013-03-25,New Orleans Hornets,Denver Nuggets,110,86,REG,1050
+nba-201303250ORL,2013,,2013-03-25,Orlando Magic,Miami Heat,94,108,REG,1051
+nba-201303250UTA,2013,,2013-03-25,Utah Jazz,Philadelphia 76ers,107,91,REG,1052
+nba-201303250WAS,2013,,2013-03-25,Washington Wizards,Memphis Grizzlies,107,94,REG,1053
+nba-201303260BOS,2013,,2013-03-26,Boston Celtics,New York Knicks,85,100,REG,1054
+nba-201303260DAL,2013,,2013-03-26,Dallas Mavericks,Los Angeles Clippers,109,102,REG,1055
+nba-201303260DET,2013,,2013-03-26,Detroit Pistons,Minnesota Timberwolves,82,105,REG,1056
+nba-201303270CHA,2013,,2013-03-27,Charlotte Bobcats,Orlando Magic,114,108,REG,1057
+nba-201303270CHI,2013,,2013-03-27,Chicago Bulls,Miami Heat,101,97,REG,1058
+nba-201303270CLE,2013,,2013-03-27,Cleveland Cavaliers,Boston Celtics,92,93,REG,1059
+nba-201303270GSW,2013,,2013-03-27,Golden State Warriors,Sacramento Kings,98,105,REG,1060
+nba-201303270HOU,2013,,2013-03-27,Houston Rockets,Indiana Pacers,91,100,REG,1061
+nba-201303270MIN,2013,,2013-03-27,Minnesota Timberwolves,Los Angeles Lakers,117,120,REG,1062
+nba-201303270NOH,2013,,2013-03-27,New Orleans Hornets,Los Angeles Clippers,91,105,REG,1063
+nba-201303270NYK,2013,,2013-03-27,New York Knicks,Memphis Grizzlies,108,101,REG,1064
+nba-201303270OKC,2013,,2013-03-27,Oklahoma City Thunder,Washington Wizards,103,80,REG,1065
+nba-201303270PHI,2013,,2013-03-27,Philadelphia 76ers,Milwaukee Bucks,100,92,REG,1066
+nba-201303270POR,2013,,2013-03-27,Portland Trail Blazers,Brooklyn Nets,93,111,REG,1067
+nba-201303270SAS,2013,,2013-03-27,San Antonio Spurs,Denver Nuggets,100,99,REG,1068
+nba-201303270TOR,2013,,2013-03-27,Toronto Raptors,Atlanta Hawks,88,107,REG,1069
+nba-201303270UTA,2013,,2013-03-27,Utah Jazz,Phoenix Suns,103,88,REG,1070
+nba-201303280DAL,2013,,2013-03-28,Dallas Mavericks,Indiana Pacers,78,103,REG,1071
+nba-201303280MIL,2013,,2013-03-28,Milwaukee Bucks,Los Angeles Lakers,113,103,REG,1072
+nba-201303280PHO,2013,,2013-03-28,Phoenix Suns,Sacramento Kings,103,117,REG,1073
+nba-201303290BOS,2013,,2013-03-29,Boston Celtics,Atlanta Hawks,118,107,REG,1074
+nba-201303290CLE,2013,,2013-03-29,Cleveland Cavaliers,Philadelphia 76ers,87,97,REG,1075
+nba-201303290DEN,2013,,2013-03-29,Denver Nuggets,Brooklyn Nets,109,87,REG,1076
+nba-201303290DET,2013,,2013-03-29,Detroit Pistons,Toronto Raptors,82,99,REG,1077
+nba-201303290MEM,2013,,2013-03-29,Memphis Grizzlies,Houston Rockets,103,94,REG,1078
+nba-201303290MIN,2013,,2013-03-29,Minnesota Timberwolves,Oklahoma City Thunder,101,93,REG,1079
+nba-201303290NOH,2013,,2013-03-29,New Orleans Hornets,Miami Heat,89,108,REG,1080
+nba-201303290NYK,2013,,2013-03-29,New York Knicks,Charlotte Bobcats,111,102,REG,1081
+nba-201303290ORL,2013,,2013-03-29,Orlando Magic,Washington Wizards,97,92,REG,1082
+nba-201303290POR,2013,,2013-03-29,Portland Trail Blazers,Utah Jazz,95,105,REG,1083
+nba-201303290SAS,2013,,2013-03-29,San Antonio Spurs,Los Angeles Clippers,104,102,REG,1084
+nba-201303300ATL,2013,,2013-03-30,Atlanta Hawks,Orlando Magic,97,88,REG,1085
+nba-201303300DAL,2013,,2013-03-30,Dallas Mavericks,Chicago Bulls,100,98,REG,1086
+nba-201303300GSW,2013,,2013-03-30,Golden State Warriors,Portland Trail Blazers,125,98,REG,1087
+nba-201303300HOU,2013,,2013-03-30,Houston Rockets,Los Angeles Clippers,98,81,REG,1088
+nba-201303300MIL,2013,,2013-03-30,Milwaukee Bucks,Oklahoma City Thunder,99,109,REG,1089
+nba-201303300MIN,2013,,2013-03-30,Minnesota Timberwolves,Memphis Grizzlies,86,99,REG,1090
+nba-201303300PHI,2013,,2013-03-30,Philadelphia 76ers,Charlotte Bobcats,100,92,REG,1091
+nba-201303300PHO,2013,,2013-03-30,Phoenix Suns,Indiana Pacers,104,112,REG,1092
+nba-201303300SAC,2013,,2013-03-30,Sacramento Kings,Los Angeles Lakers,98,103,REG,1093
+nba-201303300UTA,2013,,2013-03-30,Utah Jazz,Brooklyn Nets,116,107,REG,1094
+nba-201303310CHI,2013,,2013-03-31,Chicago Bulls,Detroit Pistons,95,94,REG,1095
+nba-201303310NOH,2013,,2013-03-31,New Orleans Hornets,Cleveland Cavaliers,112,92,REG,1096
+nba-201303310NYK,2013,,2013-03-31,New York Knicks,Boston Celtics,108,89,REG,1097
+nba-201303310SAS,2013,,2013-03-31,San Antonio Spurs,Miami Heat,86,88,REG,1098
+nba-201303310WAS,2013,,2013-03-31,Washington Wizards,Toronto Raptors,109,92,REG,1099
+nba-201304010ATL,2013,,2013-04-01,Atlanta Hawks,Cleveland Cavaliers,102,94,REG,1100
+nba-201304010HOU,2013,,2013-04-01,Houston Rockets,Orlando Magic,111,103,REG,1101
+nba-201304010LAC,2013,,2013-04-01,Los Angeles Clippers,Indiana Pacers,106,109,REG,1102
+nba-201304010MEM,2013,,2013-04-01,Memphis Grizzlies,San Antonio Spurs,92,90,REG,1103
+nba-201304010MIL,2013,,2013-04-01,Milwaukee Bucks,Charlotte Bobcats,131,102,REG,1104
+nba-201304010MIN,2013,,2013-04-01,Minnesota Timberwolves,Boston Celtics,110,100,REG,1105
+nba-201304010TOR,2013,,2013-04-01,Toronto Raptors,Detroit Pistons,98,108,REG,1106
+nba-201304010UTA,2013,,2013-04-01,Utah Jazz,Portland Trail Blazers,112,102,REG,1107
+nba-201304020LAL,2013,,2013-04-02,Los Angeles Lakers,Dallas Mavericks,101,81,REG,1108
+nba-201304020MIA,2013,,2013-04-02,Miami Heat,New York Knicks,90,102,REG,1109
+nba-201304020WAS,2013,,2013-04-02,Washington Wizards,Chicago Bulls,90,86,REG,1110
+nba-201304030ATL,2013,,2013-04-03,Atlanta Hawks,New York Knicks,82,95,REG,1111
+nba-201304030BOS,2013,,2013-04-03,Boston Celtics,Detroit Pistons,98,93,REG,1112
+nba-201304030CHA,2013,,2013-04-03,Charlotte Bobcats,Philadelphia 76ers,88,83,REG,1113
+nba-201304030CLE,2013,,2013-04-03,Cleveland Cavaliers,Brooklyn Nets,95,113,REG,1114
+nba-201304030GSW,2013,,2013-04-03,Golden State Warriors,New Orleans Hornets,98,88,REG,1115
+nba-201304030LAC,2013,,2013-04-03,Los Angeles Clippers,Phoenix Suns,126,101,REG,1116
+nba-201304030MIL,2013,,2013-04-03,Milwaukee Bucks,Minnesota Timberwolves,98,107,REG,1117
+nba-201304030POR,2013,,2013-04-03,Portland Trail Blazers,Memphis Grizzlies,76,94,REG,1118
+nba-201304030SAC,2013,,2013-04-03,Sacramento Kings,Houston Rockets,102,112,REG,1119
+nba-201304030SAS,2013,,2013-04-03,San Antonio Spurs,Orlando Magic,98,84,REG,1120
+nba-201304030TOR,2013,,2013-04-03,Toronto Raptors,Washington Wizards,88,78,REG,1121
+nba-201304030UTA,2013,,2013-04-03,Utah Jazz,Denver Nuggets,96,113,REG,1122
+nba-201304040BRK,2013,,2013-04-04,Brooklyn Nets,Chicago Bulls,90,92,REG,1123
+nba-201304040DEN,2013,,2013-04-04,Denver Nuggets,Dallas Mavericks,95,94,REG,1124
+nba-201304040OKC,2013,,2013-04-04,Oklahoma City Thunder,San Antonio Spurs,100,88,REG,1125
+nba-201304050ATL,2013,,2013-04-05,Atlanta Hawks,Philadelphia 76ers,90,101,REG,1126
+nba-201304050BOS,2013,,2013-04-05,Boston Celtics,Cleveland Cavaliers,91,97,REG,1127
+nba-201304050CHA,2013,,2013-04-05,Charlotte Bobcats,Miami Heat,79,89,REG,1128
+nba-201304050CHI,2013,,2013-04-05,Chicago Bulls,Orlando Magic,87,86,REG,1129
+nba-201304050IND,2013,,2013-04-05,Indiana Pacers,Oklahoma City Thunder,75,97,REG,1130
+nba-201304050LAL,2013,,2013-04-05,Los Angeles Lakers,Memphis Grizzlies,86,84,REG,1131
+nba-201304050MIN,2013,,2013-04-05,Minnesota Timberwolves,Toronto Raptors,93,95,REG,1132
+nba-201304050NYK,2013,,2013-04-05,New York Knicks,Milwaukee Bucks,101,83,REG,1133
+nba-201304050PHO,2013,,2013-04-05,Phoenix Suns,Golden State Warriors,107,111,REG,1134
+nba-201304050POR,2013,,2013-04-05,Portland Trail Blazers,Houston Rockets,98,116,REG,1135
+nba-201304050SAC,2013,,2013-04-05,Sacramento Kings,Dallas Mavericks,108,117,REG,1136
+nba-201304050UTA,2013,,2013-04-05,Utah Jazz,New Orleans Hornets,95,83,REG,1137
+nba-201304060BRK,2013,,2013-04-06,Brooklyn Nets,Charlotte Bobcats,105,96,REG,1138
+nba-201304060DEN,2013,,2013-04-06,Denver Nuggets,Houston Rockets,132,114,REG,1139
+nba-201304060MIA,2013,,2013-04-06,Miami Heat,Philadelphia 76ers,106,87,REG,1140
+nba-201304060MIL,2013,,2013-04-06,Milwaukee Bucks,Toronto Raptors,100,83,REG,1141
+nba-201304060MIN,2013,,2013-04-06,Minnesota Timberwolves,Detroit Pistons,107,101,REG,1142
+nba-201304060SAS,2013,,2013-04-06,San Antonio Spurs,Atlanta Hawks,99,97,REG,1143
+nba-201304060WAS,2013,,2013-04-06,Washington Wizards,Indiana Pacers,104,85,REG,1144
+nba-201304070BOS,2013,,2013-04-07,Boston Celtics,Washington Wizards,107,96,REG,1145
+nba-201304070CLE,2013,,2013-04-07,Cleveland Cavaliers,Orlando Magic,91,85,REG,1146
+nba-201304070DET,2013,,2013-04-07,Detroit Pistons,Chicago Bulls,99,85,REG,1147
+nba-201304070GSW,2013,,2013-04-07,Golden State Warriors,Utah Jazz,90,97,REG,1148
+nba-201304070LAC,2013,,2013-04-07,Los Angeles Clippers,Los Angeles Lakers,109,95,REG,1149
+nba-201304070OKC,2013,,2013-04-07,Oklahoma City Thunder,New York Knicks,120,125,REG,1150
+nba-201304070PHO,2013,,2013-04-07,Phoenix Suns,New Orleans Hornets,92,95,REG,1151
+nba-201304070POR,2013,,2013-04-07,Portland Trail Blazers,Dallas Mavericks,91,96,REG,1152
+nba-201304070SAC,2013,,2013-04-07,Sacramento Kings,Memphis Grizzlies,87,89,REG,1153
+nba-201304090BRK,2013,,2013-04-09,Brooklyn Nets,Philadelphia 76ers,104,83,REG,1154
+nba-201304090CHI,2013,,2013-04-09,Chicago Bulls,Toronto Raptors,98,101,REG,1155
+nba-201304090GSW,2013,,2013-04-09,Golden State Warriors,Minnesota Timberwolves,105,89,REG,1156
+nba-201304090HOU,2013,,2013-04-09,Houston Rockets,Phoenix Suns,101,98,REG,1157
+nba-201304090IND,2013,,2013-04-09,Indiana Pacers,Cleveland Cavaliers,99,94,REG,1158
+nba-201304090LAL,2013,,2013-04-09,Los Angeles Lakers,New Orleans Hornets,104,96,REG,1159
+nba-201304090MEM,2013,,2013-04-09,Memphis Grizzlies,Charlotte Bobcats,94,75,REG,1160
+nba-201304090MIA,2013,,2013-04-09,Miami Heat,Milwaukee Bucks,94,83,REG,1161
+nba-201304090NYK,2013,,2013-04-09,New York Knicks,Washington Wizards,120,99,REG,1162
+nba-201304090UTA,2013,,2013-04-09,Utah Jazz,Oklahoma City Thunder,80,90,REG,1163
+nba-201304100BOS,2013,,2013-04-10,Boston Celtics,Brooklyn Nets,93,101,REG,1164
+nba-201304100CLE,2013,,2013-04-10,Cleveland Cavaliers,Detroit Pistons,104,111,REG,1165
+nba-201304100DAL,2013,,2013-04-10,Dallas Mavericks,Phoenix Suns,91,102,REG,1166
+nba-201304100DEN,2013,,2013-04-10,Denver Nuggets,San Antonio Spurs,96,86,REG,1167
+nba-201304100LAC,2013,,2013-04-10,Los Angeles Clippers,Minnesota Timberwolves,111,95,REG,1168
+nba-201304100ORL,2013,,2013-04-10,Orlando Magic,Milwaukee Bucks,113,103,REG,1169
+nba-201304100PHI,2013,,2013-04-10,Philadelphia 76ers,Atlanta Hawks,101,124,REG,1170
+nba-201304100POR,2013,,2013-04-10,Portland Trail Blazers,Los Angeles Lakers,106,113,REG,1171
+nba-201304100SAC,2013,,2013-04-10,Sacramento Kings,New Orleans Hornets,121,110,REG,1172
+nba-201304100WAS,2013,,2013-04-10,Washington Wizards,Miami Heat,98,103,REG,1173
+nba-201304110CHI,2013,,2013-04-11,Chicago Bulls,New York Knicks,118,111,REG,1174
+nba-201304110GSW,2013,,2013-04-11,Golden State Warriors,Oklahoma City Thunder,97,116,REG,1175
+nba-201304120ATL,2013,,2013-04-12,Atlanta Hawks,Milwaukee Bucks,109,104,REG,1176
+nba-201304120CLE,2013,,2013-04-12,Cleveland Cavaliers,New York Knicks,91,101,REG,1177
+nba-201304120DAL,2013,,2013-04-12,Dallas Mavericks,Denver Nuggets,108,105,REG,1178
+nba-201304120DET,2013,,2013-04-12,Detroit Pistons,Charlotte Bobcats,113,93,REG,1179
+nba-201304120HOU,2013,,2013-04-12,Houston Rockets,Memphis Grizzlies,78,82,REG,1180
+nba-201304120IND,2013,,2013-04-12,Indiana Pacers,Brooklyn Nets,109,117,REG,1181
+nba-201304120LAL,2013,,2013-04-12,Los Angeles Lakers,Golden State Warriors,118,116,REG,1182
+nba-201304120MIA,2013,,2013-04-12,Miami Heat,Boston Celtics,109,101,REG,1183
+nba-201304120NOH,2013,,2013-04-12,New Orleans Hornets,Los Angeles Clippers,93,96,REG,1184
+nba-201304120POR,2013,,2013-04-12,Portland Trail Blazers,Oklahoma City Thunder,90,106,REG,1185
+nba-201304120SAS,2013,,2013-04-12,San Antonio Spurs,Sacramento Kings,108,101,REG,1186
+nba-201304120TOR,2013,,2013-04-12,Toronto Raptors,Chicago Bulls,97,88,REG,1187
+nba-201304120UTA,2013,,2013-04-12,Utah Jazz,Minnesota Timberwolves,107,100,REG,1188
+nba-201304120WAS,2013,,2013-04-12,Washington Wizards,Philadelphia 76ers,86,97,REG,1189
+nba-201304130CHA,2013,,2013-04-13,Charlotte Bobcats,Milwaukee Bucks,95,85,REG,1190
+nba-201304130MEM,2013,,2013-04-13,Memphis Grizzlies,Los Angeles Clippers,87,91,REG,1191
+nba-201304130MIN,2013,,2013-04-13,Minnesota Timberwolves,Phoenix Suns,105,93,REG,1192
+nba-201304130ORL,2013,,2013-04-13,Orlando Magic,Boston Celtics,88,120,REG,1193
+nba-201304140DEN,2013,,2013-04-14,Denver Nuggets,Portland Trail Blazers,118,109,REG,1194
+nba-201304140HOU,2013,,2013-04-14,Houston Rockets,Sacramento Kings,121,100,REG,1195
+nba-201304140LAL,2013,,2013-04-14,Los Angeles Lakers,San Antonio Spurs,91,86,REG,1196
+nba-201304140MIA,2013,,2013-04-14,Miami Heat,Chicago Bulls,105,93,REG,1197
+nba-201304140NOH,2013,,2013-04-14,New Orleans Hornets,Dallas Mavericks,89,107,REG,1198
+nba-201304140NYK,2013,,2013-04-14,New York Knicks,Indiana Pacers,90,80,REG,1199
+nba-201304140PHI,2013,,2013-04-14,Philadelphia 76ers,Cleveland Cavaliers,91,77,REG,1200
+nba-201304140TOR,2013,,2013-04-14,Toronto Raptors,Brooklyn Nets,93,87,REG,1201
+nba-201304150BRK,2013,,2013-04-15,Brooklyn Nets,Washington Wizards,106,101,REG,1202
+nba-201304150CHA,2013,,2013-04-15,Charlotte Bobcats,New York Knicks,106,95,REG,1203
+nba-201304150CLE,2013,,2013-04-15,Cleveland Cavaliers,Miami Heat,95,96,REG,1204
+nba-201304150DAL,2013,,2013-04-15,Dallas Mavericks,Memphis Grizzlies,97,103,REG,1205
+nba-201304150DET,2013,,2013-04-15,Detroit Pistons,Philadelphia 76ers,109,101,REG,1206
+nba-201304150GSW,2013,,2013-04-15,Golden State Warriors,San Antonio Spurs,116,106,REG,1207
+nba-201304150MIL,2013,,2013-04-15,Milwaukee Bucks,Denver Nuggets,111,112,REG,1208
+nba-201304150MIN,2013,,2013-04-15,Minnesota Timberwolves,Utah Jazz,80,96,REG,1209
+nba-201304150OKC,2013,,2013-04-15,Oklahoma City Thunder,Sacramento Kings,104,95,REG,1210
+nba-201304150ORL,2013,,2013-04-15,Orlando Magic,Chicago Bulls,84,102,REG,1211
+nba-201304150PHO,2013,,2013-04-15,Phoenix Suns,Houston Rockets,119,112,REG,1212
+nba-201304160ATL,2013,,2013-04-16,Atlanta Hawks,Toronto Raptors,96,113,REG,1213
+nba-201304160LAC,2013,,2013-04-16,Los Angeles Clippers,Portland Trail Blazers,93,77,REG,1214
+nba-201304170BRK,2013,,2013-04-17,Brooklyn Nets,Detroit Pistons,103,99,REG,1215
+nba-201304170CHA,2013,,2013-04-17,Charlotte Bobcats,Cleveland Cavaliers,105,98,REG,1216
+nba-201304170CHI,2013,,2013-04-17,Chicago Bulls,Washington Wizards,95,92,REG,1217
+nba-201304170DAL,2013,,2013-04-17,Dallas Mavericks,New Orleans Hornets,99,87,REG,1218
+nba-201304170DEN,2013,,2013-04-17,Denver Nuggets,Phoenix Suns,118,98,REG,1219
+nba-201304170IND,2013,,2013-04-17,Indiana Pacers,Philadelphia 76ers,95,105,REG,1220
+nba-201304170LAL,2013,,2013-04-17,Los Angeles Lakers,Houston Rockets,99,95,REG,1221
+nba-201304170MEM,2013,,2013-04-17,Memphis Grizzlies,Utah Jazz,86,70,REG,1222
+nba-201304170MIA,2013,,2013-04-17,Miami Heat,Orlando Magic,105,93,REG,1223
+nba-201304170NYK,2013,,2013-04-17,New York Knicks,Atlanta Hawks,98,92,REG,1224
+nba-201304170OKC,2013,,2013-04-17,Oklahoma City Thunder,Milwaukee Bucks,89,95,REG,1225
+nba-201304170POR,2013,,2013-04-17,Portland Trail Blazers,Golden State Warriors,88,99,REG,1226
+nba-201304170SAC,2013,,2013-04-17,Sacramento Kings,Los Angeles Clippers,108,112,REG,1227
+nba-201304170SAS,2013,,2013-04-17,San Antonio Spurs,Minnesota Timberwolves,95,108,REG,1228
+nba-201304170TOR,2013,,2013-04-17,Toronto Raptors,Boston Celtics,114,90,REG,1229
+nba-201304200BRK,2013,,2013-04-20,Brooklyn Nets,Chicago Bulls,106,89,REG,1230
+nba-2013-post-2013-04-20-brooklyn-nets-chicago-bulls,2013,,2013-04-20,Brooklyn Nets,Chicago Bulls,106,89,POST,1231
+nba-201304200DEN,2013,,2013-04-20,Denver Nuggets,Golden State Warriors,97,95,REG,1232
+nba-2013-post-2013-04-20-denver-nuggets-golden-state-warriors,2013,,2013-04-20,Denver Nuggets,Golden State Warriors,97,95,POST,1233
+nba-201304200LAC,2013,,2013-04-20,Los Angeles Clippers,Memphis Grizzlies,112,91,REG,1234
+nba-2013-post-2013-04-20-los-angeles-clippers-memphis-grizzlies,2013,,2013-04-20,Los Angeles Clippers,Memphis Grizzlies,112,91,POST,1235
+nba-201304200NYK,2013,,2013-04-20,New York Knicks,Boston Celtics,85,78,REG,1236
+nba-2013-post-2013-04-20-new-york-knicks-boston-celtics,2013,,2013-04-20,New York Knicks,Boston Celtics,85,78,POST,1237
+nba-201304210IND,2013,,2013-04-21,Indiana Pacers,Atlanta Hawks,107,90,REG,1238
+nba-2013-post-2013-04-21-indiana-pacers-atlanta-hawks,2013,,2013-04-21,Indiana Pacers,Atlanta Hawks,107,90,POST,1239
+nba-201304210MIA,2013,,2013-04-21,Miami Heat,Milwaukee Bucks,110,87,REG,1240
+nba-2013-post-2013-04-21-miami-heat-milwaukee-bucks,2013,,2013-04-21,Miami Heat,Milwaukee Bucks,110,87,POST,1241
+nba-201304210OKC,2013,,2013-04-21,Oklahoma City Thunder,Houston Rockets,120,91,REG,1242
+nba-2013-post-2013-04-21-oklahoma-city-thunder-houston-rockets,2013,,2013-04-21,Oklahoma City Thunder,Houston Rockets,120,91,POST,1243
+nba-201304210SAS,2013,,2013-04-21,San Antonio Spurs,Los Angeles Lakers,91,79,REG,1244
+nba-2013-post-2013-04-21-san-antonio-spurs-los-angeles-lakers,2013,,2013-04-21,San Antonio Spurs,Los Angeles Lakers,91,79,POST,1245
+nba-201304220BRK,2013,,2013-04-22,Brooklyn Nets,Chicago Bulls,82,90,REG,1246
+nba-2013-post-2013-04-22-brooklyn-nets-chicago-bulls,2013,,2013-04-22,Brooklyn Nets,Chicago Bulls,82,90,POST,1247
+nba-201304220LAC,2013,,2013-04-22,Los Angeles Clippers,Memphis Grizzlies,93,91,REG,1248
+nba-2013-post-2013-04-22-los-angeles-clippers-memphis-grizzlies,2013,,2013-04-22,Los Angeles Clippers,Memphis Grizzlies,93,91,POST,1249
+nba-201304230DEN,2013,,2013-04-23,Denver Nuggets,Golden State Warriors,117,131,REG,1250
+nba-2013-post-2013-04-23-denver-nuggets-golden-state-warriors,2013,,2013-04-23,Denver Nuggets,Golden State Warriors,117,131,POST,1251
+nba-201304230MIA,2013,,2013-04-23,Miami Heat,Milwaukee Bucks,98,86,REG,1252
+nba-2013-post-2013-04-23-miami-heat-milwaukee-bucks,2013,,2013-04-23,Miami Heat,Milwaukee Bucks,98,86,POST,1253
+nba-201304230NYK,2013,,2013-04-23,New York Knicks,Boston Celtics,87,71,REG,1254
+nba-2013-post-2013-04-23-new-york-knicks-boston-celtics,2013,,2013-04-23,New York Knicks,Boston Celtics,87,71,POST,1255
+nba-201304240IND,2013,,2013-04-24,Indiana Pacers,Atlanta Hawks,113,98,REG,1256
+nba-2013-post-2013-04-24-indiana-pacers-atlanta-hawks,2013,,2013-04-24,Indiana Pacers,Atlanta Hawks,113,98,POST,1257
+nba-201304240OKC,2013,,2013-04-24,Oklahoma City Thunder,Houston Rockets,105,102,REG,1258
+nba-2013-post-2013-04-24-oklahoma-city-thunder-houston-rockets,2013,,2013-04-24,Oklahoma City Thunder,Houston Rockets,105,102,POST,1259
+nba-201304240SAS,2013,,2013-04-24,San Antonio Spurs,Los Angeles Lakers,102,91,REG,1260
+nba-2013-post-2013-04-24-san-antonio-spurs-los-angeles-lakers,2013,,2013-04-24,San Antonio Spurs,Los Angeles Lakers,102,91,POST,1261
+nba-201304250CHI,2013,,2013-04-25,Chicago Bulls,Brooklyn Nets,79,76,REG,1262
+nba-2013-post-2013-04-25-chicago-bulls-brooklyn-nets,2013,,2013-04-25,Chicago Bulls,Brooklyn Nets,79,76,POST,1263
+nba-201304250MEM,2013,,2013-04-25,Memphis Grizzlies,Los Angeles Clippers,94,82,REG,1264
+nba-2013-post-2013-04-25-memphis-grizzlies-los-angeles-clippers,2013,,2013-04-25,Memphis Grizzlies,Los Angeles Clippers,94,82,POST,1265
+nba-201304250MIL,2013,,2013-04-25,Milwaukee Bucks,Miami Heat,91,104,REG,1266
+nba-2013-post-2013-04-25-milwaukee-bucks-miami-heat,2013,,2013-04-25,Milwaukee Bucks,Miami Heat,91,104,POST,1267
+nba-201304260BOS,2013,,2013-04-26,Boston Celtics,New York Knicks,76,90,REG,1268
+nba-2013-post-2013-04-26-boston-celtics-new-york-knicks,2013,,2013-04-26,Boston Celtics,New York Knicks,76,90,POST,1269
+nba-201304260GSW,2013,,2013-04-26,Golden State Warriors,Denver Nuggets,110,108,REG,1270
+nba-2013-post-2013-04-26-golden-state-warriors-denver-nuggets,2013,,2013-04-26,Golden State Warriors,Denver Nuggets,110,108,POST,1271
+nba-201304260LAL,2013,,2013-04-26,Los Angeles Lakers,San Antonio Spurs,89,120,REG,1272
+nba-2013-post-2013-04-26-los-angeles-lakers-san-antonio-spurs,2013,,2013-04-26,Los Angeles Lakers,San Antonio Spurs,89,120,POST,1273
+nba-201304270ATL,2013,,2013-04-27,Atlanta Hawks,Indiana Pacers,90,69,REG,1274
+nba-2013-post-2013-04-27-atlanta-hawks-indiana-pacers,2013,,2013-04-27,Atlanta Hawks,Indiana Pacers,90,69,POST,1275
+nba-201304270CHI,2013,,2013-04-27,Chicago Bulls,Brooklyn Nets,142,134,REG,1276
+nba-2013-post-2013-04-27-chicago-bulls-brooklyn-nets,2013,,2013-04-27,Chicago Bulls,Brooklyn Nets,142,134,POST,1277
+nba-201304270HOU,2013,,2013-04-27,Houston Rockets,Oklahoma City Thunder,101,104,REG,1278
+nba-2013-post-2013-04-27-houston-rockets-oklahoma-city-thunder,2013,,2013-04-27,Houston Rockets,Oklahoma City Thunder,101,104,POST,1279
+nba-201304270MEM,2013,,2013-04-27,Memphis Grizzlies,Los Angeles Clippers,104,83,REG,1280
+nba-2013-post-2013-04-27-memphis-grizzlies-los-angeles-clippers,2013,,2013-04-27,Memphis Grizzlies,Los Angeles Clippers,104,83,POST,1281
+nba-201304280BOS,2013,,2013-04-28,Boston Celtics,New York Knicks,97,90,REG,1282
+nba-2013-post-2013-04-28-boston-celtics-new-york-knicks,2013,,2013-04-28,Boston Celtics,New York Knicks,97,90,POST,1283
+nba-201304280GSW,2013,,2013-04-28,Golden State Warriors,Denver Nuggets,115,101,REG,1284
+nba-2013-post-2013-04-28-golden-state-warriors-denver-nuggets,2013,,2013-04-28,Golden State Warriors,Denver Nuggets,115,101,POST,1285
+nba-201304280LAL,2013,,2013-04-28,Los Angeles Lakers,San Antonio Spurs,82,103,REG,1286
+nba-2013-post-2013-04-28-los-angeles-lakers-san-antonio-spurs,2013,,2013-04-28,Los Angeles Lakers,San Antonio Spurs,82,103,POST,1287
+nba-201304280MIL,2013,,2013-04-28,Milwaukee Bucks,Miami Heat,77,88,REG,1288
+nba-2013-post-2013-04-28-milwaukee-bucks-miami-heat,2013,,2013-04-28,Milwaukee Bucks,Miami Heat,77,88,POST,1289
+nba-201304290ATL,2013,,2013-04-29,Atlanta Hawks,Indiana Pacers,102,91,REG,1290
+nba-2013-post-2013-04-29-atlanta-hawks-indiana-pacers,2013,,2013-04-29,Atlanta Hawks,Indiana Pacers,102,91,POST,1291
+nba-201304290BRK,2013,,2013-04-29,Brooklyn Nets,Chicago Bulls,110,91,REG,1292
+nba-2013-post-2013-04-29-brooklyn-nets-chicago-bulls,2013,,2013-04-29,Brooklyn Nets,Chicago Bulls,110,91,POST,1293
+nba-201304290HOU,2013,,2013-04-29,Houston Rockets,Oklahoma City Thunder,105,103,REG,1294
+nba-2013-post-2013-04-29-houston-rockets-oklahoma-city-thunder,2013,,2013-04-29,Houston Rockets,Oklahoma City Thunder,105,103,POST,1295
+nba-201304300DEN,2013,,2013-04-30,Denver Nuggets,Golden State Warriors,107,100,REG,1296
+nba-2013-post-2013-04-30-denver-nuggets-golden-state-warriors,2013,,2013-04-30,Denver Nuggets,Golden State Warriors,107,100,POST,1297
+nba-201304300LAC,2013,,2013-04-30,Los Angeles Clippers,Memphis Grizzlies,93,103,REG,1298
+nba-2013-post-2013-04-30-los-angeles-clippers-memphis-grizzlies,2013,,2013-04-30,Los Angeles Clippers,Memphis Grizzlies,93,103,POST,1299
+nba-201305010IND,2013,,2013-05-01,Indiana Pacers,Atlanta Hawks,106,83,REG,1300
+nba-2013-post-2013-05-01-indiana-pacers-atlanta-hawks,2013,,2013-05-01,Indiana Pacers,Atlanta Hawks,106,83,POST,1301
+nba-201305010NYK,2013,,2013-05-01,New York Knicks,Boston Celtics,86,92,REG,1302
+nba-2013-post-2013-05-01-new-york-knicks-boston-celtics,2013,,2013-05-01,New York Knicks,Boston Celtics,86,92,POST,1303
+nba-201305010OKC,2013,,2013-05-01,Oklahoma City Thunder,Houston Rockets,100,107,REG,1304
+nba-2013-post-2013-05-01-oklahoma-city-thunder-houston-rockets,2013,,2013-05-01,Oklahoma City Thunder,Houston Rockets,100,107,POST,1305
+nba-201305020CHI,2013,,2013-05-02,Chicago Bulls,Brooklyn Nets,92,95,REG,1306
+nba-2013-post-2013-05-02-chicago-bulls-brooklyn-nets,2013,,2013-05-02,Chicago Bulls,Brooklyn Nets,92,95,POST,1307
+nba-201305020GSW,2013,,2013-05-02,Golden State Warriors,Denver Nuggets,92,88,REG,1308
+nba-2013-post-2013-05-02-golden-state-warriors-denver-nuggets,2013,,2013-05-02,Golden State Warriors,Denver Nuggets,92,88,POST,1309
+nba-201305030ATL,2013,,2013-05-03,Atlanta Hawks,Indiana Pacers,73,81,REG,1310
+nba-2013-post-2013-05-03-atlanta-hawks-indiana-pacers,2013,,2013-05-03,Atlanta Hawks,Indiana Pacers,73,81,POST,1311
+nba-201305030BOS,2013,,2013-05-03,Boston Celtics,New York Knicks,80,88,REG,1312
+nba-2013-post-2013-05-03-boston-celtics-new-york-knicks,2013,,2013-05-03,Boston Celtics,New York Knicks,80,88,POST,1313
+nba-201305030HOU,2013,,2013-05-03,Houston Rockets,Oklahoma City Thunder,94,103,REG,1314
+nba-2013-post-2013-05-03-houston-rockets-oklahoma-city-thunder,2013,,2013-05-03,Houston Rockets,Oklahoma City Thunder,94,103,POST,1315
+nba-201305030MEM,2013,,2013-05-03,Memphis Grizzlies,Los Angeles Clippers,118,105,REG,1316
+nba-2013-post-2013-05-03-memphis-grizzlies-los-angeles-clippers,2013,,2013-05-03,Memphis Grizzlies,Los Angeles Clippers,118,105,POST,1317
+nba-201305040BRK,2013,,2013-05-04,Brooklyn Nets,Chicago Bulls,93,99,REG,1318
+nba-2013-post-2013-05-04-brooklyn-nets-chicago-bulls,2013,,2013-05-04,Brooklyn Nets,Chicago Bulls,93,99,POST,1319
+nba-201305050NYK,2013,,2013-05-05,New York Knicks,Indiana Pacers,95,102,REG,1320
+nba-2013-post-2013-05-05-new-york-knicks-indiana-pacers,2013,,2013-05-05,New York Knicks,Indiana Pacers,95,102,POST,1321
+nba-201305050OKC,2013,,2013-05-05,Oklahoma City Thunder,Memphis Grizzlies,93,91,REG,1322
+nba-2013-post-2013-05-05-oklahoma-city-thunder-memphis-grizzlies,2013,,2013-05-05,Oklahoma City Thunder,Memphis Grizzlies,93,91,POST,1323
+nba-201305060MIA,2013,,2013-05-06,Miami Heat,Chicago Bulls,86,93,REG,1324
+nba-2013-post-2013-05-06-miami-heat-chicago-bulls,2013,,2013-05-06,Miami Heat,Chicago Bulls,86,93,POST,1325
+nba-201305060SAS,2013,,2013-05-06,San Antonio Spurs,Golden State Warriors,129,127,REG,1326
+nba-2013-post-2013-05-06-san-antonio-spurs-golden-state-warriors,2013,,2013-05-06,San Antonio Spurs,Golden State Warriors,129,127,POST,1327
+nba-201305070NYK,2013,,2013-05-07,New York Knicks,Indiana Pacers,105,79,REG,1328
+nba-2013-post-2013-05-07-new-york-knicks-indiana-pacers,2013,,2013-05-07,New York Knicks,Indiana Pacers,105,79,POST,1329
+nba-201305070OKC,2013,,2013-05-07,Oklahoma City Thunder,Memphis Grizzlies,93,99,REG,1330
+nba-2013-post-2013-05-07-oklahoma-city-thunder-memphis-grizzlies,2013,,2013-05-07,Oklahoma City Thunder,Memphis Grizzlies,93,99,POST,1331
+nba-201305080MIA,2013,,2013-05-08,Miami Heat,Chicago Bulls,115,78,REG,1332
+nba-2013-post-2013-05-08-miami-heat-chicago-bulls,2013,,2013-05-08,Miami Heat,Chicago Bulls,115,78,POST,1333
+nba-201305080SAS,2013,,2013-05-08,San Antonio Spurs,Golden State Warriors,91,100,REG,1334
+nba-2013-post-2013-05-08-san-antonio-spurs-golden-state-warriors,2013,,2013-05-08,San Antonio Spurs,Golden State Warriors,91,100,POST,1335
+nba-201305100CHI,2013,,2013-05-10,Chicago Bulls,Miami Heat,94,104,REG,1336
+nba-2013-post-2013-05-10-chicago-bulls-miami-heat,2013,,2013-05-10,Chicago Bulls,Miami Heat,94,104,POST,1337
+nba-201305100GSW,2013,,2013-05-10,Golden State Warriors,San Antonio Spurs,92,102,REG,1338
+nba-2013-post-2013-05-10-golden-state-warriors-san-antonio-spurs,2013,,2013-05-10,Golden State Warriors,San Antonio Spurs,92,102,POST,1339
+nba-201305110IND,2013,,2013-05-11,Indiana Pacers,New York Knicks,82,71,REG,1340
+nba-2013-post-2013-05-11-indiana-pacers-new-york-knicks,2013,,2013-05-11,Indiana Pacers,New York Knicks,82,71,POST,1341
+nba-201305110MEM,2013,,2013-05-11,Memphis Grizzlies,Oklahoma City Thunder,87,81,REG,1342
+nba-2013-post-2013-05-11-memphis-grizzlies-oklahoma-city-thunder,2013,,2013-05-11,Memphis Grizzlies,Oklahoma City Thunder,87,81,POST,1343
+nba-201305120GSW,2013,,2013-05-12,Golden State Warriors,San Antonio Spurs,97,87,REG,1344
+nba-2013-post-2013-05-12-golden-state-warriors-san-antonio-spurs,2013,,2013-05-12,Golden State Warriors,San Antonio Spurs,97,87,POST,1345
+nba-201305130CHI,2013,,2013-05-13,Chicago Bulls,Miami Heat,65,88,REG,1346
+nba-2013-post-2013-05-13-chicago-bulls-miami-heat,2013,,2013-05-13,Chicago Bulls,Miami Heat,65,88,POST,1347
+nba-201305130MEM,2013,,2013-05-13,Memphis Grizzlies,Oklahoma City Thunder,103,97,REG,1348
+nba-2013-post-2013-05-13-memphis-grizzlies-oklahoma-city-thunder,2013,,2013-05-13,Memphis Grizzlies,Oklahoma City Thunder,103,97,POST,1349
+nba-201305140IND,2013,,2013-05-14,Indiana Pacers,New York Knicks,93,82,REG,1350
+nba-2013-post-2013-05-14-indiana-pacers-new-york-knicks,2013,,2013-05-14,Indiana Pacers,New York Knicks,93,82,POST,1351
+nba-201305140SAS,2013,,2013-05-14,San Antonio Spurs,Golden State Warriors,109,91,REG,1352
+nba-2013-post-2013-05-14-san-antonio-spurs-golden-state-warriors,2013,,2013-05-14,San Antonio Spurs,Golden State Warriors,109,91,POST,1353
+nba-201305150MIA,2013,,2013-05-15,Miami Heat,Chicago Bulls,94,91,REG,1354
+nba-2013-post-2013-05-15-miami-heat-chicago-bulls,2013,,2013-05-15,Miami Heat,Chicago Bulls,94,91,POST,1355
+nba-201305150OKC,2013,,2013-05-15,Oklahoma City Thunder,Memphis Grizzlies,84,88,REG,1356
+nba-2013-post-2013-05-15-oklahoma-city-thunder-memphis-grizzlies,2013,,2013-05-15,Oklahoma City Thunder,Memphis Grizzlies,84,88,POST,1357
+nba-201305160GSW,2013,,2013-05-16,Golden State Warriors,San Antonio Spurs,82,94,REG,1358
+nba-2013-post-2013-05-16-golden-state-warriors-san-antonio-spurs,2013,,2013-05-16,Golden State Warriors,San Antonio Spurs,82,94,POST,1359
+nba-201305160NYK,2013,,2013-05-16,New York Knicks,Indiana Pacers,85,75,REG,1360
+nba-2013-post-2013-05-16-new-york-knicks-indiana-pacers,2013,,2013-05-16,New York Knicks,Indiana Pacers,85,75,POST,1361
+nba-201305180IND,2013,,2013-05-18,Indiana Pacers,New York Knicks,106,99,REG,1362
+nba-2013-post-2013-05-18-indiana-pacers-new-york-knicks,2013,,2013-05-18,Indiana Pacers,New York Knicks,106,99,POST,1363
+nba-201305190SAS,2013,,2013-05-19,San Antonio Spurs,Memphis Grizzlies,105,83,REG,1364
+nba-2013-post-2013-05-19-san-antonio-spurs-memphis-grizzlies,2013,,2013-05-19,San Antonio Spurs,Memphis Grizzlies,105,83,POST,1365
+nba-201305210SAS,2013,,2013-05-21,San Antonio Spurs,Memphis Grizzlies,93,89,REG,1366
+nba-2013-post-2013-05-21-san-antonio-spurs-memphis-grizzlies,2013,,2013-05-21,San Antonio Spurs,Memphis Grizzlies,93,89,POST,1367
+nba-201305220MIA,2013,,2013-05-22,Miami Heat,Indiana Pacers,103,102,REG,1368
+nba-2013-post-2013-05-22-miami-heat-indiana-pacers,2013,,2013-05-22,Miami Heat,Indiana Pacers,103,102,POST,1369
+nba-201305240MIA,2013,,2013-05-24,Miami Heat,Indiana Pacers,93,97,REG,1370
+nba-2013-post-2013-05-24-miami-heat-indiana-pacers,2013,,2013-05-24,Miami Heat,Indiana Pacers,93,97,POST,1371
+nba-201305250MEM,2013,,2013-05-25,Memphis Grizzlies,San Antonio Spurs,93,104,REG,1372
+nba-2013-post-2013-05-25-memphis-grizzlies-san-antonio-spurs,2013,,2013-05-25,Memphis Grizzlies,San Antonio Spurs,93,104,POST,1373
+nba-201305260IND,2013,,2013-05-26,Indiana Pacers,Miami Heat,96,114,REG,1374
+nba-2013-post-2013-05-26-indiana-pacers-miami-heat,2013,,2013-05-26,Indiana Pacers,Miami Heat,96,114,POST,1375
+nba-201305270MEM,2013,,2013-05-27,Memphis Grizzlies,San Antonio Spurs,86,93,REG,1376
+nba-2013-post-2013-05-27-memphis-grizzlies-san-antonio-spurs,2013,,2013-05-27,Memphis Grizzlies,San Antonio Spurs,86,93,POST,1377
+nba-201305280IND,2013,,2013-05-28,Indiana Pacers,Miami Heat,99,92,REG,1378
+nba-2013-post-2013-05-28-indiana-pacers-miami-heat,2013,,2013-05-28,Indiana Pacers,Miami Heat,99,92,POST,1379
+nba-201305300MIA,2013,,2013-05-30,Miami Heat,Indiana Pacers,90,79,REG,1380
+nba-2013-post-2013-05-30-miami-heat-indiana-pacers,2013,,2013-05-30,Miami Heat,Indiana Pacers,90,79,POST,1381
+nba-201306010IND,2013,,2013-06-01,Indiana Pacers,Miami Heat,91,77,REG,1382
+nba-2013-post-2013-06-01-indiana-pacers-miami-heat,2013,,2013-06-01,Indiana Pacers,Miami Heat,91,77,POST,1383
+nba-201306030MIA,2013,,2013-06-03,Miami Heat,Indiana Pacers,99,76,REG,1384
+nba-2013-post-2013-06-03-miami-heat-indiana-pacers,2013,,2013-06-03,Miami Heat,Indiana Pacers,99,76,POST,1385
+nba-201306060MIA,2013,,2013-06-06,Miami Heat,San Antonio Spurs,88,92,REG,1386
+nba-2013-post-2013-06-06-miami-heat-san-antonio-spurs,2013,,2013-06-06,Miami Heat,San Antonio Spurs,88,92,POST,1387
+nba-201306090MIA,2013,,2013-06-09,Miami Heat,San Antonio Spurs,103,84,REG,1388
+nba-2013-post-2013-06-09-miami-heat-san-antonio-spurs,2013,,2013-06-09,Miami Heat,San Antonio Spurs,103,84,POST,1389
+nba-201306110SAS,2013,,2013-06-11,San Antonio Spurs,Miami Heat,113,77,REG,1390
+nba-2013-post-2013-06-11-san-antonio-spurs-miami-heat,2013,,2013-06-11,San Antonio Spurs,Miami Heat,113,77,POST,1391
+nba-201306130SAS,2013,,2013-06-13,San Antonio Spurs,Miami Heat,93,109,REG,1392
+nba-2013-post-2013-06-13-san-antonio-spurs-miami-heat,2013,,2013-06-13,San Antonio Spurs,Miami Heat,93,109,POST,1393
+nba-201306160SAS,2013,,2013-06-16,San Antonio Spurs,Miami Heat,114,104,REG,1394
+nba-2013-post-2013-06-16-san-antonio-spurs-miami-heat,2013,,2013-06-16,San Antonio Spurs,Miami Heat,114,104,POST,1395
+nba-201306180MIA,2013,,2013-06-18,Miami Heat,San Antonio Spurs,103,100,REG,1396
+nba-2013-post-2013-06-18-miami-heat-san-antonio-spurs,2013,,2013-06-18,Miami Heat,San Antonio Spurs,103,100,POST,1397
+nba-201306200MIA,2013,,2013-06-20,Miami Heat,San Antonio Spurs,95,88,REG,1398
+nba-2013-post-2013-06-20-miami-heat-san-antonio-spurs,2013,,2013-06-20,Miami Heat,San Antonio Spurs,95,88,POST,1399

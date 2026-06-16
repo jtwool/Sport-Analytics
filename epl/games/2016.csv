@@ -1,0 +1,381 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+epl-2016-REG-0001,2016,,2015-08-08,AFC Bournemouth,Aston Villa,0,1,REG,1
+epl-2016-REG-0002,2016,,2015-08-08,Chelsea,Swansea City,2,2,REG,2
+epl-2016-REG-0003,2016,,2015-08-08,Everton,Watford,2,2,REG,3
+epl-2016-REG-0004,2016,,2015-08-08,Leicester City,Sunderland,4,2,REG,4
+epl-2016-REG-0005,2016,,2015-08-08,Manchester United,Tottenham Hotspur,1,0,REG,5
+epl-2016-REG-0006,2016,,2015-08-08,Norwich City,Crystal Palace,1,3,REG,6
+epl-2016-REG-0007,2016,,2015-08-09,Arsenal,West Ham United,0,2,REG,7
+epl-2016-REG-0008,2016,,2015-08-09,Newcastle United,Southampton,2,2,REG,8
+epl-2016-REG-0009,2016,,2015-08-09,Stoke City,Liverpool,0,1,REG,9
+epl-2016-REG-0010,2016,,2015-08-10,West Bromwich Albion,Manchester City,0,3,REG,10
+epl-2016-REG-0011,2016,,2015-08-14,Aston Villa,Manchester United,0,1,REG,11
+epl-2016-REG-0012,2016,,2015-08-15,Southampton,Everton,0,3,REG,12
+epl-2016-REG-0013,2016,,2015-08-15,Sunderland,Norwich City,1,3,REG,13
+epl-2016-REG-0014,2016,,2015-08-15,Swansea City,Newcastle United,2,0,REG,14
+epl-2016-REG-0015,2016,,2015-08-15,Tottenham Hotspur,Stoke City,2,2,REG,15
+epl-2016-REG-0016,2016,,2015-08-15,Watford,West Bromwich Albion,0,0,REG,16
+epl-2016-REG-0017,2016,,2015-08-15,West Ham United,Leicester City,1,2,REG,17
+epl-2016-REG-0018,2016,,2015-08-16,Crystal Palace,Arsenal,1,2,REG,18
+epl-2016-REG-0019,2016,,2015-08-16,Manchester City,Chelsea,3,0,REG,19
+epl-2016-REG-0020,2016,,2015-08-17,Liverpool,AFC Bournemouth,1,0,REG,20
+epl-2016-REG-0021,2016,,2015-08-22,Crystal Palace,Aston Villa,2,1,REG,21
+epl-2016-REG-0022,2016,,2015-08-22,Leicester City,Tottenham Hotspur,1,1,REG,22
+epl-2016-REG-0023,2016,,2015-08-22,Manchester United,Newcastle United,0,0,REG,23
+epl-2016-REG-0024,2016,,2015-08-22,Norwich City,Stoke City,1,1,REG,24
+epl-2016-REG-0025,2016,,2015-08-22,Sunderland,Swansea City,1,1,REG,25
+epl-2016-REG-0026,2016,,2015-08-22,West Ham United,AFC Bournemouth,3,4,REG,26
+epl-2016-REG-0027,2016,,2015-08-23,Everton,Manchester City,0,2,REG,27
+epl-2016-REG-0028,2016,,2015-08-23,Watford,Southampton,0,0,REG,28
+epl-2016-REG-0029,2016,,2015-08-23,West Bromwich Albion,Chelsea,2,3,REG,29
+epl-2016-REG-0030,2016,,2015-08-24,Arsenal,Liverpool,0,0,REG,30
+epl-2016-REG-0032,2016,,2015-08-29,AFC Bournemouth,Leicester City,1,1,REG,31
+epl-2016-REG-0031,2016,,2015-08-29,Aston Villa,Sunderland,2,2,REG,32
+epl-2016-REG-0033,2016,,2015-08-29,Chelsea,Crystal Palace,1,2,REG,33
+epl-2016-REG-0034,2016,,2015-08-29,Liverpool,West Ham United,0,3,REG,34
+epl-2016-REG-0035,2016,,2015-08-29,Manchester City,Watford,2,0,REG,35
+epl-2016-REG-0036,2016,,2015-08-29,Newcastle United,Arsenal,0,1,REG,36
+epl-2016-REG-0037,2016,,2015-08-29,Stoke City,West Bromwich Albion,0,1,REG,37
+epl-2016-REG-0038,2016,,2015-08-29,Tottenham Hotspur,Everton,0,0,REG,38
+epl-2016-REG-0039,2016,,2015-08-30,Southampton,Norwich City,3,0,REG,39
+epl-2016-REG-0040,2016,,2015-08-30,Swansea City,Manchester United,2,1,REG,40
+epl-2016-REG-0041,2016,,2015-09-12,Arsenal,Stoke City,2,0,REG,41
+epl-2016-REG-0042,2016,,2015-09-12,Crystal Palace,Manchester City,0,1,REG,42
+epl-2016-REG-0043,2016,,2015-09-12,Everton,Chelsea,3,1,REG,43
+epl-2016-REG-0044,2016,,2015-09-12,Manchester United,Liverpool,3,1,REG,44
+epl-2016-REG-0045,2016,,2015-09-12,Norwich City,AFC Bournemouth,3,1,REG,45
+epl-2016-REG-0046,2016,,2015-09-12,Watford,Swansea City,1,0,REG,46
+epl-2016-REG-0047,2016,,2015-09-12,West Bromwich Albion,Southampton,0,0,REG,47
+epl-2016-REG-0048,2016,,2015-09-13,Leicester City,Aston Villa,3,2,REG,48
+epl-2016-REG-0049,2016,,2015-09-13,Sunderland,Tottenham Hotspur,0,1,REG,49
+epl-2016-REG-0050,2016,,2015-09-14,West Ham United,Newcastle United,2,0,REG,50
+epl-2016-REG-0052,2016,,2015-09-19,AFC Bournemouth,Sunderland,2,0,REG,51
+epl-2016-REG-0051,2016,,2015-09-19,Aston Villa,West Bromwich Albion,0,1,REG,52
+epl-2016-REG-0053,2016,,2015-09-19,Chelsea,Arsenal,2,0,REG,53
+epl-2016-REG-0054,2016,,2015-09-19,Manchester City,West Ham United,1,2,REG,54
+epl-2016-REG-0055,2016,,2015-09-19,Newcastle United,Watford,1,2,REG,55
+epl-2016-REG-0056,2016,,2015-09-19,Stoke City,Leicester City,2,2,REG,56
+epl-2016-REG-0057,2016,,2015-09-19,Swansea City,Everton,0,0,REG,57
+epl-2016-REG-0058,2016,,2015-09-20,Liverpool,Norwich City,1,1,REG,58
+epl-2016-REG-0059,2016,,2015-09-20,Southampton,Manchester United,2,3,REG,59
+epl-2016-REG-0060,2016,,2015-09-20,Tottenham Hotspur,Crystal Palace,1,0,REG,60
+epl-2016-REG-0061,2016,,2015-09-26,Leicester City,Arsenal,2,5,REG,61
+epl-2016-REG-0062,2016,,2015-09-26,Liverpool,Aston Villa,3,2,REG,62
+epl-2016-REG-0063,2016,,2015-09-26,Manchester United,Sunderland,3,0,REG,63
+epl-2016-REG-0064,2016,,2015-09-26,Newcastle United,Chelsea,2,2,REG,64
+epl-2016-REG-0065,2016,,2015-09-26,Southampton,Swansea City,3,1,REG,65
+epl-2016-REG-0066,2016,,2015-09-26,Stoke City,AFC Bournemouth,2,1,REG,66
+epl-2016-REG-0067,2016,,2015-09-26,Tottenham Hotspur,Manchester City,4,1,REG,67
+epl-2016-REG-0068,2016,,2015-09-26,West Ham United,Norwich City,2,2,REG,68
+epl-2016-REG-0069,2016,,2015-09-27,Watford,Crystal Palace,0,1,REG,69
+epl-2016-REG-0070,2016,,2015-09-28,West Bromwich Albion,Everton,2,3,REG,70
+epl-2016-REG-0072,2016,,2015-10-03,AFC Bournemouth,Watford,1,1,REG,71
+epl-2016-REG-0071,2016,,2015-10-03,Aston Villa,Stoke City,0,1,REG,72
+epl-2016-REG-0073,2016,,2015-10-03,Chelsea,Southampton,1,3,REG,73
+epl-2016-REG-0074,2016,,2015-10-03,Crystal Palace,West Bromwich Albion,2,0,REG,74
+epl-2016-REG-0075,2016,,2015-10-03,Manchester City,Newcastle United,6,1,REG,75
+epl-2016-REG-0076,2016,,2015-10-03,Norwich City,Leicester City,1,2,REG,76
+epl-2016-REG-0077,2016,,2015-10-03,Sunderland,West Ham United,2,2,REG,77
+epl-2016-REG-0078,2016,,2015-10-04,Arsenal,Manchester United,3,0,REG,78
+epl-2016-REG-0079,2016,,2015-10-04,Everton,Liverpool,1,1,REG,79
+epl-2016-REG-0080,2016,,2015-10-04,Swansea City,Tottenham Hotspur,2,2,REG,80
+epl-2016-REG-0081,2016,,2015-10-17,Chelsea,Aston Villa,2,0,REG,81
+epl-2016-REG-0082,2016,,2015-10-17,Crystal Palace,West Ham United,1,3,REG,82
+epl-2016-REG-0083,2016,,2015-10-17,Everton,Manchester United,0,3,REG,83
+epl-2016-REG-0084,2016,,2015-10-17,Manchester City,AFC Bournemouth,5,1,REG,84
+epl-2016-REG-0085,2016,,2015-10-17,Southampton,Leicester City,2,2,REG,85
+epl-2016-REG-0086,2016,,2015-10-17,Tottenham Hotspur,Liverpool,0,0,REG,86
+epl-2016-REG-0087,2016,,2015-10-17,Watford,Arsenal,0,3,REG,87
+epl-2016-REG-0088,2016,,2015-10-17,West Bromwich Albion,Sunderland,1,0,REG,88
+epl-2016-REG-0089,2016,,2015-10-18,Newcastle United,Norwich City,6,2,REG,89
+epl-2016-REG-0090,2016,,2015-10-19,Swansea City,Stoke City,0,1,REG,90
+epl-2016-REG-0091,2016,,2015-10-24,Arsenal,Everton,2,1,REG,91
+epl-2016-REG-0092,2016,,2015-10-24,Aston Villa,Swansea City,1,2,REG,92
+epl-2016-REG-0093,2016,,2015-10-24,Leicester City,Crystal Palace,1,0,REG,93
+epl-2016-REG-0094,2016,,2015-10-24,Norwich City,West Bromwich Albion,0,1,REG,94
+epl-2016-REG-0095,2016,,2015-10-24,Stoke City,Watford,0,2,REG,95
+epl-2016-REG-0096,2016,,2015-10-24,West Ham United,Chelsea,2,1,REG,96
+epl-2016-REG-0097,2016,,2015-10-25,AFC Bournemouth,Tottenham Hotspur,1,5,REG,97
+epl-2016-REG-0098,2016,,2015-10-25,Liverpool,Southampton,1,1,REG,98
+epl-2016-REG-0099,2016,,2015-10-25,Manchester United,Manchester City,0,0,REG,99
+epl-2016-REG-0100,2016,,2015-10-25,Sunderland,Newcastle United,3,0,REG,100
+epl-2016-REG-0101,2016,,2015-10-31,Chelsea,Liverpool,1,3,REG,101
+epl-2016-REG-0102,2016,,2015-10-31,Crystal Palace,Manchester United,0,0,REG,102
+epl-2016-REG-0103,2016,,2015-10-31,Manchester City,Norwich City,2,1,REG,103
+epl-2016-REG-0104,2016,,2015-10-31,Newcastle United,Stoke City,0,0,REG,104
+epl-2016-REG-0105,2016,,2015-10-31,Swansea City,Arsenal,0,3,REG,105
+epl-2016-REG-0106,2016,,2015-10-31,Watford,West Ham United,2,0,REG,106
+epl-2016-REG-0107,2016,,2015-10-31,West Bromwich Albion,Leicester City,2,3,REG,107
+epl-2016-REG-0108,2016,,2015-11-01,Everton,Sunderland,6,2,REG,108
+epl-2016-REG-0109,2016,,2015-11-01,Southampton,AFC Bournemouth,2,0,REG,109
+epl-2016-REG-0110,2016,,2015-11-02,Tottenham Hotspur,Aston Villa,3,1,REG,110
+epl-2016-REG-0111,2016,,2015-11-07,AFC Bournemouth,Newcastle United,0,1,REG,111
+epl-2016-REG-0112,2016,,2015-11-07,Leicester City,Watford,2,1,REG,112
+epl-2016-REG-0113,2016,,2015-11-07,Manchester United,West Bromwich Albion,2,0,REG,113
+epl-2016-REG-0114,2016,,2015-11-07,Norwich City,Swansea City,1,0,REG,114
+epl-2016-REG-0115,2016,,2015-11-07,Stoke City,Chelsea,1,0,REG,115
+epl-2016-REG-0116,2016,,2015-11-07,Sunderland,Southampton,0,1,REG,116
+epl-2016-REG-0117,2016,,2015-11-07,West Ham United,Everton,1,1,REG,117
+epl-2016-REG-0118,2016,,2015-11-08,Arsenal,Tottenham Hotspur,1,1,REG,118
+epl-2016-REG-0119,2016,,2015-11-08,Aston Villa,Manchester City,0,0,REG,119
+epl-2016-REG-0120,2016,,2015-11-08,Liverpool,Crystal Palace,1,2,REG,120
+epl-2016-REG-0121,2016,,2015-11-21,Chelsea,Norwich City,1,0,REG,121
+epl-2016-REG-0122,2016,,2015-11-21,Everton,Aston Villa,4,0,REG,122
+epl-2016-REG-0123,2016,,2015-11-21,Manchester City,Liverpool,1,4,REG,123
+epl-2016-REG-0124,2016,,2015-11-21,Newcastle United,Leicester City,0,3,REG,124
+epl-2016-REG-0125,2016,,2015-11-21,Southampton,Stoke City,0,1,REG,125
+epl-2016-REG-0126,2016,,2015-11-21,Swansea City,AFC Bournemouth,2,2,REG,126
+epl-2016-REG-0127,2016,,2015-11-21,Watford,Manchester United,1,2,REG,127
+epl-2016-REG-0128,2016,,2015-11-21,West Bromwich Albion,Arsenal,2,1,REG,128
+epl-2016-REG-0129,2016,,2015-11-22,Tottenham Hotspur,West Ham United,4,1,REG,129
+epl-2016-REG-0130,2016,,2015-11-23,Crystal Palace,Sunderland,0,1,REG,130
+epl-2016-REG-0132,2016,,2015-11-28,AFC Bournemouth,Everton,3,3,REG,131
+epl-2016-REG-0131,2016,,2015-11-28,Aston Villa,Watford,2,3,REG,132
+epl-2016-REG-0133,2016,,2015-11-28,Crystal Palace,Newcastle United,5,1,REG,133
+epl-2016-REG-0134,2016,,2015-11-28,Leicester City,Manchester United,1,1,REG,134
+epl-2016-REG-0135,2016,,2015-11-28,Manchester City,Southampton,3,1,REG,135
+epl-2016-REG-0136,2016,,2015-11-28,Sunderland,Stoke City,2,0,REG,136
+epl-2016-REG-0137,2016,,2015-11-29,Liverpool,Swansea City,1,0,REG,137
+epl-2016-REG-0138,2016,,2015-11-29,Norwich City,Arsenal,1,1,REG,138
+epl-2016-REG-0139,2016,,2015-11-29,Tottenham Hotspur,Chelsea,0,0,REG,139
+epl-2016-REG-0140,2016,,2015-11-29,West Ham United,West Bromwich Albion,1,1,REG,140
+epl-2016-REG-0141,2016,,2015-12-05,Arsenal,Sunderland,3,1,REG,141
+epl-2016-REG-0142,2016,,2015-12-05,Chelsea,AFC Bournemouth,0,1,REG,142
+epl-2016-REG-0143,2016,,2015-12-05,Manchester United,West Ham United,0,0,REG,143
+epl-2016-REG-0144,2016,,2015-12-05,Southampton,Aston Villa,1,1,REG,144
+epl-2016-REG-0145,2016,,2015-12-05,Stoke City,Manchester City,2,0,REG,145
+epl-2016-REG-0146,2016,,2015-12-05,Swansea City,Leicester City,0,3,REG,146
+epl-2016-REG-0147,2016,,2015-12-05,Watford,Norwich City,2,0,REG,147
+epl-2016-REG-0148,2016,,2015-12-05,West Bromwich Albion,Tottenham Hotspur,1,1,REG,148
+epl-2016-REG-0149,2016,,2015-12-06,Newcastle United,Liverpool,2,0,REG,149
+epl-2016-REG-0150,2016,,2015-12-07,Everton,Crystal Palace,1,1,REG,150
+epl-2016-REG-0151,2016,,2015-12-12,AFC Bournemouth,Manchester United,2,1,REG,151
+epl-2016-REG-0152,2016,,2015-12-12,Crystal Palace,Southampton,1,0,REG,152
+epl-2016-REG-0153,2016,,2015-12-12,Manchester City,Swansea City,2,1,REG,153
+epl-2016-REG-0154,2016,,2015-12-12,Norwich City,Everton,1,1,REG,154
+epl-2016-REG-0155,2016,,2015-12-12,Sunderland,Watford,0,1,REG,155
+epl-2016-REG-0156,2016,,2015-12-12,West Ham United,Stoke City,0,0,REG,156
+epl-2016-REG-0157,2016,,2015-12-13,Aston Villa,Arsenal,0,2,REG,157
+epl-2016-REG-0158,2016,,2015-12-13,Liverpool,West Bromwich Albion,2,2,REG,158
+epl-2016-REG-0159,2016,,2015-12-13,Tottenham Hotspur,Newcastle United,1,2,REG,159
+epl-2016-REG-0160,2016,,2015-12-14,Leicester City,Chelsea,2,1,REG,160
+epl-2016-REG-0161,2016,,2015-12-19,Chelsea,Sunderland,3,1,REG,161
+epl-2016-REG-0162,2016,,2015-12-19,Everton,Leicester City,2,3,REG,162
+epl-2016-REG-0163,2016,,2015-12-19,Manchester United,Norwich City,1,2,REG,163
+epl-2016-REG-0164,2016,,2015-12-19,Newcastle United,Aston Villa,1,1,REG,164
+epl-2016-REG-0165,2016,,2015-12-19,Southampton,Tottenham Hotspur,0,2,REG,165
+epl-2016-REG-0166,2016,,2015-12-19,Stoke City,Crystal Palace,1,2,REG,166
+epl-2016-REG-0167,2016,,2015-12-19,West Bromwich Albion,AFC Bournemouth,1,2,REG,167
+epl-2016-REG-0168,2016,,2015-12-20,Swansea City,West Ham United,0,0,REG,168
+epl-2016-REG-0169,2016,,2015-12-20,Watford,Liverpool,3,0,REG,169
+epl-2016-REG-0170,2016,,2015-12-21,Arsenal,Manchester City,2,1,REG,170
+epl-2016-REG-0172,2016,,2015-12-26,AFC Bournemouth,Crystal Palace,0,0,REG,171
+epl-2016-REG-0171,2016,,2015-12-26,Aston Villa,West Ham United,1,1,REG,172
+epl-2016-REG-0173,2016,,2015-12-26,Chelsea,Watford,2,2,REG,173
+epl-2016-REG-0174,2016,,2015-12-26,Liverpool,Leicester City,1,0,REG,174
+epl-2016-REG-0175,2016,,2015-12-26,Manchester City,Sunderland,4,1,REG,175
+epl-2016-REG-0176,2016,,2015-12-26,Newcastle United,Everton,0,1,REG,176
+epl-2016-REG-0177,2016,,2015-12-26,Southampton,Arsenal,4,0,REG,177
+epl-2016-REG-0178,2016,,2015-12-26,Stoke City,Manchester United,2,0,REG,178
+epl-2016-REG-0179,2016,,2015-12-26,Swansea City,West Bromwich Albion,1,0,REG,179
+epl-2016-REG-0180,2016,,2015-12-26,Tottenham Hotspur,Norwich City,3,0,REG,180
+epl-2016-REG-0181,2016,,2015-12-28,Arsenal,AFC Bournemouth,2,0,REG,181
+epl-2016-REG-0182,2016,,2015-12-28,Crystal Palace,Swansea City,0,0,REG,182
+epl-2016-REG-0183,2016,,2015-12-28,Everton,Stoke City,3,4,REG,183
+epl-2016-REG-0184,2016,,2015-12-28,Manchester United,Chelsea,0,0,REG,184
+epl-2016-REG-0185,2016,,2015-12-28,Norwich City,Aston Villa,2,0,REG,185
+epl-2016-REG-0186,2016,,2015-12-28,Watford,Tottenham Hotspur,1,2,REG,186
+epl-2016-REG-0187,2016,,2015-12-28,West Bromwich Albion,Newcastle United,1,0,REG,187
+epl-2016-REG-0188,2016,,2015-12-28,West Ham United,Southampton,2,1,REG,188
+epl-2016-REG-0189,2016,,2015-12-29,Leicester City,Manchester City,0,0,REG,189
+epl-2016-REG-0190,2016,,2015-12-30,Sunderland,Liverpool,0,1,REG,190
+epl-2016-REG-0191,2016,,2016-01-02,Arsenal,Newcastle United,1,0,REG,191
+epl-2016-REG-0192,2016,,2016-01-02,Leicester City,AFC Bournemouth,0,0,REG,192
+epl-2016-REG-0193,2016,,2016-01-02,Manchester United,Swansea City,2,1,REG,193
+epl-2016-REG-0194,2016,,2016-01-02,Norwich City,Southampton,1,0,REG,194
+epl-2016-REG-0195,2016,,2016-01-02,Sunderland,Aston Villa,3,1,REG,195
+epl-2016-REG-0196,2016,,2016-01-02,Watford,Manchester City,1,2,REG,196
+epl-2016-REG-0197,2016,,2016-01-02,West Bromwich Albion,Stoke City,2,1,REG,197
+epl-2016-REG-0198,2016,,2016-01-02,West Ham United,Liverpool,2,0,REG,198
+epl-2016-REG-0199,2016,,2016-01-03,Crystal Palace,Chelsea,0,3,REG,199
+epl-2016-REG-0200,2016,,2016-01-03,Everton,Tottenham Hotspur,1,1,REG,200
+epl-2016-REG-0202,2016,,2016-01-12,AFC Bournemouth,West Ham United,1,3,REG,201
+epl-2016-REG-0201,2016,,2016-01-12,Aston Villa,Crystal Palace,1,0,REG,202
+epl-2016-REG-0203,2016,,2016-01-12,Newcastle United,Manchester United,3,3,REG,203
+epl-2016-REG-0204,2016,,2016-01-13,Chelsea,West Bromwich Albion,2,2,REG,204
+epl-2016-REG-0205,2016,,2016-01-13,Liverpool,Arsenal,3,3,REG,205
+epl-2016-REG-0206,2016,,2016-01-13,Manchester City,Everton,0,0,REG,206
+epl-2016-REG-0207,2016,,2016-01-13,Southampton,Watford,2,0,REG,207
+epl-2016-REG-0208,2016,,2016-01-13,Stoke City,Norwich City,3,1,REG,208
+epl-2016-REG-0209,2016,,2016-01-13,Swansea City,Sunderland,2,4,REG,209
+epl-2016-REG-0210,2016,,2016-01-13,Tottenham Hotspur,Leicester City,0,1,REG,210
+epl-2016-REG-0212,2016,,2016-01-16,AFC Bournemouth,Norwich City,3,0,REG,211
+epl-2016-REG-0211,2016,,2016-01-16,Aston Villa,Leicester City,1,1,REG,212
+epl-2016-REG-0213,2016,,2016-01-16,Chelsea,Everton,3,3,REG,213
+epl-2016-REG-0214,2016,,2016-01-16,Manchester City,Crystal Palace,4,0,REG,214
+epl-2016-REG-0215,2016,,2016-01-16,Newcastle United,West Ham United,2,1,REG,215
+epl-2016-REG-0216,2016,,2016-01-16,Southampton,West Bromwich Albion,3,0,REG,216
+epl-2016-REG-0217,2016,,2016-01-16,Tottenham Hotspur,Sunderland,4,1,REG,217
+epl-2016-REG-0218,2016,,2016-01-17,Liverpool,Manchester United,0,1,REG,218
+epl-2016-REG-0219,2016,,2016-01-17,Stoke City,Arsenal,0,0,REG,219
+epl-2016-REG-0220,2016,,2016-01-18,Swansea City,Watford,1,0,REG,220
+epl-2016-REG-0221,2016,,2016-01-23,Crystal Palace,Tottenham Hotspur,1,3,REG,221
+epl-2016-REG-0222,2016,,2016-01-23,Leicester City,Stoke City,3,0,REG,222
+epl-2016-REG-0223,2016,,2016-01-23,Manchester United,Southampton,0,1,REG,223
+epl-2016-REG-0224,2016,,2016-01-23,Norwich City,Liverpool,4,5,REG,224
+epl-2016-REG-0225,2016,,2016-01-23,Sunderland,AFC Bournemouth,1,1,REG,225
+epl-2016-REG-0226,2016,,2016-01-23,Watford,Newcastle United,2,1,REG,226
+epl-2016-REG-0227,2016,,2016-01-23,West Bromwich Albion,Aston Villa,0,0,REG,227
+epl-2016-REG-0228,2016,,2016-01-23,West Ham United,Manchester City,2,2,REG,228
+epl-2016-REG-0229,2016,,2016-01-24,Arsenal,Chelsea,0,1,REG,229
+epl-2016-REG-0230,2016,,2016-01-24,Everton,Swansea City,1,2,REG,230
+epl-2016-REG-0231,2016,,2016-02-02,Arsenal,Southampton,0,0,REG,231
+epl-2016-REG-0232,2016,,2016-02-02,Crystal Palace,AFC Bournemouth,1,2,REG,232
+epl-2016-REG-0233,2016,,2016-02-02,Leicester City,Liverpool,2,0,REG,233
+epl-2016-REG-0234,2016,,2016-02-02,Manchester United,Stoke City,3,0,REG,234
+epl-2016-REG-0235,2016,,2016-02-02,Norwich City,Tottenham Hotspur,0,3,REG,235
+epl-2016-REG-0236,2016,,2016-02-02,Sunderland,Manchester City,0,1,REG,236
+epl-2016-REG-0237,2016,,2016-02-02,West Bromwich Albion,Swansea City,1,1,REG,237
+epl-2016-REG-0238,2016,,2016-02-02,West Ham United,Aston Villa,2,0,REG,238
+epl-2016-REG-0239,2016,,2016-02-03,Everton,Newcastle United,3,0,REG,239
+epl-2016-REG-0240,2016,,2016-02-03,Watford,Chelsea,0,0,REG,240
+epl-2016-REG-0241,2016,,2016-02-06,Aston Villa,Norwich City,2,0,REG,241
+epl-2016-REG-0242,2016,,2016-02-06,Liverpool,Sunderland,2,2,REG,242
+epl-2016-REG-0243,2016,,2016-02-06,Manchester City,Leicester City,1,3,REG,243
+epl-2016-REG-0244,2016,,2016-02-06,Newcastle United,West Bromwich Albion,1,0,REG,244
+epl-2016-REG-0245,2016,,2016-02-06,Southampton,West Ham United,1,0,REG,245
+epl-2016-REG-0246,2016,,2016-02-06,Stoke City,Everton,0,3,REG,246
+epl-2016-REG-0247,2016,,2016-02-06,Swansea City,Crystal Palace,1,1,REG,247
+epl-2016-REG-0248,2016,,2016-02-06,Tottenham Hotspur,Watford,1,0,REG,248
+epl-2016-REG-0249,2016,,2016-02-07,AFC Bournemouth,Arsenal,0,2,REG,249
+epl-2016-REG-0250,2016,,2016-02-07,Chelsea,Manchester United,1,1,REG,250
+epl-2016-REG-0251,2016,,2016-02-13,AFC Bournemouth,Stoke City,1,3,REG,251
+epl-2016-REG-0252,2016,,2016-02-13,Chelsea,Newcastle United,5,1,REG,252
+epl-2016-REG-0253,2016,,2016-02-13,Crystal Palace,Watford,1,2,REG,253
+epl-2016-REG-0254,2016,,2016-02-13,Everton,West Bromwich Albion,0,1,REG,254
+epl-2016-REG-0255,2016,,2016-02-13,Norwich City,West Ham United,2,2,REG,255
+epl-2016-REG-0256,2016,,2016-02-13,Sunderland,Manchester United,2,1,REG,256
+epl-2016-REG-0257,2016,,2016-02-13,Swansea City,Southampton,0,1,REG,257
+epl-2016-REG-0258,2016,,2016-02-14,Arsenal,Leicester City,2,1,REG,258
+epl-2016-REG-0259,2016,,2016-02-14,Aston Villa,Liverpool,0,6,REG,259
+epl-2016-REG-0260,2016,,2016-02-14,Manchester City,Tottenham Hotspur,1,2,REG,260
+epl-2016-REG-0261,2016,,2016-02-27,Leicester City,Norwich City,1,0,REG,261
+epl-2016-REG-0262,2016,,2016-02-27,Southampton,Chelsea,1,2,REG,262
+epl-2016-REG-0263,2016,,2016-02-27,Stoke City,Aston Villa,2,1,REG,263
+epl-2016-REG-0264,2016,,2016-02-27,Watford,AFC Bournemouth,0,0,REG,264
+epl-2016-REG-0265,2016,,2016-02-27,West Bromwich Albion,Crystal Palace,3,2,REG,265
+epl-2016-REG-0266,2016,,2016-02-27,West Ham United,Sunderland,1,0,REG,266
+epl-2016-REG-0268,2016,,2016-02-28,Manchester United,Arsenal,3,2,REG,267
+epl-2016-REG-0267,2016,,2016-02-28,Tottenham Hotspur,Swansea City,2,1,REG,268
+epl-2016-REG-0270,2016,,2016-03-01,AFC Bournemouth,Southampton,2,0,REG,269
+epl-2016-REG-0269,2016,,2016-03-01,Aston Villa,Everton,1,3,REG,270
+epl-2016-REG-0271,2016,,2016-03-01,Leicester City,West Bromwich Albion,2,2,REG,271
+epl-2016-REG-0272,2016,,2016-03-01,Norwich City,Chelsea,1,2,REG,272
+epl-2016-REG-0273,2016,,2016-03-01,Sunderland,Crystal Palace,2,2,REG,273
+epl-2016-REG-0274,2016,,2016-03-02,Arsenal,Swansea City,1,2,REG,274
+epl-2016-REG-0275,2016,,2016-03-02,Liverpool,Manchester City,3,0,REG,275
+epl-2016-REG-0276,2016,,2016-03-02,Manchester United,Watford,1,0,REG,276
+epl-2016-REG-0277,2016,,2016-03-02,Stoke City,Newcastle United,1,0,REG,277
+epl-2016-REG-0278,2016,,2016-03-02,West Ham United,Tottenham Hotspur,1,0,REG,278
+epl-2016-REG-0279,2016,,2016-03-05,Chelsea,Stoke City,1,1,REG,279
+epl-2016-REG-0280,2016,,2016-03-05,Everton,West Ham United,2,3,REG,280
+epl-2016-REG-0281,2016,,2016-03-05,Manchester City,Aston Villa,4,0,REG,281
+epl-2016-REG-0282,2016,,2016-03-05,Newcastle United,AFC Bournemouth,1,3,REG,282
+epl-2016-REG-0283,2016,,2016-03-05,Southampton,Sunderland,1,1,REG,283
+epl-2016-REG-0284,2016,,2016-03-05,Swansea City,Norwich City,1,0,REG,284
+epl-2016-REG-0285,2016,,2016-03-05,Tottenham Hotspur,Arsenal,2,2,REG,285
+epl-2016-REG-0286,2016,,2016-03-05,Watford,Leicester City,0,1,REG,286
+epl-2016-REG-0287,2016,,2016-03-06,Crystal Palace,Liverpool,1,2,REG,287
+epl-2016-REG-0288,2016,,2016-03-06,West Bromwich Albion,Manchester United,1,0,REG,288
+epl-2016-REG-0289,2016,,2016-03-12,AFC Bournemouth,Swansea City,3,2,REG,289
+epl-2016-REG-0290,2016,,2016-03-12,Norwich City,Manchester City,0,0,REG,290
+epl-2016-REG-0291,2016,,2016-03-12,Stoke City,Southampton,1,2,REG,291
+epl-2016-REG-0292,2016,,2016-03-13,Aston Villa,Tottenham Hotspur,0,2,REG,292
+epl-2016-REG-0293,2016,,2016-03-14,Leicester City,Newcastle United,1,0,REG,293
+epl-2016-REG-0294,2016,,2016-03-19,Chelsea,West Ham United,2,2,REG,294
+epl-2016-REG-0295,2016,,2016-03-19,Crystal Palace,Leicester City,0,1,REG,295
+epl-2016-REG-0296,2016,,2016-03-19,Everton,Arsenal,0,2,REG,296
+epl-2016-REG-0297,2016,,2016-03-19,Swansea City,Aston Villa,1,0,REG,297
+epl-2016-REG-0298,2016,,2016-03-19,Watford,Stoke City,1,2,REG,298
+epl-2016-REG-0299,2016,,2016-03-19,West Bromwich Albion,Norwich City,0,1,REG,299
+epl-2016-REG-0300,2016,,2016-03-20,Manchester City,Manchester United,0,1,REG,300
+epl-2016-REG-0301,2016,,2016-03-20,Newcastle United,Sunderland,1,1,REG,301
+epl-2016-REG-0302,2016,,2016-03-20,Southampton,Liverpool,3,2,REG,302
+epl-2016-REG-0303,2016,,2016-03-20,Tottenham Hotspur,AFC Bournemouth,3,0,REG,303
+epl-2016-REG-0306,2016,,2016-04-02,AFC Bournemouth,Manchester City,0,4,REG,304
+epl-2016-REG-0304,2016,,2016-04-02,Arsenal,Watford,4,0,REG,305
+epl-2016-REG-0305,2016,,2016-04-02,Aston Villa,Chelsea,0,4,REG,306
+epl-2016-REG-0307,2016,,2016-04-02,Liverpool,Tottenham Hotspur,1,1,REG,307
+epl-2016-REG-0308,2016,,2016-04-02,Norwich City,Newcastle United,3,2,REG,308
+epl-2016-REG-0309,2016,,2016-04-02,Stoke City,Swansea City,2,2,REG,309
+epl-2016-REG-0310,2016,,2016-04-02,Sunderland,West Bromwich Albion,0,0,REG,310
+epl-2016-REG-0311,2016,,2016-04-02,West Ham United,Crystal Palace,2,2,REG,311
+epl-2016-REG-0312,2016,,2016-04-03,Leicester City,Southampton,1,0,REG,312
+epl-2016-REG-0313,2016,,2016-04-03,Manchester United,Everton,1,0,REG,313
+epl-2016-REG-0314,2016,,2016-04-09,Aston Villa,AFC Bournemouth,1,2,REG,314
+epl-2016-REG-0315,2016,,2016-04-09,Crystal Palace,Norwich City,1,0,REG,315
+epl-2016-REG-0316,2016,,2016-04-09,Manchester City,West Bromwich Albion,2,1,REG,316
+epl-2016-REG-0317,2016,,2016-04-09,Southampton,Newcastle United,3,1,REG,317
+epl-2016-REG-0318,2016,,2016-04-09,Swansea City,Chelsea,1,0,REG,318
+epl-2016-REG-0319,2016,,2016-04-09,Watford,Everton,1,1,REG,319
+epl-2016-REG-0320,2016,,2016-04-09,West Ham United,Arsenal,3,3,REG,320
+epl-2016-REG-0321,2016,,2016-04-10,Liverpool,Stoke City,4,1,REG,321
+epl-2016-REG-0322,2016,,2016-04-10,Sunderland,Leicester City,0,2,REG,322
+epl-2016-REG-0323,2016,,2016-04-10,Tottenham Hotspur,Manchester United,3,0,REG,323
+epl-2016-REG-0324,2016,,2016-04-13,Crystal Palace,Everton,0,0,REG,324
+epl-2016-REG-0325,2016,,2016-04-16,Chelsea,Manchester City,0,3,REG,325
+epl-2016-REG-0326,2016,,2016-04-16,Everton,Southampton,1,1,REG,326
+epl-2016-REG-0327,2016,,2016-04-16,Manchester United,Aston Villa,1,0,REG,327
+epl-2016-REG-0328,2016,,2016-04-16,Newcastle United,Swansea City,3,0,REG,328
+epl-2016-REG-0329,2016,,2016-04-16,Norwich City,Sunderland,0,3,REG,329
+epl-2016-REG-0330,2016,,2016-04-16,West Bromwich Albion,Watford,0,1,REG,330
+epl-2016-REG-0332,2016,,2016-04-17,AFC Bournemouth,Liverpool,1,2,REG,331
+epl-2016-REG-0331,2016,,2016-04-17,Arsenal,Crystal Palace,1,1,REG,332
+epl-2016-REG-0333,2016,,2016-04-17,Leicester City,West Ham United,2,2,REG,333
+epl-2016-REG-0334,2016,,2016-04-18,Stoke City,Tottenham Hotspur,0,4,REG,334
+epl-2016-REG-0335,2016,,2016-04-19,Newcastle United,Manchester City,1,1,REG,335
+epl-2016-REG-0336,2016,,2016-04-20,Liverpool,Everton,4,0,REG,336
+epl-2016-REG-0337,2016,,2016-04-20,Manchester United,Crystal Palace,2,0,REG,337
+epl-2016-REG-0338,2016,,2016-04-20,West Ham United,Watford,3,1,REG,338
+epl-2016-REG-0339,2016,,2016-04-21,Arsenal,West Bromwich Albion,2,0,REG,339
+epl-2016-REG-0341,2016,,2016-04-23,AFC Bournemouth,Chelsea,1,4,REG,340
+epl-2016-REG-0340,2016,,2016-04-23,Aston Villa,Southampton,2,4,REG,341
+epl-2016-REG-0342,2016,,2016-04-23,Liverpool,Newcastle United,2,2,REG,342
+epl-2016-REG-0343,2016,,2016-04-23,Manchester City,Stoke City,4,0,REG,343
+epl-2016-REG-0344,2016,,2016-04-24,Leicester City,Swansea City,4,0,REG,344
+epl-2016-REG-0345,2016,,2016-04-24,Sunderland,Arsenal,0,0,REG,345
+epl-2016-REG-0346,2016,,2016-04-25,Tottenham Hotspur,West Bromwich Albion,1,1,REG,346
+epl-2016-REG-0347,2016,,2016-04-30,Arsenal,Norwich City,1,0,REG,347
+epl-2016-REG-0348,2016,,2016-04-30,Everton,AFC Bournemouth,2,1,REG,348
+epl-2016-REG-0349,2016,,2016-04-30,Newcastle United,Crystal Palace,1,0,REG,349
+epl-2016-REG-0350,2016,,2016-04-30,Stoke City,Sunderland,1,1,REG,350
+epl-2016-REG-0351,2016,,2016-04-30,Watford,Aston Villa,3,2,REG,351
+epl-2016-REG-0352,2016,,2016-04-30,West Bromwich Albion,West Ham United,0,3,REG,352
+epl-2016-REG-0353,2016,,2016-05-01,Manchester United,Leicester City,1,1,REG,353
+epl-2016-REG-0354,2016,,2016-05-01,Southampton,Manchester City,4,2,REG,354
+epl-2016-REG-0355,2016,,2016-05-01,Swansea City,Liverpool,3,1,REG,355
+epl-2016-REG-0356,2016,,2016-05-02,Chelsea,Tottenham Hotspur,2,2,REG,356
+epl-2016-REG-0358,2016,,2016-05-07,AFC Bournemouth,West Bromwich Albion,1,1,REG,357
+epl-2016-REG-0357,2016,,2016-05-07,Aston Villa,Newcastle United,0,0,REG,358
+epl-2016-REG-0359,2016,,2016-05-07,Crystal Palace,Stoke City,2,1,REG,359
+epl-2016-REG-0360,2016,,2016-05-07,Leicester City,Everton,3,1,REG,360
+epl-2016-REG-0361,2016,,2016-05-07,Norwich City,Manchester United,0,1,REG,361
+epl-2016-REG-0362,2016,,2016-05-07,Sunderland,Chelsea,3,2,REG,362
+epl-2016-REG-0363,2016,,2016-05-07,West Ham United,Swansea City,1,4,REG,363
+epl-2016-REG-0364,2016,,2016-05-08,Liverpool,Watford,2,0,REG,364
+epl-2016-REG-0365,2016,,2016-05-08,Manchester City,Arsenal,2,2,REG,365
+epl-2016-REG-0366,2016,,2016-05-08,Tottenham Hotspur,Southampton,1,2,REG,366
+epl-2016-REG-0367,2016,,2016-05-10,West Ham United,Manchester United,3,2,REG,367
+epl-2016-REG-0368,2016,,2016-05-11,Liverpool,Chelsea,1,1,REG,368
+epl-2016-REG-0369,2016,,2016-05-11,Norwich City,Watford,4,2,REG,369
+epl-2016-REG-0370,2016,,2016-05-11,Sunderland,Everton,3,0,REG,370
+epl-2016-REG-0371,2016,,2016-05-15,Arsenal,Aston Villa,4,0,REG,371
+epl-2016-REG-0372,2016,,2016-05-15,Chelsea,Leicester City,1,1,REG,372
+epl-2016-REG-0373,2016,,2016-05-15,Everton,Norwich City,3,0,REG,373
+epl-2016-REG-0374,2016,,2016-05-15,Newcastle United,Tottenham Hotspur,5,1,REG,374
+epl-2016-REG-0375,2016,,2016-05-15,Southampton,Crystal Palace,4,1,REG,375
+epl-2016-REG-0376,2016,,2016-05-15,Stoke City,West Ham United,2,1,REG,376
+epl-2016-REG-0377,2016,,2016-05-15,Swansea City,Manchester City,1,1,REG,377
+epl-2016-REG-0378,2016,,2016-05-15,Watford,Sunderland,2,2,REG,378
+epl-2016-REG-0379,2016,,2016-05-15,West Bromwich Albion,Liverpool,1,1,REG,379
+epl-2016-REG-0380,2016,,2016-05-17,Manchester United,AFC Bournemouth,3,1,REG,380

@@ -1,0 +1,1213 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nhl-2020-reg-2019-10-02-edmonton-oilers-vancouver-canucks,2020,,2019-10-02,Edmonton Oilers,Vancouver Canucks,3,2,REG,1
+nhl-2020-reg-2019-10-02-st-louis-blues-washington-capitals,2020,,2019-10-02,St. Louis Blues,Washington Capitals,2,3,REG,2
+nhl-2020-reg-2019-10-02-toronto-maple-leafs-ottawa-senators,2020,,2019-10-02,Toronto Maple Leafs,Ottawa Senators,5,3,REG,3
+nhl-2020-reg-2019-10-02-vegas-golden-knights-san-jose-sharks,2020,,2019-10-02,Vegas Golden Knights,San Jose Sharks,4,1,REG,4
+nhl-2020-reg-2019-10-03-anaheim-ducks-arizona-coyotes,2020,,2019-10-03,Anaheim Ducks,Arizona Coyotes,2,1,REG,5
+nhl-2020-reg-2019-10-03-carolina-hurricanes-montreal-canadiens,2020,,2019-10-03,Carolina Hurricanes,Montreal Canadiens,4,3,REG,6
+nhl-2020-reg-2019-10-03-colorado-avalanche-calgary-flames,2020,,2019-10-03,Colorado Avalanche,Calgary Flames,5,3,REG,7
+nhl-2020-reg-2019-10-03-dallas-stars-boston-bruins,2020,,2019-10-03,Dallas Stars,Boston Bruins,1,2,REG,8
+nhl-2020-reg-2019-10-03-nashville-predators-minnesota-wild,2020,,2019-10-03,Nashville Predators,Minnesota Wild,5,2,REG,9
+nhl-2020-reg-2019-10-03-new-york-rangers-winnipeg-jets,2020,,2019-10-03,New York Rangers,Winnipeg Jets,6,4,REG,10
+nhl-2020-reg-2019-10-03-pittsburgh-penguins-buffalo-sabres,2020,,2019-10-03,Pittsburgh Penguins,Buffalo Sabres,1,3,REG,11
+nhl-2020-reg-2019-10-03-tampa-bay-lightning-florida-panthers,2020,,2019-10-03,Tampa Bay Lightning,Florida Panthers,5,2,REG,12
+nhl-2020-reg-2019-10-04-columbus-blue-jackets-toronto-maple-leafs,2020,,2019-10-04,Columbus Blue Jackets,Toronto Maple Leafs,1,4,REG,13
+nhl-2020-reg-2019-10-04-new-jersey-devils-winnipeg-jets,2020,,2019-10-04,New Jersey Devils,Winnipeg Jets,4,5,REG,14
+nhl-2020-reg-2019-10-04-new-york-islanders-washington-capitals,2020,,2019-10-04,New York Islanders,Washington Capitals,1,2,REG,15
+nhl-2020-reg-2019-10-04-philadelphia-flyers-chicago-blackhawks,2020,,2019-10-04,Philadelphia Flyers,Chicago Blackhawks,4,3,REG,16
+nhl-2020-reg-2019-10-04-san-jose-sharks-vegas-golden-knights,2020,,2019-10-04,San Jose Sharks,Vegas Golden Knights,1,5,REG,17
+nhl-2020-reg-2019-10-05-anaheim-ducks-san-jose-sharks,2020,,2019-10-05,Anaheim Ducks,San Jose Sharks,3,1,REG,18
+nhl-2020-reg-2019-10-05-arizona-coyotes-boston-bruins,2020,,2019-10-05,Arizona Coyotes,Boston Bruins,0,1,REG,19
+nhl-2020-reg-2019-10-05-buffalo-sabres-new-jersey-devils,2020,,2019-10-05,Buffalo Sabres,New Jersey Devils,7,2,REG,20
+nhl-2020-reg-2019-10-05-calgary-flames-vancouver-canucks,2020,,2019-10-05,Calgary Flames,Vancouver Canucks,3,0,REG,21
+nhl-2020-reg-2019-10-05-colorado-avalanche-minnesota-wild,2020,,2019-10-05,Colorado Avalanche,Minnesota Wild,4,2,REG,22
+nhl-2020-reg-2019-10-05-edmonton-oilers-los-angeles-kings,2020,,2019-10-05,Edmonton Oilers,Los Angeles Kings,6,5,REG,23
+nhl-2020-reg-2019-10-05-florida-panthers-tampa-bay-lightning,2020,,2019-10-05,Florida Panthers,Tampa Bay Lightning,4,3,REG,24
+nhl-2020-reg-2019-10-05-nashville-predators-detroit-red-wings,2020,,2019-10-05,Nashville Predators,Detroit Red Wings,3,5,REG,25
+nhl-2020-reg-2019-10-05-ottawa-senators-new-york-rangers,2020,,2019-10-05,Ottawa Senators,New York Rangers,1,4,REG,26
+nhl-2020-reg-2019-10-05-pittsburgh-penguins-columbus-blue-jackets,2020,,2019-10-05,Pittsburgh Penguins,Columbus Blue Jackets,7,2,REG,27
+nhl-2020-reg-2019-10-05-st-louis-blues-dallas-stars,2020,,2019-10-05,St. Louis Blues,Dallas Stars,3,2,REG,28
+nhl-2020-reg-2019-10-05-toronto-maple-leafs-montreal-canadiens,2020,,2019-10-05,Toronto Maple Leafs,Montreal Canadiens,5,6,REG,29
+nhl-2020-reg-2019-10-05-washington-capitals-carolina-hurricanes,2020,,2019-10-05,Washington Capitals,Carolina Hurricanes,2,3,REG,30
+nhl-2020-reg-2019-10-06-carolina-hurricanes-tampa-bay-lightning,2020,,2019-10-06,Carolina Hurricanes,Tampa Bay Lightning,4,3,REG,31
+nhl-2020-reg-2019-10-06-detroit-red-wings-dallas-stars,2020,,2019-10-06,Detroit Red Wings,Dallas Stars,4,3,REG,32
+nhl-2020-reg-2019-10-06-new-york-islanders-winnipeg-jets,2020,,2019-10-06,New York Islanders,Winnipeg Jets,4,1,REG,33
+nhl-2020-reg-2019-10-07-columbus-blue-jackets-buffalo-sabres,2020,,2019-10-07,Columbus Blue Jackets,Buffalo Sabres,4,3,REG,34
+nhl-2020-reg-2019-10-07-toronto-maple-leafs-st-louis-blues,2020,,2019-10-07,Toronto Maple Leafs,St. Louis Blues,2,3,REG,35
+nhl-2020-reg-2019-10-08-calgary-flames-los-angeles-kings,2020,,2019-10-08,Calgary Flames,Los Angeles Kings,3,4,REG,36
+nhl-2020-reg-2019-10-08-detroit-red-wings-anaheim-ducks,2020,,2019-10-08,Detroit Red Wings,Anaheim Ducks,1,3,REG,37
+nhl-2020-reg-2019-10-08-florida-panthers-carolina-hurricanes,2020,,2019-10-08,Florida Panthers,Carolina Hurricanes,3,6,REG,38
+nhl-2020-reg-2019-10-08-nashville-predators-san-jose-sharks,2020,,2019-10-08,Nashville Predators,San Jose Sharks,5,2,REG,39
+nhl-2020-reg-2019-10-08-new-york-islanders-edmonton-oilers,2020,,2019-10-08,New York Islanders,Edmonton Oilers,2,5,REG,40
+nhl-2020-reg-2019-10-08-pittsburgh-penguins-winnipeg-jets,2020,,2019-10-08,Pittsburgh Penguins,Winnipeg Jets,1,4,REG,41
+nhl-2020-reg-2019-10-08-vegas-golden-knights-boston-bruins,2020,,2019-10-08,Vegas Golden Knights,Boston Bruins,3,4,REG,42
+nhl-2020-reg-2019-10-08-washington-capitals-dallas-stars,2020,,2019-10-08,Washington Capitals,Dallas Stars,3,4,REG,43
+nhl-2020-reg-2019-10-09-buffalo-sabres-montreal-canadiens,2020,,2019-10-09,Buffalo Sabres,Montreal Canadiens,5,4,REG,44
+nhl-2020-reg-2019-10-09-philadelphia-flyers-new-jersey-devils,2020,,2019-10-09,Philadelphia Flyers,New Jersey Devils,4,0,REG,45
+nhl-2020-reg-2019-10-09-vancouver-canucks-los-angeles-kings,2020,,2019-10-09,Vancouver Canucks,Los Angeles Kings,8,2,REG,46
+nhl-2020-reg-2019-10-10-arizona-coyotes-vegas-golden-knights,2020,,2019-10-10,Arizona Coyotes,Vegas Golden Knights,4,1,REG,47
+nhl-2020-reg-2019-10-10-chicago-blackhawks-san-jose-sharks,2020,,2019-10-10,Chicago Blackhawks,San Jose Sharks,4,5,REG,48
+nhl-2020-reg-2019-10-10-colorado-avalanche-boston-bruins,2020,,2019-10-10,Colorado Avalanche,Boston Bruins,4,2,REG,49
+nhl-2020-reg-2019-10-10-dallas-stars-calgary-flames,2020,,2019-10-10,Dallas Stars,Calgary Flames,2,3,REG,50
+nhl-2020-reg-2019-10-10-montreal-canadiens-detroit-red-wings,2020,,2019-10-10,Montreal Canadiens,Detroit Red Wings,2,4,REG,51
+nhl-2020-reg-2019-10-10-nashville-predators-washington-capitals,2020,,2019-10-10,Nashville Predators,Washington Capitals,6,5,REG,52
+nhl-2020-reg-2019-10-10-new-jersey-devils-edmonton-oilers,2020,,2019-10-10,New Jersey Devils,Edmonton Oilers,3,4,REG,53
+nhl-2020-reg-2019-10-10-ottawa-senators-st-louis-blues,2020,,2019-10-10,Ottawa Senators,St. Louis Blues,4,6,REG,54
+nhl-2020-reg-2019-10-10-pittsburgh-penguins-anaheim-ducks,2020,,2019-10-10,Pittsburgh Penguins,Anaheim Ducks,2,1,REG,55
+nhl-2020-reg-2019-10-10-toronto-maple-leafs-tampa-bay-lightning,2020,,2019-10-10,Toronto Maple Leafs,Tampa Bay Lightning,3,7,REG,56
+nhl-2020-reg-2019-10-10-winnipeg-jets-minnesota-wild,2020,,2019-10-10,Winnipeg Jets,Minnesota Wild,5,2,REG,57
+nhl-2020-reg-2019-10-11-buffalo-sabres-florida-panthers,2020,,2019-10-11,Buffalo Sabres,Florida Panthers,3,2,REG,58
+nhl-2020-reg-2019-10-11-carolina-hurricanes-new-york-islanders,2020,,2019-10-11,Carolina Hurricanes,New York Islanders,5,2,REG,59
+nhl-2020-reg-2019-10-11-columbus-blue-jackets-anaheim-ducks,2020,,2019-10-11,Columbus Blue Jackets,Anaheim Ducks,1,2,REG,60
+nhl-2020-reg-2019-10-12-boston-bruins-new-jersey-devils,2020,,2019-10-12,Boston Bruins,New Jersey Devils,3,0,REG,61
+nhl-2020-reg-2019-10-12-carolina-hurricanes-columbus-blue-jackets,2020,,2019-10-12,Carolina Hurricanes,Columbus Blue Jackets,2,3,REG,62
+nhl-2020-reg-2019-10-12-chicago-blackhawks-winnipeg-jets,2020,,2019-10-12,Chicago Blackhawks,Winnipeg Jets,2,3,REG,63
+nhl-2020-reg-2019-10-12-colorado-avalanche-arizona-coyotes,2020,,2019-10-12,Colorado Avalanche,Arizona Coyotes,3,2,REG,64
+nhl-2020-reg-2019-10-12-dallas-stars-washington-capitals,2020,,2019-10-12,Dallas Stars,Washington Capitals,1,4,REG,65
+nhl-2020-reg-2019-10-12-detroit-red-wings-toronto-maple-leafs,2020,,2019-10-12,Detroit Red Wings,Toronto Maple Leafs,2,5,REG,66
+nhl-2020-reg-2019-10-12-los-angeles-kings-nashville-predators,2020,,2019-10-12,Los Angeles Kings,Nashville Predators,7,4,REG,67
+nhl-2020-reg-2019-10-12-minnesota-wild-pittsburgh-penguins,2020,,2019-10-12,Minnesota Wild,Pittsburgh Penguins,4,7,REG,68
+nhl-2020-reg-2019-10-12-montreal-canadiens-st-louis-blues,2020,,2019-10-12,Montreal Canadiens,St. Louis Blues,6,3,REG,69
+nhl-2020-reg-2019-10-12-new-york-islanders-florida-panthers,2020,,2019-10-12,New York Islanders,Florida Panthers,3,2,REG,70
+nhl-2020-reg-2019-10-12-new-york-rangers-edmonton-oilers,2020,,2019-10-12,New York Rangers,Edmonton Oilers,1,4,REG,71
+nhl-2020-reg-2019-10-12-ottawa-senators-tampa-bay-lightning,2020,,2019-10-12,Ottawa Senators,Tampa Bay Lightning,4,2,REG,72
+nhl-2020-reg-2019-10-12-vancouver-canucks-philadelphia-flyers,2020,,2019-10-12,Vancouver Canucks,Philadelphia Flyers,3,2,REG,73
+nhl-2020-reg-2019-10-12-vegas-golden-knights-calgary-flames,2020,,2019-10-12,Vegas Golden Knights,Calgary Flames,6,2,REG,74
+nhl-2020-reg-2019-10-13-los-angeles-kings-vegas-golden-knights,2020,,2019-10-13,Los Angeles Kings,Vegas Golden Knights,2,5,REG,75
+nhl-2020-reg-2019-10-13-san-jose-sharks-calgary-flames,2020,,2019-10-13,San Jose Sharks,Calgary Flames,3,1,REG,76
+nhl-2020-reg-2019-10-13-winnipeg-jets-pittsburgh-penguins,2020,,2019-10-13,Winnipeg Jets,Pittsburgh Penguins,2,7,REG,77
+nhl-2020-reg-2019-10-14-boston-bruins-anaheim-ducks,2020,,2019-10-14,Boston Bruins,Anaheim Ducks,4,2,REG,78
+nhl-2020-reg-2019-10-14-buffalo-sabres-dallas-stars,2020,,2019-10-14,Buffalo Sabres,Dallas Stars,4,0,REG,79
+nhl-2020-reg-2019-10-14-chicago-blackhawks-edmonton-oilers,2020,,2019-10-14,Chicago Blackhawks,Edmonton Oilers,3,1,REG,80
+nhl-2020-reg-2019-10-14-new-jersey-devils-florida-panthers,2020,,2019-10-14,New Jersey Devils,Florida Panthers,4,6,REG,81
+nhl-2020-reg-2019-10-14-new-york-islanders-st-louis-blues,2020,,2019-10-14,New York Islanders,St. Louis Blues,3,2,REG,82
+nhl-2020-reg-2019-10-14-ottawa-senators-minnesota-wild,2020,,2019-10-14,Ottawa Senators,Minnesota Wild,0,2,REG,83
+nhl-2020-reg-2019-10-14-washington-capitals-colorado-avalanche,2020,,2019-10-14,Washington Capitals,Colorado Avalanche,3,6,REG,84
+nhl-2020-reg-2019-10-15-calgary-flames-philadelphia-flyers,2020,,2019-10-15,Calgary Flames,Philadelphia Flyers,3,1,REG,85
+nhl-2020-reg-2019-10-15-los-angeles-kings-carolina-hurricanes,2020,,2019-10-15,Los Angeles Kings,Carolina Hurricanes,0,2,REG,86
+nhl-2020-reg-2019-10-15-montreal-canadiens-tampa-bay-lightning,2020,,2019-10-15,Montreal Canadiens,Tampa Bay Lightning,1,3,REG,87
+nhl-2020-reg-2019-10-15-toronto-maple-leafs-minnesota-wild,2020,,2019-10-15,Toronto Maple Leafs,Minnesota Wild,4,2,REG,88
+nhl-2020-reg-2019-10-15-vancouver-canucks-detroit-red-wings,2020,,2019-10-15,Vancouver Canucks,Detroit Red Wings,5,1,REG,89
+nhl-2020-reg-2019-10-15-vegas-golden-knights-nashville-predators,2020,,2019-10-15,Vegas Golden Knights,Nashville Predators,2,5,REG,90
+nhl-2020-reg-2019-10-15-winnipeg-jets-arizona-coyotes,2020,,2019-10-15,Winnipeg Jets,Arizona Coyotes,2,4,REG,91
+nhl-2020-reg-2019-10-16-anaheim-ducks-buffalo-sabres,2020,,2019-10-16,Anaheim Ducks,Buffalo Sabres,5,2,REG,92
+nhl-2020-reg-2019-10-16-columbus-blue-jackets-dallas-stars,2020,,2019-10-16,Columbus Blue Jackets,Dallas Stars,3,2,REG,93
+nhl-2020-reg-2019-10-16-edmonton-oilers-philadelphia-flyers,2020,,2019-10-16,Edmonton Oilers,Philadelphia Flyers,6,3,REG,94
+nhl-2020-reg-2019-10-16-pittsburgh-penguins-colorado-avalanche,2020,,2019-10-16,Pittsburgh Penguins,Colorado Avalanche,3,2,REG,95
+nhl-2020-reg-2019-10-16-san-jose-sharks-carolina-hurricanes,2020,,2019-10-16,San Jose Sharks,Carolina Hurricanes,5,2,REG,96
+nhl-2020-reg-2019-10-16-washington-capitals-toronto-maple-leafs,2020,,2019-10-16,Washington Capitals,Toronto Maple Leafs,4,3,REG,97
+nhl-2020-reg-2019-10-17-arizona-coyotes-nashville-predators,2020,,2019-10-17,Arizona Coyotes,Nashville Predators,5,2,REG,98
+nhl-2020-reg-2019-10-17-boston-bruins-tampa-bay-lightning,2020,,2019-10-17,Boston Bruins,Tampa Bay Lightning,3,4,REG,99
+nhl-2020-reg-2019-10-17-calgary-flames-detroit-red-wings,2020,,2019-10-17,Calgary Flames,Detroit Red Wings,5,1,REG,100
+nhl-2020-reg-2019-10-17-los-angeles-kings-buffalo-sabres,2020,,2019-10-17,Los Angeles Kings,Buffalo Sabres,0,3,REG,101
+nhl-2020-reg-2019-10-17-montreal-canadiens-minnesota-wild,2020,,2019-10-17,Montreal Canadiens,Minnesota Wild,4,0,REG,102
+nhl-2020-reg-2019-10-17-new-jersey-devils-new-york-rangers,2020,,2019-10-17,New Jersey Devils,New York Rangers,5,2,REG,103
+nhl-2020-reg-2019-10-17-st-louis-blues-vancouver-canucks,2020,,2019-10-17,St. Louis Blues,Vancouver Canucks,3,4,REG,104
+nhl-2020-reg-2019-10-17-vegas-golden-knights-ottawa-senators,2020,,2019-10-17,Vegas Golden Knights,Ottawa Senators,3,2,REG,105
+nhl-2020-reg-2019-10-17-winnipeg-jets-new-york-islanders,2020,,2019-10-17,Winnipeg Jets,New York Islanders,1,3,REG,106
+nhl-2020-reg-2019-10-18-anaheim-ducks-carolina-hurricanes,2020,,2019-10-18,Anaheim Ducks,Carolina Hurricanes,4,2,REG,107
+nhl-2020-reg-2019-10-18-chicago-blackhawks-columbus-blue-jackets,2020,,2019-10-18,Chicago Blackhawks,Columbus Blue Jackets,3,2,REG,108
+nhl-2020-reg-2019-10-18-edmonton-oilers-detroit-red-wings,2020,,2019-10-18,Edmonton Oilers,Detroit Red Wings,2,1,REG,109
+nhl-2020-reg-2019-10-18-florida-panthers-colorado-avalanche,2020,,2019-10-18,Florida Panthers,Colorado Avalanche,4,5,REG,110
+nhl-2020-reg-2019-10-18-pittsburgh-penguins-dallas-stars,2020,,2019-10-18,Pittsburgh Penguins,Dallas Stars,4,2,REG,111
+nhl-2020-reg-2019-10-18-washington-capitals-new-york-rangers,2020,,2019-10-18,Washington Capitals,New York Rangers,5,2,REG,112
+nhl-2020-reg-2019-10-19-arizona-coyotes-ottawa-senators,2020,,2019-10-19,Arizona Coyotes,Ottawa Senators,5,2,REG,113
+nhl-2020-reg-2019-10-19-columbus-blue-jackets-new-york-islanders,2020,,2019-10-19,Columbus Blue Jackets,New York Islanders,2,3,REG,114
+nhl-2020-reg-2019-10-19-los-angeles-kings-calgary-flames,2020,,2019-10-19,Los Angeles Kings,Calgary Flames,4,1,REG,115
+nhl-2020-reg-2019-10-19-nashville-predators-florida-panthers,2020,,2019-10-19,Nashville Predators,Florida Panthers,2,3,REG,116
+nhl-2020-reg-2019-10-19-new-jersey-devils-vancouver-canucks,2020,,2019-10-19,New Jersey Devils,Vancouver Canucks,1,0,REG,117
+nhl-2020-reg-2019-10-19-philadelphia-flyers-dallas-stars,2020,,2019-10-19,Philadelphia Flyers,Dallas Stars,1,4,REG,118
+nhl-2020-reg-2019-10-19-pittsburgh-penguins-vegas-golden-knights,2020,,2019-10-19,Pittsburgh Penguins,Vegas Golden Knights,0,3,REG,119
+nhl-2020-reg-2019-10-19-san-jose-sharks-buffalo-sabres,2020,,2019-10-19,San Jose Sharks,Buffalo Sabres,3,4,REG,120
+nhl-2020-reg-2019-10-19-st-louis-blues-montreal-canadiens,2020,,2019-10-19,St. Louis Blues,Montreal Canadiens,2,5,REG,121
+nhl-2020-reg-2019-10-19-tampa-bay-lightning-colorado-avalanche,2020,,2019-10-19,Tampa Bay Lightning,Colorado Avalanche,2,6,REG,122
+nhl-2020-reg-2019-10-19-toronto-maple-leafs-boston-bruins,2020,,2019-10-19,Toronto Maple Leafs,Boston Bruins,4,3,REG,123
+nhl-2020-reg-2019-10-20-anaheim-ducks-calgary-flames,2020,,2019-10-20,Anaheim Ducks,Calgary Flames,1,2,REG,124
+nhl-2020-reg-2019-10-20-chicago-blackhawks-washington-capitals,2020,,2019-10-20,Chicago Blackhawks,Washington Capitals,3,5,REG,125
+nhl-2020-reg-2019-10-20-minnesota-wild-montreal-canadiens,2020,,2019-10-20,Minnesota Wild,Montreal Canadiens,4,3,REG,126
+nhl-2020-reg-2019-10-20-new-york-rangers-vancouver-canucks,2020,,2019-10-20,New York Rangers,Vancouver Canucks,2,3,REG,127
+nhl-2020-reg-2019-10-20-winnipeg-jets-edmonton-oilers,2020,,2019-10-20,Winnipeg Jets,Edmonton Oilers,1,0,REG,128
+nhl-2020-reg-2019-10-21-dallas-stars-ottawa-senators,2020,,2019-10-21,Dallas Stars,Ottawa Senators,2,1,REG,129
+nhl-2020-reg-2019-10-21-philadelphia-flyers-vegas-golden-knights,2020,,2019-10-21,Philadelphia Flyers,Vegas Golden Knights,6,2,REG,130
+nhl-2020-reg-2019-10-21-st-louis-blues-colorado-avalanche,2020,,2019-10-21,St. Louis Blues,Colorado Avalanche,3,1,REG,131
+nhl-2020-reg-2019-10-21-toronto-maple-leafs-columbus-blue-jackets,2020,,2019-10-21,Toronto Maple Leafs,Columbus Blue Jackets,3,4,REG,132
+nhl-2020-reg-2019-10-22-boston-bruins-toronto-maple-leafs,2020,,2019-10-22,Boston Bruins,Toronto Maple Leafs,4,2,REG,133
+nhl-2020-reg-2019-10-22-buffalo-sabres-san-jose-sharks,2020,,2019-10-22,Buffalo Sabres,San Jose Sharks,4,3,REG,134
+nhl-2020-reg-2019-10-22-calgary-flames-washington-capitals,2020,,2019-10-22,Calgary Flames,Washington Capitals,3,5,REG,135
+nhl-2020-reg-2019-10-22-chicago-blackhawks-vegas-golden-knights,2020,,2019-10-22,Chicago Blackhawks,Vegas Golden Knights,1,2,REG,136
+nhl-2020-reg-2019-10-22-detroit-red-wings-vancouver-canucks,2020,,2019-10-22,Detroit Red Wings,Vancouver Canucks,2,5,REG,137
+nhl-2020-reg-2019-10-22-florida-panthers-pittsburgh-penguins,2020,,2019-10-22,Florida Panthers,Pittsburgh Penguins,4,2,REG,138
+nhl-2020-reg-2019-10-22-minnesota-wild-edmonton-oilers,2020,,2019-10-22,Minnesota Wild,Edmonton Oilers,3,0,REG,139
+nhl-2020-reg-2019-10-22-nashville-predators-anaheim-ducks,2020,,2019-10-22,Nashville Predators,Anaheim Ducks,6,1,REG,140
+nhl-2020-reg-2019-10-22-new-york-rangers-arizona-coyotes,2020,,2019-10-22,New York Rangers,Arizona Coyotes,2,3,REG,141
+nhl-2020-reg-2019-10-22-winnipeg-jets-los-angeles-kings,2020,,2019-10-22,Winnipeg Jets,Los Angeles Kings,2,3,REG,142
+nhl-2020-reg-2019-10-23-ottawa-senators-detroit-red-wings,2020,,2019-10-23,Ottawa Senators,Detroit Red Wings,5,2,REG,143
+nhl-2020-reg-2019-10-23-tampa-bay-lightning-pittsburgh-penguins,2020,,2019-10-23,Tampa Bay Lightning,Pittsburgh Penguins,3,2,REG,144
+nhl-2020-reg-2019-10-24-calgary-flames-florida-panthers,2020,,2019-10-24,Calgary Flames,Florida Panthers,6,5,REG,145
+nhl-2020-reg-2019-10-24-chicago-blackhawks-philadelphia-flyers,2020,,2019-10-24,Chicago Blackhawks,Philadelphia Flyers,1,4,REG,146
+nhl-2020-reg-2019-10-24-columbus-blue-jackets-carolina-hurricanes,2020,,2019-10-24,Columbus Blue Jackets,Carolina Hurricanes,4,3,REG,147
+nhl-2020-reg-2019-10-24-dallas-stars-anaheim-ducks,2020,,2019-10-24,Dallas Stars,Anaheim Ducks,2,1,REG,148
+nhl-2020-reg-2019-10-24-edmonton-oilers-washington-capitals,2020,,2019-10-24,Edmonton Oilers,Washington Capitals,4,3,REG,149
+nhl-2020-reg-2019-10-24-montreal-canadiens-san-jose-sharks,2020,,2019-10-24,Montreal Canadiens,San Jose Sharks,2,4,REG,150
+nhl-2020-reg-2019-10-24-nashville-predators-minnesota-wild,2020,,2019-10-24,Nashville Predators,Minnesota Wild,4,0,REG,151
+nhl-2020-reg-2019-10-24-new-york-islanders-arizona-coyotes,2020,,2019-10-24,New York Islanders,Arizona Coyotes,4,2,REG,152
+nhl-2020-reg-2019-10-24-new-york-rangers-buffalo-sabres,2020,,2019-10-24,New York Rangers,Buffalo Sabres,6,2,REG,153
+nhl-2020-reg-2019-10-24-st-louis-blues-los-angeles-kings,2020,,2019-10-24,St. Louis Blues,Los Angeles Kings,5,2,REG,154
+nhl-2020-reg-2019-10-25-detroit-red-wings-buffalo-sabres,2020,,2019-10-25,Detroit Red Wings,Buffalo Sabres,0,2,REG,155
+nhl-2020-reg-2019-10-25-new-jersey-devils-arizona-coyotes,2020,,2019-10-25,New Jersey Devils,Arizona Coyotes,3,5,REG,156
+nhl-2020-reg-2019-10-25-ottawa-senators-new-york-islanders,2020,,2019-10-25,Ottawa Senators,New York Islanders,2,4,REG,157
+nhl-2020-reg-2019-10-25-toronto-maple-leafs-san-jose-sharks,2020,,2019-10-25,Toronto Maple Leafs,San Jose Sharks,4,1,REG,158
+nhl-2020-reg-2019-10-25-vancouver-canucks-washington-capitals,2020,,2019-10-25,Vancouver Canucks,Washington Capitals,5,6,REG,159
+nhl-2020-reg-2019-10-25-vegas-golden-knights-colorado-avalanche,2020,,2019-10-25,Vegas Golden Knights,Colorado Avalanche,1,6,REG,160
+nhl-2020-reg-2019-10-26-boston-bruins-st-louis-blues,2020,,2019-10-26,Boston Bruins,St. Louis Blues,3,0,REG,161
+nhl-2020-reg-2019-10-26-carolina-hurricanes-chicago-blackhawks,2020,,2019-10-26,Carolina Hurricanes,Chicago Blackhawks,4,0,REG,162
+nhl-2020-reg-2019-10-26-colorado-avalanche-anaheim-ducks,2020,,2019-10-26,Colorado Avalanche,Anaheim Ducks,2,5,REG,163
+nhl-2020-reg-2019-10-26-dallas-stars-pittsburgh-penguins,2020,,2019-10-26,Dallas Stars,Pittsburgh Penguins,0,3,REG,164
+nhl-2020-reg-2019-10-26-minnesota-wild-los-angeles-kings,2020,,2019-10-26,Minnesota Wild,Los Angeles Kings,5,1,REG,165
+nhl-2020-reg-2019-10-26-montreal-canadiens-toronto-maple-leafs,2020,,2019-10-26,Montreal Canadiens,Toronto Maple Leafs,5,2,REG,166
+nhl-2020-reg-2019-10-26-philadelphia-flyers-columbus-blue-jackets,2020,,2019-10-26,Philadelphia Flyers,Columbus Blue Jackets,7,4,REG,167
+nhl-2020-reg-2019-10-26-tampa-bay-lightning-nashville-predators,2020,,2019-10-26,Tampa Bay Lightning,Nashville Predators,2,3,REG,168
+nhl-2020-reg-2019-10-26-winnipeg-jets-calgary-flames,2020,,2019-10-26,Winnipeg Jets,Calgary Flames,2,1,REG,169
+nhl-2020-reg-2019-10-27-chicago-blackhawks-los-angeles-kings,2020,,2019-10-27,Chicago Blackhawks,Los Angeles Kings,5,1,REG,170
+nhl-2020-reg-2019-10-27-detroit-red-wings-st-louis-blues,2020,,2019-10-27,Detroit Red Wings,St. Louis Blues,4,5,REG,171
+nhl-2020-reg-2019-10-27-edmonton-oilers-florida-panthers,2020,,2019-10-27,Edmonton Oilers,Florida Panthers,2,6,REG,172
+nhl-2020-reg-2019-10-27-new-york-islanders-philadelphia-flyers,2020,,2019-10-27,New York Islanders,Philadelphia Flyers,5,3,REG,173
+nhl-2020-reg-2019-10-27-new-york-rangers-boston-bruins,2020,,2019-10-27,New York Rangers,Boston Bruins,4,7,REG,174
+nhl-2020-reg-2019-10-27-ottawa-senators-san-jose-sharks,2020,,2019-10-27,Ottawa Senators,San Jose Sharks,5,2,REG,175
+nhl-2020-reg-2019-10-27-vegas-golden-knights-anaheim-ducks,2020,,2019-10-27,Vegas Golden Knights,Anaheim Ducks,5,2,REG,176
+nhl-2020-reg-2019-10-28-buffalo-sabres-arizona-coyotes,2020,,2019-10-28,Buffalo Sabres,Arizona Coyotes,2,3,REG,177
+nhl-2020-reg-2019-10-28-vancouver-canucks-florida-panthers,2020,,2019-10-28,Vancouver Canucks,Florida Panthers,7,2,REG,178
+nhl-2020-reg-2019-10-29-anaheim-ducks-winnipeg-jets,2020,,2019-10-29,Anaheim Ducks,Winnipeg Jets,7,4,REG,179
+nhl-2020-reg-2019-10-29-boston-bruins-san-jose-sharks,2020,,2019-10-29,Boston Bruins,San Jose Sharks,5,1,REG,180
+nhl-2020-reg-2019-10-29-carolina-hurricanes-calgary-flames,2020,,2019-10-29,Carolina Hurricanes,Calgary Flames,2,1,REG,181
+nhl-2020-reg-2019-10-29-dallas-stars-minnesota-wild,2020,,2019-10-29,Dallas Stars,Minnesota Wild,6,3,REG,182
+nhl-2020-reg-2019-10-29-detroit-red-wings-edmonton-oilers,2020,,2019-10-29,Detroit Red Wings,Edmonton Oilers,3,1,REG,183
+nhl-2020-reg-2019-10-29-nashville-predators-chicago-blackhawks,2020,,2019-10-29,Nashville Predators,Chicago Blackhawks,3,0,REG,184
+nhl-2020-reg-2019-10-29-new-york-rangers-tampa-bay-lightning,2020,,2019-10-29,New York Rangers,Tampa Bay Lightning,4,1,REG,185
+nhl-2020-reg-2019-10-29-pittsburgh-penguins-philadelphia-flyers,2020,,2019-10-29,Pittsburgh Penguins,Philadelphia Flyers,7,1,REG,186
+nhl-2020-reg-2019-10-29-toronto-maple-leafs-washington-capitals,2020,,2019-10-29,Toronto Maple Leafs,Washington Capitals,3,4,REG,187
+nhl-2020-reg-2019-10-30-arizona-coyotes-montreal-canadiens,2020,,2019-10-30,Arizona Coyotes,Montreal Canadiens,1,4,REG,188
+nhl-2020-reg-2019-10-30-colorado-avalanche-florida-panthers,2020,,2019-10-30,Colorado Avalanche,Florida Panthers,3,4,REG,189
+nhl-2020-reg-2019-10-30-columbus-blue-jackets-edmonton-oilers,2020,,2019-10-30,Columbus Blue Jackets,Edmonton Oilers,1,4,REG,190
+nhl-2020-reg-2019-10-30-los-angeles-kings-vancouver-canucks,2020,,2019-10-30,Los Angeles Kings,Vancouver Canucks,3,5,REG,191
+nhl-2020-reg-2019-10-30-new-jersey-devils-tampa-bay-lightning,2020,,2019-10-30,New Jersey Devils,Tampa Bay Lightning,6,7,REG,192
+nhl-2020-reg-2019-10-30-st-louis-blues-minnesota-wild,2020,,2019-10-30,St. Louis Blues,Minnesota Wild,2,1,REG,193
+nhl-2020-reg-2019-10-31-nashville-predators-calgary-flames,2020,,2019-10-31,Nashville Predators,Calgary Flames,5,6,REG,194
+nhl-2020-reg-2019-10-31-vegas-golden-knights-montreal-canadiens,2020,,2019-10-31,Vegas Golden Knights,Montreal Canadiens,4,5,REG,195
+nhl-2020-reg-2019-11-01-anaheim-ducks-vancouver-canucks,2020,,2019-11-01,Anaheim Ducks,Vancouver Canucks,2,1,REG,196
+nhl-2020-reg-2019-11-01-carolina-hurricanes-detroit-red-wings,2020,,2019-11-01,Carolina Hurricanes,Detroit Red Wings,7,3,REG,197
+nhl-2020-reg-2019-11-01-colorado-avalanche-dallas-stars,2020,,2019-11-01,Colorado Avalanche,Dallas Stars,1,2,REG,198
+nhl-2020-reg-2019-11-01-new-jersey-devils-philadelphia-flyers,2020,,2019-11-01,New Jersey Devils,Philadelphia Flyers,3,4,REG,199
+nhl-2020-reg-2019-11-01-new-york-islanders-tampa-bay-lightning,2020,,2019-11-01,New York Islanders,Tampa Bay Lightning,5,2,REG,200
+nhl-2020-reg-2019-11-01-san-jose-sharks-winnipeg-jets,2020,,2019-11-01,San Jose Sharks,Winnipeg Jets,2,3,REG,201
+nhl-2020-reg-2019-11-01-st-louis-blues-columbus-blue-jackets,2020,,2019-11-01,St. Louis Blues,Columbus Blue Jackets,4,3,REG,202
+nhl-2020-reg-2019-11-01-washington-capitals-buffalo-sabres,2020,,2019-11-01,Washington Capitals,Buffalo Sabres,6,1,REG,203
+nhl-2020-reg-2019-11-02-arizona-coyotes-colorado-avalanche,2020,,2019-11-02,Arizona Coyotes,Colorado Avalanche,3,0,REG,204
+nhl-2020-reg-2019-11-02-boston-bruins-ottawa-senators,2020,,2019-11-02,Boston Bruins,Ottawa Senators,5,2,REG,205
+nhl-2020-reg-2019-11-02-buffalo-sabres-new-york-islanders,2020,,2019-11-02,Buffalo Sabres,New York Islanders,0,1,REG,206
+nhl-2020-reg-2019-11-02-carolina-hurricanes-new-jersey-devils,2020,,2019-11-02,Carolina Hurricanes,New Jersey Devils,3,5,REG,207
+nhl-2020-reg-2019-11-02-columbus-blue-jackets-calgary-flames,2020,,2019-11-02,Columbus Blue Jackets,Calgary Flames,0,3,REG,208
+nhl-2020-reg-2019-11-02-dallas-stars-montreal-canadiens,2020,,2019-11-02,Dallas Stars,Montreal Canadiens,4,1,REG,209
+nhl-2020-reg-2019-11-02-florida-panthers-detroit-red-wings,2020,,2019-11-02,Florida Panthers,Detroit Red Wings,4,0,REG,210
+nhl-2020-reg-2019-11-02-los-angeles-kings-chicago-blackhawks,2020,,2019-11-02,Los Angeles Kings,Chicago Blackhawks,4,3,REG,211
+nhl-2020-reg-2019-11-02-minnesota-wild-st-louis-blues,2020,,2019-11-02,Minnesota Wild,St. Louis Blues,3,4,REG,212
+nhl-2020-reg-2019-11-02-nashville-predators-new-york-rangers,2020,,2019-11-02,Nashville Predators,New York Rangers,1,2,REG,213
+nhl-2020-reg-2019-11-02-philadelphia-flyers-toronto-maple-leafs,2020,,2019-11-02,Philadelphia Flyers,Toronto Maple Leafs,3,4,REG,214
+nhl-2020-reg-2019-11-02-pittsburgh-penguins-edmonton-oilers,2020,,2019-11-02,Pittsburgh Penguins,Edmonton Oilers,1,2,REG,215
+nhl-2020-reg-2019-11-02-san-jose-sharks-vancouver-canucks,2020,,2019-11-02,San Jose Sharks,Vancouver Canucks,2,5,REG,216
+nhl-2020-reg-2019-11-02-vegas-golden-knights-winnipeg-jets,2020,,2019-11-02,Vegas Golden Knights,Winnipeg Jets,3,4,REG,217
+nhl-2020-reg-2019-11-03-anaheim-ducks-chicago-blackhawks,2020,,2019-11-03,Anaheim Ducks,Chicago Blackhawks,2,3,REG,218
+nhl-2020-reg-2019-11-03-washington-capitals-calgary-flames,2020,,2019-11-03,Washington Capitals,Calgary Flames,4,2,REG,219
+nhl-2020-reg-2019-11-04-boston-bruins-pittsburgh-penguins,2020,,2019-11-04,Boston Bruins,Pittsburgh Penguins,6,4,REG,220
+nhl-2020-reg-2019-11-04-detroit-red-wings-nashville-predators,2020,,2019-11-04,Detroit Red Wings,Nashville Predators,1,6,REG,221
+nhl-2020-reg-2019-11-04-edmonton-oilers-arizona-coyotes,2020,,2019-11-04,Edmonton Oilers,Arizona Coyotes,2,3,REG,222
+nhl-2020-reg-2019-11-04-new-york-rangers-ottawa-senators,2020,,2019-11-04,New York Rangers,Ottawa Senators,2,6,REG,223
+nhl-2020-reg-2019-11-05-anaheim-ducks-minnesota-wild,2020,,2019-11-05,Anaheim Ducks,Minnesota Wild,2,4,REG,224
+nhl-2020-reg-2019-11-05-calgary-flames-arizona-coyotes,2020,,2019-11-05,Calgary Flames,Arizona Coyotes,4,3,REG,225
+nhl-2020-reg-2019-11-05-columbus-blue-jackets-vegas-golden-knights,2020,,2019-11-05,Columbus Blue Jackets,Vegas Golden Knights,1,2,REG,226
+nhl-2020-reg-2019-11-05-dallas-stars-colorado-avalanche,2020,,2019-11-05,Dallas Stars,Colorado Avalanche,4,1,REG,227
+nhl-2020-reg-2019-11-05-montreal-canadiens-boston-bruins,2020,,2019-11-05,Montreal Canadiens,Boston Bruins,5,4,REG,228
+nhl-2020-reg-2019-11-05-new-york-islanders-ottawa-senators,2020,,2019-11-05,New York Islanders,Ottawa Senators,4,1,REG,229
+nhl-2020-reg-2019-11-05-philadelphia-flyers-carolina-hurricanes,2020,,2019-11-05,Philadelphia Flyers,Carolina Hurricanes,4,1,REG,230
+nhl-2020-reg-2019-11-05-san-jose-sharks-chicago-blackhawks,2020,,2019-11-05,San Jose Sharks,Chicago Blackhawks,4,2,REG,231
+nhl-2020-reg-2019-11-05-toronto-maple-leafs-los-angeles-kings,2020,,2019-11-05,Toronto Maple Leafs,Los Angeles Kings,3,1,REG,232
+nhl-2020-reg-2019-11-05-vancouver-canucks-st-louis-blues,2020,,2019-11-05,Vancouver Canucks,St. Louis Blues,1,2,REG,233
+nhl-2020-reg-2019-11-05-winnipeg-jets-new-jersey-devils,2020,,2019-11-05,Winnipeg Jets,New Jersey Devils,1,2,REG,234
+nhl-2020-reg-2019-11-06-edmonton-oilers-st-louis-blues,2020,,2019-11-06,Edmonton Oilers,St. Louis Blues,2,5,REG,235
+nhl-2020-reg-2019-11-06-new-york-rangers-detroit-red-wings,2020,,2019-11-06,New York Rangers,Detroit Red Wings,5,1,REG,236
+nhl-2020-reg-2019-11-07-arizona-coyotes-columbus-blue-jackets,2020,,2019-11-07,Arizona Coyotes,Columbus Blue Jackets,2,3,REG,237
+nhl-2020-reg-2019-11-07-calgary-flames-new-jersey-devils,2020,,2019-11-07,Calgary Flames,New Jersey Devils,5,2,REG,238
+nhl-2020-reg-2019-11-07-carolina-hurricanes-new-york-rangers,2020,,2019-11-07,Carolina Hurricanes,New York Rangers,2,4,REG,239
+nhl-2020-reg-2019-11-07-chicago-blackhawks-vancouver-canucks,2020,,2019-11-07,Chicago Blackhawks,Vancouver Canucks,5,2,REG,240
+nhl-2020-reg-2019-11-07-colorado-avalanche-nashville-predators,2020,,2019-11-07,Colorado Avalanche,Nashville Predators,9,4,REG,241
+nhl-2020-reg-2019-11-07-florida-panthers-washington-capitals,2020,,2019-11-07,Florida Panthers,Washington Capitals,4,5,REG,242
+nhl-2020-reg-2019-11-07-new-york-islanders-pittsburgh-penguins,2020,,2019-11-07,New York Islanders,Pittsburgh Penguins,3,4,REG,243
+nhl-2020-reg-2019-11-07-ottawa-senators-los-angeles-kings,2020,,2019-11-07,Ottawa Senators,Los Angeles Kings,3,2,REG,244
+nhl-2020-reg-2019-11-07-philadelphia-flyers-montreal-canadiens,2020,,2019-11-07,Philadelphia Flyers,Montreal Canadiens,3,2,REG,245
+nhl-2020-reg-2019-11-07-san-jose-sharks-minnesota-wild,2020,,2019-11-07,San Jose Sharks,Minnesota Wild,6,5,REG,246
+nhl-2020-reg-2019-11-07-toronto-maple-leafs-vegas-golden-knights,2020,,2019-11-07,Toronto Maple Leafs,Vegas Golden Knights,2,1,REG,247
+nhl-2020-reg-2019-11-08-buffalo-sabres-tampa-bay-lightning,2020,,2019-11-08,Buffalo Sabres,Tampa Bay Lightning,2,3,REG,248
+nhl-2020-reg-2019-11-08-detroit-red-wings-boston-bruins,2020,,2019-11-08,Detroit Red Wings,Boston Bruins,4,2,REG,249
+nhl-2020-reg-2019-11-08-edmonton-oilers-new-jersey-devils,2020,,2019-11-08,Edmonton Oilers,New Jersey Devils,4,0,REG,250
+nhl-2020-reg-2019-11-08-winnipeg-jets-vancouver-canucks,2020,,2019-11-08,Winnipeg Jets,Vancouver Canucks,4,1,REG,251
+nhl-2020-reg-2019-11-09-arizona-coyotes-minnesota-wild,2020,,2019-11-09,Arizona Coyotes,Minnesota Wild,3,4,REG,252
+nhl-2020-reg-2019-11-09-calgary-flames-st-louis-blues,2020,,2019-11-09,Calgary Flames,St. Louis Blues,2,3,REG,253
+nhl-2020-reg-2019-11-09-colorado-avalanche-columbus-blue-jackets,2020,,2019-11-09,Colorado Avalanche,Columbus Blue Jackets,4,2,REG,254
+nhl-2020-reg-2019-11-09-montreal-canadiens-los-angeles-kings,2020,,2019-11-09,Montreal Canadiens,Los Angeles Kings,3,2,REG,255
+nhl-2020-reg-2019-11-09-new-york-islanders-florida-panthers,2020,,2019-11-09,New York Islanders,Florida Panthers,2,1,REG,256
+nhl-2020-reg-2019-11-09-ottawa-senators-carolina-hurricanes,2020,,2019-11-09,Ottawa Senators,Carolina Hurricanes,4,1,REG,257
+nhl-2020-reg-2019-11-09-pittsburgh-penguins-chicago-blackhawks,2020,,2019-11-09,Pittsburgh Penguins,Chicago Blackhawks,3,2,REG,258
+nhl-2020-reg-2019-11-09-san-jose-sharks-nashville-predators,2020,,2019-11-09,San Jose Sharks,Nashville Predators,2,1,REG,259
+nhl-2020-reg-2019-11-09-tampa-bay-lightning-buffalo-sabres,2020,,2019-11-09,Tampa Bay Lightning,Buffalo Sabres,5,3,REG,260
+nhl-2020-reg-2019-11-09-toronto-maple-leafs-philadelphia-flyers,2020,,2019-11-09,Toronto Maple Leafs,Philadelphia Flyers,2,3,REG,261
+nhl-2020-reg-2019-11-09-washington-capitals-vegas-golden-knights,2020,,2019-11-09,Washington Capitals,Vegas Golden Knights,5,2,REG,262
+nhl-2020-reg-2019-11-10-anaheim-ducks-edmonton-oilers,2020,,2019-11-10,Anaheim Ducks,Edmonton Oilers,2,6,REG,263
+nhl-2020-reg-2019-11-10-boston-bruins-philadelphia-flyers,2020,,2019-11-10,Boston Bruins,Philadelphia Flyers,2,3,REG,264
+nhl-2020-reg-2019-11-10-chicago-blackhawks-toronto-maple-leafs,2020,,2019-11-10,Chicago Blackhawks,Toronto Maple Leafs,5,4,REG,265
+nhl-2020-reg-2019-11-10-detroit-red-wings-vegas-golden-knights,2020,,2019-11-10,Detroit Red Wings,Vegas Golden Knights,3,2,REG,266
+nhl-2020-reg-2019-11-10-new-york-rangers-florida-panthers,2020,,2019-11-10,New York Rangers,Florida Panthers,5,6,REG,267
+nhl-2020-reg-2019-11-10-vancouver-canucks-new-jersey-devils,2020,,2019-11-10,Vancouver Canucks,New Jersey Devils,1,2,REG,268
+nhl-2020-reg-2019-11-10-winnipeg-jets-dallas-stars,2020,,2019-11-10,Winnipeg Jets,Dallas Stars,3,2,REG,269
+nhl-2020-reg-2019-11-11-carolina-hurricanes-ottawa-senators,2020,,2019-11-11,Carolina Hurricanes,Ottawa Senators,8,2,REG,270
+nhl-2020-reg-2019-11-11-washington-capitals-arizona-coyotes,2020,,2019-11-11,Washington Capitals,Arizona Coyotes,3,4,REG,271
+nhl-2020-reg-2019-11-12-anaheim-ducks-detroit-red-wings,2020,,2019-11-12,Anaheim Ducks,Detroit Red Wings,3,4,REG,272
+nhl-2020-reg-2019-11-12-boston-bruins-florida-panthers,2020,,2019-11-12,Boston Bruins,Florida Panthers,4,5,REG,273
+nhl-2020-reg-2019-11-12-los-angeles-kings-minnesota-wild,2020,,2019-11-12,Los Angeles Kings,Minnesota Wild,3,1,REG,274
+nhl-2020-reg-2019-11-12-montreal-canadiens-columbus-blue-jackets,2020,,2019-11-12,Montreal Canadiens,Columbus Blue Jackets,3,2,REG,275
+nhl-2020-reg-2019-11-12-new-york-rangers-pittsburgh-penguins,2020,,2019-11-12,New York Rangers,Pittsburgh Penguins,3,2,REG,276
+nhl-2020-reg-2019-11-12-san-jose-sharks-edmonton-oilers,2020,,2019-11-12,San Jose Sharks,Edmonton Oilers,6,3,REG,277
+nhl-2020-reg-2019-11-12-st-louis-blues-arizona-coyotes,2020,,2019-11-12,St. Louis Blues,Arizona Coyotes,2,3,REG,278
+nhl-2020-reg-2019-11-12-vancouver-canucks-nashville-predators,2020,,2019-11-12,Vancouver Canucks,Nashville Predators,5,3,REG,279
+nhl-2020-reg-2019-11-12-winnipeg-jets-colorado-avalanche,2020,,2019-11-12,Winnipeg Jets,Colorado Avalanche,0,4,REG,280
+nhl-2020-reg-2019-11-13-calgary-flames-dallas-stars,2020,,2019-11-13,Calgary Flames,Dallas Stars,1,3,REG,281
+nhl-2020-reg-2019-11-13-new-jersey-devils-ottawa-senators,2020,,2019-11-13,New Jersey Devils,Ottawa Senators,2,4,REG,282
+nhl-2020-reg-2019-11-13-new-york-islanders-toronto-maple-leafs,2020,,2019-11-13,New York Islanders,Toronto Maple Leafs,5,4,REG,283
+nhl-2020-reg-2019-11-13-philadelphia-flyers-washington-capitals,2020,,2019-11-13,Philadelphia Flyers,Washington Capitals,1,2,REG,284
+nhl-2020-reg-2019-11-13-vegas-golden-knights-chicago-blackhawks,2020,,2019-11-13,Vegas Golden Knights,Chicago Blackhawks,3,5,REG,285
+nhl-2020-reg-2019-11-14-anaheim-ducks-san-jose-sharks,2020,,2019-11-14,Anaheim Ducks,San Jose Sharks,3,5,REG,286
+nhl-2020-reg-2019-11-14-buffalo-sabres-carolina-hurricanes,2020,,2019-11-14,Buffalo Sabres,Carolina Hurricanes,4,5,REG,287
+nhl-2020-reg-2019-11-14-edmonton-oilers-colorado-avalanche,2020,,2019-11-14,Edmonton Oilers,Colorado Avalanche,6,2,REG,288
+nhl-2020-reg-2019-11-14-florida-panthers-winnipeg-jets,2020,,2019-11-14,Florida Panthers,Winnipeg Jets,3,4,REG,289
+nhl-2020-reg-2019-11-14-los-angeles-kings-detroit-red-wings,2020,,2019-11-14,Los Angeles Kings,Detroit Red Wings,3,2,REG,290
+nhl-2020-reg-2019-11-14-minnesota-wild-arizona-coyotes,2020,,2019-11-14,Minnesota Wild,Arizona Coyotes,3,2,REG,291
+nhl-2020-reg-2019-11-14-tampa-bay-lightning-new-york-rangers,2020,,2019-11-14,Tampa Bay Lightning,New York Rangers,9,3,REG,292
+nhl-2020-reg-2019-11-14-vancouver-canucks-dallas-stars,2020,,2019-11-14,Vancouver Canucks,Dallas Stars,2,4,REG,293
+nhl-2020-reg-2019-11-15-columbus-blue-jackets-st-louis-blues,2020,,2019-11-15,Columbus Blue Jackets,St. Louis Blues,3,2,REG,294
+nhl-2020-reg-2019-11-15-new-jersey-devils-pittsburgh-penguins,2020,,2019-11-15,New Jersey Devils,Pittsburgh Penguins,2,1,REG,295
+nhl-2020-reg-2019-11-15-ottawa-senators-philadelphia-flyers,2020,,2019-11-15,Ottawa Senators,Philadelphia Flyers,2,1,REG,296
+nhl-2020-reg-2019-11-15-toronto-maple-leafs-boston-bruins,2020,,2019-11-15,Toronto Maple Leafs,Boston Bruins,2,4,REG,297
+nhl-2020-reg-2019-11-15-washington-capitals-montreal-canadiens,2020,,2019-11-15,Washington Capitals,Montreal Canadiens,2,5,REG,298
+nhl-2020-reg-2019-11-16-arizona-coyotes-calgary-flames,2020,,2019-11-16,Arizona Coyotes,Calgary Flames,3,0,REG,299
+nhl-2020-reg-2019-11-16-boston-bruins-washington-capitals,2020,,2019-11-16,Boston Bruins,Washington Capitals,2,3,REG,300
+nhl-2020-reg-2019-11-16-buffalo-sabres-ottawa-senators,2020,,2019-11-16,Buffalo Sabres,Ottawa Senators,4,2,REG,301
+nhl-2020-reg-2019-11-16-edmonton-oilers-dallas-stars,2020,,2019-11-16,Edmonton Oilers,Dallas Stars,4,5,REG,302
+nhl-2020-reg-2019-11-16-florida-panthers-new-york-rangers,2020,,2019-11-16,Florida Panthers,New York Rangers,4,3,REG,303
+nhl-2020-reg-2019-11-16-los-angeles-kings-vegas-golden-knights,2020,,2019-11-16,Los Angeles Kings,Vegas Golden Knights,4,3,REG,304
+nhl-2020-reg-2019-11-16-minnesota-wild-carolina-hurricanes,2020,,2019-11-16,Minnesota Wild,Carolina Hurricanes,3,4,REG,305
+nhl-2020-reg-2019-11-16-montreal-canadiens-new-jersey-devils,2020,,2019-11-16,Montreal Canadiens,New Jersey Devils,3,4,REG,306
+nhl-2020-reg-2019-11-16-nashville-predators-chicago-blackhawks,2020,,2019-11-16,Nashville Predators,Chicago Blackhawks,2,7,REG,307
+nhl-2020-reg-2019-11-16-philadelphia-flyers-new-york-islanders,2020,,2019-11-16,Philadelphia Flyers,New York Islanders,3,4,REG,308
+nhl-2020-reg-2019-11-16-pittsburgh-penguins-toronto-maple-leafs,2020,,2019-11-16,Pittsburgh Penguins,Toronto Maple Leafs,6,1,REG,309
+nhl-2020-reg-2019-11-16-san-jose-sharks-detroit-red-wings,2020,,2019-11-16,San Jose Sharks,Detroit Red Wings,4,3,REG,310
+nhl-2020-reg-2019-11-16-st-louis-blues-anaheim-ducks,2020,,2019-11-16,St. Louis Blues,Anaheim Ducks,1,4,REG,311
+nhl-2020-reg-2019-11-16-tampa-bay-lightning-winnipeg-jets,2020,,2019-11-16,Tampa Bay Lightning,Winnipeg Jets,3,4,REG,312
+nhl-2020-reg-2019-11-16-vancouver-canucks-colorado-avalanche,2020,,2019-11-16,Vancouver Canucks,Colorado Avalanche,4,5,REG,313
+nhl-2020-reg-2019-11-17-chicago-blackhawks-buffalo-sabres,2020,,2019-11-17,Chicago Blackhawks,Buffalo Sabres,4,1,REG,314
+nhl-2020-reg-2019-11-17-vegas-golden-knights-calgary-flames,2020,,2019-11-17,Vegas Golden Knights,Calgary Flames,6,0,REG,315
+nhl-2020-reg-2019-11-18-arizona-coyotes-los-angeles-kings,2020,,2019-11-18,Arizona Coyotes,Los Angeles Kings,3,0,REG,316
+nhl-2020-reg-2019-11-18-washington-capitals-anaheim-ducks,2020,,2019-11-18,Washington Capitals,Anaheim Ducks,5,2,REG,317
+nhl-2020-reg-2019-11-19-buffalo-sabres-minnesota-wild,2020,,2019-11-19,Buffalo Sabres,Minnesota Wild,1,4,REG,318
+nhl-2020-reg-2019-11-19-calgary-flames-colorado-avalanche,2020,,2019-11-19,Calgary Flames,Colorado Avalanche,2,3,REG,319
+nhl-2020-reg-2019-11-19-chicago-blackhawks-carolina-hurricanes,2020,,2019-11-19,Chicago Blackhawks,Carolina Hurricanes,2,4,REG,320
+nhl-2020-reg-2019-11-19-columbus-blue-jackets-montreal-canadiens,2020,,2019-11-19,Columbus Blue Jackets,Montreal Canadiens,5,2,REG,321
+nhl-2020-reg-2019-11-19-dallas-stars-vancouver-canucks,2020,,2019-11-19,Dallas Stars,Vancouver Canucks,6,1,REG,322
+nhl-2020-reg-2019-11-19-detroit-red-wings-ottawa-senators,2020,,2019-11-19,Detroit Red Wings,Ottawa Senators,3,4,REG,323
+nhl-2020-reg-2019-11-19-florida-panthers-philadelphia-flyers,2020,,2019-11-19,Florida Panthers,Philadelphia Flyers,5,2,REG,324
+nhl-2020-reg-2019-11-19-nashville-predators-winnipeg-jets,2020,,2019-11-19,Nashville Predators,Winnipeg Jets,1,2,REG,325
+nhl-2020-reg-2019-11-19-new-jersey-devils-boston-bruins,2020,,2019-11-19,New Jersey Devils,Boston Bruins,1,5,REG,326
+nhl-2020-reg-2019-11-19-pittsburgh-penguins-new-york-islanders,2020,,2019-11-19,Pittsburgh Penguins,New York Islanders,4,5,REG,327
+nhl-2020-reg-2019-11-19-san-jose-sharks-edmonton-oilers,2020,,2019-11-19,San Jose Sharks,Edmonton Oilers,2,5,REG,328
+nhl-2020-reg-2019-11-19-st-louis-blues-tampa-bay-lightning,2020,,2019-11-19,St. Louis Blues,Tampa Bay Lightning,3,1,REG,329
+nhl-2020-reg-2019-11-19-vegas-golden-knights-toronto-maple-leafs,2020,,2019-11-19,Vegas Golden Knights,Toronto Maple Leafs,4,2,REG,330
+nhl-2020-reg-2019-11-20-montreal-canadiens-ottawa-senators,2020,,2019-11-20,Montreal Canadiens,Ottawa Senators,1,2,REG,331
+nhl-2020-reg-2019-11-20-new-york-rangers-washington-capitals,2020,,2019-11-20,New York Rangers,Washington Capitals,4,1,REG,332
+nhl-2020-reg-2019-11-21-arizona-coyotes-toronto-maple-leafs,2020,,2019-11-21,Arizona Coyotes,Toronto Maple Leafs,1,3,REG,333
+nhl-2020-reg-2019-11-21-boston-bruins-buffalo-sabres,2020,,2019-11-21,Boston Bruins,Buffalo Sabres,3,2,REG,334
+nhl-2020-reg-2019-11-21-carolina-hurricanes-philadelphia-flyers,2020,,2019-11-21,Carolina Hurricanes,Philadelphia Flyers,3,5,REG,335
+nhl-2020-reg-2019-11-21-chicago-blackhawks-tampa-bay-lightning,2020,,2019-11-21,Chicago Blackhawks,Tampa Bay Lightning,2,4,REG,336
+nhl-2020-reg-2019-11-21-columbus-blue-jackets-detroit-red-wings,2020,,2019-11-21,Columbus Blue Jackets,Detroit Red Wings,5,4,REG,337
+nhl-2020-reg-2019-11-21-dallas-stars-winnipeg-jets,2020,,2019-11-21,Dallas Stars,Winnipeg Jets,5,3,REG,338
+nhl-2020-reg-2019-11-21-florida-panthers-anaheim-ducks,2020,,2019-11-21,Florida Panthers,Anaheim Ducks,5,4,REG,339
+nhl-2020-reg-2019-11-21-los-angeles-kings-edmonton-oilers,2020,,2019-11-21,Los Angeles Kings,Edmonton Oilers,5,1,REG,340
+nhl-2020-reg-2019-11-21-minnesota-wild-colorado-avalanche,2020,,2019-11-21,Minnesota Wild,Colorado Avalanche,3,2,REG,341
+nhl-2020-reg-2019-11-21-nashville-predators-vancouver-canucks,2020,,2019-11-21,Nashville Predators,Vancouver Canucks,3,6,REG,342
+nhl-2020-reg-2019-11-21-new-york-islanders-pittsburgh-penguins,2020,,2019-11-21,New York Islanders,Pittsburgh Penguins,4,3,REG,343
+nhl-2020-reg-2019-11-21-st-louis-blues-calgary-flames,2020,,2019-11-21,St. Louis Blues,Calgary Flames,5,0,REG,344
+nhl-2020-reg-2019-11-21-vegas-golden-knights-san-jose-sharks,2020,,2019-11-21,Vegas Golden Knights,San Jose Sharks,1,2,REG,345
+nhl-2020-reg-2019-11-22-ottawa-senators-new-york-rangers,2020,,2019-11-22,Ottawa Senators,New York Rangers,4,1,REG,346
+nhl-2020-reg-2019-11-22-pittsburgh-penguins-new-jersey-devils,2020,,2019-11-22,Pittsburgh Penguins,New Jersey Devils,4,1,REG,347
+nhl-2020-reg-2019-11-23-boston-bruins-minnesota-wild,2020,,2019-11-23,Boston Bruins,Minnesota Wild,5,4,REG,348
+nhl-2020-reg-2019-11-23-carolina-hurricanes-florida-panthers,2020,,2019-11-23,Carolina Hurricanes,Florida Panthers,4,2,REG,349
+nhl-2020-reg-2019-11-23-colorado-avalanche-toronto-maple-leafs,2020,,2019-11-23,Colorado Avalanche,Toronto Maple Leafs,3,5,REG,350
+nhl-2020-reg-2019-11-23-dallas-stars-chicago-blackhawks,2020,,2019-11-23,Dallas Stars,Chicago Blackhawks,2,1,REG,351
+nhl-2020-reg-2019-11-23-los-angeles-kings-arizona-coyotes,2020,,2019-11-23,Los Angeles Kings,Arizona Coyotes,2,3,REG,352
+nhl-2020-reg-2019-11-23-montreal-canadiens-new-york-rangers,2020,,2019-11-23,Montreal Canadiens,New York Rangers,5,6,REG,353
+nhl-2020-reg-2019-11-23-new-jersey-devils-detroit-red-wings,2020,,2019-11-23,New Jersey Devils,Detroit Red Wings,5,1,REG,354
+nhl-2020-reg-2019-11-23-philadelphia-flyers-calgary-flames,2020,,2019-11-23,Philadelphia Flyers,Calgary Flames,2,3,REG,355
+nhl-2020-reg-2019-11-23-san-jose-sharks-new-york-islanders,2020,,2019-11-23,San Jose Sharks,New York Islanders,2,1,REG,356
+nhl-2020-reg-2019-11-23-st-louis-blues-nashville-predators,2020,,2019-11-23,St. Louis Blues,Nashville Predators,2,4,REG,357
+nhl-2020-reg-2019-11-23-tampa-bay-lightning-anaheim-ducks,2020,,2019-11-23,Tampa Bay Lightning,Anaheim Ducks,6,2,REG,358
+nhl-2020-reg-2019-11-23-vegas-golden-knights-edmonton-oilers,2020,,2019-11-23,Vegas Golden Knights,Edmonton Oilers,2,4,REG,359
+nhl-2020-reg-2019-11-23-washington-capitals-vancouver-canucks,2020,,2019-11-23,Washington Capitals,Vancouver Canucks,1,2,REG,360
+nhl-2020-reg-2019-11-23-winnipeg-jets-columbus-blue-jackets,2020,,2019-11-23,Winnipeg Jets,Columbus Blue Jackets,4,3,REG,361
+nhl-2020-reg-2019-11-24-arizona-coyotes-edmonton-oilers,2020,,2019-11-24,Arizona Coyotes,Edmonton Oilers,3,4,REG,362
+nhl-2020-reg-2019-11-24-detroit-red-wings-carolina-hurricanes,2020,,2019-11-24,Detroit Red Wings,Carolina Hurricanes,0,2,REG,363
+nhl-2020-reg-2019-11-24-florida-panthers-buffalo-sabres,2020,,2019-11-24,Florida Panthers,Buffalo Sabres,2,5,REG,364
+nhl-2020-reg-2019-11-25-anaheim-ducks-new-york-islanders,2020,,2019-11-25,Anaheim Ducks,New York Islanders,3,0,REG,365
+nhl-2020-reg-2019-11-25-columbus-blue-jackets-ottawa-senators,2020,,2019-11-25,Columbus Blue Jackets,Ottawa Senators,1,0,REG,366
+nhl-2020-reg-2019-11-25-dallas-stars-vegas-golden-knights,2020,,2019-11-25,Dallas Stars,Vegas Golden Knights,4,2,REG,367
+nhl-2020-reg-2019-11-25-los-angeles-kings-san-jose-sharks,2020,,2019-11-25,Los Angeles Kings,San Jose Sharks,3,4,REG,368
+nhl-2020-reg-2019-11-25-nashville-predators-st-louis-blues,2020,,2019-11-25,Nashville Predators,St. Louis Blues,3,2,REG,369
+nhl-2020-reg-2019-11-25-new-york-rangers-minnesota-wild,2020,,2019-11-25,New York Rangers,Minnesota Wild,3,2,REG,370
+nhl-2020-reg-2019-11-25-philadelphia-flyers-vancouver-canucks,2020,,2019-11-25,Philadelphia Flyers,Vancouver Canucks,2,1,REG,371
+nhl-2020-reg-2019-11-25-pittsburgh-penguins-calgary-flames,2020,,2019-11-25,Pittsburgh Penguins,Calgary Flames,3,2,REG,372
+nhl-2020-reg-2019-11-25-tampa-bay-lightning-buffalo-sabres,2020,,2019-11-25,Tampa Bay Lightning,Buffalo Sabres,5,2,REG,373
+nhl-2020-reg-2019-11-26-chicago-blackhawks-dallas-stars,2020,,2019-11-26,Chicago Blackhawks,Dallas Stars,3,0,REG,374
+nhl-2020-reg-2019-11-26-montreal-canadiens-boston-bruins,2020,,2019-11-26,Montreal Canadiens,Boston Bruins,1,8,REG,375
+nhl-2020-reg-2019-11-26-new-jersey-devils-minnesota-wild,2020,,2019-11-26,New Jersey Devils,Minnesota Wild,2,3,REG,376
+nhl-2020-reg-2019-11-27-arizona-coyotes-anaheim-ducks,2020,,2019-11-27,Arizona Coyotes,Anaheim Ducks,4,3,REG,377
+nhl-2020-reg-2019-11-27-buffalo-sabres-calgary-flames,2020,,2019-11-27,Buffalo Sabres,Calgary Flames,2,3,REG,378
+nhl-2020-reg-2019-11-27-colorado-avalanche-edmonton-oilers,2020,,2019-11-27,Colorado Avalanche,Edmonton Oilers,4,1,REG,379
+nhl-2020-reg-2019-11-27-columbus-blue-jackets-philadelphia-flyers,2020,,2019-11-27,Columbus Blue Jackets,Philadelphia Flyers,2,3,REG,380
+nhl-2020-reg-2019-11-27-detroit-red-wings-toronto-maple-leafs,2020,,2019-11-27,Detroit Red Wings,Toronto Maple Leafs,0,6,REG,381
+nhl-2020-reg-2019-11-27-los-angeles-kings-new-york-islanders,2020,,2019-11-27,Los Angeles Kings,New York Islanders,4,1,REG,382
+nhl-2020-reg-2019-11-27-nashville-predators-vegas-golden-knights,2020,,2019-11-27,Nashville Predators,Vegas Golden Knights,3,4,REG,383
+nhl-2020-reg-2019-11-27-new-york-rangers-carolina-hurricanes,2020,,2019-11-27,New York Rangers,Carolina Hurricanes,3,2,REG,384
+nhl-2020-reg-2019-11-27-ottawa-senators-boston-bruins,2020,,2019-11-27,Ottawa Senators,Boston Bruins,1,2,REG,385
+nhl-2020-reg-2019-11-27-pittsburgh-penguins-vancouver-canucks,2020,,2019-11-27,Pittsburgh Penguins,Vancouver Canucks,8,6,REG,386
+nhl-2020-reg-2019-11-27-san-jose-sharks-winnipeg-jets,2020,,2019-11-27,San Jose Sharks,Winnipeg Jets,1,5,REG,387
+nhl-2020-reg-2019-11-27-tampa-bay-lightning-st-louis-blues,2020,,2019-11-27,Tampa Bay Lightning,St. Louis Blues,3,4,REG,388
+nhl-2020-reg-2019-11-27-washington-capitals-florida-panthers,2020,,2019-11-27,Washington Capitals,Florida Panthers,4,3,REG,389
+nhl-2020-reg-2019-11-28-montreal-canadiens-new-jersey-devils,2020,,2019-11-28,Montreal Canadiens,New Jersey Devils,4,6,REG,390
+nhl-2020-reg-2019-11-29-anaheim-ducks-winnipeg-jets,2020,,2019-11-29,Anaheim Ducks,Winnipeg Jets,0,3,REG,391
+nhl-2020-reg-2019-11-29-boston-bruins-new-york-rangers,2020,,2019-11-29,Boston Bruins,New York Rangers,3,2,REG,392
+nhl-2020-reg-2019-11-29-buffalo-sabres-toronto-maple-leafs,2020,,2019-11-29,Buffalo Sabres,Toronto Maple Leafs,6,4,REG,393
+nhl-2020-reg-2019-11-29-carolina-hurricanes-nashville-predators,2020,,2019-11-29,Carolina Hurricanes,Nashville Predators,0,3,REG,394
+nhl-2020-reg-2019-11-29-chicago-blackhawks-colorado-avalanche,2020,,2019-11-29,Chicago Blackhawks,Colorado Avalanche,2,5,REG,395
+nhl-2020-reg-2019-11-29-columbus-blue-jackets-pittsburgh-penguins,2020,,2019-11-29,Columbus Blue Jackets,Pittsburgh Penguins,5,2,REG,396
+nhl-2020-reg-2019-11-29-dallas-stars-st-louis-blues,2020,,2019-11-29,Dallas Stars,St. Louis Blues,1,3,REG,397
+nhl-2020-reg-2019-11-29-minnesota-wild-ottawa-senators,2020,,2019-11-29,Minnesota Wild,Ottawa Senators,7,2,REG,398
+nhl-2020-reg-2019-11-29-philadelphia-flyers-detroit-red-wings,2020,,2019-11-29,Philadelphia Flyers,Detroit Red Wings,6,1,REG,399
+nhl-2020-reg-2019-11-29-san-jose-sharks-los-angeles-kings,2020,,2019-11-29,San Jose Sharks,Los Angeles Kings,4,1,REG,400
+nhl-2020-reg-2019-11-29-vegas-golden-knights-arizona-coyotes,2020,,2019-11-29,Vegas Golden Knights,Arizona Coyotes,2,1,REG,401
+nhl-2020-reg-2019-11-29-washington-capitals-tampa-bay-lightning,2020,,2019-11-29,Washington Capitals,Tampa Bay Lightning,4,3,REG,402
+nhl-2020-reg-2019-11-30-arizona-coyotes-san-jose-sharks,2020,,2019-11-30,Arizona Coyotes,San Jose Sharks,2,4,REG,403
+nhl-2020-reg-2019-11-30-calgary-flames-ottawa-senators,2020,,2019-11-30,Calgary Flames,Ottawa Senators,3,1,REG,404
+nhl-2020-reg-2019-11-30-colorado-avalanche-chicago-blackhawks,2020,,2019-11-30,Colorado Avalanche,Chicago Blackhawks,7,3,REG,405
+nhl-2020-reg-2019-11-30-detroit-red-wings-washington-capitals,2020,,2019-11-30,Detroit Red Wings,Washington Capitals,2,5,REG,406
+nhl-2020-reg-2019-11-30-edmonton-oilers-vancouver-canucks,2020,,2019-11-30,Edmonton Oilers,Vancouver Canucks,2,5,REG,407
+nhl-2020-reg-2019-11-30-florida-panthers-nashville-predators,2020,,2019-11-30,Florida Panthers,Nashville Predators,3,0,REG,408
+nhl-2020-reg-2019-11-30-los-angeles-kings-winnipeg-jets,2020,,2019-11-30,Los Angeles Kings,Winnipeg Jets,2,1,REG,409
+nhl-2020-reg-2019-11-30-montreal-canadiens-philadelphia-flyers,2020,,2019-11-30,Montreal Canadiens,Philadelphia Flyers,3,4,REG,410
+nhl-2020-reg-2019-11-30-new-jersey-devils-new-york-rangers,2020,,2019-11-30,New Jersey Devils,New York Rangers,0,4,REG,411
+nhl-2020-reg-2019-11-30-new-york-islanders-columbus-blue-jackets,2020,,2019-11-30,New York Islanders,Columbus Blue Jackets,2,0,REG,412
+nhl-2020-reg-2019-11-30-st-louis-blues-pittsburgh-penguins,2020,,2019-11-30,St. Louis Blues,Pittsburgh Penguins,5,2,REG,413
+nhl-2020-reg-2019-11-30-tampa-bay-lightning-carolina-hurricanes,2020,,2019-11-30,Tampa Bay Lightning,Carolina Hurricanes,2,3,REG,414
+nhl-2020-reg-2019-11-30-toronto-maple-leafs-buffalo-sabres,2020,,2019-11-30,Toronto Maple Leafs,Buffalo Sabres,2,1,REG,415
+nhl-2020-reg-2019-12-01-boston-bruins-montreal-canadiens,2020,,2019-12-01,Boston Bruins,Montreal Canadiens,3,1,REG,416
+nhl-2020-reg-2019-12-01-minnesota-wild-dallas-stars,2020,,2019-12-01,Minnesota Wild,Dallas Stars,3,2,REG,417
+nhl-2020-reg-2019-12-01-vancouver-canucks-edmonton-oilers,2020,,2019-12-01,Vancouver Canucks,Edmonton Oilers,2,3,REG,418
+nhl-2020-reg-2019-12-02-anaheim-ducks-los-angeles-kings,2020,,2019-12-02,Anaheim Ducks,Los Angeles Kings,4,2,REG,419
+nhl-2020-reg-2019-12-02-buffalo-sabres-new-jersey-devils,2020,,2019-12-02,Buffalo Sabres,New Jersey Devils,7,1,REG,420
+nhl-2020-reg-2019-12-02-chicago-blackhawks-st-louis-blues,2020,,2019-12-02,Chicago Blackhawks,St. Louis Blues,0,4,REG,421
+nhl-2020-reg-2019-12-02-detroit-red-wings-new-york-islanders,2020,,2019-12-02,Detroit Red Wings,New York Islanders,1,4,REG,422
+nhl-2020-reg-2019-12-02-new-york-rangers-vegas-golden-knights,2020,,2019-12-02,New York Rangers,Vegas Golden Knights,1,4,REG,423
+nhl-2020-reg-2019-12-03-boston-bruins-carolina-hurricanes,2020,,2019-12-03,Boston Bruins,Carolina Hurricanes,2,0,REG,424
+nhl-2020-reg-2019-12-03-columbus-blue-jackets-arizona-coyotes,2020,,2019-12-03,Columbus Blue Jackets,Arizona Coyotes,2,4,REG,425
+nhl-2020-reg-2019-12-03-florida-panthers-minnesota-wild,2020,,2019-12-03,Florida Panthers,Minnesota Wild,2,4,REG,426
+nhl-2020-reg-2019-12-03-montreal-canadiens-new-york-islanders,2020,,2019-12-03,Montreal Canadiens,New York Islanders,4,2,REG,427
+nhl-2020-reg-2019-12-03-nashville-predators-tampa-bay-lightning,2020,,2019-12-03,Nashville Predators,Tampa Bay Lightning,2,3,REG,428
+nhl-2020-reg-2019-12-03-new-jersey-devils-vegas-golden-knights,2020,,2019-12-03,New Jersey Devils,Vegas Golden Knights,3,4,REG,429
+nhl-2020-reg-2019-12-03-philadelphia-flyers-toronto-maple-leafs,2020,,2019-12-03,Philadelphia Flyers,Toronto Maple Leafs,6,1,REG,430
+nhl-2020-reg-2019-12-03-san-jose-sharks-washington-capitals,2020,,2019-12-03,San Jose Sharks,Washington Capitals,2,5,REG,431
+nhl-2020-reg-2019-12-03-vancouver-canucks-ottawa-senators,2020,,2019-12-03,Vancouver Canucks,Ottawa Senators,5,2,REG,432
+nhl-2020-reg-2019-12-03-winnipeg-jets-dallas-stars,2020,,2019-12-03,Winnipeg Jets,Dallas Stars,5,1,REG,433
+nhl-2020-reg-2019-12-04-edmonton-oilers-ottawa-senators,2020,,2019-12-04,Edmonton Oilers,Ottawa Senators,2,5,REG,434
+nhl-2020-reg-2019-12-04-los-angeles-kings-washington-capitals,2020,,2019-12-04,Los Angeles Kings,Washington Capitals,1,3,REG,435
+nhl-2020-reg-2019-12-04-pittsburgh-penguins-st-louis-blues,2020,,2019-12-04,Pittsburgh Penguins,St. Louis Blues,3,0,REG,436
+nhl-2020-reg-2019-12-04-toronto-maple-leafs-colorado-avalanche,2020,,2019-12-04,Toronto Maple Leafs,Colorado Avalanche,1,3,REG,437
+nhl-2020-reg-2019-12-05-boston-bruins-chicago-blackhawks,2020,,2019-12-05,Boston Bruins,Chicago Blackhawks,3,4,REG,438
+nhl-2020-reg-2019-12-05-calgary-flames-buffalo-sabres,2020,,2019-12-05,Calgary Flames,Buffalo Sabres,4,3,REG,439
+nhl-2020-reg-2019-12-05-carolina-hurricanes-san-jose-sharks,2020,,2019-12-05,Carolina Hurricanes,San Jose Sharks,3,2,REG,440
+nhl-2020-reg-2019-12-05-columbus-blue-jackets-new-york-rangers,2020,,2019-12-05,Columbus Blue Jackets,New York Rangers,2,3,REG,441
+nhl-2020-reg-2019-12-05-dallas-stars-winnipeg-jets,2020,,2019-12-05,Dallas Stars,Winnipeg Jets,3,2,REG,442
+nhl-2020-reg-2019-12-05-montreal-canadiens-colorado-avalanche,2020,,2019-12-05,Montreal Canadiens,Colorado Avalanche,2,3,REG,443
+nhl-2020-reg-2019-12-05-new-york-islanders-vegas-golden-knights,2020,,2019-12-05,New York Islanders,Vegas Golden Knights,3,2,REG,444
+nhl-2020-reg-2019-12-05-philadelphia-flyers-arizona-coyotes,2020,,2019-12-05,Philadelphia Flyers,Arizona Coyotes,1,3,REG,445
+nhl-2020-reg-2019-12-05-tampa-bay-lightning-minnesota-wild,2020,,2019-12-05,Tampa Bay Lightning,Minnesota Wild,4,5,REG,446
+nhl-2020-reg-2019-12-06-anaheim-ducks-washington-capitals,2020,,2019-12-06,Anaheim Ducks,Washington Capitals,2,3,REG,447
+nhl-2020-reg-2019-12-06-edmonton-oilers-los-angeles-kings,2020,,2019-12-06,Edmonton Oilers,Los Angeles Kings,2,1,REG,448
+nhl-2020-reg-2019-12-06-new-jersey-devils-chicago-blackhawks,2020,,2019-12-06,New Jersey Devils,Chicago Blackhawks,1,2,REG,449
+nhl-2020-reg-2019-12-06-new-york-rangers-montreal-canadiens,2020,,2019-12-06,New York Rangers,Montreal Canadiens,1,2,REG,450
+nhl-2020-reg-2019-12-06-pittsburgh-penguins-arizona-coyotes,2020,,2019-12-06,Pittsburgh Penguins,Arizona Coyotes,2,0,REG,451
+nhl-2020-reg-2019-12-07-boston-bruins-colorado-avalanche,2020,,2019-12-07,Boston Bruins,Colorado Avalanche,1,4,REG,452
+nhl-2020-reg-2019-12-07-calgary-flames-los-angeles-kings,2020,,2019-12-07,Calgary Flames,Los Angeles Kings,4,3,REG,453
+nhl-2020-reg-2019-12-07-carolina-hurricanes-minnesota-wild,2020,,2019-12-07,Carolina Hurricanes,Minnesota Wild,6,2,REG,454
+nhl-2020-reg-2019-12-07-dallas-stars-new-york-islanders,2020,,2019-12-07,Dallas Stars,New York Islanders,3,1,REG,455
+nhl-2020-reg-2019-12-07-detroit-red-wings-pittsburgh-penguins,2020,,2019-12-07,Detroit Red Wings,Pittsburgh Penguins,3,5,REG,456
+nhl-2020-reg-2019-12-07-florida-panthers-columbus-blue-jackets,2020,,2019-12-07,Florida Panthers,Columbus Blue Jackets,4,1,REG,457
+nhl-2020-reg-2019-12-07-nashville-predators-new-jersey-devils,2020,,2019-12-07,Nashville Predators,New Jersey Devils,6,4,REG,458
+nhl-2020-reg-2019-12-07-philadelphia-flyers-ottawa-senators,2020,,2019-12-07,Philadelphia Flyers,Ottawa Senators,4,3,REG,459
+nhl-2020-reg-2019-12-07-st-louis-blues-toronto-maple-leafs,2020,,2019-12-07,St. Louis Blues,Toronto Maple Leafs,2,5,REG,460
+nhl-2020-reg-2019-12-07-tampa-bay-lightning-san-jose-sharks,2020,,2019-12-07,Tampa Bay Lightning,San Jose Sharks,7,1,REG,461
+nhl-2020-reg-2019-12-07-vancouver-canucks-buffalo-sabres,2020,,2019-12-07,Vancouver Canucks,Buffalo Sabres,6,5,REG,462
+nhl-2020-reg-2019-12-08-chicago-blackhawks-arizona-coyotes,2020,,2019-12-08,Chicago Blackhawks,Arizona Coyotes,3,4,REG,463
+nhl-2020-reg-2019-12-08-edmonton-oilers-buffalo-sabres,2020,,2019-12-08,Edmonton Oilers,Buffalo Sabres,2,3,REG,464
+nhl-2020-reg-2019-12-08-florida-panthers-san-jose-sharks,2020,,2019-12-08,Florida Panthers,San Jose Sharks,5,1,REG,465
+nhl-2020-reg-2019-12-08-vegas-golden-knights-new-york-rangers,2020,,2019-12-08,Vegas Golden Knights,New York Rangers,0,5,REG,466
+nhl-2020-reg-2019-12-08-winnipeg-jets-anaheim-ducks,2020,,2019-12-08,Winnipeg Jets,Anaheim Ducks,3,2,REG,467
+nhl-2020-reg-2019-12-09-colorado-avalanche-calgary-flames,2020,,2019-12-09,Colorado Avalanche,Calgary Flames,4,5,REG,468
+nhl-2020-reg-2019-12-09-ottawa-senators-boston-bruins,2020,,2019-12-09,Ottawa Senators,Boston Bruins,5,2,REG,469
+nhl-2020-reg-2019-12-09-tampa-bay-lightning-new-york-islanders,2020,,2019-12-09,Tampa Bay Lightning,New York Islanders,1,5,REG,470
+nhl-2020-reg-2019-12-09-washington-capitals-columbus-blue-jackets,2020,,2019-12-09,Washington Capitals,Columbus Blue Jackets,2,5,REG,471
+nhl-2020-reg-2019-12-10-arizona-coyotes-calgary-flames,2020,,2019-12-10,Arizona Coyotes,Calgary Flames,2,5,REG,472
+nhl-2020-reg-2019-12-10-buffalo-sabres-st-louis-blues,2020,,2019-12-10,Buffalo Sabres,St. Louis Blues,5,2,REG,473
+nhl-2020-reg-2019-12-10-dallas-stars-new-jersey-devils,2020,,2019-12-10,Dallas Stars,New Jersey Devils,2,0,REG,474
+nhl-2020-reg-2019-12-10-edmonton-oilers-carolina-hurricanes,2020,,2019-12-10,Edmonton Oilers,Carolina Hurricanes,3,6,REG,475
+nhl-2020-reg-2019-12-10-florida-panthers-tampa-bay-lightning,2020,,2019-12-10,Florida Panthers,Tampa Bay Lightning,1,2,REG,476
+nhl-2020-reg-2019-12-10-los-angeles-kings-new-york-rangers,2020,,2019-12-10,Los Angeles Kings,New York Rangers,3,1,REG,477
+nhl-2020-reg-2019-12-10-minnesota-wild-anaheim-ducks,2020,,2019-12-10,Minnesota Wild,Anaheim Ducks,2,3,REG,478
+nhl-2020-reg-2019-12-10-nashville-predators-san-jose-sharks,2020,,2019-12-10,Nashville Predators,San Jose Sharks,3,1,REG,479
+nhl-2020-reg-2019-12-10-pittsburgh-penguins-montreal-canadiens,2020,,2019-12-10,Pittsburgh Penguins,Montreal Canadiens,1,4,REG,480
+nhl-2020-reg-2019-12-10-vancouver-canucks-toronto-maple-leafs,2020,,2019-12-10,Vancouver Canucks,Toronto Maple Leafs,1,4,REG,481
+nhl-2020-reg-2019-12-10-vegas-golden-knights-chicago-blackhawks,2020,,2019-12-10,Vegas Golden Knights,Chicago Blackhawks,5,1,REG,482
+nhl-2020-reg-2019-12-10-winnipeg-jets-detroit-red-wings,2020,,2019-12-10,Winnipeg Jets,Detroit Red Wings,5,1,REG,483
+nhl-2020-reg-2019-12-11-colorado-avalanche-philadelphia-flyers,2020,,2019-12-11,Colorado Avalanche,Philadelphia Flyers,3,1,REG,484
+nhl-2020-reg-2019-12-11-montreal-canadiens-ottawa-senators,2020,,2019-12-11,Montreal Canadiens,Ottawa Senators,3,2,REG,485
+nhl-2020-reg-2019-12-11-washington-capitals-boston-bruins,2020,,2019-12-11,Washington Capitals,Boston Bruins,3,2,REG,486
+nhl-2020-reg-2019-12-12-anaheim-ducks-los-angeles-kings,2020,,2019-12-12,Anaheim Ducks,Los Angeles Kings,1,2,REG,487
+nhl-2020-reg-2019-12-12-arizona-coyotes-chicago-blackhawks,2020,,2019-12-12,Arizona Coyotes,Chicago Blackhawks,5,2,REG,488
+nhl-2020-reg-2019-12-12-buffalo-sabres-nashville-predators,2020,,2019-12-12,Buffalo Sabres,Nashville Predators,4,3,REG,489
+nhl-2020-reg-2019-12-12-calgary-flames-toronto-maple-leafs,2020,,2019-12-12,Calgary Flames,Toronto Maple Leafs,4,2,REG,490
+nhl-2020-reg-2019-12-12-detroit-red-wings-winnipeg-jets,2020,,2019-12-12,Detroit Red Wings,Winnipeg Jets,5,2,REG,491
+nhl-2020-reg-2019-12-12-florida-panthers-new-york-islanders,2020,,2019-12-12,Florida Panthers,New York Islanders,1,3,REG,492
+nhl-2020-reg-2019-12-12-minnesota-wild-edmonton-oilers,2020,,2019-12-12,Minnesota Wild,Edmonton Oilers,6,5,REG,493
+nhl-2020-reg-2019-12-12-pittsburgh-penguins-columbus-blue-jackets,2020,,2019-12-12,Pittsburgh Penguins,Columbus Blue Jackets,1,0,REG,494
+nhl-2020-reg-2019-12-12-san-jose-sharks-new-york-rangers,2020,,2019-12-12,San Jose Sharks,New York Rangers,3,6,REG,495
+nhl-2020-reg-2019-12-12-st-louis-blues-vegas-golden-knights,2020,,2019-12-12,St. Louis Blues,Vegas Golden Knights,4,2,REG,496
+nhl-2020-reg-2019-12-12-tampa-bay-lightning-boston-bruins,2020,,2019-12-12,Tampa Bay Lightning,Boston Bruins,3,2,REG,497
+nhl-2020-reg-2019-12-12-vancouver-canucks-carolina-hurricanes,2020,,2019-12-12,Vancouver Canucks,Carolina Hurricanes,1,0,REG,498
+nhl-2020-reg-2019-12-13-colorado-avalanche-new-jersey-devils,2020,,2019-12-13,Colorado Avalanche,New Jersey Devils,3,1,REG,499
+nhl-2020-reg-2019-12-13-dallas-stars-vegas-golden-knights,2020,,2019-12-13,Dallas Stars,Vegas Golden Knights,2,3,REG,500
+nhl-2020-reg-2019-12-14-anaheim-ducks-new-york-rangers,2020,,2019-12-14,Anaheim Ducks,New York Rangers,4,3,REG,501
+nhl-2020-reg-2019-12-14-arizona-coyotes-new-jersey-devils,2020,,2019-12-14,Arizona Coyotes,New Jersey Devils,1,2,REG,502
+nhl-2020-reg-2019-12-14-calgary-flames-carolina-hurricanes,2020,,2019-12-14,Calgary Flames,Carolina Hurricanes,0,4,REG,503
+nhl-2020-reg-2019-12-14-edmonton-oilers-toronto-maple-leafs,2020,,2019-12-14,Edmonton Oilers,Toronto Maple Leafs,1,4,REG,504
+nhl-2020-reg-2019-12-14-florida-panthers-boston-bruins,2020,,2019-12-14,Florida Panthers,Boston Bruins,2,4,REG,505
+nhl-2020-reg-2019-12-14-minnesota-wild-philadelphia-flyers,2020,,2019-12-14,Minnesota Wild,Philadelphia Flyers,4,1,REG,506
+nhl-2020-reg-2019-12-14-montreal-canadiens-detroit-red-wings,2020,,2019-12-14,Montreal Canadiens,Detroit Red Wings,1,2,REG,507
+nhl-2020-reg-2019-12-14-nashville-predators-dallas-stars,2020,,2019-12-14,Nashville Predators,Dallas Stars,1,4,REG,508
+nhl-2020-reg-2019-12-14-new-york-islanders-buffalo-sabres,2020,,2019-12-14,New York Islanders,Buffalo Sabres,3,2,REG,509
+nhl-2020-reg-2019-12-14-ottawa-senators-columbus-blue-jackets,2020,,2019-12-14,Ottawa Senators,Columbus Blue Jackets,4,3,REG,510
+nhl-2020-reg-2019-12-14-pittsburgh-penguins-los-angeles-kings,2020,,2019-12-14,Pittsburgh Penguins,Los Angeles Kings,5,4,REG,511
+nhl-2020-reg-2019-12-14-san-jose-sharks-vancouver-canucks,2020,,2019-12-14,San Jose Sharks,Vancouver Canucks,4,2,REG,512
+nhl-2020-reg-2019-12-14-st-louis-blues-chicago-blackhawks,2020,,2019-12-14,St. Louis Blues,Chicago Blackhawks,4,3,REG,513
+nhl-2020-reg-2019-12-14-tampa-bay-lightning-washington-capitals,2020,,2019-12-14,Tampa Bay Lightning,Washington Capitals,2,5,REG,514
+nhl-2020-reg-2019-12-15-chicago-blackhawks-minnesota-wild,2020,,2019-12-15,Chicago Blackhawks,Minnesota Wild,5,3,REG,515
+nhl-2020-reg-2019-12-15-detroit-red-wings-los-angeles-kings,2020,,2019-12-15,Detroit Red Wings,Los Angeles Kings,2,4,REG,516
+nhl-2020-reg-2019-12-15-vegas-golden-knights-vancouver-canucks,2020,,2019-12-15,Vegas Golden Knights,Vancouver Canucks,6,3,REG,517
+nhl-2020-reg-2019-12-15-winnipeg-jets-philadelphia-flyers,2020,,2019-12-15,Winnipeg Jets,Philadelphia Flyers,7,3,REG,518
+nhl-2020-reg-2019-12-16-columbus-blue-jackets-washington-capitals,2020,,2019-12-16,Columbus Blue Jackets,Washington Capitals,3,0,REG,519
+nhl-2020-reg-2019-12-16-dallas-stars-edmonton-oilers,2020,,2019-12-16,Dallas Stars,Edmonton Oilers,1,2,REG,520
+nhl-2020-reg-2019-12-16-florida-panthers-ottawa-senators,2020,,2019-12-16,Florida Panthers,Ottawa Senators,6,1,REG,521
+nhl-2020-reg-2019-12-16-new-york-rangers-nashville-predators,2020,,2019-12-16,New York Rangers,Nashville Predators,2,5,REG,522
+nhl-2020-reg-2019-12-16-st-louis-blues-colorado-avalanche,2020,,2019-12-16,St. Louis Blues,Colorado Avalanche,5,2,REG,523
+nhl-2020-reg-2019-12-17-boston-bruins-los-angeles-kings,2020,,2019-12-17,Boston Bruins,Los Angeles Kings,3,4,REG,524
+nhl-2020-reg-2019-12-17-calgary-flames-pittsburgh-penguins,2020,,2019-12-17,Calgary Flames,Pittsburgh Penguins,1,4,REG,525
+nhl-2020-reg-2019-12-17-detroit-red-wings-columbus-blue-jackets,2020,,2019-12-17,Detroit Red Wings,Columbus Blue Jackets,3,5,REG,526
+nhl-2020-reg-2019-12-17-new-york-islanders-nashville-predators,2020,,2019-12-17,New York Islanders,Nashville Predators,3,8,REG,527
+nhl-2020-reg-2019-12-17-philadelphia-flyers-anaheim-ducks,2020,,2019-12-17,Philadelphia Flyers,Anaheim Ducks,4,1,REG,528
+nhl-2020-reg-2019-12-17-san-jose-sharks-arizona-coyotes,2020,,2019-12-17,San Jose Sharks,Arizona Coyotes,2,3,REG,529
+nhl-2020-reg-2019-12-17-tampa-bay-lightning-ottawa-senators,2020,,2019-12-17,Tampa Bay Lightning,Ottawa Senators,4,3,REG,530
+nhl-2020-reg-2019-12-17-toronto-maple-leafs-buffalo-sabres,2020,,2019-12-17,Toronto Maple Leafs,Buffalo Sabres,5,3,REG,531
+nhl-2020-reg-2019-12-17-vancouver-canucks-montreal-canadiens,2020,,2019-12-17,Vancouver Canucks,Montreal Canadiens,1,3,REG,532
+nhl-2020-reg-2019-12-17-vegas-golden-knights-minnesota-wild,2020,,2019-12-17,Vegas Golden Knights,Minnesota Wild,3,2,REG,533
+nhl-2020-reg-2019-12-17-winnipeg-jets-carolina-hurricanes,2020,,2019-12-17,Winnipeg Jets,Carolina Hurricanes,3,6,REG,534
+nhl-2020-reg-2019-12-18-chicago-blackhawks-colorado-avalanche,2020,,2019-12-18,Chicago Blackhawks,Colorado Avalanche,1,4,REG,535
+nhl-2020-reg-2019-12-18-new-jersey-devils-anaheim-ducks,2020,,2019-12-18,New Jersey Devils,Anaheim Ducks,3,1,REG,536
+nhl-2020-reg-2019-12-18-st-louis-blues-edmonton-oilers,2020,,2019-12-18,St. Louis Blues,Edmonton Oilers,2,1,REG,537
+nhl-2020-reg-2019-12-19-arizona-coyotes-minnesota-wild,2020,,2019-12-19,Arizona Coyotes,Minnesota Wild,5,8,REG,538
+nhl-2020-reg-2019-12-19-boston-bruins-new-york-islanders,2020,,2019-12-19,Boston Bruins,New York Islanders,2,3,REG,539
+nhl-2020-reg-2019-12-19-calgary-flames-montreal-canadiens,2020,,2019-12-19,Calgary Flames,Montreal Canadiens,3,4,REG,540
+nhl-2020-reg-2019-12-19-colorado-avalanche-carolina-hurricanes,2020,,2019-12-19,Colorado Avalanche,Carolina Hurricanes,1,3,REG,541
+nhl-2020-reg-2019-12-19-columbus-blue-jackets-los-angeles-kings,2020,,2019-12-19,Columbus Blue Jackets,Los Angeles Kings,3,2,REG,542
+nhl-2020-reg-2019-12-19-ottawa-senators-nashville-predators,2020,,2019-12-19,Ottawa Senators,Nashville Predators,5,4,REG,543
+nhl-2020-reg-2019-12-19-philadelphia-flyers-buffalo-sabres,2020,,2019-12-19,Philadelphia Flyers,Buffalo Sabres,6,1,REG,544
+nhl-2020-reg-2019-12-19-tampa-bay-lightning-dallas-stars,2020,,2019-12-19,Tampa Bay Lightning,Dallas Stars,3,4,REG,545
+nhl-2020-reg-2019-12-19-vancouver-canucks-vegas-golden-knights,2020,,2019-12-19,Vancouver Canucks,Vegas Golden Knights,5,4,REG,546
+nhl-2020-reg-2019-12-19-winnipeg-jets-chicago-blackhawks,2020,,2019-12-19,Winnipeg Jets,Chicago Blackhawks,1,4,REG,547
+nhl-2020-reg-2019-12-20-edmonton-oilers-pittsburgh-penguins,2020,,2019-12-20,Edmonton Oilers,Pittsburgh Penguins,2,5,REG,548
+nhl-2020-reg-2019-12-20-florida-panthers-dallas-stars,2020,,2019-12-20,Florida Panthers,Dallas Stars,7,4,REG,549
+nhl-2020-reg-2019-12-20-new-jersey-devils-washington-capitals,2020,,2019-12-20,New Jersey Devils,Washington Capitals,3,6,REG,550
+nhl-2020-reg-2019-12-20-new-york-rangers-toronto-maple-leafs,2020,,2019-12-20,New York Rangers,Toronto Maple Leafs,3,6,REG,551
+nhl-2020-reg-2019-12-21-boston-bruins-nashville-predators,2020,,2019-12-21,Boston Bruins,Nashville Predators,3,4,REG,552
+nhl-2020-reg-2019-12-21-buffalo-sabres-los-angeles-kings,2020,,2019-12-21,Buffalo Sabres,Los Angeles Kings,3,2,REG,553
+nhl-2020-reg-2019-12-21-carolina-hurricanes-florida-panthers,2020,,2019-12-21,Carolina Hurricanes,Florida Panthers,2,4,REG,554
+nhl-2020-reg-2019-12-21-colorado-avalanche-chicago-blackhawks,2020,,2019-12-21,Colorado Avalanche,Chicago Blackhawks,3,5,REG,555
+nhl-2020-reg-2019-12-21-columbus-blue-jackets-new-jersey-devils,2020,,2019-12-21,Columbus Blue Jackets,New Jersey Devils,5,1,REG,556
+nhl-2020-reg-2019-12-21-edmonton-oilers-montreal-canadiens,2020,,2019-12-21,Edmonton Oilers,Montreal Canadiens,4,3,REG,557
+nhl-2020-reg-2019-12-21-minnesota-wild-winnipeg-jets,2020,,2019-12-21,Minnesota Wild,Winnipeg Jets,0,6,REG,558
+nhl-2020-reg-2019-12-21-new-york-islanders-anaheim-ducks,2020,,2019-12-21,New York Islanders,Anaheim Ducks,5,6,REG,559
+nhl-2020-reg-2019-12-21-ottawa-senators-philadelphia-flyers,2020,,2019-12-21,Ottawa Senators,Philadelphia Flyers,4,5,REG,560
+nhl-2020-reg-2019-12-21-san-jose-sharks-st-louis-blues,2020,,2019-12-21,San Jose Sharks,St. Louis Blues,2,5,REG,561
+nhl-2020-reg-2019-12-21-toronto-maple-leafs-detroit-red-wings,2020,,2019-12-21,Toronto Maple Leafs,Detroit Red Wings,4,1,REG,562
+nhl-2020-reg-2019-12-21-vancouver-canucks-pittsburgh-penguins,2020,,2019-12-21,Vancouver Canucks,Pittsburgh Penguins,4,1,REG,563
+nhl-2020-reg-2019-12-21-washington-capitals-tampa-bay-lightning,2020,,2019-12-21,Washington Capitals,Tampa Bay Lightning,3,1,REG,564
+nhl-2020-reg-2019-12-22-dallas-stars-calgary-flames,2020,,2019-12-22,Dallas Stars,Calgary Flames,1,5,REG,565
+nhl-2020-reg-2019-12-22-detroit-red-wings-arizona-coyotes,2020,,2019-12-22,Detroit Red Wings,Arizona Coyotes,2,5,REG,566
+nhl-2020-reg-2019-12-22-new-york-rangers-anaheim-ducks,2020,,2019-12-22,New York Rangers,Anaheim Ducks,5,1,REG,567
+nhl-2020-reg-2019-12-22-san-jose-sharks-vegas-golden-knights,2020,,2019-12-22,San Jose Sharks,Vegas Golden Knights,1,3,REG,568
+nhl-2020-reg-2019-12-23-boston-bruins-washington-capitals,2020,,2019-12-23,Boston Bruins,Washington Capitals,7,3,REG,569
+nhl-2020-reg-2019-12-23-chicago-blackhawks-new-jersey-devils,2020,,2019-12-23,Chicago Blackhawks,New Jersey Devils,1,7,REG,570
+nhl-2020-reg-2019-12-23-los-angeles-kings-st-louis-blues,2020,,2019-12-23,Los Angeles Kings,St. Louis Blues,1,4,REG,571
+nhl-2020-reg-2019-12-23-minnesota-wild-calgary-flames,2020,,2019-12-23,Minnesota Wild,Calgary Flames,3,0,REG,572
+nhl-2020-reg-2019-12-23-nashville-predators-arizona-coyotes,2020,,2019-12-23,Nashville Predators,Arizona Coyotes,3,2,REG,573
+nhl-2020-reg-2019-12-23-new-york-islanders-columbus-blue-jackets,2020,,2019-12-23,New York Islanders,Columbus Blue Jackets,2,3,REG,574
+nhl-2020-reg-2019-12-23-ottawa-senators-buffalo-sabres,2020,,2019-12-23,Ottawa Senators,Buffalo Sabres,3,1,REG,575
+nhl-2020-reg-2019-12-23-philadelphia-flyers-new-york-rangers,2020,,2019-12-23,Philadelphia Flyers,New York Rangers,5,1,REG,576
+nhl-2020-reg-2019-12-23-tampa-bay-lightning-florida-panthers,2020,,2019-12-23,Tampa Bay Lightning,Florida Panthers,6,1,REG,577
+nhl-2020-reg-2019-12-23-toronto-maple-leafs-carolina-hurricanes,2020,,2019-12-23,Toronto Maple Leafs,Carolina Hurricanes,8,6,REG,578
+nhl-2020-reg-2019-12-23-vancouver-canucks-edmonton-oilers,2020,,2019-12-23,Vancouver Canucks,Edmonton Oilers,4,2,REG,579
+nhl-2020-reg-2019-12-23-vegas-golden-knights-colorado-avalanche,2020,,2019-12-23,Vegas Golden Knights,Colorado Avalanche,3,7,REG,580
+nhl-2020-reg-2019-12-23-winnipeg-jets-montreal-canadiens,2020,,2019-12-23,Winnipeg Jets,Montreal Canadiens,2,6,REG,581
+nhl-2020-reg-2019-12-27-anaheim-ducks-vegas-golden-knights,2020,,2019-12-27,Anaheim Ducks,Vegas Golden Knights,4,3,REG,582
+nhl-2020-reg-2019-12-27-buffalo-sabres-boston-bruins,2020,,2019-12-27,Buffalo Sabres,Boston Bruins,0,3,REG,583
+nhl-2020-reg-2019-12-27-chicago-blackhawks-new-york-islanders,2020,,2019-12-27,Chicago Blackhawks,New York Islanders,5,2,REG,584
+nhl-2020-reg-2019-12-27-colorado-avalanche-minnesota-wild,2020,,2019-12-27,Colorado Avalanche,Minnesota Wild,4,6,REG,585
+nhl-2020-reg-2019-12-27-edmonton-oilers-calgary-flames,2020,,2019-12-27,Edmonton Oilers,Calgary Flames,1,5,REG,586
+nhl-2020-reg-2019-12-27-nashville-predators-pittsburgh-penguins,2020,,2019-12-27,Nashville Predators,Pittsburgh Penguins,2,5,REG,587
+nhl-2020-reg-2019-12-27-new-jersey-devils-toronto-maple-leafs,2020,,2019-12-27,New Jersey Devils,Toronto Maple Leafs,4,5,REG,588
+nhl-2020-reg-2019-12-27-new-york-rangers-carolina-hurricanes,2020,,2019-12-27,New York Rangers,Carolina Hurricanes,5,3,REG,589
+nhl-2020-reg-2019-12-27-san-jose-sharks-los-angeles-kings,2020,,2019-12-27,San Jose Sharks,Los Angeles Kings,2,3,REG,590
+nhl-2020-reg-2019-12-27-washington-capitals-columbus-blue-jackets,2020,,2019-12-27,Washington Capitals,Columbus Blue Jackets,2,1,REG,591
+nhl-2020-reg-2019-12-27-winnipeg-jets-st-louis-blues,2020,,2019-12-27,Winnipeg Jets,St. Louis Blues,4,5,REG,592
+nhl-2020-reg-2019-12-28-carolina-hurricanes-washington-capitals,2020,,2019-12-28,Carolina Hurricanes,Washington Capitals,6,4,REG,593
+nhl-2020-reg-2019-12-28-dallas-stars-colorado-avalanche,2020,,2019-12-28,Dallas Stars,Colorado Avalanche,3,2,REG,594
+nhl-2020-reg-2019-12-28-florida-panthers-detroit-red-wings,2020,,2019-12-28,Florida Panthers,Detroit Red Wings,5,4,REG,595
+nhl-2020-reg-2019-12-28-pittsburgh-penguins-nashville-predators,2020,,2019-12-28,Pittsburgh Penguins,Nashville Predators,6,4,REG,596
+nhl-2020-reg-2019-12-28-san-jose-sharks-philadelphia-flyers,2020,,2019-12-28,San Jose Sharks,Philadelphia Flyers,6,1,REG,597
+nhl-2020-reg-2019-12-28-tampa-bay-lightning-montreal-canadiens,2020,,2019-12-28,Tampa Bay Lightning,Montreal Canadiens,5,4,REG,598
+nhl-2020-reg-2019-12-28-toronto-maple-leafs-new-york-rangers,2020,,2019-12-28,Toronto Maple Leafs,New York Rangers,4,5,REG,599
+nhl-2020-reg-2019-12-28-vancouver-canucks-los-angeles-kings,2020,,2019-12-28,Vancouver Canucks,Los Angeles Kings,3,2,REG,600
+nhl-2020-reg-2019-12-28-vegas-golden-knights-arizona-coyotes,2020,,2019-12-28,Vegas Golden Knights,Arizona Coyotes,4,1,REG,601
+nhl-2020-reg-2019-12-29-anaheim-ducks-philadelphia-flyers,2020,,2019-12-29,Anaheim Ducks,Philadelphia Flyers,1,2,REG,602
+nhl-2020-reg-2019-12-29-arizona-coyotes-dallas-stars,2020,,2019-12-29,Arizona Coyotes,Dallas Stars,2,4,REG,603
+nhl-2020-reg-2019-12-29-boston-bruins-buffalo-sabres,2020,,2019-12-29,Boston Bruins,Buffalo Sabres,3,2,REG,604
+nhl-2020-reg-2019-12-29-calgary-flames-vancouver-canucks,2020,,2019-12-29,Calgary Flames,Vancouver Canucks,2,5,REG,605
+nhl-2020-reg-2019-12-29-columbus-blue-jackets-chicago-blackhawks,2020,,2019-12-29,Columbus Blue Jackets,Chicago Blackhawks,2,3,REG,606
+nhl-2020-reg-2019-12-29-florida-panthers-montreal-canadiens,2020,,2019-12-29,Florida Panthers,Montreal Canadiens,6,5,REG,607
+nhl-2020-reg-2019-12-29-minnesota-wild-new-york-islanders,2020,,2019-12-29,Minnesota Wild,New York Islanders,1,3,REG,608
+nhl-2020-reg-2019-12-29-ottawa-senators-new-jersey-devils,2020,,2019-12-29,Ottawa Senators,New Jersey Devils,3,4,REG,609
+nhl-2020-reg-2019-12-29-st-louis-blues-winnipeg-jets,2020,,2019-12-29,St. Louis Blues,Winnipeg Jets,4,1,REG,610
+nhl-2020-reg-2019-12-29-tampa-bay-lightning-detroit-red-wings,2020,,2019-12-29,Tampa Bay Lightning,Detroit Red Wings,2,1,REG,611
+nhl-2020-reg-2019-12-30-pittsburgh-penguins-ottawa-senators,2020,,2019-12-30,Pittsburgh Penguins,Ottawa Senators,5,2,REG,612
+nhl-2020-reg-2019-12-31-arizona-coyotes-st-louis-blues,2020,,2019-12-31,Arizona Coyotes,St. Louis Blues,3,1,REG,613
+nhl-2020-reg-2019-12-31-buffalo-sabres-tampa-bay-lightning,2020,,2019-12-31,Buffalo Sabres,Tampa Bay Lightning,4,6,REG,614
+nhl-2020-reg-2019-12-31-calgary-flames-chicago-blackhawks,2020,,2019-12-31,Calgary Flames,Chicago Blackhawks,3,5,REG,615
+nhl-2020-reg-2019-12-31-carolina-hurricanes-montreal-canadiens,2020,,2019-12-31,Carolina Hurricanes,Montreal Canadiens,3,1,REG,616
+nhl-2020-reg-2019-12-31-colorado-avalanche-winnipeg-jets,2020,,2019-12-31,Colorado Avalanche,Winnipeg Jets,4,7,REG,617
+nhl-2020-reg-2019-12-31-columbus-blue-jackets-florida-panthers,2020,,2019-12-31,Columbus Blue Jackets,Florida Panthers,4,1,REG,618
+nhl-2020-reg-2019-12-31-detroit-red-wings-san-jose-sharks,2020,,2019-12-31,Detroit Red Wings,San Jose Sharks,2,0,REG,619
+nhl-2020-reg-2019-12-31-edmonton-oilers-new-york-rangers,2020,,2019-12-31,Edmonton Oilers,New York Rangers,7,5,REG,620
+nhl-2020-reg-2019-12-31-los-angeles-kings-philadelphia-flyers,2020,,2019-12-31,Los Angeles Kings,Philadelphia Flyers,5,3,REG,621
+nhl-2020-reg-2019-12-31-minnesota-wild-toronto-maple-leafs,2020,,2019-12-31,Minnesota Wild,Toronto Maple Leafs,1,4,REG,622
+nhl-2020-reg-2019-12-31-new-jersey-devils-boston-bruins,2020,,2019-12-31,New Jersey Devils,Boston Bruins,3,2,REG,623
+nhl-2020-reg-2019-12-31-vegas-golden-knights-anaheim-ducks,2020,,2019-12-31,Vegas Golden Knights,Anaheim Ducks,5,2,REG,624
+nhl-2020-reg-2019-12-31-washington-capitals-new-york-islanders,2020,,2019-12-31,Washington Capitals,New York Islanders,3,4,REG,625
+nhl-2020-reg-2020-01-01-dallas-stars-nashville-predators,2020,,2020-01-01,Dallas Stars,Nashville Predators,4,2,REG,626
+nhl-2020-reg-2020-01-02-arizona-coyotes-anaheim-ducks,2020,,2020-01-02,Arizona Coyotes,Anaheim Ducks,4,2,REG,627
+nhl-2020-reg-2020-01-02-boston-bruins-columbus-blue-jackets,2020,,2020-01-02,Boston Bruins,Columbus Blue Jackets,1,2,REG,628
+nhl-2020-reg-2020-01-02-buffalo-sabres-edmonton-oilers,2020,,2020-01-02,Buffalo Sabres,Edmonton Oilers,3,2,REG,629
+nhl-2020-reg-2020-01-02-calgary-flames-new-york-rangers,2020,,2020-01-02,Calgary Flames,New York Rangers,4,3,REG,630
+nhl-2020-reg-2020-01-02-colorado-avalanche-st-louis-blues,2020,,2020-01-02,Colorado Avalanche,St. Louis Blues,7,3,REG,631
+nhl-2020-reg-2020-01-02-montreal-canadiens-tampa-bay-lightning,2020,,2020-01-02,Montreal Canadiens,Tampa Bay Lightning,1,2,REG,632
+nhl-2020-reg-2020-01-02-new-york-islanders-new-jersey-devils,2020,,2020-01-02,New York Islanders,New Jersey Devils,1,2,REG,633
+nhl-2020-reg-2020-01-02-ottawa-senators-florida-panthers,2020,,2020-01-02,Ottawa Senators,Florida Panthers,3,6,REG,634
+nhl-2020-reg-2020-01-02-pittsburgh-penguins-san-jose-sharks,2020,,2020-01-02,Pittsburgh Penguins,San Jose Sharks,2,3,REG,635
+nhl-2020-reg-2020-01-02-vancouver-canucks-chicago-blackhawks,2020,,2020-01-02,Vancouver Canucks,Chicago Blackhawks,7,5,REG,636
+nhl-2020-reg-2020-01-02-vegas-golden-knights-philadelphia-flyers,2020,,2020-01-02,Vegas Golden Knights,Philadelphia Flyers,5,4,REG,637
+nhl-2020-reg-2020-01-02-winnipeg-jets-toronto-maple-leafs,2020,,2020-01-02,Winnipeg Jets,Toronto Maple Leafs,3,6,REG,638
+nhl-2020-reg-2020-01-03-carolina-hurricanes-washington-capitals,2020,,2020-01-03,Carolina Hurricanes,Washington Capitals,3,4,REG,639
+nhl-2020-reg-2020-01-03-dallas-stars-detroit-red-wings,2020,,2020-01-03,Dallas Stars,Detroit Red Wings,4,1,REG,640
+nhl-2020-reg-2020-01-04-arizona-coyotes-philadelphia-flyers,2020,,2020-01-04,Arizona Coyotes,Philadelphia Flyers,6,2,REG,641
+nhl-2020-reg-2020-01-04-boston-bruins-edmonton-oilers,2020,,2020-01-04,Boston Bruins,Edmonton Oilers,1,4,REG,642
+nhl-2020-reg-2020-01-04-buffalo-sabres-florida-panthers,2020,,2020-01-04,Buffalo Sabres,Florida Panthers,3,2,REG,643
+nhl-2020-reg-2020-01-04-columbus-blue-jackets-san-jose-sharks,2020,,2020-01-04,Columbus Blue Jackets,San Jose Sharks,2,3,REG,644
+nhl-2020-reg-2020-01-04-los-angeles-kings-nashville-predators,2020,,2020-01-04,Los Angeles Kings,Nashville Predators,1,4,REG,645
+nhl-2020-reg-2020-01-04-minnesota-wild-winnipeg-jets,2020,,2020-01-04,Minnesota Wild,Winnipeg Jets,3,2,REG,646
+nhl-2020-reg-2020-01-04-montreal-canadiens-pittsburgh-penguins,2020,,2020-01-04,Montreal Canadiens,Pittsburgh Penguins,2,3,REG,647
+nhl-2020-reg-2020-01-04-new-jersey-devils-colorado-avalanche,2020,,2020-01-04,New Jersey Devils,Colorado Avalanche,2,5,REG,648
+nhl-2020-reg-2020-01-04-ottawa-senators-tampa-bay-lightning,2020,,2020-01-04,Ottawa Senators,Tampa Bay Lightning,3,5,REG,649
+nhl-2020-reg-2020-01-04-toronto-maple-leafs-new-york-islanders,2020,,2020-01-04,Toronto Maple Leafs,New York Islanders,3,0,REG,650
+nhl-2020-reg-2020-01-04-vancouver-canucks-new-york-rangers,2020,,2020-01-04,Vancouver Canucks,New York Rangers,2,1,REG,651
+nhl-2020-reg-2020-01-04-vegas-golden-knights-st-louis-blues,2020,,2020-01-04,Vegas Golden Knights,St. Louis Blues,5,4,REG,652
+nhl-2020-reg-2020-01-05-anaheim-ducks-nashville-predators,2020,,2020-01-05,Anaheim Ducks,Nashville Predators,5,4,REG,653
+nhl-2020-reg-2020-01-05-carolina-hurricanes-tampa-bay-lightning,2020,,2020-01-05,Carolina Hurricanes,Tampa Bay Lightning,1,3,REG,654
+nhl-2020-reg-2020-01-05-chicago-blackhawks-detroit-red-wings,2020,,2020-01-05,Chicago Blackhawks,Detroit Red Wings,4,2,REG,655
+nhl-2020-reg-2020-01-05-minnesota-wild-calgary-flames,2020,,2020-01-05,Minnesota Wild,Calgary Flames,4,5,REG,656
+nhl-2020-reg-2020-01-05-pittsburgh-penguins-florida-panthers,2020,,2020-01-05,Pittsburgh Penguins,Florida Panthers,1,4,REG,657
+nhl-2020-reg-2020-01-05-washington-capitals-san-jose-sharks,2020,,2020-01-05,Washington Capitals,San Jose Sharks,5,4,REG,658
+nhl-2020-reg-2020-01-06-los-angeles-kings-columbus-blue-jackets,2020,,2020-01-06,Los Angeles Kings,Columbus Blue Jackets,2,4,REG,659
+nhl-2020-reg-2020-01-06-montreal-canadiens-winnipeg-jets,2020,,2020-01-06,Montreal Canadiens,Winnipeg Jets,2,3,REG,660
+nhl-2020-reg-2020-01-06-new-york-islanders-colorado-avalanche,2020,,2020-01-06,New York Islanders,Colorado Avalanche,1,0,REG,661
+nhl-2020-reg-2020-01-06-toronto-maple-leafs-edmonton-oilers,2020,,2020-01-06,Toronto Maple Leafs,Edmonton Oilers,4,6,REG,662
+nhl-2020-reg-2020-01-07-anaheim-ducks-columbus-blue-jackets,2020,,2020-01-07,Anaheim Ducks,Columbus Blue Jackets,3,4,REG,663
+nhl-2020-reg-2020-01-07-carolina-hurricanes-philadelphia-flyers,2020,,2020-01-07,Carolina Hurricanes,Philadelphia Flyers,5,4,REG,664
+nhl-2020-reg-2020-01-07-chicago-blackhawks-calgary-flames,2020,,2020-01-07,Chicago Blackhawks,Calgary Flames,1,2,REG,665
+nhl-2020-reg-2020-01-07-detroit-red-wings-montreal-canadiens,2020,,2020-01-07,Detroit Red Wings,Montreal Canadiens,4,3,REG,666
+nhl-2020-reg-2020-01-07-florida-panthers-arizona-coyotes,2020,,2020-01-07,Florida Panthers,Arizona Coyotes,2,5,REG,667
+nhl-2020-reg-2020-01-07-nashville-predators-boston-bruins,2020,,2020-01-07,Nashville Predators,Boston Bruins,2,6,REG,668
+nhl-2020-reg-2020-01-07-new-jersey-devils-new-york-islanders,2020,,2020-01-07,New Jersey Devils,New York Islanders,3,4,REG,669
+nhl-2020-reg-2020-01-07-new-york-rangers-colorado-avalanche,2020,,2020-01-07,New York Rangers,Colorado Avalanche,5,3,REG,670
+nhl-2020-reg-2020-01-07-st-louis-blues-san-jose-sharks,2020,,2020-01-07,St. Louis Blues,San Jose Sharks,3,2,REG,671
+nhl-2020-reg-2020-01-07-tampa-bay-lightning-vancouver-canucks,2020,,2020-01-07,Tampa Bay Lightning,Vancouver Canucks,9,2,REG,672
+nhl-2020-reg-2020-01-07-vegas-golden-knights-pittsburgh-penguins,2020,,2020-01-07,Vegas Golden Knights,Pittsburgh Penguins,3,4,REG,673
+nhl-2020-reg-2020-01-07-washington-capitals-ottawa-senators,2020,,2020-01-07,Washington Capitals,Ottawa Senators,6,1,REG,674
+nhl-2020-reg-2020-01-08-los-angeles-kings-dallas-stars,2020,,2020-01-08,Los Angeles Kings,Dallas Stars,1,2,REG,675
+nhl-2020-reg-2020-01-08-philadelphia-flyers-washington-capitals,2020,,2020-01-08,Philadelphia Flyers,Washington Capitals,3,2,REG,676
+nhl-2020-reg-2020-01-08-toronto-maple-leafs-winnipeg-jets,2020,,2020-01-08,Toronto Maple Leafs,Winnipeg Jets,3,4,REG,677
+nhl-2020-reg-2020-01-09-anaheim-ducks-dallas-stars,2020,,2020-01-09,Anaheim Ducks,Dallas Stars,0,3,REG,678
+nhl-2020-reg-2020-01-09-boston-bruins-winnipeg-jets,2020,,2020-01-09,Boston Bruins,Winnipeg Jets,5,4,REG,679
+nhl-2020-reg-2020-01-09-calgary-flames-minnesota-wild,2020,,2020-01-09,Calgary Flames,Minnesota Wild,2,1,REG,680
+nhl-2020-reg-2020-01-09-chicago-blackhawks-nashville-predators,2020,,2020-01-09,Chicago Blackhawks,Nashville Predators,2,5,REG,681
+nhl-2020-reg-2020-01-09-florida-panthers-vancouver-canucks,2020,,2020-01-09,Florida Panthers,Vancouver Canucks,5,2,REG,682
+nhl-2020-reg-2020-01-09-montreal-canadiens-edmonton-oilers,2020,,2020-01-09,Montreal Canadiens,Edmonton Oilers,2,4,REG,683
+nhl-2020-reg-2020-01-09-new-york-rangers-new-jersey-devils,2020,,2020-01-09,New York Rangers,New Jersey Devils,6,3,REG,684
+nhl-2020-reg-2020-01-09-san-jose-sharks-columbus-blue-jackets,2020,,2020-01-09,San Jose Sharks,Columbus Blue Jackets,3,1,REG,685
+nhl-2020-reg-2020-01-09-st-louis-blues-buffalo-sabres,2020,,2020-01-09,St. Louis Blues,Buffalo Sabres,5,1,REG,686
+nhl-2020-reg-2020-01-09-tampa-bay-lightning-arizona-coyotes,2020,,2020-01-09,Tampa Bay Lightning,Arizona Coyotes,4,0,REG,687
+nhl-2020-reg-2020-01-09-vegas-golden-knights-los-angeles-kings,2020,,2020-01-09,Vegas Golden Knights,Los Angeles Kings,2,5,REG,688
+nhl-2020-reg-2020-01-10-carolina-hurricanes-arizona-coyotes,2020,,2020-01-10,Carolina Hurricanes,Arizona Coyotes,3,0,REG,689
+nhl-2020-reg-2020-01-10-colorado-avalanche-pittsburgh-penguins,2020,,2020-01-10,Colorado Avalanche,Pittsburgh Penguins,3,4,REG,690
+nhl-2020-reg-2020-01-10-detroit-red-wings-ottawa-senators,2020,,2020-01-10,Detroit Red Wings,Ottawa Senators,3,2,REG,691
+nhl-2020-reg-2020-01-11-buffalo-sabres-vancouver-canucks,2020,,2020-01-11,Buffalo Sabres,Vancouver Canucks,3,6,REG,692
+nhl-2020-reg-2020-01-11-calgary-flames-edmonton-oilers,2020,,2020-01-11,Calgary Flames,Edmonton Oilers,4,3,REG,693
+nhl-2020-reg-2020-01-11-carolina-hurricanes-los-angeles-kings,2020,,2020-01-11,Carolina Hurricanes,Los Angeles Kings,2,0,REG,694
+nhl-2020-reg-2020-01-11-chicago-blackhawks-anaheim-ducks,2020,,2020-01-11,Chicago Blackhawks,Anaheim Ducks,4,2,REG,695
+nhl-2020-reg-2020-01-11-new-york-islanders-boston-bruins,2020,,2020-01-11,New York Islanders,Boston Bruins,2,3,REG,696
+nhl-2020-reg-2020-01-11-ottawa-senators-montreal-canadiens,2020,,2020-01-11,Ottawa Senators,Montreal Canadiens,1,2,REG,697
+nhl-2020-reg-2020-01-11-philadelphia-flyers-tampa-bay-lightning,2020,,2020-01-11,Philadelphia Flyers,Tampa Bay Lightning,0,1,REG,698
+nhl-2020-reg-2020-01-11-san-jose-sharks-dallas-stars,2020,,2020-01-11,San Jose Sharks,Dallas Stars,2,1,REG,699
+nhl-2020-reg-2020-01-11-st-louis-blues-new-york-rangers,2020,,2020-01-11,St. Louis Blues,New York Rangers,5,2,REG,700
+nhl-2020-reg-2020-01-11-vegas-golden-knights-columbus-blue-jackets,2020,,2020-01-11,Vegas Golden Knights,Columbus Blue Jackets,0,3,REG,701
+nhl-2020-reg-2020-01-11-washington-capitals-new-jersey-devils,2020,,2020-01-11,Washington Capitals,New Jersey Devils,1,5,REG,702
+nhl-2020-reg-2020-01-12-arizona-coyotes-pittsburgh-penguins,2020,,2020-01-12,Arizona Coyotes,Pittsburgh Penguins,3,4,REG,703
+nhl-2020-reg-2020-01-12-detroit-red-wings-buffalo-sabres,2020,,2020-01-12,Detroit Red Wings,Buffalo Sabres,1,5,REG,704
+nhl-2020-reg-2020-01-12-florida-panthers-toronto-maple-leafs,2020,,2020-01-12,Florida Panthers,Toronto Maple Leafs,8,4,REG,705
+nhl-2020-reg-2020-01-12-minnesota-wild-vancouver-canucks,2020,,2020-01-12,Minnesota Wild,Vancouver Canucks,1,4,REG,706
+nhl-2020-reg-2020-01-12-new-jersey-devils-tampa-bay-lightning,2020,,2020-01-12,New Jersey Devils,Tampa Bay Lightning,3,1,REG,707
+nhl-2020-reg-2020-01-12-winnipeg-jets-nashville-predators,2020,,2020-01-12,Winnipeg Jets,Nashville Predators,0,1,REG,708
+nhl-2020-reg-2020-01-13-montreal-canadiens-calgary-flames,2020,,2020-01-13,Montreal Canadiens,Calgary Flames,2,0,REG,709
+nhl-2020-reg-2020-01-13-new-york-rangers-new-york-islanders,2020,,2020-01-13,New York Rangers,New York Islanders,6,2,REG,710
+nhl-2020-reg-2020-01-13-philadelphia-flyers-boston-bruins,2020,,2020-01-13,Philadelphia Flyers,Boston Bruins,6,5,REG,711
+nhl-2020-reg-2020-01-13-st-louis-blues-anaheim-ducks,2020,,2020-01-13,St. Louis Blues,Anaheim Ducks,4,1,REG,712
+nhl-2020-reg-2020-01-13-washington-capitals-carolina-hurricanes,2020,,2020-01-13,Washington Capitals,Carolina Hurricanes,2,0,REG,713
+nhl-2020-reg-2020-01-14-arizona-coyotes-san-jose-sharks,2020,,2020-01-14,Arizona Coyotes,San Jose Sharks,6,3,REG,714
+nhl-2020-reg-2020-01-14-buffalo-sabres-vegas-golden-knights,2020,,2020-01-14,Buffalo Sabres,Vegas Golden Knights,4,2,REG,715
+nhl-2020-reg-2020-01-14-colorado-avalanche-dallas-stars,2020,,2020-01-14,Colorado Avalanche,Dallas Stars,2,3,REG,716
+nhl-2020-reg-2020-01-14-columbus-blue-jackets-boston-bruins,2020,,2020-01-14,Columbus Blue Jackets,Boston Bruins,3,0,REG,717
+nhl-2020-reg-2020-01-14-edmonton-oilers-nashville-predators,2020,,2020-01-14,Edmonton Oilers,Nashville Predators,4,2,REG,718
+nhl-2020-reg-2020-01-14-new-york-islanders-detroit-red-wings,2020,,2020-01-14,New York Islanders,Detroit Red Wings,8,2,REG,719
+nhl-2020-reg-2020-01-14-ottawa-senators-chicago-blackhawks,2020,,2020-01-14,Ottawa Senators,Chicago Blackhawks,2,3,REG,720
+nhl-2020-reg-2020-01-14-pittsburgh-penguins-minnesota-wild,2020,,2020-01-14,Pittsburgh Penguins,Minnesota Wild,7,3,REG,721
+nhl-2020-reg-2020-01-14-tampa-bay-lightning-los-angeles-kings,2020,,2020-01-14,Tampa Bay Lightning,Los Angeles Kings,4,3,REG,722
+nhl-2020-reg-2020-01-14-toronto-maple-leafs-new-jersey-devils,2020,,2020-01-14,Toronto Maple Leafs,New Jersey Devils,7,4,REG,723
+nhl-2020-reg-2020-01-14-winnipeg-jets-vancouver-canucks,2020,,2020-01-14,Winnipeg Jets,Vancouver Canucks,4,0,REG,724
+nhl-2020-reg-2020-01-15-montreal-canadiens-chicago-blackhawks,2020,,2020-01-15,Montreal Canadiens,Chicago Blackhawks,1,4,REG,725
+nhl-2020-reg-2020-01-15-st-louis-blues-philadelphia-flyers,2020,,2020-01-15,St. Louis Blues,Philadelphia Flyers,3,4,REG,726
+nhl-2020-reg-2020-01-16-boston-bruins-pittsburgh-penguins,2020,,2020-01-16,Boston Bruins,Pittsburgh Penguins,4,1,REG,727
+nhl-2020-reg-2020-01-16-colorado-avalanche-san-jose-sharks,2020,,2020-01-16,Colorado Avalanche,San Jose Sharks,4,0,REG,728
+nhl-2020-reg-2020-01-16-columbus-blue-jackets-carolina-hurricanes,2020,,2020-01-16,Columbus Blue Jackets,Carolina Hurricanes,3,2,REG,729
+nhl-2020-reg-2020-01-16-dallas-stars-buffalo-sabres,2020,,2020-01-16,Dallas Stars,Buffalo Sabres,1,4,REG,730
+nhl-2020-reg-2020-01-16-florida-panthers-los-angeles-kings,2020,,2020-01-16,Florida Panthers,Los Angeles Kings,4,3,REG,731
+nhl-2020-reg-2020-01-16-minnesota-wild-tampa-bay-lightning,2020,,2020-01-16,Minnesota Wild,Tampa Bay Lightning,3,2,REG,732
+nhl-2020-reg-2020-01-16-nashville-predators-anaheim-ducks,2020,,2020-01-16,Nashville Predators,Anaheim Ducks,2,4,REG,733
+nhl-2020-reg-2020-01-16-new-york-islanders-new-york-rangers,2020,,2020-01-16,New York Islanders,New York Rangers,2,3,REG,734
+nhl-2020-reg-2020-01-16-ottawa-senators-vegas-golden-knights,2020,,2020-01-16,Ottawa Senators,Vegas Golden Knights,2,4,REG,735
+nhl-2020-reg-2020-01-16-philadelphia-flyers-montreal-canadiens,2020,,2020-01-16,Philadelphia Flyers,Montreal Canadiens,1,4,REG,736
+nhl-2020-reg-2020-01-16-toronto-maple-leafs-calgary-flames,2020,,2020-01-16,Toronto Maple Leafs,Calgary Flames,1,2,REG,737
+nhl-2020-reg-2020-01-16-vancouver-canucks-arizona-coyotes,2020,,2020-01-16,Vancouver Canucks,Arizona Coyotes,3,1,REG,738
+nhl-2020-reg-2020-01-16-washington-capitals-new-jersey-devils,2020,,2020-01-16,Washington Capitals,New Jersey Devils,5,2,REG,739
+nhl-2020-reg-2020-01-17-carolina-hurricanes-anaheim-ducks,2020,,2020-01-17,Carolina Hurricanes,Anaheim Ducks,1,2,REG,740
+nhl-2020-reg-2020-01-17-detroit-red-wings-pittsburgh-penguins,2020,,2020-01-17,Detroit Red Wings,Pittsburgh Penguins,1,2,REG,741
+nhl-2020-reg-2020-01-17-winnipeg-jets-tampa-bay-lightning,2020,,2020-01-17,Winnipeg Jets,Tampa Bay Lightning,1,7,REG,742
+nhl-2020-reg-2020-01-18-colorado-avalanche-st-louis-blues,2020,,2020-01-18,Colorado Avalanche,St. Louis Blues,5,3,REG,743
+nhl-2020-reg-2020-01-18-columbus-blue-jackets-new-jersey-devils,2020,,2020-01-18,Columbus Blue Jackets,New Jersey Devils,5,0,REG,744
+nhl-2020-reg-2020-01-18-detroit-red-wings-florida-panthers,2020,,2020-01-18,Detroit Red Wings,Florida Panthers,1,4,REG,745
+nhl-2020-reg-2020-01-18-edmonton-oilers-arizona-coyotes,2020,,2020-01-18,Edmonton Oilers,Arizona Coyotes,7,3,REG,746
+nhl-2020-reg-2020-01-18-minnesota-wild-dallas-stars,2020,,2020-01-18,Minnesota Wild,Dallas Stars,7,0,REG,747
+nhl-2020-reg-2020-01-18-montreal-canadiens-vegas-golden-knights,2020,,2020-01-18,Montreal Canadiens,Vegas Golden Knights,5,4,REG,748
+nhl-2020-reg-2020-01-18-nashville-predators-buffalo-sabres,2020,,2020-01-18,Nashville Predators,Buffalo Sabres,2,1,REG,749
+nhl-2020-reg-2020-01-18-new-york-islanders-washington-capitals,2020,,2020-01-18,New York Islanders,Washington Capitals,4,6,REG,750
+nhl-2020-reg-2020-01-18-ottawa-senators-calgary-flames,2020,,2020-01-18,Ottawa Senators,Calgary Flames,5,2,REG,751
+nhl-2020-reg-2020-01-18-philadelphia-flyers-los-angeles-kings,2020,,2020-01-18,Philadelphia Flyers,Los Angeles Kings,4,1,REG,752
+nhl-2020-reg-2020-01-18-toronto-maple-leafs-chicago-blackhawks,2020,,2020-01-18,Toronto Maple Leafs,Chicago Blackhawks,2,6,REG,753
+nhl-2020-reg-2020-01-18-vancouver-canucks-san-jose-sharks,2020,,2020-01-18,Vancouver Canucks,San Jose Sharks,4,1,REG,754
+nhl-2020-reg-2020-01-19-carolina-hurricanes-new-york-islanders,2020,,2020-01-19,Carolina Hurricanes,New York Islanders,2,1,REG,755
+nhl-2020-reg-2020-01-19-chicago-blackhawks-winnipeg-jets,2020,,2020-01-19,Chicago Blackhawks,Winnipeg Jets,5,2,REG,756
+nhl-2020-reg-2020-01-19-new-york-rangers-columbus-blue-jackets,2020,,2020-01-19,New York Rangers,Columbus Blue Jackets,1,2,REG,757
+nhl-2020-reg-2020-01-19-pittsburgh-penguins-boston-bruins,2020,,2020-01-19,Pittsburgh Penguins,Boston Bruins,4,3,REG,758
+nhl-2020-reg-2020-01-20-colorado-avalanche-detroit-red-wings,2020,,2020-01-20,Colorado Avalanche,Detroit Red Wings,6,3,REG,759
+nhl-2020-reg-2020-01-20-minnesota-wild-florida-panthers,2020,,2020-01-20,Minnesota Wild,Florida Panthers,4,5,REG,760
+nhl-2020-reg-2020-01-21-boston-bruins-vegas-golden-knights,2020,,2020-01-21,Boston Bruins,Vegas Golden Knights,3,2,REG,761
+nhl-2020-reg-2020-01-21-carolina-hurricanes-winnipeg-jets,2020,,2020-01-21,Carolina Hurricanes,Winnipeg Jets,4,1,REG,762
+nhl-2020-reg-2020-01-21-chicago-blackhawks-florida-panthers,2020,,2020-01-21,Chicago Blackhawks,Florida Panthers,3,4,REG,763
+nhl-2020-reg-2020-01-21-new-york-rangers-new-york-islanders,2020,,2020-01-21,New York Rangers,New York Islanders,2,4,REG,764
+nhl-2020-reg-2020-01-21-philadelphia-flyers-pittsburgh-penguins,2020,,2020-01-21,Philadelphia Flyers,Pittsburgh Penguins,3,0,REG,765
+nhl-2020-reg-2020-01-22-columbus-blue-jackets-winnipeg-jets,2020,,2020-01-22,Columbus Blue Jackets,Winnipeg Jets,4,3,REG,766
+nhl-2020-reg-2020-01-22-minnesota-wild-detroit-red-wings,2020,,2020-01-22,Minnesota Wild,Detroit Red Wings,4,2,REG,767
+nhl-2020-reg-2020-01-27-dallas-stars-tampa-bay-lightning,2020,,2020-01-27,Dallas Stars,Tampa Bay Lightning,3,2,REG,768
+nhl-2020-reg-2020-01-27-montreal-canadiens-washington-capitals,2020,,2020-01-27,Montreal Canadiens,Washington Capitals,2,4,REG,769
+nhl-2020-reg-2020-01-27-nashville-predators-toronto-maple-leafs,2020,,2020-01-27,Nashville Predators,Toronto Maple Leafs,2,5,REG,770
+nhl-2020-reg-2020-01-27-ottawa-senators-new-jersey-devils,2020,,2020-01-27,Ottawa Senators,New Jersey Devils,3,4,REG,771
+nhl-2020-reg-2020-01-27-san-jose-sharks-anaheim-ducks,2020,,2020-01-27,San Jose Sharks,Anaheim Ducks,4,2,REG,772
+nhl-2020-reg-2020-01-27-vancouver-canucks-st-louis-blues,2020,,2020-01-27,Vancouver Canucks,St. Louis Blues,3,1,REG,773
+nhl-2020-reg-2020-01-28-buffalo-sabres-ottawa-senators,2020,,2020-01-28,Buffalo Sabres,Ottawa Senators,2,5,REG,774
+nhl-2020-reg-2020-01-28-calgary-flames-st-louis-blues,2020,,2020-01-28,Calgary Flames,St. Louis Blues,4,5,REG,775
+nhl-2020-reg-2020-01-29-anaheim-ducks-arizona-coyotes,2020,,2020-01-29,Anaheim Ducks,Arizona Coyotes,4,2,REG,776
+nhl-2020-reg-2020-01-29-dallas-stars-toronto-maple-leafs,2020,,2020-01-29,Dallas Stars,Toronto Maple Leafs,3,5,REG,777
+nhl-2020-reg-2020-01-29-edmonton-oilers-calgary-flames,2020,,2020-01-29,Edmonton Oilers,Calgary Flames,3,4,REG,778
+nhl-2020-reg-2020-01-29-los-angeles-kings-tampa-bay-lightning,2020,,2020-01-29,Los Angeles Kings,Tampa Bay Lightning,2,4,REG,779
+nhl-2020-reg-2020-01-29-san-jose-sharks-vancouver-canucks,2020,,2020-01-29,San Jose Sharks,Vancouver Canucks,2,5,REG,780
+nhl-2020-reg-2020-01-29-washington-capitals-nashville-predators,2020,,2020-01-29,Washington Capitals,Nashville Predators,4,5,REG,781
+nhl-2020-reg-2020-01-30-arizona-coyotes-los-angeles-kings,2020,,2020-01-30,Arizona Coyotes,Los Angeles Kings,2,3,REG,782
+nhl-2020-reg-2020-01-30-buffalo-sabres-montreal-canadiens,2020,,2020-01-30,Buffalo Sabres,Montreal Canadiens,1,3,REG,783
+nhl-2020-reg-2020-01-30-new-jersey-devils-nashville-predators,2020,,2020-01-30,New Jersey Devils,Nashville Predators,5,6,REG,784
+nhl-2020-reg-2020-01-31-anaheim-ducks-tampa-bay-lightning,2020,,2020-01-31,Anaheim Ducks,Tampa Bay Lightning,3,4,REG,785
+nhl-2020-reg-2020-01-31-carolina-hurricanes-vegas-golden-knights,2020,,2020-01-31,Carolina Hurricanes,Vegas Golden Knights,3,4,REG,786
+nhl-2020-reg-2020-01-31-edmonton-oilers-st-louis-blues,2020,,2020-01-31,Edmonton Oilers,St. Louis Blues,4,2,REG,787
+nhl-2020-reg-2020-01-31-new-york-rangers-detroit-red-wings,2020,,2020-01-31,New York Rangers,Detroit Red Wings,4,2,REG,788
+nhl-2020-reg-2020-01-31-ottawa-senators-washington-capitals,2020,,2020-01-31,Ottawa Senators,Washington Capitals,3,5,REG,789
+nhl-2020-reg-2020-01-31-pittsburgh-penguins-philadelphia-flyers,2020,,2020-01-31,Pittsburgh Penguins,Philadelphia Flyers,4,3,REG,790
+nhl-2020-reg-2020-01-31-winnipeg-jets-boston-bruins,2020,,2020-01-31,Winnipeg Jets,Boston Bruins,1,2,REG,791
+nhl-2020-reg-2020-02-01-arizona-coyotes-chicago-blackhawks,2020,,2020-02-01,Arizona Coyotes,Chicago Blackhawks,2,3,REG,792
+nhl-2020-reg-2020-02-01-buffalo-sabres-columbus-blue-jackets,2020,,2020-02-01,Buffalo Sabres,Columbus Blue Jackets,2,1,REG,793
+nhl-2020-reg-2020-02-01-calgary-flames-edmonton-oilers,2020,,2020-02-01,Calgary Flames,Edmonton Oilers,3,8,REG,794
+nhl-2020-reg-2020-02-01-detroit-red-wings-new-york-rangers,2020,,2020-02-01,Detroit Red Wings,New York Rangers,0,1,REG,795
+nhl-2020-reg-2020-02-01-los-angeles-kings-anaheim-ducks,2020,,2020-02-01,Los Angeles Kings,Anaheim Ducks,1,3,REG,796
+nhl-2020-reg-2020-02-01-minnesota-wild-boston-bruins,2020,,2020-02-01,Minnesota Wild,Boston Bruins,1,6,REG,797
+nhl-2020-reg-2020-02-01-montreal-canadiens-florida-panthers,2020,,2020-02-01,Montreal Canadiens,Florida Panthers,4,0,REG,798
+nhl-2020-reg-2020-02-01-nashville-predators-vegas-golden-knights,2020,,2020-02-01,Nashville Predators,Vegas Golden Knights,0,3,REG,799
+nhl-2020-reg-2020-02-01-new-jersey-devils-dallas-stars,2020,,2020-02-01,New Jersey Devils,Dallas Stars,2,3,REG,800
+nhl-2020-reg-2020-02-01-new-york-islanders-vancouver-canucks,2020,,2020-02-01,New York Islanders,Vancouver Canucks,3,4,REG,801
+nhl-2020-reg-2020-02-01-philadelphia-flyers-colorado-avalanche,2020,,2020-02-01,Philadelphia Flyers,Colorado Avalanche,6,3,REG,802
+nhl-2020-reg-2020-02-01-san-jose-sharks-tampa-bay-lightning,2020,,2020-02-01,San Jose Sharks,Tampa Bay Lightning,0,3,REG,803
+nhl-2020-reg-2020-02-01-toronto-maple-leafs-ottawa-senators,2020,,2020-02-01,Toronto Maple Leafs,Ottawa Senators,2,1,REG,804
+nhl-2020-reg-2020-02-01-winnipeg-jets-st-louis-blues,2020,,2020-02-01,Winnipeg Jets,St. Louis Blues,5,2,REG,805
+nhl-2020-reg-2020-02-02-carolina-hurricanes-vancouver-canucks,2020,,2020-02-02,Carolina Hurricanes,Vancouver Canucks,4,3,REG,806
+nhl-2020-reg-2020-02-02-montreal-canadiens-columbus-blue-jackets,2020,,2020-02-02,Montreal Canadiens,Columbus Blue Jackets,3,4,REG,807
+nhl-2020-reg-2020-02-02-washington-capitals-pittsburgh-penguins,2020,,2020-02-02,Washington Capitals,Pittsburgh Penguins,3,4,REG,808
+nhl-2020-reg-2020-02-03-detroit-red-wings-philadelphia-flyers,2020,,2020-02-03,Detroit Red Wings,Philadelphia Flyers,0,3,REG,809
+nhl-2020-reg-2020-02-03-new-york-rangers-dallas-stars,2020,,2020-02-03,New York Rangers,Dallas Stars,3,5,REG,810
+nhl-2020-reg-2020-02-03-toronto-maple-leafs-florida-panthers,2020,,2020-02-03,Toronto Maple Leafs,Florida Panthers,3,5,REG,811
+nhl-2020-reg-2020-02-04-arizona-coyotes-edmonton-oilers,2020,,2020-02-04,Arizona Coyotes,Edmonton Oilers,3,0,REG,812
+nhl-2020-reg-2020-02-04-boston-bruins-vancouver-canucks,2020,,2020-02-04,Boston Bruins,Vancouver Canucks,4,0,REG,813
+nhl-2020-reg-2020-02-04-buffalo-sabres-colorado-avalanche,2020,,2020-02-04,Buffalo Sabres,Colorado Avalanche,1,6,REG,814
+nhl-2020-reg-2020-02-04-calgary-flames-san-jose-sharks,2020,,2020-02-04,Calgary Flames,San Jose Sharks,1,3,REG,815
+nhl-2020-reg-2020-02-04-columbus-blue-jackets-florida-panthers,2020,,2020-02-04,Columbus Blue Jackets,Florida Panthers,1,0,REG,816
+nhl-2020-reg-2020-02-04-minnesota-wild-chicago-blackhawks,2020,,2020-02-04,Minnesota Wild,Chicago Blackhawks,3,2,REG,817
+nhl-2020-reg-2020-02-04-new-jersey-devils-montreal-canadiens,2020,,2020-02-04,New Jersey Devils,Montreal Canadiens,4,5,REG,818
+nhl-2020-reg-2020-02-04-new-york-islanders-dallas-stars,2020,,2020-02-04,New York Islanders,Dallas Stars,4,3,REG,819
+nhl-2020-reg-2020-02-04-ottawa-senators-anaheim-ducks,2020,,2020-02-04,Ottawa Senators,Anaheim Ducks,2,3,REG,820
+nhl-2020-reg-2020-02-04-st-louis-blues-carolina-hurricanes,2020,,2020-02-04,St. Louis Blues,Carolina Hurricanes,6,3,REG,821
+nhl-2020-reg-2020-02-04-tampa-bay-lightning-vegas-golden-knights,2020,,2020-02-04,Tampa Bay Lightning,Vegas Golden Knights,4,2,REG,822
+nhl-2020-reg-2020-02-04-washington-capitals-los-angeles-kings,2020,,2020-02-04,Washington Capitals,Los Angeles Kings,4,2,REG,823
+nhl-2020-reg-2020-02-04-winnipeg-jets-nashville-predators,2020,,2020-02-04,Winnipeg Jets,Nashville Predators,1,2,REG,824
+nhl-2020-reg-2020-02-05-chicago-blackhawks-boston-bruins,2020,,2020-02-05,Chicago Blackhawks,Boston Bruins,1,2,REG,825
+nhl-2020-reg-2020-02-05-new-york-rangers-toronto-maple-leafs,2020,,2020-02-05,New York Rangers,Toronto Maple Leafs,5,3,REG,826
+nhl-2020-reg-2020-02-06-arizona-coyotes-carolina-hurricanes,2020,,2020-02-06,Arizona Coyotes,Carolina Hurricanes,3,5,REG,827
+nhl-2020-reg-2020-02-06-buffalo-sabres-detroit-red-wings,2020,,2020-02-06,Buffalo Sabres,Detroit Red Wings,3,4,REG,828
+nhl-2020-reg-2020-02-06-calgary-flames-nashville-predators,2020,,2020-02-06,Calgary Flames,Nashville Predators,2,3,REG,829
+nhl-2020-reg-2020-02-06-edmonton-oilers-san-jose-sharks,2020,,2020-02-06,Edmonton Oilers,San Jose Sharks,3,6,REG,830
+nhl-2020-reg-2020-02-06-florida-panthers-vegas-golden-knights,2020,,2020-02-06,Florida Panthers,Vegas Golden Knights,2,7,REG,831
+nhl-2020-reg-2020-02-06-minnesota-wild-vancouver-canucks,2020,,2020-02-06,Minnesota Wild,Vancouver Canucks,4,2,REG,832
+nhl-2020-reg-2020-02-06-montreal-canadiens-anaheim-ducks,2020,,2020-02-06,Montreal Canadiens,Anaheim Ducks,3,2,REG,833
+nhl-2020-reg-2020-02-06-new-york-islanders-los-angeles-kings,2020,,2020-02-06,New York Islanders,Los Angeles Kings,5,3,REG,834
+nhl-2020-reg-2020-02-06-ottawa-senators-colorado-avalanche,2020,,2020-02-06,Ottawa Senators,Colorado Avalanche,1,4,REG,835
+nhl-2020-reg-2020-02-06-philadelphia-flyers-new-jersey-devils,2020,,2020-02-06,Philadelphia Flyers,New Jersey Devils,0,5,REG,836
+nhl-2020-reg-2020-02-06-st-louis-blues-winnipeg-jets,2020,,2020-02-06,St. Louis Blues,Winnipeg Jets,2,4,REG,837
+nhl-2020-reg-2020-02-06-tampa-bay-lightning-pittsburgh-penguins,2020,,2020-02-06,Tampa Bay Lightning,Pittsburgh Penguins,4,2,REG,838
+nhl-2020-reg-2020-02-07-columbus-blue-jackets-detroit-red-wings,2020,,2020-02-07,Columbus Blue Jackets,Detroit Red Wings,2,0,REG,839
+nhl-2020-reg-2020-02-07-dallas-stars-minnesota-wild,2020,,2020-02-07,Dallas Stars,Minnesota Wild,2,3,REG,840
+nhl-2020-reg-2020-02-07-new-york-rangers-buffalo-sabres,2020,,2020-02-07,New York Rangers,Buffalo Sabres,2,3,REG,841
+nhl-2020-reg-2020-02-07-toronto-maple-leafs-anaheim-ducks,2020,,2020-02-07,Toronto Maple Leafs,Anaheim Ducks,5,4,REG,842
+nhl-2020-reg-2020-02-08-boston-bruins-arizona-coyotes,2020,,2020-02-08,Boston Bruins,Arizona Coyotes,4,2,REG,843
+nhl-2020-reg-2020-02-08-columbus-blue-jackets-colorado-avalanche,2020,,2020-02-08,Columbus Blue Jackets,Colorado Avalanche,1,2,REG,844
+nhl-2020-reg-2020-02-08-edmonton-oilers-nashville-predators,2020,,2020-02-08,Edmonton Oilers,Nashville Predators,3,2,REG,845
+nhl-2020-reg-2020-02-08-florida-panthers-pittsburgh-penguins,2020,,2020-02-08,Florida Panthers,Pittsburgh Penguins,2,3,REG,846
+nhl-2020-reg-2020-02-08-montreal-canadiens-toronto-maple-leafs,2020,,2020-02-08,Montreal Canadiens,Toronto Maple Leafs,2,1,REG,847
+nhl-2020-reg-2020-02-08-new-jersey-devils-los-angeles-kings,2020,,2020-02-08,New Jersey Devils,Los Angeles Kings,3,0,REG,848
+nhl-2020-reg-2020-02-08-st-louis-blues-dallas-stars,2020,,2020-02-08,St. Louis Blues,Dallas Stars,2,3,REG,849
+nhl-2020-reg-2020-02-08-tampa-bay-lightning-new-york-islanders,2020,,2020-02-08,Tampa Bay Lightning,New York Islanders,3,1,REG,850
+nhl-2020-reg-2020-02-08-vancouver-canucks-calgary-flames,2020,,2020-02-08,Vancouver Canucks,Calgary Flames,2,6,REG,851
+nhl-2020-reg-2020-02-08-vegas-golden-knights-carolina-hurricanes,2020,,2020-02-08,Vegas Golden Knights,Carolina Hurricanes,5,6,REG,852
+nhl-2020-reg-2020-02-08-washington-capitals-philadelphia-flyers,2020,,2020-02-08,Washington Capitals,Philadelphia Flyers,2,7,REG,853
+nhl-2020-reg-2020-02-08-winnipeg-jets-ottawa-senators,2020,,2020-02-08,Winnipeg Jets,Ottawa Senators,5,2,REG,854
+nhl-2020-reg-2020-02-09-buffalo-sabres-anaheim-ducks,2020,,2020-02-09,Buffalo Sabres,Anaheim Ducks,2,3,REG,855
+nhl-2020-reg-2020-02-09-detroit-red-wings-boston-bruins,2020,,2020-02-09,Detroit Red Wings,Boston Bruins,3,1,REG,856
+nhl-2020-reg-2020-02-09-minnesota-wild-colorado-avalanche,2020,,2020-02-09,Minnesota Wild,Colorado Avalanche,2,3,REG,857
+nhl-2020-reg-2020-02-09-new-york-rangers-los-angeles-kings,2020,,2020-02-09,New York Rangers,Los Angeles Kings,4,1,REG,858
+nhl-2020-reg-2020-02-09-winnipeg-jets-chicago-blackhawks,2020,,2020-02-09,Winnipeg Jets,Chicago Blackhawks,5,2,REG,859
+nhl-2020-reg-2020-02-10-columbus-blue-jackets-tampa-bay-lightning,2020,,2020-02-10,Columbus Blue Jackets,Tampa Bay Lightning,1,2,REG,860
+nhl-2020-reg-2020-02-10-montreal-canadiens-arizona-coyotes,2020,,2020-02-10,Montreal Canadiens,Arizona Coyotes,2,3,REG,861
+nhl-2020-reg-2020-02-10-philadelphia-flyers-florida-panthers,2020,,2020-02-10,Philadelphia Flyers,Florida Panthers,4,1,REG,862
+nhl-2020-reg-2020-02-10-san-jose-sharks-calgary-flames,2020,,2020-02-10,San Jose Sharks,Calgary Flames,2,6,REG,863
+nhl-2020-reg-2020-02-10-vancouver-canucks-nashville-predators,2020,,2020-02-10,Vancouver Canucks,Nashville Predators,6,2,REG,864
+nhl-2020-reg-2020-02-10-washington-capitals-new-york-islanders,2020,,2020-02-10,Washington Capitals,New York Islanders,3,5,REG,865
+nhl-2020-reg-2020-02-11-buffalo-sabres-detroit-red-wings,2020,,2020-02-11,Buffalo Sabres,Detroit Red Wings,3,2,REG,866
+nhl-2020-reg-2020-02-11-colorado-avalanche-ottawa-senators,2020,,2020-02-11,Colorado Avalanche,Ottawa Senators,3,0,REG,867
+nhl-2020-reg-2020-02-11-dallas-stars-carolina-hurricanes,2020,,2020-02-11,Dallas Stars,Carolina Hurricanes,4,1,REG,868
+nhl-2020-reg-2020-02-11-edmonton-oilers-chicago-blackhawks,2020,,2020-02-11,Edmonton Oilers,Chicago Blackhawks,5,3,REG,869
+nhl-2020-reg-2020-02-11-minnesota-wild-vegas-golden-knights,2020,,2020-02-11,Minnesota Wild,Vegas Golden Knights,4,0,REG,870
+nhl-2020-reg-2020-02-11-new-jersey-devils-florida-panthers,2020,,2020-02-11,New Jersey Devils,Florida Panthers,3,5,REG,871
+nhl-2020-reg-2020-02-11-new-york-islanders-philadelphia-flyers,2020,,2020-02-11,New York Islanders,Philadelphia Flyers,5,3,REG,872
+nhl-2020-reg-2020-02-11-pittsburgh-penguins-tampa-bay-lightning,2020,,2020-02-11,Pittsburgh Penguins,Tampa Bay Lightning,1,2,REG,873
+nhl-2020-reg-2020-02-11-toronto-maple-leafs-arizona-coyotes,2020,,2020-02-11,Toronto Maple Leafs,Arizona Coyotes,3,2,REG,874
+nhl-2020-reg-2020-02-11-winnipeg-jets-new-york-rangers,2020,,2020-02-11,Winnipeg Jets,New York Rangers,1,4,REG,875
+nhl-2020-reg-2020-02-12-boston-bruins-montreal-canadiens,2020,,2020-02-12,Boston Bruins,Montreal Canadiens,4,1,REG,876
+nhl-2020-reg-2020-02-12-los-angeles-kings-calgary-flames,2020,,2020-02-12,Los Angeles Kings,Calgary Flames,5,3,REG,877
+nhl-2020-reg-2020-02-12-vancouver-canucks-chicago-blackhawks,2020,,2020-02-12,Vancouver Canucks,Chicago Blackhawks,3,0,REG,878
+nhl-2020-reg-2020-02-13-anaheim-ducks-calgary-flames,2020,,2020-02-13,Anaheim Ducks,Calgary Flames,0,6,REG,879
+nhl-2020-reg-2020-02-13-buffalo-sabres-columbus-blue-jackets,2020,,2020-02-13,Buffalo Sabres,Columbus Blue Jackets,4,3,REG,880
+nhl-2020-reg-2020-02-13-colorado-avalanche-washington-capitals,2020,,2020-02-13,Colorado Avalanche,Washington Capitals,2,3,REG,881
+nhl-2020-reg-2020-02-13-florida-panthers-philadelphia-flyers,2020,,2020-02-13,Florida Panthers,Philadelphia Flyers,2,6,REG,882
+nhl-2020-reg-2020-02-13-minnesota-wild-new-york-rangers,2020,,2020-02-13,Minnesota Wild,New York Rangers,3,4,REG,883
+nhl-2020-reg-2020-02-13-nashville-predators-new-york-islanders,2020,,2020-02-13,Nashville Predators,New York Islanders,5,0,REG,884
+nhl-2020-reg-2020-02-13-new-jersey-devils-detroit-red-wings,2020,,2020-02-13,New Jersey Devils,Detroit Red Wings,4,1,REG,885
+nhl-2020-reg-2020-02-13-ottawa-senators-arizona-coyotes,2020,,2020-02-13,Ottawa Senators,Arizona Coyotes,3,2,REG,886
+nhl-2020-reg-2020-02-13-tampa-bay-lightning-edmonton-oilers,2020,,2020-02-13,Tampa Bay Lightning,Edmonton Oilers,3,1,REG,887
+nhl-2020-reg-2020-02-13-toronto-maple-leafs-dallas-stars,2020,,2020-02-13,Toronto Maple Leafs,Dallas Stars,2,3,REG,888
+nhl-2020-reg-2020-02-13-vegas-golden-knights-st-louis-blues,2020,,2020-02-13,Vegas Golden Knights,St. Louis Blues,6,5,REG,889
+nhl-2020-reg-2020-02-14-carolina-hurricanes-new-jersey-devils,2020,,2020-02-14,Carolina Hurricanes,New Jersey Devils,5,2,REG,890
+nhl-2020-reg-2020-02-14-columbus-blue-jackets-new-york-rangers,2020,,2020-02-14,Columbus Blue Jackets,New York Rangers,1,3,REG,891
+nhl-2020-reg-2020-02-14-pittsburgh-penguins-montreal-canadiens,2020,,2020-02-14,Pittsburgh Penguins,Montreal Canadiens,4,1,REG,892
+nhl-2020-reg-2020-02-14-winnipeg-jets-san-jose-sharks,2020,,2020-02-14,Winnipeg Jets,San Jose Sharks,2,3,REG,893
+nhl-2020-reg-2020-02-15-arizona-coyotes-washington-capitals,2020,,2020-02-15,Arizona Coyotes,Washington Capitals,3,1,REG,894
+nhl-2020-reg-2020-02-15-boston-bruins-detroit-red-wings,2020,,2020-02-15,Boston Bruins,Detroit Red Wings,4,1,REG,895
+nhl-2020-reg-2020-02-15-calgary-flames-chicago-blackhawks,2020,,2020-02-15,Calgary Flames,Chicago Blackhawks,4,8,REG,896
+nhl-2020-reg-2020-02-15-colorado-avalanche-los-angeles-kings,2020,,2020-02-15,Colorado Avalanche,Los Angeles Kings,1,3,REG,897
+nhl-2020-reg-2020-02-15-florida-panthers-edmonton-oilers,2020,,2020-02-15,Florida Panthers,Edmonton Oilers,1,4,REG,898
+nhl-2020-reg-2020-02-15-minnesota-wild-san-jose-sharks,2020,,2020-02-15,Minnesota Wild,San Jose Sharks,0,2,REG,899
+nhl-2020-reg-2020-02-15-montreal-canadiens-dallas-stars,2020,,2020-02-15,Montreal Canadiens,Dallas Stars,3,4,REG,900
+nhl-2020-reg-2020-02-15-ottawa-senators-toronto-maple-leafs,2020,,2020-02-15,Ottawa Senators,Toronto Maple Leafs,2,4,REG,901
+nhl-2020-reg-2020-02-15-st-louis-blues-nashville-predators,2020,,2020-02-15,St. Louis Blues,Nashville Predators,3,4,REG,902
+nhl-2020-reg-2020-02-15-tampa-bay-lightning-philadelphia-flyers,2020,,2020-02-15,Tampa Bay Lightning,Philadelphia Flyers,5,3,REG,903
+nhl-2020-reg-2020-02-15-vegas-golden-knights-new-york-islanders,2020,,2020-02-15,Vegas Golden Knights,New York Islanders,1,0,REG,904
+nhl-2020-reg-2020-02-16-buffalo-sabres-toronto-maple-leafs,2020,,2020-02-16,Buffalo Sabres,Toronto Maple Leafs,5,2,REG,905
+nhl-2020-reg-2020-02-16-carolina-hurricanes-edmonton-oilers,2020,,2020-02-16,Carolina Hurricanes,Edmonton Oilers,3,4,REG,906
+nhl-2020-reg-2020-02-16-nashville-predators-st-louis-blues,2020,,2020-02-16,Nashville Predators,St. Louis Blues,2,1,REG,907
+nhl-2020-reg-2020-02-16-new-jersey-devils-columbus-blue-jackets,2020,,2020-02-16,New Jersey Devils,Columbus Blue Jackets,4,3,REG,908
+nhl-2020-reg-2020-02-16-new-york-rangers-boston-bruins,2020,,2020-02-16,New York Rangers,Boston Bruins,1,3,REG,909
+nhl-2020-reg-2020-02-16-ottawa-senators-dallas-stars,2020,,2020-02-16,Ottawa Senators,Dallas Stars,4,3,REG,910
+nhl-2020-reg-2020-02-16-pittsburgh-penguins-detroit-red-wings,2020,,2020-02-16,Pittsburgh Penguins,Detroit Red Wings,5,1,REG,911
+nhl-2020-reg-2020-02-16-vancouver-canucks-anaheim-ducks,2020,,2020-02-16,Vancouver Canucks,Anaheim Ducks,1,5,REG,912
+nhl-2020-reg-2020-02-16-winnipeg-jets-chicago-blackhawks,2020,,2020-02-16,Winnipeg Jets,Chicago Blackhawks,3,2,REG,913
+nhl-2020-reg-2020-02-17-arizona-coyotes-new-york-islanders,2020,,2020-02-17,Arizona Coyotes,New York Islanders,2,1,REG,914
+nhl-2020-reg-2020-02-17-calgary-flames-anaheim-ducks,2020,,2020-02-17,Calgary Flames,Anaheim Ducks,6,4,REG,915
+nhl-2020-reg-2020-02-17-colorado-avalanche-tampa-bay-lightning,2020,,2020-02-17,Colorado Avalanche,Tampa Bay Lightning,3,4,REG,916
+nhl-2020-reg-2020-02-17-san-jose-sharks-florida-panthers,2020,,2020-02-17,San Jose Sharks,Florida Panthers,3,5,REG,917
+nhl-2020-reg-2020-02-17-vegas-golden-knights-washington-capitals,2020,,2020-02-17,Vegas Golden Knights,Washington Capitals,3,2,REG,918
+nhl-2020-reg-2020-02-18-detroit-red-wings-montreal-canadiens,2020,,2020-02-18,Detroit Red Wings,Montreal Canadiens,4,3,REG,919
+nhl-2020-reg-2020-02-18-nashville-predators-carolina-hurricanes,2020,,2020-02-18,Nashville Predators,Carolina Hurricanes,1,4,REG,920
+nhl-2020-reg-2020-02-18-ottawa-senators-buffalo-sabres,2020,,2020-02-18,Ottawa Senators,Buffalo Sabres,7,4,REG,921
+nhl-2020-reg-2020-02-18-philadelphia-flyers-columbus-blue-jackets,2020,,2020-02-18,Philadelphia Flyers,Columbus Blue Jackets,5,1,REG,922
+nhl-2020-reg-2020-02-18-pittsburgh-penguins-toronto-maple-leafs,2020,,2020-02-18,Pittsburgh Penguins,Toronto Maple Leafs,5,2,REG,923
+nhl-2020-reg-2020-02-18-st-louis-blues-new-jersey-devils,2020,,2020-02-18,St. Louis Blues,New Jersey Devils,3,0,REG,924
+nhl-2020-reg-2020-02-18-winnipeg-jets-los-angeles-kings,2020,,2020-02-18,Winnipeg Jets,Los Angeles Kings,6,3,REG,925
+nhl-2020-reg-2020-02-19-anaheim-ducks-florida-panthers,2020,,2020-02-19,Anaheim Ducks,Florida Panthers,1,4,REG,926
+nhl-2020-reg-2020-02-19-chicago-blackhawks-new-york-rangers,2020,,2020-02-19,Chicago Blackhawks,New York Rangers,3,6,REG,927
+nhl-2020-reg-2020-02-19-colorado-avalanche-new-york-islanders,2020,,2020-02-19,Colorado Avalanche,New York Islanders,3,1,REG,928
+nhl-2020-reg-2020-02-19-dallas-stars-arizona-coyotes,2020,,2020-02-19,Dallas Stars,Arizona Coyotes,3,2,REG,929
+nhl-2020-reg-2020-02-19-edmonton-oilers-boston-bruins,2020,,2020-02-19,Edmonton Oilers,Boston Bruins,1,2,REG,930
+nhl-2020-reg-2020-02-19-vancouver-canucks-minnesota-wild,2020,,2020-02-19,Vancouver Canucks,Minnesota Wild,3,4,REG,931
+nhl-2020-reg-2020-02-20-columbus-blue-jackets-philadelphia-flyers,2020,,2020-02-20,Columbus Blue Jackets,Philadelphia Flyers,3,4,REG,932
+nhl-2020-reg-2020-02-20-los-angeles-kings-florida-panthers,2020,,2020-02-20,Los Angeles Kings,Florida Panthers,5,4,REG,933
+nhl-2020-reg-2020-02-20-new-jersey-devils-san-jose-sharks,2020,,2020-02-20,New Jersey Devils,San Jose Sharks,2,1,REG,934
+nhl-2020-reg-2020-02-20-ottawa-senators-winnipeg-jets,2020,,2020-02-20,Ottawa Senators,Winnipeg Jets,1,5,REG,935
+nhl-2020-reg-2020-02-20-st-louis-blues-arizona-coyotes,2020,,2020-02-20,St. Louis Blues,Arizona Coyotes,1,0,REG,936
+nhl-2020-reg-2020-02-20-toronto-maple-leafs-pittsburgh-penguins,2020,,2020-02-20,Toronto Maple Leafs,Pittsburgh Penguins,4,0,REG,937
+nhl-2020-reg-2020-02-20-vegas-golden-knights-tampa-bay-lightning,2020,,2020-02-20,Vegas Golden Knights,Tampa Bay Lightning,5,3,REG,938
+nhl-2020-reg-2020-02-20-washington-capitals-montreal-canadiens,2020,,2020-02-20,Washington Capitals,Montreal Canadiens,3,4,REG,939
+nhl-2020-reg-2020-02-21-anaheim-ducks-colorado-avalanche,2020,,2020-02-21,Anaheim Ducks,Colorado Avalanche,0,1,REG,940
+nhl-2020-reg-2020-02-21-calgary-flames-boston-bruins,2020,,2020-02-21,Calgary Flames,Boston Bruins,3,4,REG,941
+nhl-2020-reg-2020-02-21-carolina-hurricanes-new-york-rangers,2020,,2020-02-21,Carolina Hurricanes,New York Rangers,2,5,REG,942
+nhl-2020-reg-2020-02-21-chicago-blackhawks-nashville-predators,2020,,2020-02-21,Chicago Blackhawks,Nashville Predators,2,1,REG,943
+nhl-2020-reg-2020-02-21-dallas-stars-st-louis-blues,2020,,2020-02-21,Dallas Stars,St. Louis Blues,1,5,REG,944
+nhl-2020-reg-2020-02-21-edmonton-oilers-minnesota-wild,2020,,2020-02-21,Edmonton Oilers,Minnesota Wild,3,5,REG,945
+nhl-2020-reg-2020-02-21-new-york-islanders-detroit-red-wings,2020,,2020-02-21,New York Islanders,Detroit Red Wings,4,1,REG,946
+nhl-2020-reg-2020-02-22-arizona-coyotes-tampa-bay-lightning,2020,,2020-02-22,Arizona Coyotes,Tampa Bay Lightning,7,3,REG,947
+nhl-2020-reg-2020-02-22-los-angeles-kings-colorado-avalanche,2020,,2020-02-22,Los Angeles Kings,Colorado Avalanche,1,2,REG,948
+nhl-2020-reg-2020-02-22-nashville-predators-columbus-blue-jackets,2020,,2020-02-22,Nashville Predators,Columbus Blue Jackets,4,3,REG,949
+nhl-2020-reg-2020-02-22-new-jersey-devils-washington-capitals,2020,,2020-02-22,New Jersey Devils,Washington Capitals,3,2,REG,950
+nhl-2020-reg-2020-02-22-new-york-rangers-san-jose-sharks,2020,,2020-02-22,New York Rangers,San Jose Sharks,3,2,REG,951
+nhl-2020-reg-2020-02-22-ottawa-senators-montreal-canadiens,2020,,2020-02-22,Ottawa Senators,Montreal Canadiens,0,3,REG,952
+nhl-2020-reg-2020-02-22-philadelphia-flyers-winnipeg-jets,2020,,2020-02-22,Philadelphia Flyers,Winnipeg Jets,4,2,REG,953
+nhl-2020-reg-2020-02-22-pittsburgh-penguins-buffalo-sabres,2020,,2020-02-22,Pittsburgh Penguins,Buffalo Sabres,2,5,REG,954
+nhl-2020-reg-2020-02-22-toronto-maple-leafs-carolina-hurricanes,2020,,2020-02-22,Toronto Maple Leafs,Carolina Hurricanes,3,6,REG,955
+nhl-2020-reg-2020-02-22-vancouver-canucks-boston-bruins,2020,,2020-02-22,Vancouver Canucks,Boston Bruins,9,3,REG,956
+nhl-2020-reg-2020-02-22-vegas-golden-knights-florida-panthers,2020,,2020-02-22,Vegas Golden Knights,Florida Panthers,5,3,REG,957
+nhl-2020-reg-2020-02-23-anaheim-ducks-vegas-golden-knights,2020,,2020-02-23,Anaheim Ducks,Vegas Golden Knights,5,6,REG,958
+nhl-2020-reg-2020-02-23-buffalo-sabres-winnipeg-jets,2020,,2020-02-23,Buffalo Sabres,Winnipeg Jets,2,1,REG,959
+nhl-2020-reg-2020-02-23-dallas-stars-chicago-blackhawks,2020,,2020-02-23,Dallas Stars,Chicago Blackhawks,2,1,REG,960
+nhl-2020-reg-2020-02-23-detroit-red-wings-calgary-flames,2020,,2020-02-23,Detroit Red Wings,Calgary Flames,2,4,REG,961
+nhl-2020-reg-2020-02-23-los-angeles-kings-edmonton-oilers,2020,,2020-02-23,Los Angeles Kings,Edmonton Oilers,2,4,REG,962
+nhl-2020-reg-2020-02-23-minnesota-wild-st-louis-blues,2020,,2020-02-23,Minnesota Wild,St. Louis Blues,1,4,REG,963
+nhl-2020-reg-2020-02-23-new-york-islanders-san-jose-sharks,2020,,2020-02-23,New York Islanders,San Jose Sharks,4,1,REG,964
+nhl-2020-reg-2020-02-23-washington-capitals-pittsburgh-penguins,2020,,2020-02-23,Washington Capitals,Pittsburgh Penguins,5,3,REG,965
+nhl-2020-reg-2020-02-24-columbus-blue-jackets-ottawa-senators,2020,,2020-02-24,Columbus Blue Jackets,Ottawa Senators,4,3,REG,966
+nhl-2020-reg-2020-02-25-anaheim-ducks-edmonton-oilers,2020,,2020-02-25,Anaheim Ducks,Edmonton Oilers,4,3,REG,967
+nhl-2020-reg-2020-02-25-arizona-coyotes-florida-panthers,2020,,2020-02-25,Arizona Coyotes,Florida Panthers,1,2,REG,968
+nhl-2020-reg-2020-02-25-boston-bruins-calgary-flames,2020,,2020-02-25,Boston Bruins,Calgary Flames,2,5,REG,969
+nhl-2020-reg-2020-02-25-carolina-hurricanes-dallas-stars,2020,,2020-02-25,Carolina Hurricanes,Dallas Stars,1,4,REG,970
+nhl-2020-reg-2020-02-25-detroit-red-wings-new-jersey-devils,2020,,2020-02-25,Detroit Red Wings,New Jersey Devils,1,4,REG,971
+nhl-2020-reg-2020-02-25-minnesota-wild-columbus-blue-jackets,2020,,2020-02-25,Minnesota Wild,Columbus Blue Jackets,5,4,REG,972
+nhl-2020-reg-2020-02-25-montreal-canadiens-vancouver-canucks,2020,,2020-02-25,Montreal Canadiens,Vancouver Canucks,3,4,REG,973
+nhl-2020-reg-2020-02-25-nashville-predators-ottawa-senators,2020,,2020-02-25,Nashville Predators,Ottawa Senators,3,2,REG,974
+nhl-2020-reg-2020-02-25-new-york-islanders-new-york-rangers,2020,,2020-02-25,New York Islanders,New York Rangers,3,4,REG,975
+nhl-2020-reg-2020-02-25-philadelphia-flyers-san-jose-sharks,2020,,2020-02-25,Philadelphia Flyers,San Jose Sharks,4,2,REG,976
+nhl-2020-reg-2020-02-25-st-louis-blues-chicago-blackhawks,2020,,2020-02-25,St. Louis Blues,Chicago Blackhawks,6,5,REG,977
+nhl-2020-reg-2020-02-25-tampa-bay-lightning-toronto-maple-leafs,2020,,2020-02-25,Tampa Bay Lightning,Toronto Maple Leafs,3,4,REG,978
+nhl-2020-reg-2020-02-25-washington-capitals-winnipeg-jets,2020,,2020-02-25,Washington Capitals,Winnipeg Jets,4,3,REG,979
+nhl-2020-reg-2020-02-26-colorado-avalanche-buffalo-sabres,2020,,2020-02-26,Colorado Avalanche,Buffalo Sabres,3,2,REG,980
+nhl-2020-reg-2020-02-26-los-angeles-kings-pittsburgh-penguins,2020,,2020-02-26,Los Angeles Kings,Pittsburgh Penguins,2,1,REG,981
+nhl-2020-reg-2020-02-26-vegas-golden-knights-edmonton-oilers,2020,,2020-02-26,Vegas Golden Knights,Edmonton Oilers,3,0,REG,982
+nhl-2020-reg-2020-02-27-boston-bruins-dallas-stars,2020,,2020-02-27,Boston Bruins,Dallas Stars,4,3,REG,983
+nhl-2020-reg-2020-02-27-detroit-red-wings-minnesota-wild,2020,,2020-02-27,Detroit Red Wings,Minnesota Wild,1,7,REG,984
+nhl-2020-reg-2020-02-27-florida-panthers-toronto-maple-leafs,2020,,2020-02-27,Florida Panthers,Toronto Maple Leafs,3,5,REG,985
+nhl-2020-reg-2020-02-27-montreal-canadiens-new-york-rangers,2020,,2020-02-27,Montreal Canadiens,New York Rangers,2,5,REG,986
+nhl-2020-reg-2020-02-27-nashville-predators-calgary-flames,2020,,2020-02-27,Nashville Predators,Calgary Flames,4,3,REG,987
+nhl-2020-reg-2020-02-27-ottawa-senators-vancouver-canucks,2020,,2020-02-27,Ottawa Senators,Vancouver Canucks,5,2,REG,988
+nhl-2020-reg-2020-02-27-san-jose-sharks-new-jersey-devils,2020,,2020-02-27,San Jose Sharks,New Jersey Devils,3,2,REG,989
+nhl-2020-reg-2020-02-27-st-louis-blues-new-york-islanders,2020,,2020-02-27,St. Louis Blues,New York Islanders,3,2,REG,990
+nhl-2020-reg-2020-02-27-tampa-bay-lightning-chicago-blackhawks,2020,,2020-02-27,Tampa Bay Lightning,Chicago Blackhawks,2,5,REG,991
+nhl-2020-reg-2020-02-27-winnipeg-jets-washington-capitals,2020,,2020-02-27,Winnipeg Jets,Washington Capitals,3,0,REG,992
+nhl-2020-reg-2020-02-28-anaheim-ducks-pittsburgh-penguins,2020,,2020-02-28,Anaheim Ducks,Pittsburgh Penguins,3,2,REG,993
+nhl-2020-reg-2020-02-28-carolina-hurricanes-colorado-avalanche,2020,,2020-02-28,Carolina Hurricanes,Colorado Avalanche,2,3,REG,994
+nhl-2020-reg-2020-02-28-columbus-blue-jackets-minnesota-wild,2020,,2020-02-28,Columbus Blue Jackets,Minnesota Wild,0,5,REG,995
+nhl-2020-reg-2020-02-28-philadelphia-flyers-new-york-rangers,2020,,2020-02-28,Philadelphia Flyers,New York Rangers,5,2,REG,996
+nhl-2020-reg-2020-02-28-vegas-golden-knights-buffalo-sabres,2020,,2020-02-28,Vegas Golden Knights,Buffalo Sabres,4,2,REG,997
+nhl-2020-reg-2020-02-29-arizona-coyotes-buffalo-sabres,2020,,2020-02-29,Arizona Coyotes,Buffalo Sabres,5,2,REG,998
+nhl-2020-reg-2020-02-29-edmonton-oilers-winnipeg-jets,2020,,2020-02-29,Edmonton Oilers,Winnipeg Jets,3,2,REG,999
+nhl-2020-reg-2020-02-29-florida-panthers-chicago-blackhawks,2020,,2020-02-29,Florida Panthers,Chicago Blackhawks,2,3,REG,1000
+nhl-2020-reg-2020-02-29-los-angeles-kings-new-jersey-devils,2020,,2020-02-29,Los Angeles Kings,New Jersey Devils,2,1,REG,1001
+nhl-2020-reg-2020-02-29-montreal-canadiens-carolina-hurricanes,2020,,2020-02-29,Montreal Canadiens,Carolina Hurricanes,4,3,REG,1002
+nhl-2020-reg-2020-02-29-nashville-predators-colorado-avalanche,2020,,2020-02-29,Nashville Predators,Colorado Avalanche,2,3,REG,1003
+nhl-2020-reg-2020-02-29-new-york-islanders-boston-bruins,2020,,2020-02-29,New York Islanders,Boston Bruins,0,4,REG,1004
+nhl-2020-reg-2020-02-29-ottawa-senators-detroit-red-wings,2020,,2020-02-29,Ottawa Senators,Detroit Red Wings,4,3,REG,1005
+nhl-2020-reg-2020-02-29-san-jose-sharks-pittsburgh-penguins,2020,,2020-02-29,San Jose Sharks,Pittsburgh Penguins,5,0,REG,1006
+nhl-2020-reg-2020-02-29-st-louis-blues-dallas-stars,2020,,2020-02-29,St. Louis Blues,Dallas Stars,4,3,REG,1007
+nhl-2020-reg-2020-02-29-tampa-bay-lightning-calgary-flames,2020,,2020-02-29,Tampa Bay Lightning,Calgary Flames,4,3,REG,1008
+nhl-2020-reg-2020-02-29-toronto-maple-leafs-vancouver-canucks,2020,,2020-02-29,Toronto Maple Leafs,Vancouver Canucks,4,2,REG,1009
+nhl-2020-reg-2020-03-01-anaheim-ducks-new-jersey-devils,2020,,2020-03-01,Anaheim Ducks,New Jersey Devils,0,3,REG,1010
+nhl-2020-reg-2020-03-01-columbus-blue-jackets-vancouver-canucks,2020,,2020-03-01,Columbus Blue Jackets,Vancouver Canucks,5,3,REG,1011
+nhl-2020-reg-2020-03-01-florida-panthers-calgary-flames,2020,,2020-03-01,Florida Panthers,Calgary Flames,0,3,REG,1012
+nhl-2020-reg-2020-03-01-minnesota-wild-washington-capitals,2020,,2020-03-01,Minnesota Wild,Washington Capitals,3,4,REG,1013
+nhl-2020-reg-2020-03-01-new-york-rangers-philadelphia-flyers,2020,,2020-03-01,New York Rangers,Philadelphia Flyers,3,5,REG,1014
+nhl-2020-reg-2020-03-01-vegas-golden-knights-los-angeles-kings,2020,,2020-03-01,Vegas Golden Knights,Los Angeles Kings,1,4,REG,1015
+nhl-2020-reg-2020-03-02-detroit-red-wings-colorado-avalanche,2020,,2020-03-02,Detroit Red Wings,Colorado Avalanche,1,2,REG,1016
+nhl-2020-reg-2020-03-02-nashville-predators-edmonton-oilers,2020,,2020-03-02,Nashville Predators,Edmonton Oilers,3,8,REG,1017
+nhl-2020-reg-2020-03-03-chicago-blackhawks-anaheim-ducks,2020,,2020-03-03,Chicago Blackhawks,Anaheim Ducks,6,2,REG,1018
+nhl-2020-reg-2020-03-03-dallas-stars-edmonton-oilers,2020,,2020-03-03,Dallas Stars,Edmonton Oilers,1,2,REG,1019
+nhl-2020-reg-2020-03-03-minnesota-wild-nashville-predators,2020,,2020-03-03,Minnesota Wild,Nashville Predators,3,1,REG,1020
+nhl-2020-reg-2020-03-03-new-york-islanders-montreal-canadiens,2020,,2020-03-03,New York Islanders,Montreal Canadiens,2,6,REG,1021
+nhl-2020-reg-2020-03-03-new-york-rangers-st-louis-blues,2020,,2020-03-03,New York Rangers,St. Louis Blues,1,3,REG,1022
+nhl-2020-reg-2020-03-03-pittsburgh-penguins-ottawa-senators,2020,,2020-03-03,Pittsburgh Penguins,Ottawa Senators,7,3,REG,1023
+nhl-2020-reg-2020-03-03-san-jose-sharks-toronto-maple-leafs,2020,,2020-03-03,San Jose Sharks,Toronto Maple Leafs,5,2,REG,1024
+nhl-2020-reg-2020-03-03-tampa-bay-lightning-boston-bruins,2020,,2020-03-03,Tampa Bay Lightning,Boston Bruins,1,2,REG,1025
+nhl-2020-reg-2020-03-03-vegas-golden-knights-new-jersey-devils,2020,,2020-03-03,Vegas Golden Knights,New Jersey Devils,3,0,REG,1026
+nhl-2020-reg-2020-03-03-winnipeg-jets-buffalo-sabres,2020,,2020-03-03,Winnipeg Jets,Buffalo Sabres,3,1,REG,1027
+nhl-2020-reg-2020-03-04-calgary-flames-columbus-blue-jackets,2020,,2020-03-04,Calgary Flames,Columbus Blue Jackets,3,2,REG,1028
+nhl-2020-reg-2020-03-04-colorado-avalanche-anaheim-ducks,2020,,2020-03-04,Colorado Avalanche,Anaheim Ducks,3,4,REG,1029
+nhl-2020-reg-2020-03-04-vancouver-canucks-arizona-coyotes,2020,,2020-03-04,Vancouver Canucks,Arizona Coyotes,2,4,REG,1030
+nhl-2020-reg-2020-03-04-washington-capitals-philadelphia-flyers,2020,,2020-03-04,Washington Capitals,Philadelphia Flyers,2,5,REG,1031
+nhl-2020-reg-2020-03-05-buffalo-sabres-pittsburgh-penguins,2020,,2020-03-05,Buffalo Sabres,Pittsburgh Penguins,2,4,REG,1032
+nhl-2020-reg-2020-03-05-chicago-blackhawks-edmonton-oilers,2020,,2020-03-05,Chicago Blackhawks,Edmonton Oilers,4,3,REG,1033
+nhl-2020-reg-2020-03-05-florida-panthers-boston-bruins,2020,,2020-03-05,Florida Panthers,Boston Bruins,1,2,REG,1034
+nhl-2020-reg-2020-03-05-los-angeles-kings-toronto-maple-leafs,2020,,2020-03-05,Los Angeles Kings,Toronto Maple Leafs,1,0,REG,1035
+nhl-2020-reg-2020-03-05-nashville-predators-dallas-stars,2020,,2020-03-05,Nashville Predators,Dallas Stars,2,0,REG,1036
+nhl-2020-reg-2020-03-05-new-york-rangers-washington-capitals,2020,,2020-03-05,New York Rangers,Washington Capitals,6,5,REG,1037
+nhl-2020-reg-2020-03-05-ottawa-senators-new-york-islanders,2020,,2020-03-05,Ottawa Senators,New York Islanders,4,3,REG,1038
+nhl-2020-reg-2020-03-05-philadelphia-flyers-carolina-hurricanes,2020,,2020-03-05,Philadelphia Flyers,Carolina Hurricanes,4,1,REG,1039
+nhl-2020-reg-2020-03-05-san-jose-sharks-minnesota-wild,2020,,2020-03-05,San Jose Sharks,Minnesota Wild,2,3,REG,1040
+nhl-2020-reg-2020-03-05-tampa-bay-lightning-montreal-canadiens,2020,,2020-03-05,Tampa Bay Lightning,Montreal Canadiens,4,0,REG,1041
+nhl-2020-reg-2020-03-06-anaheim-ducks-toronto-maple-leafs,2020,,2020-03-06,Anaheim Ducks,Toronto Maple Leafs,2,1,REG,1042
+nhl-2020-reg-2020-03-06-calgary-flames-arizona-coyotes,2020,,2020-03-06,Calgary Flames,Arizona Coyotes,3,2,REG,1043
+nhl-2020-reg-2020-03-06-detroit-red-wings-chicago-blackhawks,2020,,2020-03-06,Detroit Red Wings,Chicago Blackhawks,2,1,REG,1044
+nhl-2020-reg-2020-03-06-new-jersey-devils-st-louis-blues,2020,,2020-03-06,New Jersey Devils,St. Louis Blues,4,2,REG,1045
+nhl-2020-reg-2020-03-06-vancouver-canucks-colorado-avalanche,2020,,2020-03-06,Vancouver Canucks,Colorado Avalanche,6,3,REG,1046
+nhl-2020-reg-2020-03-06-winnipeg-jets-vegas-golden-knights,2020,,2020-03-06,Winnipeg Jets,Vegas Golden Knights,4,0,REG,1047
+nhl-2020-reg-2020-03-07-boston-bruins-tampa-bay-lightning,2020,,2020-03-07,Boston Bruins,Tampa Bay Lightning,3,5,REG,1048
+nhl-2020-reg-2020-03-07-dallas-stars-nashville-predators,2020,,2020-03-07,Dallas Stars,Nashville Predators,0,1,REG,1049
+nhl-2020-reg-2020-03-07-edmonton-oilers-columbus-blue-jackets,2020,,2020-03-07,Edmonton Oilers,Columbus Blue Jackets,4,1,REG,1050
+nhl-2020-reg-2020-03-07-florida-panthers-montreal-canadiens,2020,,2020-03-07,Florida Panthers,Montreal Canadiens,4,1,REG,1051
+nhl-2020-reg-2020-03-07-los-angeles-kings-minnesota-wild,2020,,2020-03-07,Los Angeles Kings,Minnesota Wild,7,3,REG,1052
+nhl-2020-reg-2020-03-07-new-york-islanders-carolina-hurricanes,2020,,2020-03-07,New York Islanders,Carolina Hurricanes,2,3,REG,1053
+nhl-2020-reg-2020-03-07-new-york-rangers-new-jersey-devils,2020,,2020-03-07,New York Rangers,New Jersey Devils,4,6,REG,1054
+nhl-2020-reg-2020-03-07-philadelphia-flyers-buffalo-sabres,2020,,2020-03-07,Philadelphia Flyers,Buffalo Sabres,3,1,REG,1055
+nhl-2020-reg-2020-03-07-pittsburgh-penguins-washington-capitals,2020,,2020-03-07,Pittsburgh Penguins,Washington Capitals,2,5,REG,1056
+nhl-2020-reg-2020-03-07-san-jose-sharks-ottawa-senators,2020,,2020-03-07,San Jose Sharks,Ottawa Senators,1,2,REG,1057
+nhl-2020-reg-2020-03-08-anaheim-ducks-minnesota-wild,2020,,2020-03-08,Anaheim Ducks,Minnesota Wild,4,5,REG,1058
+nhl-2020-reg-2020-03-08-calgary-flames-vegas-golden-knights,2020,,2020-03-08,Calgary Flames,Vegas Golden Knights,3,5,REG,1059
+nhl-2020-reg-2020-03-08-chicago-blackhawks-st-louis-blues,2020,,2020-03-08,Chicago Blackhawks,St. Louis Blues,0,2,REG,1060
+nhl-2020-reg-2020-03-08-detroit-red-wings-tampa-bay-lightning,2020,,2020-03-08,Detroit Red Wings,Tampa Bay Lightning,5,4,REG,1061
+nhl-2020-reg-2020-03-08-pittsburgh-penguins-carolina-hurricanes,2020,,2020-03-08,Pittsburgh Penguins,Carolina Hurricanes,2,6,REG,1062
+nhl-2020-reg-2020-03-08-san-jose-sharks-colorado-avalanche,2020,,2020-03-08,San Jose Sharks,Colorado Avalanche,3,4,REG,1063
+nhl-2020-reg-2020-03-08-vancouver-canucks-columbus-blue-jackets,2020,,2020-03-08,Vancouver Canucks,Columbus Blue Jackets,1,2,REG,1064
+nhl-2020-reg-2020-03-09-buffalo-sabres-washington-capitals,2020,,2020-03-09,Buffalo Sabres,Washington Capitals,3,2,REG,1065
+nhl-2020-reg-2020-03-09-edmonton-oilers-vegas-golden-knights,2020,,2020-03-09,Edmonton Oilers,Vegas Golden Knights,2,3,REG,1066
+nhl-2020-reg-2020-03-09-los-angeles-kings-colorado-avalanche,2020,,2020-03-09,Los Angeles Kings,Colorado Avalanche,3,1,REG,1067
+nhl-2020-reg-2020-03-09-st-louis-blues-florida-panthers,2020,,2020-03-09,St. Louis Blues,Florida Panthers,1,2,REG,1068
+nhl-2020-reg-2020-03-09-winnipeg-jets-arizona-coyotes,2020,,2020-03-09,Winnipeg Jets,Arizona Coyotes,4,2,REG,1069
+nhl-2020-reg-2020-03-10-anaheim-ducks-ottawa-senators,2020,,2020-03-10,Anaheim Ducks,Ottawa Senators,5,2,REG,1070
+nhl-2020-reg-2020-03-10-dallas-stars-new-york-rangers,2020,,2020-03-10,Dallas Stars,New York Rangers,2,4,REG,1071
+nhl-2020-reg-2020-03-10-detroit-red-wings-carolina-hurricanes,2020,,2020-03-10,Detroit Red Wings,Carolina Hurricanes,2,5,REG,1072
+nhl-2020-reg-2020-03-10-montreal-canadiens-nashville-predators,2020,,2020-03-10,Montreal Canadiens,Nashville Predators,2,4,REG,1073
+nhl-2020-reg-2020-03-10-new-jersey-devils-pittsburgh-penguins,2020,,2020-03-10,New Jersey Devils,Pittsburgh Penguins,2,5,REG,1074
+nhl-2020-reg-2020-03-10-philadelphia-flyers-boston-bruins,2020,,2020-03-10,Philadelphia Flyers,Boston Bruins,0,2,REG,1075
+nhl-2020-reg-2020-03-10-toronto-maple-leafs-tampa-bay-lightning,2020,,2020-03-10,Toronto Maple Leafs,Tampa Bay Lightning,2,1,REG,1076
+nhl-2020-reg-2020-03-10-vancouver-canucks-new-york-islanders,2020,,2020-03-10,Vancouver Canucks,New York Islanders,5,4,REG,1077
+nhl-2020-reg-2020-03-11-anaheim-ducks-st-louis-blues,2020,,2020-03-11,Anaheim Ducks,St. Louis Blues,2,4,REG,1078
+nhl-2020-reg-2020-03-11-chicago-blackhawks-san-jose-sharks,2020,,2020-03-11,Chicago Blackhawks,San Jose Sharks,6,2,REG,1079
+nhl-2020-reg-2020-03-11-colorado-avalanche-new-york-rangers,2020,,2020-03-11,Colorado Avalanche,New York Rangers,3,2,REG,1080
+nhl-2020-reg-2020-03-11-edmonton-oilers-winnipeg-jets,2020,,2020-03-11,Edmonton Oilers,Winnipeg Jets,2,4,REG,1081
+nhl-2020-reg-2020-03-11-los-angeles-kings-ottawa-senators,2020,,2020-03-11,Los Angeles Kings,Ottawa Senators,3,2,REG,1082
+nhl-2020-post-2020-08-01-calgary-flames-winnipeg-jets,2020,,2020-08-01,Calgary Flames,Winnipeg Jets,4,1,POST,1083
+nhl-2020-post-2020-08-01-carolina-hurricanes-new-york-rangers,2020,,2020-08-01,Carolina Hurricanes,New York Rangers,3,2,POST,1084
+nhl-2020-post-2020-08-01-edmonton-oilers-chicago-blackhawks,2020,,2020-08-01,Edmonton Oilers,Chicago Blackhawks,4,6,POST,1085
+nhl-2020-post-2020-08-01-new-york-islanders-florida-panthers,2020,,2020-08-01,New York Islanders,Florida Panthers,2,1,POST,1086
+nhl-2020-post-2020-08-01-pittsburgh-penguins-montreal-canadiens,2020,,2020-08-01,Pittsburgh Penguins,Montreal Canadiens,2,3,POST,1087
+nhl-2020-post-2020-08-02-boston-bruins-philadelphia-flyers,2020,,2020-08-02,Boston Bruins,Philadelphia Flyers,1,4,POST,1088
+nhl-2020-post-2020-08-02-colorado-avalanche-st-louis-blues,2020,,2020-08-02,Colorado Avalanche,St. Louis Blues,2,1,POST,1089
+nhl-2020-post-2020-08-02-nashville-predators-arizona-coyotes,2020,,2020-08-02,Nashville Predators,Arizona Coyotes,3,4,POST,1090
+nhl-2020-post-2020-08-02-toronto-maple-leafs-columbus-blue-jackets,2020,,2020-08-02,Toronto Maple Leafs,Columbus Blue Jackets,0,2,POST,1091
+nhl-2020-post-2020-08-02-vancouver-canucks-minnesota-wild,2020,,2020-08-02,Vancouver Canucks,Minnesota Wild,0,3,POST,1092
+nhl-2020-post-2020-08-03-calgary-flames-winnipeg-jets,2020,,2020-08-03,Calgary Flames,Winnipeg Jets,2,3,POST,1093
+nhl-2020-post-2020-08-03-carolina-hurricanes-new-york-rangers,2020,,2020-08-03,Carolina Hurricanes,New York Rangers,4,1,POST,1094
+nhl-2020-post-2020-08-03-edmonton-oilers-chicago-blackhawks,2020,,2020-08-03,Edmonton Oilers,Chicago Blackhawks,6,3,POST,1095
+nhl-2020-post-2020-08-03-pittsburgh-penguins-montreal-canadiens,2020,,2020-08-03,Pittsburgh Penguins,Montreal Canadiens,3,1,POST,1096
+nhl-2020-post-2020-08-03-tampa-bay-lightning-washington-capitals,2020,,2020-08-03,Tampa Bay Lightning,Washington Capitals,3,2,POST,1097
+nhl-2020-post-2020-08-03-vegas-golden-knights-dallas-stars,2020,,2020-08-03,Vegas Golden Knights,Dallas Stars,5,3,POST,1098
+nhl-2020-post-2020-08-04-nashville-predators-arizona-coyotes,2020,,2020-08-04,Nashville Predators,Arizona Coyotes,4,2,POST,1099
+nhl-2020-post-2020-08-04-new-york-islanders-florida-panthers,2020,,2020-08-04,New York Islanders,Florida Panthers,4,2,POST,1100
+nhl-2020-post-2020-08-04-new-york-rangers-carolina-hurricanes,2020,,2020-08-04,New York Rangers,Carolina Hurricanes,1,4,POST,1101
+nhl-2020-post-2020-08-04-toronto-maple-leafs-columbus-blue-jackets,2020,,2020-08-04,Toronto Maple Leafs,Columbus Blue Jackets,3,0,POST,1102
+nhl-2020-post-2020-08-04-vancouver-canucks-minnesota-wild,2020,,2020-08-04,Vancouver Canucks,Minnesota Wild,4,3,POST,1103
+nhl-2020-post-2020-08-04-winnipeg-jets-calgary-flames,2020,,2020-08-04,Winnipeg Jets,Calgary Flames,2,6,POST,1104
+nhl-2020-post-2020-08-05-arizona-coyotes-nashville-predators,2020,,2020-08-05,Arizona Coyotes,Nashville Predators,4,1,POST,1105
+nhl-2020-post-2020-08-05-boston-bruins-tampa-bay-lightning,2020,,2020-08-05,Boston Bruins,Tampa Bay Lightning,2,3,POST,1106
+nhl-2020-post-2020-08-05-chicago-blackhawks-edmonton-oilers,2020,,2020-08-05,Chicago Blackhawks,Edmonton Oilers,4,3,POST,1107
+nhl-2020-post-2020-08-05-dallas-stars-colorado-avalanche,2020,,2020-08-05,Dallas Stars,Colorado Avalanche,0,4,POST,1108
+nhl-2020-post-2020-08-05-florida-panthers-new-york-islanders,2020,,2020-08-05,Florida Panthers,New York Islanders,3,2,POST,1109
+nhl-2020-post-2020-08-05-montreal-canadiens-pittsburgh-penguins,2020,,2020-08-05,Montreal Canadiens,Pittsburgh Penguins,4,3,POST,1110
+nhl-2020-post-2020-08-06-columbus-blue-jackets-toronto-maple-leafs,2020,,2020-08-06,Columbus Blue Jackets,Toronto Maple Leafs,4,3,POST,1111
+nhl-2020-post-2020-08-06-minnesota-wild-vancouver-canucks,2020,,2020-08-06,Minnesota Wild,Vancouver Canucks,0,3,POST,1112
+nhl-2020-post-2020-08-06-philadelphia-flyers-washington-capitals,2020,,2020-08-06,Philadelphia Flyers,Washington Capitals,3,1,POST,1113
+nhl-2020-post-2020-08-06-st-louis-blues-vegas-golden-knights,2020,,2020-08-06,St. Louis Blues,Vegas Golden Knights,4,6,POST,1114
+nhl-2020-post-2020-08-06-winnipeg-jets-calgary-flames,2020,,2020-08-06,Winnipeg Jets,Calgary Flames,0,4,POST,1115
+nhl-2020-post-2020-08-07-arizona-coyotes-nashville-predators,2020,,2020-08-07,Arizona Coyotes,Nashville Predators,4,3,POST,1116
+nhl-2020-post-2020-08-07-chicago-blackhawks-edmonton-oilers,2020,,2020-08-07,Chicago Blackhawks,Edmonton Oilers,3,2,POST,1117
+nhl-2020-post-2020-08-07-columbus-blue-jackets-toronto-maple-leafs,2020,,2020-08-07,Columbus Blue Jackets,Toronto Maple Leafs,3,4,POST,1118
+nhl-2020-post-2020-08-07-florida-panthers-new-york-islanders,2020,,2020-08-07,Florida Panthers,New York Islanders,1,5,POST,1119
+nhl-2020-post-2020-08-07-minnesota-wild-vancouver-canucks,2020,,2020-08-07,Minnesota Wild,Vancouver Canucks,4,5,POST,1120
+nhl-2020-post-2020-08-07-montreal-canadiens-pittsburgh-penguins,2020,,2020-08-07,Montreal Canadiens,Pittsburgh Penguins,2,0,POST,1121
+nhl-2020-post-2020-08-08-colorado-avalanche-vegas-golden-knights,2020,,2020-08-08,Colorado Avalanche,Vegas Golden Knights,3,4,POST,1122
+nhl-2020-post-2020-08-08-tampa-bay-lightning-philadelphia-flyers,2020,,2020-08-08,Tampa Bay Lightning,Philadelphia Flyers,1,4,POST,1123
+nhl-2020-post-2020-08-09-st-louis-blues-dallas-stars,2020,,2020-08-09,St. Louis Blues,Dallas Stars,1,2,POST,1124
+nhl-2020-post-2020-08-09-toronto-maple-leafs-columbus-blue-jackets,2020,,2020-08-09,Toronto Maple Leafs,Columbus Blue Jackets,0,3,POST,1125
+nhl-2020-post-2020-08-09-washington-capitals-boston-bruins,2020,,2020-08-09,Washington Capitals,Boston Bruins,2,1,POST,1126
+nhl-2020-post-2020-08-11-dallas-stars-calgary-flames,2020,,2020-08-11,Dallas Stars,Calgary Flames,2,3,POST,1127
+nhl-2020-post-2020-08-11-tampa-bay-lightning-columbus-blue-jackets,2020,,2020-08-11,Tampa Bay Lightning,Columbus Blue Jackets,3,2,POST,1128
+nhl-2020-post-2020-08-11-vegas-golden-knights-chicago-blackhawks,2020,,2020-08-11,Vegas Golden Knights,Chicago Blackhawks,4,1,POST,1129
+nhl-2020-post-2020-08-12-boston-bruins-carolina-hurricanes,2020,,2020-08-12,Boston Bruins,Carolina Hurricanes,4,3,POST,1130
+nhl-2020-post-2020-08-12-colorado-avalanche-arizona-coyotes,2020,,2020-08-12,Colorado Avalanche,Arizona Coyotes,3,0,POST,1131
+nhl-2020-post-2020-08-12-philadelphia-flyers-montreal-canadiens,2020,,2020-08-12,Philadelphia Flyers,Montreal Canadiens,2,1,POST,1132
+nhl-2020-post-2020-08-12-st-louis-blues-vancouver-canucks,2020,,2020-08-12,St. Louis Blues,Vancouver Canucks,2,5,POST,1133
+nhl-2020-post-2020-08-12-washington-capitals-new-york-islanders,2020,,2020-08-12,Washington Capitals,New York Islanders,2,4,POST,1134
+nhl-2020-post-2020-08-13-boston-bruins-carolina-hurricanes,2020,,2020-08-13,Boston Bruins,Carolina Hurricanes,2,3,POST,1135
+nhl-2020-post-2020-08-13-dallas-stars-calgary-flames,2020,,2020-08-13,Dallas Stars,Calgary Flames,5,4,POST,1136
+nhl-2020-post-2020-08-13-tampa-bay-lightning-columbus-blue-jackets,2020,,2020-08-13,Tampa Bay Lightning,Columbus Blue Jackets,1,3,POST,1137
+nhl-2020-post-2020-08-13-vegas-golden-knights-chicago-blackhawks,2020,,2020-08-13,Vegas Golden Knights,Chicago Blackhawks,4,3,POST,1138
+nhl-2020-post-2020-08-14-calgary-flames-dallas-stars,2020,,2020-08-14,Calgary Flames,Dallas Stars,2,0,POST,1139
+nhl-2020-post-2020-08-14-colorado-avalanche-arizona-coyotes,2020,,2020-08-14,Colorado Avalanche,Arizona Coyotes,3,2,POST,1140
+nhl-2020-post-2020-08-14-philadelphia-flyers-montreal-canadiens,2020,,2020-08-14,Philadelphia Flyers,Montreal Canadiens,0,5,POST,1141
+nhl-2020-post-2020-08-14-st-louis-blues-vancouver-canucks,2020,,2020-08-14,St. Louis Blues,Vancouver Canucks,3,4,POST,1142
+nhl-2020-post-2020-08-14-washington-capitals-new-york-islanders,2020,,2020-08-14,Washington Capitals,New York Islanders,2,5,POST,1143
+nhl-2020-post-2020-08-15-arizona-coyotes-colorado-avalanche,2020,,2020-08-15,Arizona Coyotes,Colorado Avalanche,4,2,POST,1144
+nhl-2020-post-2020-08-15-carolina-hurricanes-boston-bruins,2020,,2020-08-15,Carolina Hurricanes,Boston Bruins,1,3,POST,1145
+nhl-2020-post-2020-08-15-chicago-blackhawks-vegas-golden-knights,2020,,2020-08-15,Chicago Blackhawks,Vegas Golden Knights,1,2,POST,1146
+nhl-2020-post-2020-08-15-columbus-blue-jackets-tampa-bay-lightning,2020,,2020-08-15,Columbus Blue Jackets,Tampa Bay Lightning,2,3,POST,1147
+nhl-2020-post-2020-08-16-calgary-flames-dallas-stars,2020,,2020-08-16,Calgary Flames,Dallas Stars,4,5,POST,1148
+nhl-2020-post-2020-08-16-chicago-blackhawks-vegas-golden-knights,2020,,2020-08-16,Chicago Blackhawks,Vegas Golden Knights,3,1,POST,1149
+nhl-2020-post-2020-08-16-montreal-canadiens-philadelphia-flyers,2020,,2020-08-16,Montreal Canadiens,Philadelphia Flyers,0,1,POST,1150
+nhl-2020-post-2020-08-16-new-york-islanders-washington-capitals,2020,,2020-08-16,New York Islanders,Washington Capitals,2,1,POST,1151
+nhl-2020-post-2020-08-16-vancouver-canucks-st-louis-blues,2020,,2020-08-16,Vancouver Canucks,St. Louis Blues,2,3,POST,1152
+nhl-2020-post-2020-08-17-arizona-coyotes-colorado-avalanche,2020,,2020-08-17,Arizona Coyotes,Colorado Avalanche,1,7,POST,1153
+nhl-2020-post-2020-08-17-carolina-hurricanes-boston-bruins,2020,,2020-08-17,Carolina Hurricanes,Boston Bruins,3,4,POST,1154
+nhl-2020-post-2020-08-17-columbus-blue-jackets-tampa-bay-lightning,2020,,2020-08-17,Columbus Blue Jackets,Tampa Bay Lightning,1,2,POST,1155
+nhl-2020-post-2020-08-17-vancouver-canucks-st-louis-blues,2020,,2020-08-17,Vancouver Canucks,St. Louis Blues,1,3,POST,1156
+nhl-2020-post-2020-08-18-dallas-stars-calgary-flames,2020,,2020-08-18,Dallas Stars,Calgary Flames,2,1,POST,1157
+nhl-2020-post-2020-08-18-montreal-canadiens-philadelphia-flyers,2020,,2020-08-18,Montreal Canadiens,Philadelphia Flyers,0,2,POST,1158
+nhl-2020-post-2020-08-18-new-york-islanders-washington-capitals,2020,,2020-08-18,New York Islanders,Washington Capitals,2,3,POST,1159
+nhl-2020-post-2020-08-18-vegas-golden-knights-chicago-blackhawks,2020,,2020-08-18,Vegas Golden Knights,Chicago Blackhawks,4,3,POST,1160
+nhl-2020-post-2020-08-19-boston-bruins-carolina-hurricanes,2020,,2020-08-19,Boston Bruins,Carolina Hurricanes,2,1,POST,1161
+nhl-2020-post-2020-08-19-colorado-avalanche-arizona-coyotes,2020,,2020-08-19,Colorado Avalanche,Arizona Coyotes,7,1,POST,1162
+nhl-2020-post-2020-08-19-philadelphia-flyers-montreal-canadiens,2020,,2020-08-19,Philadelphia Flyers,Montreal Canadiens,3,5,POST,1163
+nhl-2020-post-2020-08-19-st-louis-blues-vancouver-canucks,2020,,2020-08-19,St. Louis Blues,Vancouver Canucks,3,4,POST,1164
+nhl-2020-post-2020-08-19-tampa-bay-lightning-columbus-blue-jackets,2020,,2020-08-19,Tampa Bay Lightning,Columbus Blue Jackets,5,4,POST,1165
+nhl-2020-post-2020-08-20-calgary-flames-dallas-stars,2020,,2020-08-20,Calgary Flames,Dallas Stars,3,7,POST,1166
+nhl-2020-post-2020-08-20-washington-capitals-new-york-islanders,2020,,2020-08-20,Washington Capitals,New York Islanders,0,4,POST,1167
+nhl-2020-post-2020-08-21-montreal-canadiens-philadelphia-flyers,2020,,2020-08-21,Montreal Canadiens,Philadelphia Flyers,2,3,POST,1168
+nhl-2020-post-2020-08-21-vancouver-canucks-st-louis-blues,2020,,2020-08-21,Vancouver Canucks,St. Louis Blues,6,2,POST,1169
+nhl-2020-post-2020-08-22-colorado-avalanche-dallas-stars,2020,,2020-08-22,Colorado Avalanche,Dallas Stars,3,5,POST,1170
+nhl-2020-post-2020-08-23-tampa-bay-lightning-boston-bruins,2020,,2020-08-23,Tampa Bay Lightning,Boston Bruins,2,3,POST,1171
+nhl-2020-post-2020-08-23-vegas-golden-knights-vancouver-canucks,2020,,2020-08-23,Vegas Golden Knights,Vancouver Canucks,5,0,POST,1172
+nhl-2020-post-2020-08-24-colorado-avalanche-dallas-stars,2020,,2020-08-24,Colorado Avalanche,Dallas Stars,2,5,POST,1173
+nhl-2020-post-2020-08-24-philadelphia-flyers-new-york-islanders,2020,,2020-08-24,Philadelphia Flyers,New York Islanders,0,4,POST,1174
+nhl-2020-post-2020-08-25-tampa-bay-lightning-boston-bruins,2020,,2020-08-25,Tampa Bay Lightning,Boston Bruins,4,3,POST,1175
+nhl-2020-post-2020-08-25-vegas-golden-knights-vancouver-canucks,2020,,2020-08-25,Vegas Golden Knights,Vancouver Canucks,2,5,POST,1176
+nhl-2020-post-2020-08-26-boston-bruins-tampa-bay-lightning,2020,,2020-08-26,Boston Bruins,Tampa Bay Lightning,1,7,POST,1177
+nhl-2020-post-2020-08-26-dallas-stars-colorado-avalanche,2020,,2020-08-26,Dallas Stars,Colorado Avalanche,4,6,POST,1178
+nhl-2020-post-2020-08-26-philadelphia-flyers-new-york-islanders,2020,,2020-08-26,Philadelphia Flyers,New York Islanders,4,3,POST,1179
+nhl-2020-post-2020-08-29-boston-bruins-tampa-bay-lightning,2020,,2020-08-29,Boston Bruins,Tampa Bay Lightning,1,3,POST,1180
+nhl-2020-post-2020-08-29-new-york-islanders-philadelphia-flyers,2020,,2020-08-29,New York Islanders,Philadelphia Flyers,3,1,POST,1181
+nhl-2020-post-2020-08-29-vancouver-canucks-vegas-golden-knights,2020,,2020-08-29,Vancouver Canucks,Vegas Golden Knights,0,3,POST,1182
+nhl-2020-post-2020-08-30-dallas-stars-colorado-avalanche,2020,,2020-08-30,Dallas Stars,Colorado Avalanche,5,4,POST,1183
+nhl-2020-post-2020-08-30-new-york-islanders-philadelphia-flyers,2020,,2020-08-30,New York Islanders,Philadelphia Flyers,3,2,POST,1184
+nhl-2020-post-2020-08-30-vancouver-canucks-vegas-golden-knights,2020,,2020-08-30,Vancouver Canucks,Vegas Golden Knights,3,5,POST,1185
+nhl-2020-post-2020-08-31-colorado-avalanche-dallas-stars,2020,,2020-08-31,Colorado Avalanche,Dallas Stars,6,3,POST,1186
+nhl-2020-post-2020-08-31-tampa-bay-lightning-boston-bruins,2020,,2020-08-31,Tampa Bay Lightning,Boston Bruins,3,2,POST,1187
+nhl-2020-post-2020-09-01-philadelphia-flyers-new-york-islanders,2020,,2020-09-01,Philadelphia Flyers,New York Islanders,4,3,POST,1188
+nhl-2020-post-2020-09-01-vegas-golden-knights-vancouver-canucks,2020,,2020-09-01,Vegas Golden Knights,Vancouver Canucks,1,2,POST,1189
+nhl-2020-post-2020-09-02-dallas-stars-colorado-avalanche,2020,,2020-09-02,Dallas Stars,Colorado Avalanche,1,4,POST,1190
+nhl-2020-post-2020-09-03-new-york-islanders-philadelphia-flyers,2020,,2020-09-03,New York Islanders,Philadelphia Flyers,4,5,POST,1191
+nhl-2020-post-2020-09-03-vancouver-canucks-vegas-golden-knights,2020,,2020-09-03,Vancouver Canucks,Vegas Golden Knights,4,0,POST,1192
+nhl-2020-post-2020-09-04-colorado-avalanche-dallas-stars,2020,,2020-09-04,Colorado Avalanche,Dallas Stars,4,5,POST,1193
+nhl-2020-post-2020-09-04-vegas-golden-knights-vancouver-canucks,2020,,2020-09-04,Vegas Golden Knights,Vancouver Canucks,3,0,POST,1194
+nhl-2020-post-2020-09-05-philadelphia-flyers-new-york-islanders,2020,,2020-09-05,Philadelphia Flyers,New York Islanders,0,4,POST,1195
+nhl-2020-post-2020-09-06-vegas-golden-knights-dallas-stars,2020,,2020-09-06,Vegas Golden Knights,Dallas Stars,0,1,POST,1196
+nhl-2020-post-2020-09-07-tampa-bay-lightning-new-york-islanders,2020,,2020-09-07,Tampa Bay Lightning,New York Islanders,8,2,POST,1197
+nhl-2020-post-2020-09-08-vegas-golden-knights-dallas-stars,2020,,2020-09-08,Vegas Golden Knights,Dallas Stars,3,0,POST,1198
+nhl-2020-post-2020-09-09-tampa-bay-lightning-new-york-islanders,2020,,2020-09-09,Tampa Bay Lightning,New York Islanders,2,1,POST,1199
+nhl-2020-post-2020-09-10-dallas-stars-vegas-golden-knights,2020,,2020-09-10,Dallas Stars,Vegas Golden Knights,3,2,POST,1200
+nhl-2020-post-2020-09-11-new-york-islanders-tampa-bay-lightning,2020,,2020-09-11,New York Islanders,Tampa Bay Lightning,5,3,POST,1201
+nhl-2020-post-2020-09-12-dallas-stars-vegas-golden-knights,2020,,2020-09-12,Dallas Stars,Vegas Golden Knights,2,1,POST,1202
+nhl-2020-post-2020-09-13-new-york-islanders-tampa-bay-lightning,2020,,2020-09-13,New York Islanders,Tampa Bay Lightning,1,4,POST,1203
+nhl-2020-post-2020-09-14-vegas-golden-knights-dallas-stars,2020,,2020-09-14,Vegas Golden Knights,Dallas Stars,2,3,POST,1204
+nhl-2020-post-2020-09-15-tampa-bay-lightning-new-york-islanders,2020,,2020-09-15,Tampa Bay Lightning,New York Islanders,1,2,POST,1205
+nhl-2020-post-2020-09-17-new-york-islanders-tampa-bay-lightning,2020,,2020-09-17,New York Islanders,Tampa Bay Lightning,1,2,POST,1206
+nhl-2020-post-2020-09-19-tampa-bay-lightning-dallas-stars,2020,,2020-09-19,Tampa Bay Lightning,Dallas Stars,1,4,POST,1207
+nhl-2020-post-2020-09-21-tampa-bay-lightning-dallas-stars,2020,,2020-09-21,Tampa Bay Lightning,Dallas Stars,3,2,POST,1208
+nhl-2020-post-2020-09-23-dallas-stars-tampa-bay-lightning,2020,,2020-09-23,Dallas Stars,Tampa Bay Lightning,2,5,POST,1209
+nhl-2020-post-2020-09-25-dallas-stars-tampa-bay-lightning,2020,,2020-09-25,Dallas Stars,Tampa Bay Lightning,4,5,POST,1210
+nhl-2020-post-2020-09-26-tampa-bay-lightning-dallas-stars,2020,,2020-09-26,Tampa Bay Lightning,Dallas Stars,2,3,POST,1211
+nhl-2020-post-2020-09-28-dallas-stars-tampa-bay-lightning,2020,,2020-09-28,Dallas Stars,Tampa Bay Lightning,0,2,POST,1212

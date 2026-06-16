@@ -1,0 +1,1393 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nba-201010260BOS,2011,,2010-10-26,Boston Celtics,Miami Heat,88,80,REG,1
+nba-201010260LAL,2011,,2010-10-26,Los Angeles Lakers,Houston Rockets,112,110,REG,2
+nba-201010260POR,2011,,2010-10-26,Portland Trail Blazers,Phoenix Suns,106,92,REG,3
+nba-201010270CLE,2011,,2010-10-27,Cleveland Cavaliers,Boston Celtics,95,87,REG,4
+nba-201010270DAL,2011,,2010-10-27,Dallas Mavericks,Charlotte Bobcats,101,86,REG,5
+nba-201010270DEN,2011,,2010-10-27,Denver Nuggets,Utah Jazz,110,88,REG,6
+nba-201010270GSW,2011,,2010-10-27,Golden State Warriors,Houston Rockets,132,128,REG,7
+nba-201010270LAC,2011,,2010-10-27,Los Angeles Clippers,Portland Trail Blazers,88,98,REG,8
+nba-201010270MEM,2011,,2010-10-27,Memphis Grizzlies,Atlanta Hawks,104,119,REG,9
+nba-201010270MIN,2011,,2010-10-27,Minnesota Timberwolves,Sacramento Kings,116,117,REG,10
+nba-201010270NJN,2011,,2010-10-27,New Jersey Nets,Detroit Pistons,101,98,REG,11
+nba-201010270NOH,2011,,2010-10-27,New Orleans Hornets,Milwaukee Bucks,95,91,REG,12
+nba-201010270OKC,2011,,2010-10-27,Oklahoma City Thunder,Chicago Bulls,106,95,REG,13
+nba-201010270PHI,2011,,2010-10-27,Philadelphia 76ers,Miami Heat,87,97,REG,14
+nba-201010270SAS,2011,,2010-10-27,San Antonio Spurs,Indiana Pacers,122,109,REG,15
+nba-201010270TOR,2011,,2010-10-27,Toronto Raptors,New York Knicks,93,98,REG,16
+nba-201010280ORL,2011,,2010-10-28,Orlando Magic,Washington Wizards,112,83,REG,17
+nba-201010280UTA,2011,,2010-10-28,Utah Jazz,Phoenix Suns,94,110,REG,18
+nba-201010290BOS,2011,,2010-10-29,Boston Celtics,New York Knicks,105,101,REG,19
+nba-201010290CHA,2011,,2010-10-29,Charlotte Bobcats,Indiana Pacers,101,104,REG,20
+nba-201010290DAL,2011,,2010-10-29,Dallas Mavericks,Memphis Grizzlies,90,91,REG,21
+nba-201010290DET,2011,,2010-10-29,Detroit Pistons,Oklahoma City Thunder,104,105,REG,22
+nba-201010290GSW,2011,,2010-10-29,Golden State Warriors,Los Angeles Clippers,109,91,REG,23
+nba-201010290MIA,2011,,2010-10-29,Miami Heat,Orlando Magic,96,70,REG,24
+nba-201010290MIN,2011,,2010-10-29,Minnesota Timberwolves,Milwaukee Bucks,96,85,REG,25
+nba-201010290NJN,2011,,2010-10-29,New Jersey Nets,Sacramento Kings,106,100,REG,26
+nba-201010290NOH,2011,,2010-10-29,New Orleans Hornets,Denver Nuggets,101,95,REG,27
+nba-201010290PHI,2011,,2010-10-29,Philadelphia 76ers,Atlanta Hawks,101,104,REG,28
+nba-201010290PHO,2011,,2010-10-29,Phoenix Suns,Los Angeles Lakers,106,114,REG,29
+nba-201010290TOR,2011,,2010-10-29,Toronto Raptors,Cleveland Cavaliers,101,81,REG,30
+nba-201010300ATL,2011,,2010-10-30,Atlanta Hawks,Washington Wizards,99,95,REG,31
+nba-201010300CHI,2011,,2010-10-30,Chicago Bulls,Detroit Pistons,101,91,REG,32
+nba-201010300CLE,2011,,2010-10-30,Cleveland Cavaliers,Sacramento Kings,104,107,REG,33
+nba-201010300HOU,2011,,2010-10-30,Houston Rockets,Denver Nuggets,94,107,REG,34
+nba-201010300IND,2011,,2010-10-30,Indiana Pacers,Philadelphia 76ers,99,86,REG,35
+nba-201010300MEM,2011,,2010-10-30,Memphis Grizzlies,Minnesota Timberwolves,109,89,REG,36
+nba-201010300MIL,2011,,2010-10-30,Milwaukee Bucks,Charlotte Bobcats,98,88,REG,37
+nba-201010300NYK,2011,,2010-10-30,New York Knicks,Portland Trail Blazers,95,100,REG,38
+nba-201010300SAS,2011,,2010-10-30,San Antonio Spurs,New Orleans Hornets,90,99,REG,39
+nba-201010310LAC,2011,,2010-10-31,Los Angeles Clippers,Dallas Mavericks,83,99,REG,40
+nba-201010310LAL,2011,,2010-10-31,Los Angeles Lakers,Golden State Warriors,107,83,REG,41
+nba-201010310NJN,2011,,2010-10-31,New Jersey Nets,Miami Heat,78,101,REG,42
+nba-201010310OKC,2011,,2010-10-31,Oklahoma City Thunder,Utah Jazz,99,120,REG,43
+nba-201011010CHI,2011,,2010-11-01,Chicago Bulls,Portland Trail Blazers,110,98,REG,44
+nba-201011010LAC,2011,,2010-11-01,Los Angeles Clippers,San Antonio Spurs,88,97,REG,45
+nba-201011010SAC,2011,,2010-11-01,Sacramento Kings,Toronto Raptors,111,108,REG,46
+nba-201011020CLE,2011,,2010-11-02,Cleveland Cavaliers,Atlanta Hawks,88,100,REG,47
+nba-201011020DET,2011,,2010-11-02,Detroit Pistons,Boston Celtics,86,109,REG,48
+nba-201011020LAL,2011,,2010-11-02,Los Angeles Lakers,Memphis Grizzlies,124,105,REG,49
+nba-201011020MIA,2011,,2010-11-02,Miami Heat,Minnesota Timberwolves,129,97,REG,50
+nba-201011020MIL,2011,,2010-11-02,Milwaukee Bucks,Portland Trail Blazers,76,90,REG,51
+nba-201011020WAS,2011,,2010-11-02,Washington Wizards,Philadelphia 76ers,116,115,REG,52
+nba-201011030ATL,2011,,2010-11-03,Atlanta Hawks,Detroit Pistons,94,85,REG,53
+nba-201011030BOS,2011,,2010-11-03,Boston Celtics,Milwaukee Bucks,105,102,REG,54
+nba-201011030DEN,2011,,2010-11-03,Denver Nuggets,Dallas Mavericks,101,102,REG,55
+nba-201011030GSW,2011,,2010-11-03,Golden State Warriors,Memphis Grizzlies,115,109,REG,56
+nba-201011030HOU,2011,,2010-11-03,Houston Rockets,New Orleans Hornets,99,107,REG,57
+nba-201011030LAC,2011,,2010-11-03,Los Angeles Clippers,Oklahoma City Thunder,107,92,REG,58
+nba-201011030NJN,2011,,2010-11-03,New Jersey Nets,Charlotte Bobcats,83,85,REG,59
+nba-201011030ORL,2011,,2010-11-03,Orlando Magic,Minnesota Timberwolves,128,86,REG,60
+nba-201011030PHI,2011,,2010-11-03,Philadelphia 76ers,Indiana Pacers,101,75,REG,61
+nba-201011030PHO,2011,,2010-11-03,Phoenix Suns,San Antonio Spurs,110,112,REG,62
+nba-201011030SAC,2011,,2010-11-03,Sacramento Kings,Los Angeles Lakers,100,112,REG,63
+nba-201011030UTA,2011,,2010-11-03,Utah Jazz,Toronto Raptors,125,108,REG,64
+nba-201011040CHI,2011,,2010-11-04,Chicago Bulls,New York Knicks,112,120,REG,65
+nba-201011040POR,2011,,2010-11-04,Portland Trail Blazers,Oklahoma City Thunder,106,107,REG,66
+nba-201011050BOS,2011,,2010-11-05,Boston Celtics,Chicago Bulls,110,105,REG,67
+nba-201011050DEN,2011,,2010-11-05,Denver Nuggets,Los Angeles Clippers,111,104,REG,68
+nba-201011050DET,2011,,2010-11-05,Detroit Pistons,Charlotte Bobcats,97,90,REG,69
+nba-201011050GSW,2011,,2010-11-05,Golden State Warriors,Utah Jazz,85,78,REG,70
+nba-201011050IND,2011,,2010-11-05,Indiana Pacers,Milwaukee Bucks,90,94,REG,71
+nba-201011050LAL,2011,,2010-11-05,Los Angeles Lakers,Toronto Raptors,108,103,REG,72
+nba-201011050MIN,2011,,2010-11-05,Minnesota Timberwolves,Atlanta Hawks,103,113,REG,73
+nba-201011050NOH,2011,,2010-11-05,New Orleans Hornets,Miami Heat,96,93,REG,74
+nba-201011050NYK,2011,,2010-11-05,New York Knicks,Washington Wizards,112,91,REG,75
+nba-201011050ORL,2011,,2010-11-05,Orlando Magic,New Jersey Nets,105,90,REG,76
+nba-201011050PHI,2011,,2010-11-05,Philadelphia 76ers,Cleveland Cavaliers,116,123,REG,77
+nba-201011050PHO,2011,,2010-11-05,Phoenix Suns,Memphis Grizzlies,123,118,REG,78
+nba-201011060CHA,2011,,2010-11-06,Charlotte Bobcats,Orlando Magic,88,91,REG,79
+nba-201011060DAL,2011,,2010-11-06,Dallas Mavericks,Denver Nuggets,92,103,REG,80
+nba-201011060MIA,2011,,2010-11-06,Miami Heat,New Jersey Nets,101,89,REG,81
+nba-201011060MIL,2011,,2010-11-06,Milwaukee Bucks,New Orleans Hornets,81,87,REG,82
+nba-201011060POR,2011,,2010-11-06,Portland Trail Blazers,Toronto Raptors,97,84,REG,83
+nba-201011060SAC,2011,,2010-11-06,Sacramento Kings,Memphis Grizzlies,91,100,REG,84
+nba-201011060SAS,2011,,2010-11-06,San Antonio Spurs,Houston Rockets,124,121,REG,85
+nba-201011060UTA,2011,,2010-11-06,Utah Jazz,Los Angeles Clippers,109,107,REG,86
+nba-201011060WAS,2011,,2010-11-06,Washington Wizards,Cleveland Cavaliers,102,107,REG,87
+nba-201011070ATL,2011,,2010-11-07,Atlanta Hawks,Phoenix Suns,114,118,REG,88
+nba-201011070DET,2011,,2010-11-07,Detroit Pistons,Golden State Warriors,102,97,REG,89
+nba-201011070HOU,2011,,2010-11-07,Houston Rockets,Minnesota Timberwolves,120,94,REG,90
+nba-201011070LAL,2011,,2010-11-07,Los Angeles Lakers,Portland Trail Blazers,121,96,REG,91
+nba-201011070NYK,2011,,2010-11-07,New York Knicks,Philadelphia 76ers,96,106,REG,92
+nba-201011070OKC,2011,,2010-11-07,Oklahoma City Thunder,Boston Celtics,83,92,REG,93
+nba-201011080CHA,2011,,2010-11-08,Charlotte Bobcats,San Antonio Spurs,91,95,REG,94
+nba-201011080CHI,2011,,2010-11-08,Chicago Bulls,Denver Nuggets,94,92,REG,95
+nba-201011080DAL,2011,,2010-11-08,Dallas Mavericks,Boston Celtics,89,87,REG,96
+nba-201011080MEM,2011,,2010-11-08,Memphis Grizzlies,Phoenix Suns,109,99,REG,97
+nba-201011080ORL,2011,,2010-11-08,Orlando Magic,Atlanta Hawks,93,89,REG,98
+nba-201011080TOR,2011,,2010-11-08,Toronto Raptors,Golden State Warriors,102,109,REG,99
+nba-201011090IND,2011,,2010-11-09,Indiana Pacers,Denver Nuggets,144,113,REG,100
+nba-201011090LAL,2011,,2010-11-09,Los Angeles Lakers,Minnesota Timberwolves,99,94,REG,101
+nba-201011090MIA,2011,,2010-11-09,Miami Heat,Utah Jazz,114,116,REG,102
+nba-201011090MIL,2011,,2010-11-09,Milwaukee Bucks,New York Knicks,107,80,REG,103
+nba-201011090NJN,2011,,2010-11-09,New Jersey Nets,Cleveland Cavaliers,91,93,REG,104
+nba-201011090NOH,2011,,2010-11-09,New Orleans Hornets,Los Angeles Clippers,101,82,REG,105
+nba-201011090POR,2011,,2010-11-09,Portland Trail Blazers,Detroit Pistons,100,78,REG,106
+nba-201011100ATL,2011,,2010-11-10,Atlanta Hawks,Milwaukee Bucks,91,108,REG,107
+nba-201011100CLE,2011,,2010-11-10,Cleveland Cavaliers,New Jersey Nets,87,95,REG,108
+nba-201011100MEM,2011,,2010-11-10,Memphis Grizzlies,Dallas Mavericks,91,106,REG,109
+nba-201011100NYK,2011,,2010-11-10,New York Knicks,Golden State Warriors,117,122,REG,110
+nba-201011100OKC,2011,,2010-11-10,Oklahoma City Thunder,Philadelphia 76ers,109,103,REG,111
+nba-201011100ORL,2011,,2010-11-10,Orlando Magic,Utah Jazz,94,104,REG,112
+nba-201011100SAC,2011,,2010-11-10,Sacramento Kings,Minnesota Timberwolves,89,98,REG,113
+nba-201011100SAS,2011,,2010-11-10,San Antonio Spurs,Los Angeles Clippers,107,95,REG,114
+nba-201011100TOR,2011,,2010-11-10,Toronto Raptors,Charlotte Bobcats,96,101,REG,115
+nba-201011100WAS,2011,,2010-11-10,Washington Wizards,Houston Rockets,98,91,REG,116
+nba-201011110CHI,2011,,2010-11-11,Chicago Bulls,Golden State Warriors,120,90,REG,117
+nba-201011110DEN,2011,,2010-11-11,Denver Nuggets,Los Angeles Lakers,118,112,REG,118
+nba-201011110MIA,2011,,2010-11-11,Miami Heat,Boston Celtics,107,112,REG,119
+nba-201011120ATL,2011,,2010-11-12,Atlanta Hawks,Utah Jazz,86,90,REG,120
+nba-201011120DAL,2011,,2010-11-12,Dallas Mavericks,Philadelphia 76ers,99,90,REG,121
+nba-201011120IND,2011,,2010-11-12,Indiana Pacers,Houston Rockets,99,102,REG,122
+nba-201011120LAC,2011,,2010-11-12,Los Angeles Clippers,Detroit Pistons,107,113,REG,123
+nba-201011120MIN,2011,,2010-11-12,Minnesota Timberwolves,New York Knicks,112,103,REG,124
+nba-201011120OKC,2011,,2010-11-12,Oklahoma City Thunder,Portland Trail Blazers,110,108,REG,125
+nba-201011120ORL,2011,,2010-11-12,Orlando Magic,Toronto Raptors,106,110,REG,126
+nba-201011120PHO,2011,,2010-11-12,Phoenix Suns,Sacramento Kings,103,89,REG,127
+nba-201011120WAS,2011,,2010-11-12,Washington Wizards,Charlotte Bobcats,85,93,REG,128
+nba-201011130CHA,2011,,2010-11-13,Charlotte Bobcats,Utah Jazz,95,96,REG,129
+nba-201011130CHI,2011,,2010-11-13,Chicago Bulls,Washington Wizards,103,96,REG,130
+nba-201011130CLE,2011,,2010-11-13,Cleveland Cavaliers,Indiana Pacers,85,99,REG,131
+nba-201011130MEM,2011,,2010-11-13,Memphis Grizzlies,Boston Celtics,110,116,REG,132
+nba-201011130MIA,2011,,2010-11-13,Miami Heat,Toronto Raptors,109,100,REG,133
+nba-201011130MIL,2011,,2010-11-13,Milwaukee Bucks,Golden State Warriors,79,72,REG,134
+nba-201011130NJN,2011,,2010-11-13,New Jersey Nets,Orlando Magic,90,91,REG,135
+nba-201011130NOH,2011,,2010-11-13,New Orleans Hornets,Portland Trail Blazers,107,87,REG,136
+nba-201011130SAS,2011,,2010-11-13,San Antonio Spurs,Philadelphia 76ers,116,93,REG,137
+nba-201011140ATL,2011,,2010-11-14,Atlanta Hawks,Minnesota Timberwolves,111,105,REG,138
+nba-201011140LAL,2011,,2010-11-14,Los Angeles Lakers,Phoenix Suns,116,121,REG,139
+nba-201011140NYK,2011,,2010-11-14,New York Knicks,Houston Rockets,96,104,REG,140
+nba-201011140OKC,2011,,2010-11-14,Oklahoma City Thunder,San Antonio Spurs,104,117,REG,141
+nba-201011140SAC,2011,,2010-11-14,Sacramento Kings,Detroit Pistons,94,100,REG,142
+nba-201011150CHA,2011,,2010-11-15,Charlotte Bobcats,Minnesota Timberwolves,113,110,REG,143
+nba-201011150DAL,2011,,2010-11-15,Dallas Mavericks,New Orleans Hornets,98,95,REG,144
+nba-201011150GSW,2011,,2010-11-15,Golden State Warriors,Detroit Pistons,101,97,REG,145
+nba-201011150LAC,2011,,2010-11-15,Los Angeles Clippers,New Jersey Nets,96,110,REG,146
+nba-201011150ORL,2011,,2010-11-15,Orlando Magic,Memphis Grizzlies,89,72,REG,147
+nba-201011150PHO,2011,,2010-11-15,Phoenix Suns,Denver Nuggets,100,94,REG,148
+nba-201011150UTA,2011,,2010-11-15,Utah Jazz,Oklahoma City Thunder,108,115,REG,149
+nba-201011160CLE,2011,,2010-11-16,Cleveland Cavaliers,Philadelphia 76ers,101,93,REG,150
+nba-201011160DEN,2011,,2010-11-16,Denver Nuggets,New York Knicks,120,118,REG,151
+nba-201011160HOU,2011,,2010-11-16,Houston Rockets,Chicago Bulls,92,95,REG,152
+nba-201011160IND,2011,,2010-11-16,Indiana Pacers,Atlanta Hawks,92,102,REG,153
+nba-201011160MEM,2011,,2010-11-16,Memphis Grizzlies,Portland Trail Blazers,99,100,REG,154
+nba-201011160MIL,2011,,2010-11-16,Milwaukee Bucks,Los Angeles Lakers,107,118,REG,155
+nba-201011160WAS,2011,,2010-11-16,Washington Wizards,Toronto Raptors,109,94,REG,156
+nba-201011170BOS,2011,,2010-11-17,Boston Celtics,Washington Wizards,114,83,REG,157
+nba-201011170DET,2011,,2010-11-17,Detroit Pistons,Los Angeles Lakers,90,103,REG,158
+nba-201011170MIA,2011,,2010-11-17,Miami Heat,Phoenix Suns,123,96,REG,159
+nba-201011170MIN,2011,,2010-11-17,Minnesota Timberwolves,Los Angeles Clippers,113,111,REG,160
+nba-201011170NOH,2011,,2010-11-17,New Orleans Hornets,Dallas Mavericks,99,97,REG,161
+nba-201011170OKC,2011,,2010-11-17,Oklahoma City Thunder,Houston Rockets,116,99,REG,162
+nba-201011170PHI,2011,,2010-11-17,Philadelphia 76ers,Toronto Raptors,86,94,REG,163
+nba-201011170SAC,2011,,2010-11-17,Sacramento Kings,New York Knicks,106,113,REG,164
+nba-201011170SAS,2011,,2010-11-17,San Antonio Spurs,Chicago Bulls,103,94,REG,165
+nba-201011170UTA,2011,,2010-11-17,Utah Jazz,New Jersey Nets,98,88,REG,166
+nba-201011180IND,2011,,2010-11-18,Indiana Pacers,Los Angeles Clippers,107,80,REG,167
+nba-201011180ORL,2011,,2010-11-18,Orlando Magic,Phoenix Suns,105,89,REG,168
+nba-201011180POR,2011,,2010-11-18,Portland Trail Blazers,Denver Nuggets,86,83,REG,169
+nba-201011190BOS,2011,,2010-11-19,Boston Celtics,Oklahoma City Thunder,84,89,REG,170
+nba-201011190DAL,2011,,2010-11-19,Dallas Mavericks,Chicago Bulls,83,88,REG,171
+nba-201011190GSW,2011,,2010-11-19,Golden State Warriors,New York Knicks,119,125,REG,172
+nba-201011190MIA,2011,,2010-11-19,Miami Heat,Charlotte Bobcats,95,87,REG,173
+nba-201011190MIN,2011,,2010-11-19,Minnesota Timberwolves,Los Angeles Lakers,95,112,REG,174
+nba-201011190NOH,2011,,2010-11-19,New Orleans Hornets,Cleveland Cavaliers,108,101,REG,175
+nba-201011190PHI,2011,,2010-11-19,Philadelphia 76ers,Milwaukee Bucks,90,79,REG,176
+nba-201011190SAC,2011,,2010-11-19,Sacramento Kings,New Jersey Nets,86,81,REG,177
+nba-201011190TOR,2011,,2010-11-19,Toronto Raptors,Houston Rockets,106,96,REG,178
+nba-201011190UTA,2011,,2010-11-19,Utah Jazz,San Antonio Spurs,82,94,REG,179
+nba-201011190WAS,2011,,2010-11-19,Washington Wizards,Memphis Grizzlies,89,86,REG,180
+nba-201011200ATL,2011,,2010-11-20,Atlanta Hawks,Dallas Mavericks,93,98,REG,181
+nba-201011200CHA,2011,,2010-11-20,Charlotte Bobcats,Phoenix Suns,123,105,REG,182
+nba-201011200DEN,2011,,2010-11-20,Denver Nuggets,New Jersey Nets,107,103,REG,183
+nba-201011200IND,2011,,2010-11-20,Indiana Pacers,Orlando Magic,86,90,REG,184
+nba-201011200LAC,2011,,2010-11-20,Los Angeles Clippers,New York Knicks,115,124,REG,185
+nba-201011200MEM,2011,,2010-11-20,Memphis Grizzlies,Miami Heat,97,95,REG,186
+nba-201011200MIL,2011,,2010-11-20,Milwaukee Bucks,Oklahoma City Thunder,81,82,REG,187
+nba-201011200POR,2011,,2010-11-20,Portland Trail Blazers,Utah Jazz,94,103,REG,188
+nba-201011200SAS,2011,,2010-11-20,San Antonio Spurs,Cleveland Cavaliers,116,92,REG,189
+nba-201011210DET,2011,,2010-11-21,Detroit Pistons,Washington Wizards,115,110,REG,190
+nba-201011210LAL,2011,,2010-11-21,Los Angeles Lakers,Golden State Warriors,117,89,REG,191
+nba-201011210SAC,2011,,2010-11-21,Sacramento Kings,New Orleans Hornets,71,75,REG,192
+nba-201011210TOR,2011,,2010-11-21,Toronto Raptors,Boston Celtics,102,101,REG,193
+nba-201011220ATL,2011,,2010-11-22,Atlanta Hawks,Boston Celtics,76,99,REG,194
+nba-201011220GSW,2011,,2010-11-22,Golden State Warriors,Denver Nuggets,89,106,REG,195
+nba-201011220HOU,2011,,2010-11-22,Houston Rockets,Phoenix Suns,116,123,REG,196
+nba-201011220LAC,2011,,2010-11-22,Los Angeles Clippers,New Orleans Hornets,99,95,REG,197
+nba-201011220MIA,2011,,2010-11-22,Miami Heat,Indiana Pacers,77,93,REG,198
+nba-201011220OKC,2011,,2010-11-22,Oklahoma City Thunder,Minnesota Timberwolves,117,107,REG,199
+nba-201011220SAS,2011,,2010-11-22,San Antonio Spurs,Orlando Magic,106,97,REG,200
+nba-201011220UTA,2011,,2010-11-22,Utah Jazz,Sacramento Kings,94,83,REG,201
+nba-201011230DAL,2011,,2010-11-23,Dallas Mavericks,Detroit Pistons,88,84,REG,202
+nba-201011230IND,2011,,2010-11-23,Indiana Pacers,Cleveland Cavaliers,100,89,REG,203
+nba-201011230LAL,2011,,2010-11-23,Los Angeles Lakers,Chicago Bulls,98,91,REG,204
+nba-201011230NJN,2011,,2010-11-23,New Jersey Nets,Atlanta Hawks,107,101,REG,205
+nba-201011230NYK,2011,,2010-11-23,New York Knicks,Charlotte Bobcats,110,107,REG,206
+nba-201011230WAS,2011,,2010-11-23,Washington Wizards,Philadelphia 76ers,116,114,REG,207
+nba-201011240BOS,2011,,2010-11-24,Boston Celtics,New Jersey Nets,89,83,REG,208
+nba-201011240CHA,2011,,2010-11-24,Charlotte Bobcats,New York Knicks,95,99,REG,209
+nba-201011240CLE,2011,,2010-11-24,Cleveland Cavaliers,Milwaukee Bucks,83,81,REG,210
+nba-201011240HOU,2011,,2010-11-24,Houston Rockets,Golden State Warriors,111,101,REG,211
+nba-201011240MEM,2011,,2010-11-24,Memphis Grizzlies,Detroit Pistons,105,84,REG,212
+nba-201011240MIN,2011,,2010-11-24,Minnesota Timberwolves,San Antonio Spurs,109,113,REG,213
+nba-201011240OKC,2011,,2010-11-24,Oklahoma City Thunder,Dallas Mavericks,103,111,REG,214
+nba-201011240ORL,2011,,2010-11-24,Orlando Magic,Miami Heat,104,95,REG,215
+nba-201011240PHO,2011,,2010-11-24,Phoenix Suns,Chicago Bulls,115,123,REG,216
+nba-201011240TOR,2011,,2010-11-24,Toronto Raptors,Philadelphia 76ers,106,90,REG,217
+nba-201011240UTA,2011,,2010-11-24,Utah Jazz,New Orleans Hornets,105,87,REG,218
+nba-201011250ATL,2011,,2010-11-25,Atlanta Hawks,Washington Wizards,116,96,REG,219
+nba-201011250LAC,2011,,2010-11-25,Los Angeles Clippers,Sacramento Kings,100,82,REG,220
+nba-201011260BOS,2011,,2010-11-26,Boston Celtics,Toronto Raptors,110,101,REG,221
+nba-201011260CHA,2011,,2010-11-26,Charlotte Bobcats,Houston Rockets,99,89,REG,222
+nba-201011260DEN,2011,,2010-11-26,Denver Nuggets,Chicago Bulls,98,97,REG,223
+nba-201011260DET,2011,,2010-11-26,Detroit Pistons,Milwaukee Bucks,103,89,REG,224
+nba-201011260IND,2011,,2010-11-26,Indiana Pacers,Oklahoma City Thunder,106,110,REG,225
+nba-201011260MEM,2011,,2010-11-26,Memphis Grizzlies,Golden State Warriors,116,111,REG,226
+nba-201011260MIA,2011,,2010-11-26,Miami Heat,Philadelphia 76ers,99,90,REG,227
+nba-201011260ORL,2011,,2010-11-26,Orlando Magic,Cleveland Cavaliers,111,100,REG,228
+nba-201011260PHO,2011,,2010-11-26,Phoenix Suns,Los Angeles Clippers,116,108,REG,229
+nba-201011260POR,2011,,2010-11-26,Portland Trail Blazers,New Orleans Hornets,78,97,REG,230
+nba-201011260SAS,2011,,2010-11-26,San Antonio Spurs,Dallas Mavericks,94,103,REG,231
+nba-201011260UTA,2011,,2010-11-26,Utah Jazz,Los Angeles Lakers,102,96,REG,232
+nba-201011270CLE,2011,,2010-11-27,Cleveland Cavaliers,Memphis Grizzlies,92,86,REG,233
+nba-201011270DAL,2011,,2010-11-27,Dallas Mavericks,Miami Heat,106,95,REG,234
+nba-201011270MIL,2011,,2010-11-27,Milwaukee Bucks,Charlotte Bobcats,104,101,REG,235
+nba-201011270MIN,2011,,2010-11-27,Minnesota Timberwolves,Golden State Warriors,94,104,REG,236
+nba-201011270NYK,2011,,2010-11-27,New York Knicks,Atlanta Hawks,90,99,REG,237
+nba-201011270PHI,2011,,2010-11-27,Philadelphia 76ers,New Jersey Nets,102,86,REG,238
+nba-201011270SAC,2011,,2010-11-27,Sacramento Kings,Chicago Bulls,85,96,REG,239
+nba-201011270WAS,2011,,2010-11-27,Washington Wizards,Orlando Magic,99,100,REG,240
+nba-201011280DEN,2011,,2010-11-28,Denver Nuggets,Phoenix Suns,138,133,REG,241
+nba-201011280DET,2011,,2010-11-28,Detroit Pistons,New York Knicks,116,125,REG,242
+nba-201011280HOU,2011,,2010-11-28,Houston Rockets,Oklahoma City Thunder,99,98,REG,243
+nba-201011280LAC,2011,,2010-11-28,Los Angeles Clippers,Utah Jazz,97,109,REG,244
+nba-201011280LAL,2011,,2010-11-28,Los Angeles Lakers,Indiana Pacers,92,95,REG,245
+nba-201011280NJN,2011,,2010-11-28,New Jersey Nets,Portland Trail Blazers,98,96,REG,246
+nba-201011280NOH,2011,,2010-11-28,New Orleans Hornets,San Antonio Spurs,95,109,REG,247
+nba-201011280TOR,2011,,2010-11-28,Toronto Raptors,Atlanta Hawks,78,96,REG,248
+nba-201011290DAL,2011,,2010-11-29,Dallas Mavericks,Houston Rockets,101,91,REG,249
+nba-201011290MIA,2011,,2010-11-29,Miami Heat,Washington Wizards,105,94,REG,250
+nba-201011290OKC,2011,,2010-11-29,Oklahoma City Thunder,New Orleans Hornets,95,89,REG,251
+nba-201011290UTA,2011,,2010-11-29,Utah Jazz,Milwaukee Bucks,109,88,REG,252
+nba-201011300CLE,2011,,2010-11-30,Cleveland Cavaliers,Boston Celtics,87,106,REG,253
+nba-201011300GSW,2011,,2010-11-30,Golden State Warriors,San Antonio Spurs,98,118,REG,254
+nba-201011300MEM,2011,,2010-11-30,Memphis Grizzlies,Los Angeles Lakers,98,96,REG,255
+nba-201011300NYK,2011,,2010-11-30,New York Knicks,New Jersey Nets,111,100,REG,256
+nba-201011300ORL,2011,,2010-11-30,Orlando Magic,Detroit Pistons,90,79,REG,257
+nba-201011300PHI,2011,,2010-11-30,Philadelphia 76ers,Portland Trail Blazers,88,79,REG,258
+nba-201011300SAC,2011,,2010-11-30,Sacramento Kings,Indiana Pacers,98,107,REG,259
+nba-201012010ATL,2011,,2010-12-01,Atlanta Hawks,Memphis Grizzlies,112,109,REG,260
+nba-201012010BOS,2011,,2010-12-01,Boston Celtics,Portland Trail Blazers,99,95,REG,261
+nba-201012010CHI,2011,,2010-12-01,Chicago Bulls,Orlando Magic,78,107,REG,262
+nba-201012010DAL,2011,,2010-12-01,Dallas Mavericks,Minnesota Timberwolves,100,86,REG,263
+nba-201012010DEN,2011,,2010-12-01,Denver Nuggets,Milwaukee Bucks,105,94,REG,264
+nba-201012010HOU,2011,,2010-12-01,Houston Rockets,Los Angeles Lakers,109,99,REG,265
+nba-201012010LAC,2011,,2010-12-01,Los Angeles Clippers,San Antonio Spurs,90,85,REG,266
+nba-201012010MIA,2011,,2010-12-01,Miami Heat,Detroit Pistons,97,72,REG,267
+nba-201012010NJN,2011,,2010-12-01,New Jersey Nets,Oklahoma City Thunder,120,123,REG,268
+nba-201012010NOH,2011,,2010-12-01,New Orleans Hornets,Charlotte Bobcats,89,73,REG,269
+nba-201012010TOR,2011,,2010-12-01,Toronto Raptors,Washington Wizards,127,108,REG,270
+nba-201012010UTA,2011,,2010-12-01,Utah Jazz,Indiana Pacers,110,88,REG,271
+nba-201012020CLE,2011,,2010-12-02,Cleveland Cavaliers,Miami Heat,90,118,REG,272
+nba-201012020GSW,2011,,2010-12-02,Golden State Warriors,Phoenix Suns,101,107,REG,273
+nba-201012030ATL,2011,,2010-12-03,Atlanta Hawks,Philadelphia 76ers,93,88,REG,274
+nba-201012030BOS,2011,,2010-12-03,Boston Celtics,Chicago Bulls,104,92,REG,275
+nba-201012030CHA,2011,,2010-12-03,Charlotte Bobcats,New Jersey Nets,91,84,REG,276
+nba-201012030DEN,2011,,2010-12-03,Denver Nuggets,Los Angeles Clippers,109,104,REG,277
+nba-201012030DET,2011,,2010-12-03,Detroit Pistons,Orlando Magic,91,104,REG,278
+nba-201012030LAL,2011,,2010-12-03,Los Angeles Lakers,Sacramento Kings,113,80,REG,279
+nba-201012030MEM,2011,,2010-12-03,Memphis Grizzlies,Houston Rockets,111,127,REG,280
+nba-201012030NOH,2011,,2010-12-03,New Orleans Hornets,New York Knicks,92,100,REG,281
+nba-201012030PHO,2011,,2010-12-03,Phoenix Suns,Indiana Pacers,105,97,REG,282
+nba-201012030SAS,2011,,2010-12-03,San Antonio Spurs,Minnesota Timberwolves,107,101,REG,283
+nba-201012030TOR,2011,,2010-12-03,Toronto Raptors,Oklahoma City Thunder,111,99,REG,284
+nba-201012030UTA,2011,,2010-12-03,Utah Jazz,Dallas Mavericks,81,93,REG,285
+nba-201012030WAS,2011,,2010-12-03,Washington Wizards,Portland Trail Blazers,83,79,REG,286
+nba-201012040CHI,2011,,2010-12-04,Chicago Bulls,Houston Rockets,119,116,REG,287
+nba-201012040MIA,2011,,2010-12-04,Miami Heat,Atlanta Hawks,89,77,REG,288
+nba-201012040MIL,2011,,2010-12-04,Milwaukee Bucks,Orlando Magic,96,85,REG,289
+nba-201012040MIN,2011,,2010-12-04,Minnesota Timberwolves,Cleveland Cavaliers,129,95,REG,290
+nba-201012040PHI,2011,,2010-12-04,Philadelphia 76ers,Charlotte Bobcats,109,91,REG,291
+nba-201012040SAC,2011,,2010-12-04,Sacramento Kings,Dallas Mavericks,103,105,REG,292
+nba-201012050DEN,2011,,2010-12-05,Denver Nuggets,Memphis Grizzlies,108,107,REG,293
+nba-201012050DET,2011,,2010-12-05,Detroit Pistons,Cleveland Cavaliers,102,92,REG,294
+nba-201012050NJN,2011,,2010-12-05,New Jersey Nets,Boston Celtics,75,100,REG,295
+nba-201012050OKC,2011,,2010-12-05,Oklahoma City Thunder,Golden State Warriors,114,109,REG,296
+nba-201012050PHO,2011,,2010-12-05,Phoenix Suns,Washington Wizards,125,108,REG,297
+nba-201012050POR,2011,,2010-12-05,Portland Trail Blazers,Los Angeles Clippers,100,91,REG,298
+nba-201012050SAS,2011,,2010-12-05,San Antonio Spurs,New Orleans Hornets,109,84,REG,299
+nba-201012050TOR,2011,,2010-12-05,Toronto Raptors,New York Knicks,99,116,REG,300
+nba-201012060CHI,2011,,2010-12-06,Chicago Bulls,Oklahoma City Thunder,99,90,REG,301
+nba-201012060IND,2011,,2010-12-06,Indiana Pacers,Toronto Raptors,124,100,REG,302
+nba-201012060LAC,2011,,2010-12-06,Los Angeles Clippers,Sacramento Kings,98,91,REG,303
+nba-201012060MIL,2011,,2010-12-06,Milwaukee Bucks,Miami Heat,78,88,REG,304
+nba-201012060NYK,2011,,2010-12-06,New York Knicks,Minnesota Timberwolves,121,114,REG,305
+nba-201012060ORL,2011,,2010-12-06,Orlando Magic,Atlanta Hawks,74,80,REG,306
+nba-201012060UTA,2011,,2010-12-06,Utah Jazz,Memphis Grizzlies,94,85,REG,307
+nba-201012070ATL,2011,,2010-12-07,Atlanta Hawks,New Jersey Nets,116,101,REG,308
+nba-201012070CHA,2011,,2010-12-07,Charlotte Bobcats,Denver Nuggets,100,98,REG,309
+nba-201012070DAL,2011,,2010-12-07,Dallas Mavericks,Golden State Warriors,105,100,REG,310
+nba-201012070HOU,2011,,2010-12-07,Houston Rockets,Detroit Pistons,97,83,REG,311
+nba-201012070LAL,2011,,2010-12-07,Los Angeles Lakers,Washington Wizards,115,108,REG,312
+nba-201012070PHI,2011,,2010-12-07,Philadelphia 76ers,Cleveland Cavaliers,117,97,REG,313
+nba-201012070POR,2011,,2010-12-07,Portland Trail Blazers,Phoenix Suns,106,99,REG,314
+nba-201012080BOS,2011,,2010-12-08,Boston Celtics,Denver Nuggets,105,89,REG,315
+nba-201012080CLE,2011,,2010-12-08,Cleveland Cavaliers,Chicago Bulls,83,88,REG,316
+nba-201012080LAC,2011,,2010-12-08,Los Angeles Clippers,Los Angeles Lakers,86,87,REG,317
+nba-201012080MIL,2011,,2010-12-08,Milwaukee Bucks,Indiana Pacers,97,95,REG,318
+nba-201012080MIN,2011,,2010-12-08,Minnesota Timberwolves,Oklahoma City Thunder,103,111,REG,319
+nba-201012080NOH,2011,,2010-12-08,New Orleans Hornets,Detroit Pistons,93,74,REG,320
+nba-201012080NYK,2011,,2010-12-08,New York Knicks,Toronto Raptors,113,110,REG,321
+nba-201012080PHO,2011,,2010-12-08,Phoenix Suns,Memphis Grizzlies,98,104,REG,322
+nba-201012080SAC,2011,,2010-12-08,Sacramento Kings,Washington Wizards,116,91,REG,323
+nba-201012080SAS,2011,,2010-12-08,San Antonio Spurs,Golden State Warriors,111,94,REG,324
+nba-201012080UTA,2011,,2010-12-08,Utah Jazz,Miami Heat,98,111,REG,325
+nba-201012090DAL,2011,,2010-12-09,Dallas Mavericks,New Jersey Nets,102,89,REG,326
+nba-201012090PHI,2011,,2010-12-09,Philadelphia 76ers,Boston Celtics,101,102,REG,327
+nba-201012090POR,2011,,2010-12-09,Portland Trail Blazers,Orlando Magic,97,83,REG,328
+nba-201012100CHI,2011,,2010-12-10,Chicago Bulls,Los Angeles Lakers,88,84,REG,329
+nba-201012100GSW,2011,,2010-12-10,Golden State Warriors,Miami Heat,84,106,REG,330
+nba-201012100IND,2011,,2010-12-10,Indiana Pacers,Charlotte Bobcats,100,92,REG,331
+nba-201012100MIL,2011,,2010-12-10,Milwaukee Bucks,Houston Rockets,97,91,REG,332
+nba-201012100MIN,2011,,2010-12-10,Minnesota Timberwolves,Detroit Pistons,109,99,REG,333
+nba-201012100NOH,2011,,2010-12-10,New Orleans Hornets,Oklahoma City Thunder,92,97,REG,334
+nba-201012100PHO,2011,,2010-12-10,Phoenix Suns,Portland Trail Blazers,94,101,REG,335
+nba-201012100SAS,2011,,2010-12-10,San Antonio Spurs,Atlanta Hawks,108,92,REG,336
+nba-201012100TOR,2011,,2010-12-10,Toronto Raptors,Denver Nuggets,116,123,REG,337
+nba-201012100UTA,2011,,2010-12-10,Utah Jazz,Orlando Magic,117,105,REG,338
+nba-201012100WAS,2011,,2010-12-10,Washington Wizards,New York Knicks,95,101,REG,339
+nba-201012110ATL,2011,,2010-12-11,Atlanta Hawks,Indiana Pacers,97,83,REG,340
+nba-201012110CHA,2011,,2010-12-11,Charlotte Bobcats,Boston Celtics,62,93,REG,341
+nba-201012110CHI,2011,,2010-12-11,Chicago Bulls,Minnesota Timberwolves,113,82,REG,342
+nba-201012110DAL,2011,,2010-12-11,Dallas Mavericks,Utah Jazz,103,97,REG,343
+nba-201012110DET,2011,,2010-12-11,Detroit Pistons,Toronto Raptors,116,120,REG,344
+nba-201012110HOU,2011,,2010-12-11,Houston Rockets,Cleveland Cavaliers,110,95,REG,345
+nba-201012110LAC,2011,,2010-12-11,Los Angeles Clippers,Memphis Grizzlies,83,84,REG,346
+nba-201012110SAC,2011,,2010-12-11,Sacramento Kings,Miami Heat,83,104,REG,347
+nba-201012120LAC,2011,,2010-12-12,Los Angeles Clippers,Orlando Magic,85,94,REG,348
+nba-201012120NJN,2011,,2010-12-12,New Jersey Nets,Los Angeles Lakers,92,99,REG,349
+nba-201012120NYK,2011,,2010-12-12,New York Knicks,Denver Nuggets,129,125,REG,350
+nba-201012120OKC,2011,,2010-12-12,Oklahoma City Thunder,Cleveland Cavaliers,106,77,REG,351
+nba-201012120PHI,2011,,2010-12-12,Philadelphia 76ers,New Orleans Hornets,88,70,REG,352
+nba-201012120SAS,2011,,2010-12-12,San Antonio Spurs,Portland Trail Blazers,95,78,REG,353
+nba-201012130CHI,2011,,2010-12-13,Chicago Bulls,Indiana Pacers,92,73,REG,354
+nba-201012130DAL,2011,,2010-12-13,Dallas Mavericks,Milwaukee Bucks,99,103,REG,355
+nba-201012130MEM,2011,,2010-12-13,Memphis Grizzlies,Portland Trail Blazers,86,73,REG,356
+nba-201012130MIA,2011,,2010-12-13,Miami Heat,New Orleans Hornets,96,84,REG,357
+nba-201012130UTA,2011,,2010-12-13,Utah Jazz,Golden State Warriors,108,95,REG,358
+nba-201012140CHA,2011,,2010-12-14,Charlotte Bobcats,Toronto Raptors,97,91,REG,359
+nba-201012140DEN,2011,,2010-12-14,Denver Nuggets,Orlando Magic,111,94,REG,360
+nba-201012140DET,2011,,2010-12-14,Detroit Pistons,Atlanta Hawks,103,80,REG,361
+nba-201012140GSW,2011,,2010-12-14,Golden State Warriors,Minnesota Timberwolves,108,99,REG,362
+nba-201012140HOU,2011,,2010-12-14,Houston Rockets,Sacramento Kings,118,105,REG,363
+nba-201012140NJN,2011,,2010-12-14,New Jersey Nets,Philadelphia 76ers,77,82,REG,364
+nba-201012140WAS,2011,,2010-12-14,Washington Wizards,Los Angeles Lakers,89,103,REG,365
+nba-201012150DAL,2011,,2010-12-15,Dallas Mavericks,Portland Trail Blazers,103,98,REG,366
+nba-201012150IND,2011,,2010-12-15,Indiana Pacers,Los Angeles Lakers,94,109,REG,367
+nba-201012150MEM,2011,,2010-12-15,Memphis Grizzlies,Charlotte Bobcats,113,80,REG,368
+nba-201012150MIA,2011,,2010-12-15,Miami Heat,Cleveland Cavaliers,101,95,REG,369
+nba-201012150NOH,2011,,2010-12-15,New Orleans Hornets,Sacramento Kings,94,91,REG,370
+nba-201012150NYK,2011,,2010-12-15,New York Knicks,Boston Celtics,116,118,REG,371
+nba-201012150OKC,2011,,2010-12-15,Oklahoma City Thunder,Houston Rockets,117,105,REG,372
+nba-201012150PHI,2011,,2010-12-15,Philadelphia 76ers,Los Angeles Clippers,105,91,REG,373
+nba-201012150PHO,2011,,2010-12-15,Phoenix Suns,Minnesota Timberwolves,128,122,REG,374
+nba-201012150SAS,2011,,2010-12-15,San Antonio Spurs,Milwaukee Bucks,92,90,REG,375
+nba-201012150TOR,2011,,2010-12-15,Toronto Raptors,Chicago Bulls,93,110,REG,376
+nba-201012160BOS,2011,,2010-12-16,Boston Celtics,Atlanta Hawks,102,90,REG,377
+nba-201012160DEN,2011,,2010-12-16,Denver Nuggets,San Antonio Spurs,112,113,REG,378
+nba-201012160NJN,2011,,2010-12-16,New Jersey Nets,Washington Wizards,97,89,REG,379
+nba-201012170ATL,2011,,2010-12-17,Atlanta Hawks,Charlotte Bobcats,90,85,REG,380
+nba-201012170DAL,2011,,2010-12-17,Dallas Mavericks,Phoenix Suns,106,91,REG,381
+nba-201012170DET,2011,,2010-12-17,Detroit Pistons,Los Angeles Clippers,88,109,REG,382
+nba-201012170HOU,2011,,2010-12-17,Houston Rockets,Memphis Grizzlies,103,87,REG,383
+nba-201012170IND,2011,,2010-12-17,Indiana Pacers,Cleveland Cavaliers,108,99,REG,384
+nba-201012170NOH,2011,,2010-12-17,New Orleans Hornets,Utah Jazz,100,71,REG,385
+nba-201012170NYK,2011,,2010-12-17,New York Knicks,Miami Heat,91,113,REG,386
+nba-201012170OKC,2011,,2010-12-17,Oklahoma City Thunder,Sacramento Kings,102,87,REG,387
+nba-201012170PHI,2011,,2010-12-17,Philadelphia 76ers,Los Angeles Lakers,81,93,REG,388
+nba-201012170POR,2011,,2010-12-17,Portland Trail Blazers,Minnesota Timberwolves,107,102,REG,389
+nba-201012170TOR,2011,,2010-12-17,Toronto Raptors,New Jersey Nets,98,92,REG,390
+nba-201012180CHI,2011,,2010-12-18,Chicago Bulls,Los Angeles Clippers,99,100,REG,391
+nba-201012180CLE,2011,,2010-12-18,Cleveland Cavaliers,New York Knicks,109,102,REG,392
+nba-201012180DEN,2011,,2010-12-18,Denver Nuggets,Minnesota Timberwolves,115,113,REG,393
+nba-201012180MIL,2011,,2010-12-18,Milwaukee Bucks,Utah Jazz,86,95,REG,394
+nba-201012180ORL,2011,,2010-12-18,Orlando Magic,Philadelphia 76ers,89,97,REG,395
+nba-201012180POR,2011,,2010-12-18,Portland Trail Blazers,Golden State Warriors,96,95,REG,396
+nba-201012180SAS,2011,,2010-12-18,San Antonio Spurs,Memphis Grizzlies,112,106,REG,397
+nba-201012180WAS,2011,,2010-12-18,Washington Wizards,Miami Heat,94,95,REG,398
+nba-201012190BOS,2011,,2010-12-19,Boston Celtics,Indiana Pacers,99,88,REG,399
+nba-201012190DET,2011,,2010-12-19,Detroit Pistons,New Orleans Hornets,111,108,REG,400
+nba-201012190NJN,2011,,2010-12-19,New Jersey Nets,Atlanta Hawks,89,82,REG,401
+nba-201012190OKC,2011,,2010-12-19,Oklahoma City Thunder,Phoenix Suns,110,113,REG,402
+nba-201012190SAC,2011,,2010-12-19,Sacramento Kings,Houston Rockets,93,102,REG,403
+nba-201012190TOR,2011,,2010-12-19,Toronto Raptors,Los Angeles Lakers,110,120,REG,404
+nba-201012200ATL,2011,,2010-12-20,Atlanta Hawks,Orlando Magic,91,81,REG,405
+nba-201012200CLE,2011,,2010-12-20,Cleveland Cavaliers,Utah Jazz,90,101,REG,406
+nba-201012200GSW,2011,,2010-12-20,Golden State Warriors,Houston Rockets,112,121,REG,407
+nba-201012200IND,2011,,2010-12-20,Indiana Pacers,New Orleans Hornets,94,93,REG,408
+nba-201012200LAC,2011,,2010-12-20,Los Angeles Clippers,Minnesota Timberwolves,113,90,REG,409
+nba-201012200MIA,2011,,2010-12-20,Miami Heat,Dallas Mavericks,96,98,REG,410
+nba-201012200POR,2011,,2010-12-20,Portland Trail Blazers,Milwaukee Bucks,106,80,REG,411
+nba-201012200SAS,2011,,2010-12-20,San Antonio Spurs,Phoenix Suns,118,110,REG,412
+nba-201012200WAS,2011,,2010-12-20,Washington Wizards,Charlotte Bobcats,108,75,REG,413
+nba-201012210CHA,2011,,2010-12-21,Charlotte Bobcats,Oklahoma City Thunder,81,99,REG,414
+nba-201012210CHI,2011,,2010-12-21,Chicago Bulls,Philadelphia 76ers,121,76,REG,415
+nba-201012210LAL,2011,,2010-12-21,Los Angeles Lakers,Milwaukee Bucks,79,98,REG,416
+nba-201012210MEM,2011,,2010-12-21,Memphis Grizzlies,New Jersey Nets,94,101,REG,417
+nba-201012210ORL,2011,,2010-12-21,Orlando Magic,Dallas Mavericks,99,105,REG,418
+nba-201012210SAC,2011,,2010-12-21,Sacramento Kings,Golden State Warriors,109,117,REG,419
+nba-201012220ATL,2011,,2010-12-22,Atlanta Hawks,Cleveland Cavaliers,98,84,REG,420
+nba-201012220BOS,2011,,2010-12-22,Boston Celtics,Philadelphia 76ers,84,80,REG,421
+nba-201012220LAC,2011,,2010-12-22,Los Angeles Clippers,Houston Rockets,92,97,REG,422
+nba-201012220MIN,2011,,2010-12-22,Minnesota Timberwolves,Utah Jazz,107,112,REG,423
+nba-201012220NOH,2011,,2010-12-22,New Orleans Hornets,New Jersey Nets,105,91,REG,424
+nba-201012220NYK,2011,,2010-12-22,New York Knicks,Oklahoma City Thunder,112,98,REG,425
+nba-201012220SAS,2011,,2010-12-22,San Antonio Spurs,Denver Nuggets,109,103,REG,426
+nba-201012220TOR,2011,,2010-12-22,Toronto Raptors,Detroit Pistons,93,115,REG,427
+nba-201012220WAS,2011,,2010-12-22,Washington Wizards,Chicago Bulls,80,87,REG,428
+nba-201012230ORL,2011,,2010-12-23,Orlando Magic,San Antonio Spurs,123,101,REG,429
+nba-201012230PHO,2011,,2010-12-23,Phoenix Suns,Miami Heat,83,95,REG,430
+nba-201012230SAC,2011,,2010-12-23,Sacramento Kings,Milwaukee Bucks,79,84,REG,431
+nba-201012250GSW,2011,,2010-12-25,Golden State Warriors,Portland Trail Blazers,109,102,REG,432
+nba-201012250LAL,2011,,2010-12-25,Los Angeles Lakers,Miami Heat,80,96,REG,433
+nba-201012250NYK,2011,,2010-12-25,New York Knicks,Chicago Bulls,103,95,REG,434
+nba-201012250OKC,2011,,2010-12-25,Oklahoma City Thunder,Denver Nuggets,114,106,REG,435
+nba-201012250ORL,2011,,2010-12-25,Orlando Magic,Boston Celtics,86,78,REG,436
+nba-201012260CLE,2011,,2010-12-26,Cleveland Cavaliers,Minnesota Timberwolves,97,98,REG,437
+nba-201012260DEN,2011,,2010-12-26,Denver Nuggets,Philadelphia 76ers,89,95,REG,438
+nba-201012260DET,2011,,2010-12-26,Detroit Pistons,Chicago Bulls,92,95,REG,439
+nba-201012260IND,2011,,2010-12-26,Indiana Pacers,Memphis Grizzlies,90,104,REG,440
+nba-201012260LAC,2011,,2010-12-26,Los Angeles Clippers,Phoenix Suns,108,103,REG,441
+nba-201012260NOH,2011,,2010-12-26,New Orleans Hornets,Atlanta Hawks,93,86,REG,442
+nba-201012260SAS,2011,,2010-12-26,San Antonio Spurs,Washington Wizards,94,80,REG,443
+nba-201012270CHA,2011,,2010-12-27,Charlotte Bobcats,Detroit Pistons,105,100,REG,444
+nba-201012270GSW,2011,,2010-12-27,Golden State Warriors,Philadelphia 76ers,110,95,REG,445
+nba-201012270HOU,2011,,2010-12-27,Houston Rockets,Washington Wizards,100,93,REG,446
+nba-201012270MEM,2011,,2010-12-27,Memphis Grizzlies,Toronto Raptors,96,85,REG,447
+nba-201012270MIL,2011,,2010-12-27,Milwaukee Bucks,Atlanta Hawks,80,95,REG,448
+nba-201012270MIN,2011,,2010-12-27,Minnesota Timberwolves,New Orleans Hornets,113,98,REG,449
+nba-201012270NJN,2011,,2010-12-27,New Jersey Nets,Orlando Magic,88,104,REG,450
+nba-201012270OKC,2011,,2010-12-27,Oklahoma City Thunder,Dallas Mavericks,93,103,REG,451
+nba-201012270SAC,2011,,2010-12-27,Sacramento Kings,Los Angeles Clippers,99,100,REG,452
+nba-201012270UTA,2011,,2010-12-27,Utah Jazz,Portland Trail Blazers,91,96,REG,453
+nba-201012280CHI,2011,,2010-12-28,Chicago Bulls,Milwaukee Bucks,90,77,REG,454
+nba-201012280CLE,2011,,2010-12-28,Cleveland Cavaliers,Orlando Magic,95,110,REG,455
+nba-201012280DAL,2011,,2010-12-28,Dallas Mavericks,Toronto Raptors,76,84,REG,456
+nba-201012280DEN,2011,,2010-12-28,Denver Nuggets,Portland Trail Blazers,95,77,REG,457
+nba-201012280IND,2011,,2010-12-28,Indiana Pacers,Boston Celtics,83,95,REG,458
+nba-201012280MIA,2011,,2010-12-28,Miami Heat,New York Knicks,106,98,REG,459
+nba-201012280SAS,2011,,2010-12-28,San Antonio Spurs,Los Angeles Lakers,97,82,REG,460
+nba-201012290ATL,2011,,2010-12-29,Atlanta Hawks,Golden State Warriors,103,93,REG,461
+nba-201012290CHA,2011,,2010-12-29,Charlotte Bobcats,Cleveland Cavaliers,101,92,REG,462
+nba-201012290DET,2011,,2010-12-29,Detroit Pistons,Boston Celtics,104,92,REG,463
+nba-201012290HOU,2011,,2010-12-29,Houston Rockets,Miami Heat,119,125,REG,464
+nba-201012290LAC,2011,,2010-12-29,Los Angeles Clippers,Utah Jazz,95,103,REG,465
+nba-201012290MIN,2011,,2010-12-29,Minnesota Timberwolves,Denver Nuggets,113,119,REG,466
+nba-201012290NOH,2011,,2010-12-29,New Orleans Hornets,Los Angeles Lakers,88,103,REG,467
+nba-201012290OKC,2011,,2010-12-29,Oklahoma City Thunder,New Jersey Nets,114,93,REG,468
+nba-201012290PHO,2011,,2010-12-29,Phoenix Suns,Philadelphia 76ers,110,123,REG,469
+nba-201012290SAC,2011,,2010-12-29,Sacramento Kings,Memphis Grizzlies,100,98,REG,470
+nba-201012290WAS,2011,,2010-12-29,Washington Wizards,Indiana Pacers,104,90,REG,471
+nba-201012300DAL,2011,,2010-12-30,Dallas Mavericks,San Antonio Spurs,93,99,REG,472
+nba-201012300ORL,2011,,2010-12-30,Orlando Magic,New York Knicks,112,103,REG,473
+nba-201012300POR,2011,,2010-12-30,Portland Trail Blazers,Utah Jazz,100,89,REG,474
+nba-201012310BOS,2011,,2010-12-31,Boston Celtics,New Orleans Hornets,81,83,REG,475
+nba-201012310CHA,2011,,2010-12-31,Charlotte Bobcats,Golden State Warriors,95,96,REG,476
+nba-201012310CHI,2011,,2010-12-31,Chicago Bulls,New Jersey Nets,90,81,REG,477
+nba-201012310HOU,2011,,2010-12-31,Houston Rockets,Toronto Raptors,114,105,REG,478
+nba-201012310IND,2011,,2010-12-31,Indiana Pacers,Washington Wizards,95,86,REG,479
+nba-201012310LAL,2011,,2010-12-31,Los Angeles Lakers,Philadelphia 76ers,102,98,REG,480
+nba-201012310OKC,2011,,2010-12-31,Oklahoma City Thunder,Atlanta Hawks,103,94,REG,481
+nba-201012310PHO,2011,,2010-12-31,Phoenix Suns,Detroit Pistons,92,75,REG,482
+nba-201101010CHI,2011,,2011-01-01,Chicago Bulls,Cleveland Cavaliers,100,91,REG,483
+nba-201101010DEN,2011,,2011-01-01,Denver Nuggets,Sacramento Kings,104,86,REG,484
+nba-201101010MIA,2011,,2011-01-01,Miami Heat,Golden State Warriors,114,107,REG,485
+nba-201101010MIL,2011,,2011-01-01,Milwaukee Bucks,Dallas Mavericks,99,87,REG,486
+nba-201101010MIN,2011,,2011-01-01,Minnesota Timberwolves,New Jersey Nets,103,88,REG,487
+nba-201101010SAS,2011,,2011-01-01,San Antonio Spurs,Oklahoma City Thunder,101,74,REG,488
+nba-201101010UTA,2011,,2011-01-01,Utah Jazz,Memphis Grizzlies,98,92,REG,489
+nba-201101010WAS,2011,,2011-01-01,Washington Wizards,New Orleans Hornets,81,92,REG,490
+nba-201101020CLE,2011,,2011-01-02,Cleveland Cavaliers,Dallas Mavericks,95,104,REG,491
+nba-201101020LAC,2011,,2011-01-02,Los Angeles Clippers,Atlanta Hawks,98,107,REG,492
+nba-201101020LAL,2011,,2011-01-02,Los Angeles Lakers,Memphis Grizzlies,85,104,REG,493
+nba-201101020NYK,2011,,2011-01-02,New York Knicks,Indiana Pacers,98,92,REG,494
+nba-201101020POR,2011,,2011-01-02,Portland Trail Blazers,Houston Rockets,100,85,REG,495
+nba-201101020SAC,2011,,2011-01-02,Sacramento Kings,Phoenix Suns,94,89,REG,496
+nba-201101020TOR,2011,,2011-01-02,Toronto Raptors,Boston Celtics,79,93,REG,497
+nba-201101030BOS,2011,,2011-01-03,Boston Celtics,Minnesota Timberwolves,96,93,REG,498
+nba-201101030CHA,2011,,2011-01-03,Charlotte Bobcats,Miami Heat,82,96,REG,499
+nba-201101030DEN,2011,,2011-01-03,Denver Nuggets,Houston Rockets,113,106,REG,500
+nba-201101030NOH,2011,,2011-01-03,New Orleans Hornets,Philadelphia 76ers,84,77,REG,501
+nba-201101030ORL,2011,,2011-01-03,Orlando Magic,Golden State Warriors,110,90,REG,502
+nba-201101030UTA,2011,,2011-01-03,Utah Jazz,Detroit Pistons,102,97,REG,503
+nba-201101040CHI,2011,,2011-01-04,Chicago Bulls,Toronto Raptors,111,91,REG,504
+nba-201101040DAL,2011,,2011-01-04,Dallas Mavericks,Portland Trail Blazers,84,81,REG,505
+nba-201101040LAL,2011,,2011-01-04,Los Angeles Lakers,Detroit Pistons,108,83,REG,506
+nba-201101040MEM,2011,,2011-01-04,Memphis Grizzlies,Oklahoma City Thunder,110,105,REG,507
+nba-201101040MIA,2011,,2011-01-04,Miami Heat,Milwaukee Bucks,101,89,REG,508
+nba-201101040NYK,2011,,2011-01-04,New York Knicks,San Antonio Spurs,128,115,REG,509
+nba-201101040SAC,2011,,2011-01-04,Sacramento Kings,Atlanta Hawks,102,108,REG,510
+nba-201101050BOS,2011,,2011-01-05,Boston Celtics,San Antonio Spurs,105,103,REG,511
+nba-201101050CLE,2011,,2011-01-05,Cleveland Cavaliers,Toronto Raptors,105,120,REG,512
+nba-201101050HOU,2011,,2011-01-05,Houston Rockets,Portland Trail Blazers,100,103,REG,513
+nba-201101050LAC,2011,,2011-01-05,Los Angeles Clippers,Denver Nuggets,106,93,REG,514
+nba-201101050MIN,2011,,2011-01-05,Minnesota Timberwolves,Charlotte Bobcats,105,108,REG,515
+nba-201101050NJN,2011,,2011-01-05,New Jersey Nets,Chicago Bulls,96,94,REG,516
+nba-201101050NOH,2011,,2011-01-05,New Orleans Hornets,Golden State Warriors,103,110,REG,517
+nba-201101050ORL,2011,,2011-01-05,Orlando Magic,Milwaukee Bucks,97,87,REG,518
+nba-201101050PHI,2011,,2011-01-05,Philadelphia 76ers,Washington Wizards,109,97,REG,519
+nba-201101050PHO,2011,,2011-01-05,Phoenix Suns,Los Angeles Lakers,95,99,REG,520
+nba-201101050UTA,2011,,2011-01-05,Utah Jazz,Atlanta Hawks,87,110,REG,521
+nba-201101060DAL,2011,,2011-01-06,Dallas Mavericks,Oklahoma City Thunder,95,99,REG,522
+nba-201101060SAC,2011,,2011-01-06,Sacramento Kings,Denver Nuggets,122,102,REG,523
+nba-201101070BOS,2011,,2011-01-07,Boston Celtics,Toronto Raptors,122,102,REG,524
+nba-201101070GSW,2011,,2011-01-07,Golden State Warriors,Cleveland Cavaliers,116,98,REG,525
+nba-201101070IND,2011,,2011-01-07,Indiana Pacers,San Antonio Spurs,87,90,REG,526
+nba-201101070LAL,2011,,2011-01-07,Los Angeles Lakers,New Orleans Hornets,101,97,REG,527
+nba-201101070MEM,2011,,2011-01-07,Memphis Grizzlies,Utah Jazz,110,99,REG,528
+nba-201101070MIL,2011,,2011-01-07,Milwaukee Bucks,Miami Heat,95,101,REG,529
+nba-201101070MIN,2011,,2011-01-07,Minnesota Timberwolves,Portland Trail Blazers,98,108,REG,530
+nba-201101070ORL,2011,,2011-01-07,Orlando Magic,Houston Rockets,110,95,REG,531
+nba-201101070PHI,2011,,2011-01-07,Philadelphia 76ers,Chicago Bulls,105,99,REG,532
+nba-201101070PHO,2011,,2011-01-07,Phoenix Suns,New York Knicks,96,121,REG,533
+nba-201101070WAS,2011,,2011-01-07,Washington Wizards,New Jersey Nets,97,77,REG,534
+nba-201101080ATL,2011,,2011-01-08,Atlanta Hawks,Indiana Pacers,108,93,REG,535
+nba-201101080CHA,2011,,2011-01-08,Charlotte Bobcats,Washington Wizards,104,89,REG,536
+nba-201101080CHI,2011,,2011-01-08,Chicago Bulls,Boston Celtics,90,79,REG,537
+nba-201101080DAL,2011,,2011-01-08,Dallas Mavericks,Orlando Magic,107,117,REG,538
+nba-201101080DET,2011,,2011-01-08,Detroit Pistons,Philadelphia 76ers,112,109,REG,539
+nba-201101080HOU,2011,,2011-01-08,Houston Rockets,Utah Jazz,99,103,REG,540
+nba-201101080NJN,2011,,2011-01-08,New Jersey Nets,Milwaukee Bucks,92,115,REG,541
+nba-201101080OKC,2011,,2011-01-08,Oklahoma City Thunder,Memphis Grizzlies,109,100,REG,542
+nba-201101090DEN,2011,,2011-01-09,Denver Nuggets,New Orleans Hornets,87,96,REG,543
+nba-201101090LAC,2011,,2011-01-09,Los Angeles Clippers,Golden State Warriors,105,91,REG,544
+nba-201101090LAL,2011,,2011-01-09,Los Angeles Lakers,New York Knicks,109,87,REG,545
+nba-201101090PHO,2011,,2011-01-09,Phoenix Suns,Cleveland Cavaliers,108,100,REG,546
+nba-201101090POR,2011,,2011-01-09,Portland Trail Blazers,Miami Heat,100,107,REG,547
+nba-201101090SAS,2011,,2011-01-09,San Antonio Spurs,Minnesota Timberwolves,94,91,REG,548
+nba-201101090TOR,2011,,2011-01-09,Toronto Raptors,Sacramento Kings,118,112,REG,549
+nba-201101100BOS,2011,,2011-01-10,Boston Celtics,Houston Rockets,102,108,REG,550
+nba-201101100CHA,2011,,2011-01-10,Charlotte Bobcats,Memphis Grizzlies,96,82,REG,551
+nba-201101100CHI,2011,,2011-01-10,Chicago Bulls,Detroit Pistons,95,82,REG,552
+nba-201101110DEN,2011,,2011-01-11,Denver Nuggets,Phoenix Suns,132,98,REG,553
+nba-201101110LAL,2011,,2011-01-11,Los Angeles Lakers,Cleveland Cavaliers,112,57,REG,554
+nba-201101110MIN,2011,,2011-01-11,Minnesota Timberwolves,San Antonio Spurs,96,107,REG,555
+nba-201101110PHI,2011,,2011-01-11,Philadelphia 76ers,Indiana Pacers,103,111,REG,556
+nba-201101110POR,2011,,2011-01-11,Portland Trail Blazers,New York Knicks,86,100,REG,557
+nba-201101110WAS,2011,,2011-01-11,Washington Wizards,Sacramento Kings,136,133,REG,558
+nba-201101120BOS,2011,,2011-01-12,Boston Celtics,Sacramento Kings,119,95,REG,559
+nba-201101120CHA,2011,,2011-01-12,Charlotte Bobcats,Chicago Bulls,96,91,REG,560
+nba-201101120DET,2011,,2011-01-12,Detroit Pistons,Memphis Grizzlies,99,107,REG,561
+nba-201101120GSW,2011,,2011-01-12,Golden State Warriors,Los Angeles Lakers,110,115,REG,562
+nba-201101120HOU,2011,,2011-01-12,Houston Rockets,Oklahoma City Thunder,112,118,REG,563
+nba-201101120IND,2011,,2011-01-12,Indiana Pacers,Dallas Mavericks,102,89,REG,564
+nba-201101120LAC,2011,,2011-01-12,Los Angeles Clippers,Miami Heat,111,105,REG,565
+nba-201101120MIL,2011,,2011-01-12,Milwaukee Bucks,San Antonio Spurs,84,91,REG,566
+nba-201101120NOH,2011,,2011-01-12,New Orleans Hornets,Orlando Magic,92,89,REG,567
+nba-201101120PHO,2011,,2011-01-12,Phoenix Suns,New Jersey Nets,118,109,REG,568
+nba-201101120TOR,2011,,2011-01-12,Toronto Raptors,Atlanta Hawks,101,104,REG,569
+nba-201101120UTA,2011,,2011-01-12,Utah Jazz,New York Knicks,131,125,REG,570
+nba-201101130DEN,2011,,2011-01-13,Denver Nuggets,Miami Heat,130,102,REG,571
+nba-201101130MIN,2011,,2011-01-13,Minnesota Timberwolves,Washington Wizards,109,97,REG,572
+nba-201101130OKC,2011,,2011-01-13,Oklahoma City Thunder,Orlando Magic,125,124,REG,573
+nba-201101140BOS,2011,,2011-01-14,Boston Celtics,Charlotte Bobcats,99,94,REG,574
+nba-201101140GSW,2011,,2011-01-14,Golden State Warriors,Los Angeles Clippers,122,112,REG,575
+nba-201101140HOU,2011,,2011-01-14,Houston Rockets,New Orleans Hornets,105,110,REG,576
+nba-201101140IND,2011,,2011-01-14,Indiana Pacers,Chicago Bulls,86,99,REG,577
+nba-201101140LAL,2011,,2011-01-14,Los Angeles Lakers,New Jersey Nets,100,88,REG,578
+nba-201101140NYK,2011,,2011-01-14,New York Knicks,Sacramento Kings,83,93,REG,579
+nba-201101140PHI,2011,,2011-01-14,Philadelphia 76ers,Milwaukee Bucks,95,94,REG,580
+nba-201101140PHO,2011,,2011-01-14,Phoenix Suns,Portland Trail Blazers,115,111,REG,581
+nba-201101140SAS,2011,,2011-01-14,San Antonio Spurs,Dallas Mavericks,101,89,REG,582
+nba-201101140TOR,2011,,2011-01-14,Toronto Raptors,Detroit Pistons,95,101,REG,583
+nba-201101140UTA,2011,,2011-01-14,Utah Jazz,Cleveland Cavaliers,121,99,REG,584
+nba-201101150ATL,2011,,2011-01-15,Atlanta Hawks,Houston Rockets,106,112,REG,585
+nba-201101150CHA,2011,,2011-01-15,Charlotte Bobcats,New Orleans Hornets,81,88,REG,586
+nba-201101150CHI,2011,,2011-01-15,Chicago Bulls,Miami Heat,99,96,REG,587
+nba-201101150DEN,2011,,2011-01-15,Denver Nuggets,Cleveland Cavaliers,127,99,REG,588
+nba-201101150DET,2011,,2011-01-15,Detroit Pistons,Sacramento Kings,110,106,REG,589
+nba-201101150MEM,2011,,2011-01-15,Memphis Grizzlies,Dallas Mavericks,89,70,REG,590
+nba-201101150MIN,2011,,2011-01-15,Minnesota Timberwolves,Orlando Magic,99,108,REG,591
+nba-201101150POR,2011,,2011-01-15,Portland Trail Blazers,New Jersey Nets,96,89,REG,592
+nba-201101150WAS,2011,,2011-01-15,Washington Wizards,Toronto Raptors,98,95,REG,593
+nba-201101160LAC,2011,,2011-01-16,Los Angeles Clippers,Los Angeles Lakers,99,92,REG,594
+nba-201101160SAS,2011,,2011-01-16,San Antonio Spurs,Denver Nuggets,110,97,REG,595
+nba-201101170ATL,2011,,2011-01-17,Atlanta Hawks,Sacramento Kings,100,98,REG,596
+nba-201101170BOS,2011,,2011-01-17,Boston Celtics,Orlando Magic,109,106,REG,597
+nba-201101170DET,2011,,2011-01-17,Detroit Pistons,Dallas Mavericks,103,89,REG,598
+nba-201101170GSW,2011,,2011-01-17,Golden State Warriors,New Jersey Nets,109,100,REG,599
+nba-201101170HOU,2011,,2011-01-17,Houston Rockets,Milwaukee Bucks,93,84,REG,600
+nba-201101170LAC,2011,,2011-01-17,Los Angeles Clippers,Indiana Pacers,114,107,REG,601
+nba-201101170LAL,2011,,2011-01-17,Los Angeles Lakers,Oklahoma City Thunder,101,94,REG,602
+nba-201101170MEM,2011,,2011-01-17,Memphis Grizzlies,Chicago Bulls,84,96,REG,603
+nba-201101170NOH,2011,,2011-01-17,New Orleans Hornets,Toronto Raptors,85,81,REG,604
+nba-201101170NYK,2011,,2011-01-17,New York Knicks,Phoenix Suns,121,129,REG,605
+nba-201101170PHI,2011,,2011-01-17,Philadelphia 76ers,Charlotte Bobcats,96,92,REG,606
+nba-201101170POR,2011,,2011-01-17,Portland Trail Blazers,Minnesota Timberwolves,113,102,REG,607
+nba-201101170WAS,2011,,2011-01-17,Washington Wizards,Utah Jazz,108,101,REG,608
+nba-201101180CHI,2011,,2011-01-18,Chicago Bulls,Charlotte Bobcats,82,83,REG,609
+nba-201101180MIA,2011,,2011-01-18,Miami Heat,Atlanta Hawks,89,93,REG,610
+nba-201101190BOS,2011,,2011-01-19,Boston Celtics,Detroit Pistons,86,82,REG,611
+nba-201101190CLE,2011,,2011-01-19,Cleveland Cavaliers,Phoenix Suns,98,106,REG,612
+nba-201101190DAL,2011,,2011-01-19,Dallas Mavericks,Los Angeles Lakers,109,100,REG,613
+nba-201101190DEN,2011,,2011-01-19,Denver Nuggets,Oklahoma City Thunder,112,107,REG,614
+nba-201101190GSW,2011,,2011-01-19,Golden State Warriors,Indiana Pacers,110,108,REG,615
+nba-201101190HOU,2011,,2011-01-19,Houston Rockets,New York Knicks,104,89,REG,616
+nba-201101190LAC,2011,,2011-01-19,Los Angeles Clippers,Minnesota Timberwolves,126,111,REG,617
+nba-201101190MIL,2011,,2011-01-19,Milwaukee Bucks,Washington Wizards,100,87,REG,618
+nba-201101190NJN,2011,,2011-01-19,New Jersey Nets,Utah Jazz,103,95,REG,619
+nba-201101190NOH,2011,,2011-01-19,New Orleans Hornets,Memphis Grizzlies,103,102,REG,620
+nba-201101190ORL,2011,,2011-01-19,Orlando Magic,Philadelphia 76ers,99,98,REG,621
+nba-201101190SAC,2011,,2011-01-19,Sacramento Kings,Portland Trail Blazers,90,94,REG,622
+nba-201101190SAS,2011,,2011-01-19,San Antonio Spurs,Toronto Raptors,104,95,REG,623
+nba-201101200CHA,2011,,2011-01-20,Charlotte Bobcats,Philadelphia 76ers,100,97,REG,624
+nba-201101200CHI,2011,,2011-01-20,Chicago Bulls,Dallas Mavericks,82,77,REG,625
+nba-201101200POR,2011,,2011-01-20,Portland Trail Blazers,Los Angeles Clippers,108,93,REG,626
+nba-201101210ATL,2011,,2011-01-21,Atlanta Hawks,New Orleans Hornets,59,100,REG,627
+nba-201101210BOS,2011,,2011-01-21,Boston Celtics,Utah Jazz,110,86,REG,628
+nba-201101210CLE,2011,,2011-01-21,Cleveland Cavaliers,Milwaukee Bucks,88,102,REG,629
+nba-201101210DEN,2011,,2011-01-21,Denver Nuggets,Los Angeles Lakers,97,107,REG,630
+nba-201101210GSW,2011,,2011-01-21,Golden State Warriors,Sacramento Kings,119,112,REG,631
+nba-201101210MEM,2011,,2011-01-21,Memphis Grizzlies,Houston Rockets,115,110,REG,632
+nba-201101210NJN,2011,,2011-01-21,New Jersey Nets,Detroit Pistons,89,74,REG,633
+nba-201101210ORL,2011,,2011-01-21,Orlando Magic,Toronto Raptors,112,72,REG,634
+nba-201101210SAS,2011,,2011-01-21,San Antonio Spurs,New York Knicks,101,92,REG,635
+nba-201101210WAS,2011,,2011-01-21,Washington Wizards,Phoenix Suns,91,109,REG,636
+nba-201101220CHA,2011,,2011-01-22,Charlotte Bobcats,Atlanta Hawks,87,103,REG,637
+nba-201101220CHI,2011,,2011-01-22,Chicago Bulls,Cleveland Cavaliers,92,79,REG,638
+nba-201101220DET,2011,,2011-01-22,Detroit Pistons,Phoenix Suns,75,74,REG,639
+nba-201101220HOU,2011,,2011-01-22,Houston Rockets,Orlando Magic,104,118,REG,640
+nba-201101220LAC,2011,,2011-01-22,Los Angeles Clippers,Golden State Warriors,113,109,REG,641
+nba-201101220MIA,2011,,2011-01-22,Miami Heat,Toronto Raptors,120,103,REG,642
+nba-201101220MIL,2011,,2011-01-22,Milwaukee Bucks,Memphis Grizzlies,81,94,REG,643
+nba-201101220NJN,2011,,2011-01-22,New Jersey Nets,Dallas Mavericks,86,87,REG,644
+nba-201101220NOH,2011,,2011-01-22,New Orleans Hornets,San Antonio Spurs,96,72,REG,645
+nba-201101220OKC,2011,,2011-01-22,Oklahoma City Thunder,New York Knicks,101,98,REG,646
+nba-201101220PHI,2011,,2011-01-22,Philadelphia 76ers,Utah Jazz,96,85,REG,647
+nba-201101220POR,2011,,2011-01-22,Portland Trail Blazers,Indiana Pacers,97,92,REG,648
+nba-201101220WAS,2011,,2011-01-22,Washington Wizards,Boston Celtics,85,83,REG,649
+nba-201101230DEN,2011,,2011-01-23,Denver Nuggets,Indiana Pacers,121,107,REG,650
+nba-201101240CHI,2011,,2011-01-24,Chicago Bulls,Milwaukee Bucks,92,83,REG,651
+nba-201101240GSW,2011,,2011-01-24,Golden State Warriors,San Antonio Spurs,102,113,REG,652
+nba-201101240MIN,2011,,2011-01-24,Minnesota Timberwolves,Houston Rockets,125,129,REG,653
+nba-201101240NJN,2011,,2011-01-24,New Jersey Nets,Cleveland Cavaliers,103,101,REG,654
+nba-201101240NOH,2011,,2011-01-24,New Orleans Hornets,Oklahoma City Thunder,91,89,REG,655
+nba-201101240NYK,2011,,2011-01-24,New York Knicks,Washington Wizards,115,106,REG,656
+nba-201101240ORL,2011,,2011-01-24,Orlando Magic,Detroit Pistons,96,103,REG,657
+nba-201101240PHI,2011,,2011-01-24,Philadelphia 76ers,Phoenix Suns,105,95,REG,658
+nba-201101240POR,2011,,2011-01-24,Portland Trail Blazers,Sacramento Kings,81,96,REG,659
+nba-201101240TOR,2011,,2011-01-24,Toronto Raptors,Memphis Grizzlies,98,100,REG,660
+nba-201101250BOS,2011,,2011-01-25,Boston Celtics,Cleveland Cavaliers,112,95,REG,661
+nba-201101250DAL,2011,,2011-01-25,Dallas Mavericks,Los Angeles Clippers,112,105,REG,662
+nba-201101250LAL,2011,,2011-01-25,Los Angeles Lakers,Utah Jazz,120,91,REG,663
+nba-201101250SAC,2011,,2011-01-25,Sacramento Kings,Charlotte Bobcats,89,94,REG,664
+nba-201101250WAS,2011,,2011-01-25,Washington Wizards,Denver Nuggets,109,120,REG,665
+nba-201101260DET,2011,,2011-01-26,Detroit Pistons,Denver Nuggets,100,109,REG,666
+nba-201101260GSW,2011,,2011-01-26,Golden State Warriors,New Orleans Hornets,103,112,REG,667
+nba-201101260HOU,2011,,2011-01-26,Houston Rockets,Los Angeles Clippers,96,83,REG,668
+nba-201101260IND,2011,,2011-01-26,Indiana Pacers,Orlando Magic,96,111,REG,669
+nba-201101260MIL,2011,,2011-01-26,Milwaukee Bucks,Atlanta Hawks,98,90,REG,670
+nba-201101260MIN,2011,,2011-01-26,Minnesota Timberwolves,Oklahoma City Thunder,117,118,REG,671
+nba-201101260NJN,2011,,2011-01-26,New Jersey Nets,Memphis Grizzlies,93,88,REG,672
+nba-201101260PHO,2011,,2011-01-26,Phoenix Suns,Charlotte Bobcats,107,114,REG,673
+nba-201101260TOR,2011,,2011-01-26,Toronto Raptors,Philadelphia 76ers,94,107,REG,674
+nba-201101260UTA,2011,,2011-01-26,Utah Jazz,San Antonio Spurs,105,112,REG,675
+nba-201101270DAL,2011,,2011-01-27,Dallas Mavericks,Houston Rockets,111,106,REG,676
+nba-201101270NYK,2011,,2011-01-27,New York Knicks,Miami Heat,93,88,REG,677
+nba-201101270POR,2011,,2011-01-27,Portland Trail Blazers,Boston Celtics,78,88,REG,678
+nba-201101280ATL,2011,,2011-01-28,Atlanta Hawks,New York Knicks,111,102,REG,679
+nba-201101280CHI,2011,,2011-01-28,Chicago Bulls,Orlando Magic,99,90,REG,680
+nba-201101280CLE,2011,,2011-01-28,Cleveland Cavaliers,Denver Nuggets,103,117,REG,681
+nba-201101280GSW,2011,,2011-01-28,Golden State Warriors,Charlotte Bobcats,113,121,REG,682
+nba-201101280IND,2011,,2011-01-28,Indiana Pacers,New Jersey Nets,124,92,REG,683
+nba-201101280LAL,2011,,2011-01-28,Los Angeles Lakers,Sacramento Kings,95,100,REG,684
+nba-201101280MIA,2011,,2011-01-28,Miami Heat,Detroit Pistons,88,87,REG,685
+nba-201101280OKC,2011,,2011-01-28,Oklahoma City Thunder,Washington Wizards,124,117,REG,686
+nba-201101280PHI,2011,,2011-01-28,Philadelphia 76ers,Memphis Grizzlies,94,99,REG,687
+nba-201101280PHO,2011,,2011-01-28,Phoenix Suns,Boston Celtics,88,71,REG,688
+nba-201101280TOR,2011,,2011-01-28,Toronto Raptors,Milwaukee Bucks,110,116,REG,689
+nba-201101280UTA,2011,,2011-01-28,Utah Jazz,Minnesota Timberwolves,108,100,REG,690
+nba-201101290CHI,2011,,2011-01-29,Chicago Bulls,Indiana Pacers,110,89,REG,691
+nba-201101290DAL,2011,,2011-01-29,Dallas Mavericks,Atlanta Hawks,102,91,REG,692
+nba-201101290LAC,2011,,2011-01-29,Los Angeles Clippers,Charlotte Bobcats,103,88,REG,693
+nba-201101290MEM,2011,,2011-01-29,Memphis Grizzlies,Washington Wizards,107,93,REG,694
+nba-201101290MIL,2011,,2011-01-29,Milwaukee Bucks,New Jersey Nets,91,81,REG,695
+nba-201101290MIN,2011,,2011-01-29,Minnesota Timberwolves,Toronto Raptors,103,87,REG,696
+nba-201101290SAC,2011,,2011-01-29,Sacramento Kings,New Orleans Hornets,102,96,REG,697
+nba-201101290SAS,2011,,2011-01-29,San Antonio Spurs,Houston Rockets,108,95,REG,698
+nba-201101300GSW,2011,,2011-01-30,Golden State Warriors,Utah Jazz,96,81,REG,699
+nba-201101300LAL,2011,,2011-01-30,Los Angeles Lakers,Boston Celtics,96,109,REG,700
+nba-201101300NYK,2011,,2011-01-30,New York Knicks,Detroit Pistons,124,106,REG,701
+nba-201101300OKC,2011,,2011-01-30,Oklahoma City Thunder,Miami Heat,103,108,REG,702
+nba-201101300ORL,2011,,2011-01-30,Orlando Magic,Cleveland Cavaliers,103,87,REG,703
+nba-201101300PHI,2011,,2011-01-30,Philadelphia 76ers,Denver Nuggets,110,99,REG,704
+nba-201101300PHO,2011,,2011-01-30,Phoenix Suns,New Orleans Hornets,104,102,REG,705
+nba-201101310DAL,2011,,2011-01-31,Dallas Mavericks,Washington Wizards,102,92,REG,706
+nba-201101310IND,2011,,2011-01-31,Indiana Pacers,Toronto Raptors,104,93,REG,707
+nba-201101310LAC,2011,,2011-01-31,Los Angeles Clippers,Milwaukee Bucks,105,98,REG,708
+nba-201101310MEM,2011,,2011-01-31,Memphis Grizzlies,Orlando Magic,100,97,REG,709
+nba-201101310MIA,2011,,2011-01-31,Miami Heat,Cleveland Cavaliers,117,90,REG,710
+nba-201101310NJN,2011,,2011-01-31,New Jersey Nets,Denver Nuggets,115,99,REG,711
+nba-201101310UTA,2011,,2011-01-31,Utah Jazz,Charlotte Bobcats,83,78,REG,712
+nba-201102010LAL,2011,,2011-02-01,Los Angeles Lakers,Houston Rockets,114,106,REG,713
+nba-201102010NOH,2011,,2011-02-01,New Orleans Hornets,Washington Wizards,97,89,REG,714
+nba-201102010POR,2011,,2011-02-01,Portland Trail Blazers,San Antonio Spurs,99,86,REG,715
+nba-201102010SAC,2011,,2011-02-01,Sacramento Kings,Boston Celtics,90,95,REG,716
+nba-201102020ATL,2011,,2011-02-02,Atlanta Hawks,Toronto Raptors,100,87,REG,717
+nba-201102020CLE,2011,,2011-02-02,Cleveland Cavaliers,Indiana Pacers,112,117,REG,718
+nba-201102020DEN,2011,,2011-02-02,Denver Nuggets,Portland Trail Blazers,109,90,REG,719
+nba-201102020DET,2011,,2011-02-02,Detroit Pistons,Charlotte Bobcats,87,97,REG,720
+nba-201102020LAC,2011,,2011-02-02,Los Angeles Clippers,Chicago Bulls,88,106,REG,721
+nba-201102020MIN,2011,,2011-02-02,Minnesota Timberwolves,Memphis Grizzlies,84,102,REG,722
+nba-201102020NJN,2011,,2011-02-02,New Jersey Nets,Philadelphia 76ers,92,106,REG,723
+nba-201102020NYK,2011,,2011-02-02,New York Knicks,Dallas Mavericks,97,113,REG,724
+nba-201102020OKC,2011,,2011-02-02,Oklahoma City Thunder,New Orleans Hornets,104,93,REG,725
+nba-201102020PHO,2011,,2011-02-02,Phoenix Suns,Milwaukee Bucks,92,77,REG,726
+nba-201102020UTA,2011,,2011-02-02,Utah Jazz,Houston Rockets,96,97,REG,727
+nba-201102030GSW,2011,,2011-02-03,Golden State Warriors,Milwaukee Bucks,100,94,REG,728
+nba-201102030LAL,2011,,2011-02-03,Los Angeles Lakers,San Antonio Spurs,88,89,REG,729
+nba-201102030ORL,2011,,2011-02-03,Orlando Magic,Miami Heat,100,104,REG,730
+nba-201102040ATL,2011,,2011-02-04,Atlanta Hawks,Los Angeles Clippers,101,100,REG,731
+nba-201102040BOS,2011,,2011-02-04,Boston Celtics,Dallas Mavericks,97,101,REG,732
+nba-201102040CHA,2011,,2011-02-04,Charlotte Bobcats,Miami Heat,97,109,REG,733
+nba-201102040DEN,2011,,2011-02-04,Denver Nuggets,Utah Jazz,106,113,REG,734
+nba-201102040DET,2011,,2011-02-04,Detroit Pistons,New Jersey Nets,92,82,REG,735
+nba-201102040IND,2011,,2011-02-04,Indiana Pacers,Portland Trail Blazers,100,87,REG,736
+nba-201102040MEM,2011,,2011-02-04,Memphis Grizzlies,Cleveland Cavaliers,112,105,REG,737
+nba-201102040PHI,2011,,2011-02-04,Philadelphia 76ers,New York Knicks,100,98,REG,738
+nba-201102040PHO,2011,,2011-02-04,Phoenix Suns,Oklahoma City Thunder,107,111,REG,739
+nba-201102040SAC,2011,,2011-02-04,Sacramento Kings,San Antonio Spurs,100,113,REG,740
+nba-201102040TOR,2011,,2011-02-04,Toronto Raptors,Minnesota Timberwolves,111,100,REG,741
+nba-201102040WAS,2011,,2011-02-04,Washington Wizards,Orlando Magic,92,110,REG,742
+nba-201102050CHA,2011,,2011-02-05,Charlotte Bobcats,Dallas Mavericks,92,101,REG,743
+nba-201102050CLE,2011,,2011-02-05,Cleveland Cavaliers,Portland Trail Blazers,105,111,REG,744
+nba-201102050GSW,2011,,2011-02-05,Golden State Warriors,Chicago Bulls,101,90,REG,745
+nba-201102050HOU,2011,,2011-02-05,Houston Rockets,Memphis Grizzlies,95,93,REG,746
+nba-201102050MIL,2011,,2011-02-05,Milwaukee Bucks,Detroit Pistons,78,89,REG,747
+nba-201102050MIN,2011,,2011-02-05,Minnesota Timberwolves,Denver Nuggets,100,113,REG,748
+nba-201102050NOH,2011,,2011-02-05,New Orleans Hornets,Los Angeles Lakers,95,101,REG,749
+nba-201102050UTA,2011,,2011-02-05,Utah Jazz,Oklahoma City Thunder,105,121,REG,750
+nba-201102050WAS,2011,,2011-02-05,Washington Wizards,Atlanta Hawks,92,99,REG,751
+nba-201102060BOS,2011,,2011-02-06,Boston Celtics,Orlando Magic,91,80,REG,752
+nba-201102060MIA,2011,,2011-02-06,Miami Heat,Los Angeles Clippers,97,79,REG,753
+nba-201102060NJN,2011,,2011-02-06,New Jersey Nets,Indiana Pacers,86,105,REG,754
+nba-201102060NYK,2011,,2011-02-06,New York Knicks,Philadelphia 76ers,117,103,REG,755
+nba-201102070CHA,2011,,2011-02-07,Charlotte Bobcats,Boston Celtics,94,89,REG,756
+nba-201102070DAL,2011,,2011-02-07,Dallas Mavericks,Cleveland Cavaliers,99,96,REG,757
+nba-201102070DEN,2011,,2011-02-07,Denver Nuggets,Houston Rockets,103,108,REG,758
+nba-201102070GSW,2011,,2011-02-07,Golden State Warriors,Phoenix Suns,92,104,REG,759
+nba-201102070MEM,2011,,2011-02-07,Memphis Grizzlies,Los Angeles Lakers,84,93,REG,760
+nba-201102070NOH,2011,,2011-02-07,New Orleans Hornets,Minnesota Timberwolves,92,104,REG,761
+nba-201102070POR,2011,,2011-02-07,Portland Trail Blazers,Chicago Bulls,109,103,REG,762
+nba-201102070SAC,2011,,2011-02-07,Sacramento Kings,Utah Jazz,104,107,REG,763
+nba-201102080ATL,2011,,2011-02-08,Atlanta Hawks,Philadelphia 76ers,83,117,REG,764
+nba-201102080DET,2011,,2011-02-08,Detroit Pistons,San Antonio Spurs,89,100,REG,765
+nba-201102080HOU,2011,,2011-02-08,Houston Rockets,Minnesota Timberwolves,108,112,REG,766
+nba-201102080MIA,2011,,2011-02-08,Miami Heat,Indiana Pacers,117,112,REG,767
+nba-201102080MIL,2011,,2011-02-08,Milwaukee Bucks,Toronto Raptors,92,74,REG,768
+nba-201102080OKC,2011,,2011-02-08,Oklahoma City Thunder,Memphis Grizzlies,101,105,REG,769
+nba-201102080ORL,2011,,2011-02-08,Orlando Magic,Los Angeles Clippers,101,85,REG,770
+nba-201102090CLE,2011,,2011-02-09,Cleveland Cavaliers,Detroit Pistons,94,103,REG,771
+nba-201102090GSW,2011,,2011-02-09,Golden State Warriors,Denver Nuggets,116,114,REG,772
+nba-201102090IND,2011,,2011-02-09,Indiana Pacers,Charlotte Bobcats,104,103,REG,773
+nba-201102090NJN,2011,,2011-02-09,New Jersey Nets,New Orleans Hornets,103,101,REG,774
+nba-201102090NYK,2011,,2011-02-09,New York Knicks,Los Angeles Clippers,108,116,REG,775
+nba-201102090PHI,2011,,2011-02-09,Philadelphia 76ers,Orlando Magic,95,99,REG,776
+nba-201102090SAC,2011,,2011-02-09,Sacramento Kings,Dallas Mavericks,100,102,REG,777
+nba-201102090TOR,2011,,2011-02-09,Toronto Raptors,San Antonio Spurs,100,111,REG,778
+nba-201102090UTA,2011,,2011-02-09,Utah Jazz,Chicago Bulls,86,91,REG,779
+nba-201102090WAS,2011,,2011-02-09,Washington Wizards,Milwaukee Bucks,100,85,REG,780
+nba-201102100BOS,2011,,2011-02-10,Boston Celtics,Los Angeles Lakers,86,92,REG,781
+nba-201102100DEN,2011,,2011-02-10,Denver Nuggets,Dallas Mavericks,121,120,REG,782
+nba-201102100PHO,2011,,2011-02-10,Phoenix Suns,Golden State Warriors,112,88,REG,783
+nba-201102110CHA,2011,,2011-02-11,Charlotte Bobcats,New Jersey Nets,89,94,REG,784
+nba-201102110CLE,2011,,2011-02-11,Cleveland Cavaliers,Los Angeles Clippers,126,119,REG,785
+nba-201102110DET,2011,,2011-02-11,Detroit Pistons,Miami Heat,92,106,REG,786
+nba-201102110IND,2011,,2011-02-11,Indiana Pacers,Minnesota Timberwolves,116,105,REG,787
+nba-201102110MEM,2011,,2011-02-11,Memphis Grizzlies,Milwaukee Bucks,89,86,REG,788
+nba-201102110NYK,2011,,2011-02-11,New York Knicks,Los Angeles Lakers,96,113,REG,789
+nba-201102110ORL,2011,,2011-02-11,Orlando Magic,New Orleans Hornets,93,99,REG,790
+nba-201102110PHI,2011,,2011-02-11,Philadelphia 76ers,San Antonio Spurs,77,71,REG,791
+nba-201102110TOR,2011,,2011-02-11,Toronto Raptors,Portland Trail Blazers,96,102,REG,792
+nba-201102110UTA,2011,,2011-02-11,Utah Jazz,Phoenix Suns,83,95,REG,793
+nba-201102120ATL,2011,,2011-02-12,Atlanta Hawks,Charlotte Bobcats,86,88,REG,794
+nba-201102120HOU,2011,,2011-02-12,Houston Rockets,Dallas Mavericks,102,106,REG,795
+nba-201102120MIL,2011,,2011-02-12,Milwaukee Bucks,Indiana Pacers,97,103,REG,796
+nba-201102120MIN,2011,,2011-02-12,Minnesota Timberwolves,Philadelphia 76ers,87,107,REG,797
+nba-201102120NJN,2011,,2011-02-12,New Jersey Nets,New York Knicks,95,105,REG,798
+nba-201102120NOH,2011,,2011-02-12,New Orleans Hornets,Chicago Bulls,88,97,REG,799
+nba-201102120SAC,2011,,2011-02-12,Sacramento Kings,Oklahoma City Thunder,97,99,REG,800
+nba-201102120WAS,2011,,2011-02-12,Washington Wizards,San Antonio Spurs,94,118,REG,801
+nba-201102130BOS,2011,,2011-02-13,Boston Celtics,Miami Heat,85,82,REG,802
+nba-201102130CLE,2011,,2011-02-13,Cleveland Cavaliers,Washington Wizards,100,115,REG,803
+nba-201102130DET,2011,,2011-02-13,Detroit Pistons,Portland Trail Blazers,100,105,REG,804
+nba-201102130GSW,2011,,2011-02-13,Golden State Warriors,Oklahoma City Thunder,100,94,REG,805
+nba-201102130MEM,2011,,2011-02-13,Memphis Grizzlies,Denver Nuggets,116,108,REG,806
+nba-201102130ORL,2011,,2011-02-13,Orlando Magic,Los Angeles Lakers,89,75,REG,807
+nba-201102130PHO,2011,,2011-02-13,Phoenix Suns,Sacramento Kings,108,113,REG,808
+nba-201102130TOR,2011,,2011-02-13,Toronto Raptors,Los Angeles Clippers,98,93,REG,809
+nba-201102140CHA,2011,,2011-02-14,Charlotte Bobcats,Los Angeles Lakers,109,89,REG,810
+nba-201102140DET,2011,,2011-02-14,Detroit Pistons,Atlanta Hawks,79,94,REG,811
+nba-201102140HOU,2011,,2011-02-14,Houston Rockets,Denver Nuggets,121,102,REG,812
+nba-201102140MIL,2011,,2011-02-14,Milwaukee Bucks,Los Angeles Clippers,102,78,REG,813
+nba-201102140MIN,2011,,2011-02-14,Minnesota Timberwolves,Portland Trail Blazers,81,95,REG,814
+nba-201102140NJN,2011,,2011-02-14,New Jersey Nets,San Antonio Spurs,85,102,REG,815
+nba-201102150CHI,2011,,2011-02-15,Chicago Bulls,Charlotte Bobcats,106,94,REG,816
+nba-201102150GSW,2011,,2011-02-15,Golden State Warriors,New Orleans Hornets,102,89,REG,817
+nba-201102150IND,2011,,2011-02-15,Indiana Pacers,Miami Heat,103,110,REG,818
+nba-201102150MEM,2011,,2011-02-15,Memphis Grizzlies,Philadelphia 76ers,102,91,REG,819
+nba-201102150OKC,2011,,2011-02-15,Oklahoma City Thunder,Sacramento Kings,126,96,REG,820
+nba-201102150PHO,2011,,2011-02-15,Phoenix Suns,Utah Jazz,102,101,REG,821
+nba-201102160BOS,2011,,2011-02-16,Boston Celtics,New Jersey Nets,94,80,REG,822
+nba-201102160CLE,2011,,2011-02-16,Cleveland Cavaliers,Los Angeles Lakers,104,99,REG,823
+nba-201102160DAL,2011,,2011-02-16,Dallas Mavericks,Sacramento Kings,116,100,REG,824
+nba-201102160DET,2011,,2011-02-16,Detroit Pistons,Indiana Pacers,115,109,REG,825
+nba-201102160HOU,2011,,2011-02-16,Houston Rockets,Philadelphia 76ers,105,114,REG,826
+nba-201102160MIL,2011,,2011-02-16,Milwaukee Bucks,Denver Nuggets,87,94,REG,827
+nba-201102160MIN,2011,,2011-02-16,Minnesota Timberwolves,Los Angeles Clippers,90,98,REG,828
+nba-201102160NYK,2011,,2011-02-16,New York Knicks,Atlanta Hawks,102,90,REG,829
+nba-201102160ORL,2011,,2011-02-16,Orlando Magic,Washington Wizards,101,76,REG,830
+nba-201102160POR,2011,,2011-02-16,Portland Trail Blazers,New Orleans Hornets,103,96,REG,831
+nba-201102160TOR,2011,,2011-02-16,Toronto Raptors,Miami Heat,95,103,REG,832
+nba-201102160UTA,2011,,2011-02-16,Utah Jazz,Golden State Warriors,100,107,REG,833
+nba-201102170CHI,2011,,2011-02-17,Chicago Bulls,San Antonio Spurs,109,99,REG,834
+nba-201102170PHO,2011,,2011-02-17,Phoenix Suns,Dallas Mavericks,106,112,REG,835
+nba-201102220CHA,2011,,2011-02-22,Charlotte Bobcats,Toronto Raptors,114,101,REG,836
+nba-201102220DEN,2011,,2011-02-22,Denver Nuggets,Memphis Grizzlies,120,107,REG,837
+nba-201102220DET,2011,,2011-02-22,Detroit Pistons,Houston Rockets,100,108,REG,838
+nba-201102220GSW,2011,,2011-02-22,Golden State Warriors,Boston Celtics,93,115,REG,839
+nba-201102220LAL,2011,,2011-02-22,Los Angeles Lakers,Atlanta Hawks,104,80,REG,840
+nba-201102220MIA,2011,,2011-02-22,Miami Heat,Sacramento Kings,117,97,REG,841
+nba-201102220MIL,2011,,2011-02-22,Milwaukee Bucks,Minnesota Timberwolves,94,88,REG,842
+nba-201102220OKC,2011,,2011-02-22,Oklahoma City Thunder,Los Angeles Clippers,111,88,REG,843
+nba-201102220WAS,2011,,2011-02-22,Washington Wizards,Indiana Pacers,96,113,REG,844
+nba-201102230CLE,2011,,2011-02-23,Cleveland Cavaliers,Houston Rockets,119,124,REG,845
+nba-201102230DAL,2011,,2011-02-23,Dallas Mavericks,Utah Jazz,118,99,REG,846
+nba-201102230IND,2011,,2011-02-23,Indiana Pacers,Detroit Pistons,102,101,REG,847
+nba-201102230MIN,2011,,2011-02-23,Minnesota Timberwolves,Memphis Grizzlies,95,104,REG,848
+nba-201102230NOH,2011,,2011-02-23,New Orleans Hornets,Los Angeles Clippers,98,87,REG,849
+nba-201102230NYK,2011,,2011-02-23,New York Knicks,Milwaukee Bucks,114,108,REG,850
+nba-201102230ORL,2011,,2011-02-23,Orlando Magic,Sacramento Kings,105,111,REG,851
+nba-201102230PHI,2011,,2011-02-23,Philadelphia 76ers,Washington Wizards,117,94,REG,852
+nba-201102230PHO,2011,,2011-02-23,Phoenix Suns,Atlanta Hawks,105,97,REG,853
+nba-201102230POR,2011,,2011-02-23,Portland Trail Blazers,Los Angeles Lakers,101,106,REG,854
+nba-201102230SAS,2011,,2011-02-23,San Antonio Spurs,Oklahoma City Thunder,109,105,REG,855
+nba-201102230TOR,2011,,2011-02-23,Toronto Raptors,Chicago Bulls,118,113,REG,856
+nba-201102240CHI,2011,,2011-02-24,Chicago Bulls,Miami Heat,93,89,REG,857
+nba-201102240DEN,2011,,2011-02-24,Denver Nuggets,Boston Celtics,89,75,REG,858
+nba-201102250CHA,2011,,2011-02-25,Charlotte Bobcats,Sacramento Kings,110,98,REG,859
+nba-201102250CLE,2011,,2011-02-25,Cleveland Cavaliers,New York Knicks,115,109,REG,860
+nba-201102250GSW,2011,,2011-02-25,Golden State Warriors,Atlanta Hawks,79,95,REG,861
+nba-201102250IND,2011,,2011-02-25,Indiana Pacers,Utah Jazz,84,95,REG,862
+nba-201102250LAL,2011,,2011-02-25,Los Angeles Lakers,Los Angeles Clippers,108,95,REG,863
+nba-201102250MIA,2011,,2011-02-25,Miami Heat,Washington Wizards,121,113,REG,864
+nba-201102250MIN,2011,,2011-02-25,Minnesota Timberwolves,New Orleans Hornets,81,95,REG,865
+nba-201102250ORL,2011,,2011-02-25,Orlando Magic,Oklahoma City Thunder,111,88,REG,866
+nba-201102250PHI,2011,,2011-02-25,Philadelphia 76ers,Detroit Pistons,110,94,REG,867
+nba-201102250POR,2011,,2011-02-25,Portland Trail Blazers,Denver Nuggets,107,106,REG,868
+nba-201102250SAS,2011,,2011-02-25,San Antonio Spurs,New Jersey Nets,106,96,REG,869
+nba-201102250TOR,2011,,2011-02-25,Toronto Raptors,Phoenix Suns,92,110,REG,870
+nba-201102260DET,2011,,2011-02-26,Detroit Pistons,Utah Jazz,120,116,REG,871
+nba-201102260HOU,2011,,2011-02-26,Houston Rockets,New Jersey Nets,123,108,REG,872
+nba-201102260LAC,2011,,2011-02-26,Los Angeles Clippers,Boston Celtics,92,99,REG,873
+nba-201102260MEM,2011,,2011-02-26,Memphis Grizzlies,Sacramento Kings,120,92,REG,874
+nba-201102260MIL,2011,,2011-02-26,Milwaukee Bucks,Chicago Bulls,75,83,REG,875
+nba-201102260WAS,2011,,2011-02-26,Washington Wizards,Dallas Mavericks,99,105,REG,876
+nba-201102270CLE,2011,,2011-02-27,Cleveland Cavaliers,Philadelphia 76ers,91,95,REG,877
+nba-201102270IND,2011,,2011-02-27,Indiana Pacers,Phoenix Suns,108,110,REG,878
+nba-201102270MIA,2011,,2011-02-27,Miami Heat,New York Knicks,86,91,REG,879
+nba-201102270MIN,2011,,2011-02-27,Minnesota Timberwolves,Golden State Warriors,126,123,REG,880
+nba-201102270NOH,2011,,2011-02-27,New Orleans Hornets,Houston Rockets,89,91,REG,881
+nba-201102270OKC,2011,,2011-02-27,Oklahoma City Thunder,Los Angeles Lakers,87,90,REG,882
+nba-201102270ORL,2011,,2011-02-27,Orlando Magic,Charlotte Bobcats,100,86,REG,883
+nba-201102270POR,2011,,2011-02-27,Portland Trail Blazers,Atlanta Hawks,83,90,REG,884
+nba-201102270SAS,2011,,2011-02-27,San Antonio Spurs,Memphis Grizzlies,95,88,REG,885
+nba-201102270TOR,2011,,2011-02-27,Toronto Raptors,Dallas Mavericks,96,114,REG,886
+nba-201102280DEN,2011,,2011-02-28,Denver Nuggets,Atlanta Hawks,100,90,REG,887
+nba-201102280NJN,2011,,2011-02-28,New Jersey Nets,Phoenix Suns,103,104,REG,888
+nba-201102280SAC,2011,,2011-02-28,Sacramento Kings,Los Angeles Clippers,105,99,REG,889
+nba-201102280UTA,2011,,2011-02-28,Utah Jazz,Boston Celtics,102,107,REG,890
+nba-201102280WAS,2011,,2011-02-28,Washington Wizards,Chicago Bulls,77,105,REG,891
+nba-201103010IND,2011,,2011-03-01,Indiana Pacers,Golden State Warriors,109,100,REG,892
+nba-201103010MEM,2011,,2011-03-01,Memphis Grizzlies,San Antonio Spurs,109,93,REG,893
+nba-201103010MIL,2011,,2011-03-01,Milwaukee Bucks,Detroit Pistons,92,90,REG,894
+nba-201103010MIN,2011,,2011-03-01,Minnesota Timberwolves,Los Angeles Lakers,79,90,REG,895
+nba-201103010ORL,2011,,2011-03-01,Orlando Magic,New York Knicks,116,110,REG,896
+nba-201103010PHI,2011,,2011-03-01,Philadelphia 76ers,Dallas Mavericks,93,101,REG,897
+nba-201103010POR,2011,,2011-03-01,Portland Trail Blazers,Houston Rockets,87,103,REG,898
+nba-201103010TOR,2011,,2011-03-01,Toronto Raptors,New Orleans Hornets,96,90,REG,899
+nba-201103020ATL,2011,,2011-03-02,Atlanta Hawks,Chicago Bulls,83,80,REG,900
+nba-201103020BOS,2011,,2011-03-02,Boston Celtics,Phoenix Suns,115,103,REG,901
+nba-201103020CLE,2011,,2011-03-02,Cleveland Cavaliers,San Antonio Spurs,99,109,REG,902
+nba-201103020DEN,2011,,2011-03-02,Denver Nuggets,Charlotte Bobcats,120,80,REG,903
+nba-201103020DET,2011,,2011-03-02,Detroit Pistons,Minnesota Timberwolves,105,116,REG,904
+nba-201103020LAC,2011,,2011-03-02,Los Angeles Clippers,Houston Rockets,106,103,REG,905
+nba-201103020NYK,2011,,2011-03-02,New York Knicks,New Orleans Hornets,107,88,REG,906
+nba-201103020OKC,2011,,2011-03-02,Oklahoma City Thunder,Indiana Pacers,113,89,REG,907
+nba-201103020SAC,2011,,2011-03-02,Sacramento Kings,Portland Trail Blazers,102,107,REG,908
+nba-201103020WAS,2011,,2011-03-02,Washington Wizards,Golden State Warriors,102,106,REG,909
+nba-201103030MIA,2011,,2011-03-03,Miami Heat,Orlando Magic,96,99,REG,910
+nba-201103030UTA,2011,,2011-03-03,Utah Jazz,Denver Nuggets,101,103,REG,911
+nba-201103040ATL,2011,,2011-03-04,Atlanta Hawks,Oklahoma City Thunder,104,111,REG,912
+nba-201103040BOS,2011,,2011-03-04,Boston Celtics,Golden State Warriors,107,103,REG,913
+nba-201103040DAL,2011,,2011-03-04,Dallas Mavericks,Indiana Pacers,116,108,REG,914
+nba-201103040LAL,2011,,2011-03-04,Los Angeles Lakers,Charlotte Bobcats,92,84,REG,915
+nba-201103040MEM,2011,,2011-03-04,Memphis Grizzlies,New Orleans Hornets,91,98,REG,916
+nba-201103040MIL,2011,,2011-03-04,Milwaukee Bucks,Phoenix Suns,88,102,REG,917
+nba-201103040NJN,2011,,2011-03-04,New Jersey Nets,Toronto Raptors,116,103,REG,918
+nba-201103040NYK,2011,,2011-03-04,New York Knicks,Cleveland Cavaliers,115,119,REG,919
+nba-201103040ORL,2011,,2011-03-04,Orlando Magic,Chicago Bulls,81,89,REG,920
+nba-201103040PHI,2011,,2011-03-04,Philadelphia 76ers,Minnesota Timberwolves,111,100,REG,921
+nba-201103040SAS,2011,,2011-03-04,San Antonio Spurs,Miami Heat,125,95,REG,922
+nba-201103050HOU,2011,,2011-03-05,Houston Rockets,Indiana Pacers,112,95,REG,923
+nba-201103050LAC,2011,,2011-03-05,Los Angeles Clippers,Denver Nuggets,100,94,REG,924
+nba-201103050NJN,2011,,2011-03-05,New Jersey Nets,Toronto Raptors,137,136,REG,925
+nba-201103050POR,2011,,2011-03-05,Portland Trail Blazers,Charlotte Bobcats,93,69,REG,926
+nba-201103050UTA,2011,,2011-03-05,Utah Jazz,Sacramento Kings,109,102,REG,927
+nba-201103050WAS,2011,,2011-03-05,Washington Wizards,Minnesota Timberwolves,103,96,REG,928
+nba-201103060ATL,2011,,2011-03-06,Atlanta Hawks,New York Knicks,79,92,REG,929
+nba-201103060CLE,2011,,2011-03-06,Cleveland Cavaliers,New Orleans Hornets,81,96,REG,930
+nba-201103060DAL,2011,,2011-03-06,Dallas Mavericks,Memphis Grizzlies,103,104,REG,931
+nba-201103060DET,2011,,2011-03-06,Detroit Pistons,Washington Wizards,113,102,REG,932
+nba-201103060MIA,2011,,2011-03-06,Miami Heat,Chicago Bulls,86,87,REG,933
+nba-201103060MIL,2011,,2011-03-06,Milwaukee Bucks,Boston Celtics,83,89,REG,934
+nba-201103060OKC,2011,,2011-03-06,Oklahoma City Thunder,Phoenix Suns,122,118,REG,935
+nba-201103060PHI,2011,,2011-03-06,Philadelphia 76ers,Golden State Warriors,125,117,REG,936
+nba-201103060SAS,2011,,2011-03-06,San Antonio Spurs,Los Angeles Lakers,83,99,REG,937
+nba-201103070CHA,2011,,2011-03-07,Charlotte Bobcats,Los Angeles Clippers,87,92,REG,938
+nba-201103070CHI,2011,,2011-03-07,Chicago Bulls,New Orleans Hornets,85,77,REG,939
+nba-201103070MEM,2011,,2011-03-07,Memphis Grizzlies,Oklahoma City Thunder,107,101,REG,940
+nba-201103070MIN,2011,,2011-03-07,Minnesota Timberwolves,Dallas Mavericks,105,108,REG,941
+nba-201103070NYK,2011,,2011-03-07,New York Knicks,Utah Jazz,131,109,REG,942
+nba-201103070ORL,2011,,2011-03-07,Orlando Magic,Portland Trail Blazers,85,89,REG,943
+nba-201103070SAC,2011,,2011-03-07,Sacramento Kings,Houston Rockets,101,123,REG,944
+nba-201103080ATL,2011,,2011-03-08,Atlanta Hawks,Los Angeles Lakers,87,101,REG,945
+nba-201103080CLE,2011,,2011-03-08,Cleveland Cavaliers,Golden State Warriors,85,95,REG,946
+nba-201103080IND,2011,,2011-03-08,Indiana Pacers,Philadelphia 76ers,100,110,REG,947
+nba-201103080MIA,2011,,2011-03-08,Miami Heat,Portland Trail Blazers,96,105,REG,948
+nba-201103080PHO,2011,,2011-03-08,Phoenix Suns,Houston Rockets,113,110,REG,949
+nba-201103080WAS,2011,,2011-03-08,Washington Wizards,Milwaukee Bucks,76,95,REG,950
+nba-201103090BOS,2011,,2011-03-09,Boston Celtics,Los Angeles Clippers,103,108,REG,951
+nba-201103090CHA,2011,,2011-03-09,Charlotte Bobcats,Chicago Bulls,84,101,REG,952
+nba-201103090MEM,2011,,2011-03-09,Memphis Grizzlies,New York Knicks,108,110,REG,953
+nba-201103090MIL,2011,,2011-03-09,Milwaukee Bucks,Cleveland Cavaliers,110,90,REG,954
+nba-201103090MIN,2011,,2011-03-09,Minnesota Timberwolves,Indiana Pacers,101,75,REG,955
+nba-201103090NJN,2011,,2011-03-09,New Jersey Nets,Golden State Warriors,94,90,REG,956
+nba-201103090NOH,2011,,2011-03-09,New Orleans Hornets,Dallas Mavericks,93,92,REG,957
+nba-201103090PHI,2011,,2011-03-09,Philadelphia 76ers,Oklahoma City Thunder,105,110,REG,958
+nba-201103090SAC,2011,,2011-03-09,Sacramento Kings,Orlando Magic,102,106,REG,959
+nba-201103090SAS,2011,,2011-03-09,San Antonio Spurs,Detroit Pistons,111,104,REG,960
+nba-201103090TOR,2011,,2011-03-09,Toronto Raptors,Utah Jazz,94,96,REG,961
+nba-201103100DAL,2011,,2011-03-10,Dallas Mavericks,New York Knicks,127,109,REG,962
+nba-201103100MIA,2011,,2011-03-10,Miami Heat,Los Angeles Lakers,94,88,REG,963
+nba-201103100PHO,2011,,2011-03-10,Phoenix Suns,Denver Nuggets,97,116,REG,964
+nba-201103110CHA,2011,,2011-03-11,Charlotte Bobcats,Portland Trail Blazers,97,92,REG,965
+nba-201103110CHI,2011,,2011-03-11,Chicago Bulls,Atlanta Hawks,94,76,REG,966
+nba-201103110GSW,2011,,2011-03-11,Golden State Warriors,Orlando Magic,123,120,REG,967
+nba-201103110MIN,2011,,2011-03-11,Minnesota Timberwolves,Utah Jazz,122,101,REG,968
+nba-201103110NJN,2011,,2011-03-11,New Jersey Nets,Los Angeles Clippers,102,98,REG,969
+nba-201103110OKC,2011,,2011-03-11,Oklahoma City Thunder,Detroit Pistons,104,94,REG,970
+nba-201103110PHI,2011,,2011-03-11,Philadelphia 76ers,Boston Celtics,89,86,REG,971
+nba-201103110SAS,2011,,2011-03-11,San Antonio Spurs,Sacramento Kings,108,103,REG,972
+nba-201103110TOR,2011,,2011-03-11,Toronto Raptors,Indiana Pacers,108,98,REG,973
+nba-201103120ATL,2011,,2011-03-12,Atlanta Hawks,Portland Trail Blazers,91,82,REG,974
+nba-201103120CHI,2011,,2011-03-12,Chicago Bulls,Utah Jazz,118,100,REG,975
+nba-201103120DAL,2011,,2011-03-12,Dallas Mavericks,Los Angeles Lakers,91,96,REG,976
+nba-201103120DEN,2011,,2011-03-12,Denver Nuggets,Detroit Pistons,131,101,REG,977
+nba-201103120HOU,2011,,2011-03-12,Houston Rockets,San Antonio Spurs,107,115,REG,978
+nba-201103120MIA,2011,,2011-03-12,Miami Heat,Memphis Grizzlies,118,85,REG,979
+nba-201103120MIL,2011,,2011-03-12,Milwaukee Bucks,Philadelphia 76ers,102,74,REG,980
+nba-201103120NOH,2011,,2011-03-12,New Orleans Hornets,Sacramento Kings,115,103,REG,981
+nba-201103120WAS,2011,,2011-03-12,Washington Wizards,Los Angeles Clippers,101,122,REG,982
+nba-201103130BOS,2011,,2011-03-13,Boston Celtics,Milwaukee Bucks,87,56,REG,983
+nba-201103130CLE,2011,,2011-03-13,Cleveland Cavaliers,Oklahoma City Thunder,75,95,REG,984
+nba-201103130GSW,2011,,2011-03-13,Golden State Warriors,Minnesota Timberwolves,100,77,REG,985
+nba-201103130NYK,2011,,2011-03-13,New York Knicks,Indiana Pacers,93,106,REG,986
+nba-201103130PHO,2011,,2011-03-13,Phoenix Suns,Orlando Magic,88,111,REG,987
+nba-201103130TOR,2011,,2011-03-13,Toronto Raptors,Charlotte Bobcats,90,95,REG,988
+nba-201103140HOU,2011,,2011-03-14,Houston Rockets,Phoenix Suns,95,93,REG,989
+nba-201103140LAL,2011,,2011-03-14,Los Angeles Lakers,Orlando Magic,97,84,REG,990
+nba-201103140MEM,2011,,2011-03-14,Memphis Grizzlies,Los Angeles Clippers,105,82,REG,991
+nba-201103140MIA,2011,,2011-03-14,Miami Heat,San Antonio Spurs,110,80,REG,992
+nba-201103140NJN,2011,,2011-03-14,New Jersey Nets,Boston Celtics,88,79,REG,993
+nba-201103140NOH,2011,,2011-03-14,New Orleans Hornets,Denver Nuggets,103,114,REG,994
+nba-201103140SAC,2011,,2011-03-14,Sacramento Kings,Golden State Warriors,129,119,REG,995
+nba-201103140UTA,2011,,2011-03-14,Utah Jazz,Philadelphia 76ers,112,107,REG,996
+nba-201103140WAS,2011,,2011-03-14,Washington Wizards,Oklahoma City Thunder,89,116,REG,997
+nba-201103150ATL,2011,,2011-03-15,Atlanta Hawks,Milwaukee Bucks,110,85,REG,998
+nba-201103150CHI,2011,,2011-03-15,Chicago Bulls,Washington Wizards,98,79,REG,999
+nba-201103150IND,2011,,2011-03-15,Indiana Pacers,New York Knicks,119,117,REG,1000
+nba-201103150POR,2011,,2011-03-15,Portland Trail Blazers,Dallas Mavericks,104,101,REG,1001
+nba-201103160ATL,2011,,2011-03-16,Atlanta Hawks,Denver Nuggets,87,102,REG,1002
+nba-201103160BOS,2011,,2011-03-16,Boston Celtics,Indiana Pacers,92,80,REG,1003
+nba-201103160DET,2011,,2011-03-16,Detroit Pistons,Toronto Raptors,107,93,REG,1004
+nba-201103160GSW,2011,,2011-03-16,Golden State Warriors,Dallas Mavericks,106,112,REG,1005
+nba-201103160HOU,2011,,2011-03-16,Houston Rockets,Charlotte Bobcats,94,78,REG,1006
+nba-201103160LAC,2011,,2011-03-16,Los Angeles Clippers,Philadelphia 76ers,94,104,REG,1007
+nba-201103160MIA,2011,,2011-03-16,Miami Heat,Oklahoma City Thunder,85,96,REG,1008
+nba-201103160MIL,2011,,2011-03-16,Milwaukee Bucks,Orlando Magic,89,93,REG,1009
+nba-201103160NOH,2011,,2011-03-16,New Orleans Hornets,Phoenix Suns,100,95,REG,1010
+nba-201103160SAC,2011,,2011-03-16,Sacramento Kings,Cleveland Cavaliers,93,97,REG,1011
+nba-201103160UTA,2011,,2011-03-16,Utah Jazz,Minnesota Timberwolves,119,104,REG,1012
+nba-201103170NJN,2011,,2011-03-17,New Jersey Nets,Chicago Bulls,73,84,REG,1013
+nba-201103170NYK,2011,,2011-03-17,New York Knicks,Memphis Grizzlies,120,99,REG,1014
+nba-201103170POR,2011,,2011-03-17,Portland Trail Blazers,Cleveland Cavaliers,111,70,REG,1015
+nba-201103180ATL,2011,,2011-03-18,Atlanta Hawks,Miami Heat,85,106,REG,1016
+nba-201103180DAL,2011,,2011-03-18,Dallas Mavericks,San Antonio Spurs,91,97,REG,1017
+nba-201103180DET,2011,,2011-03-18,Detroit Pistons,New York Knicks,99,95,REG,1018
+nba-201103180HOU,2011,,2011-03-18,Houston Rockets,Boston Celtics,93,77,REG,1019
+nba-201103180IND,2011,,2011-03-18,Indiana Pacers,Chicago Bulls,115,108,REG,1020
+nba-201103180LAL,2011,,2011-03-18,Los Angeles Lakers,Minnesota Timberwolves,106,98,REG,1021
+nba-201103180MIL,2011,,2011-03-18,Milwaukee Bucks,New Jersey Nets,110,95,REG,1022
+nba-201103180OKC,2011,,2011-03-18,Oklahoma City Thunder,Charlotte Bobcats,99,82,REG,1023
+nba-201103180ORL,2011,,2011-03-18,Orlando Magic,Denver Nuggets,85,82,REG,1024
+nba-201103180PHO,2011,,2011-03-18,Phoenix Suns,Golden State Warriors,108,97,REG,1025
+nba-201103180SAC,2011,,2011-03-18,Sacramento Kings,Philadelphia 76ers,80,102,REG,1026
+nba-201103180TOR,2011,,2011-03-18,Toronto Raptors,Washington Wizards,116,107,REG,1027
+nba-201103190LAC,2011,,2011-03-19,Los Angeles Clippers,Cleveland Cavaliers,100,92,REG,1028
+nba-201103190MEM,2011,,2011-03-19,Memphis Grizzlies,Indiana Pacers,99,78,REG,1029
+nba-201103190MIA,2011,,2011-03-19,Miami Heat,Denver Nuggets,103,98,REG,1030
+nba-201103190NOH,2011,,2011-03-19,New Orleans Hornets,Boston Celtics,85,89,REG,1031
+nba-201103190POR,2011,,2011-03-19,Portland Trail Blazers,Philadelphia 76ers,110,101,REG,1032
+nba-201103190SAS,2011,,2011-03-19,San Antonio Spurs,Charlotte Bobcats,109,98,REG,1033
+nba-201103200ATL,2011,,2011-03-20,Atlanta Hawks,Detroit Pistons,104,96,REG,1034
+nba-201103200DAL,2011,,2011-03-20,Dallas Mavericks,Golden State Warriors,101,73,REG,1035
+nba-201103200HOU,2011,,2011-03-20,Houston Rockets,Utah Jazz,110,108,REG,1036
+nba-201103200LAC,2011,,2011-03-20,Los Angeles Clippers,Phoenix Suns,99,108,REG,1037
+nba-201103200LAL,2011,,2011-03-20,Los Angeles Lakers,Portland Trail Blazers,84,80,REG,1038
+nba-201103200MIL,2011,,2011-03-20,Milwaukee Bucks,New York Knicks,100,95,REG,1039
+nba-201103200MIN,2011,,2011-03-20,Minnesota Timberwolves,Sacramento Kings,95,127,REG,1040
+nba-201103200OKC,2011,,2011-03-20,Oklahoma City Thunder,Toronto Raptors,93,95,REG,1041
+nba-201103200WAS,2011,,2011-03-20,Washington Wizards,New Jersey Nets,98,92,REG,1042
+nba-201103210CHI,2011,,2011-03-21,Chicago Bulls,Sacramento Kings,132,92,REG,1043
+nba-201103210CLE,2011,,2011-03-21,Cleveland Cavaliers,Orlando Magic,86,97,REG,1044
+nba-201103210DEN,2011,,2011-03-21,Denver Nuggets,Toronto Raptors,123,90,REG,1045
+nba-201103210MEM,2011,,2011-03-21,Memphis Grizzlies,Utah Jazz,103,85,REG,1046
+nba-201103210NJN,2011,,2011-03-21,New Jersey Nets,Indiana Pacers,98,102,REG,1047
+nba-201103210NYK,2011,,2011-03-21,New York Knicks,Boston Celtics,86,96,REG,1048
+nba-201103210SAS,2011,,2011-03-21,San Antonio Spurs,Golden State Warriors,111,96,REG,1049
+nba-201103220ATL,2011,,2011-03-22,Atlanta Hawks,Chicago Bulls,81,114,REG,1050
+nba-201103220LAL,2011,,2011-03-22,Los Angeles Lakers,Phoenix Suns,139,137,REG,1051
+nba-201103220POR,2011,,2011-03-22,Portland Trail Blazers,Washington Wizards,111,76,REG,1052
+nba-201103230BOS,2011,,2011-03-23,Boston Celtics,Memphis Grizzlies,87,90,REG,1053
+nba-201103230CHA,2011,,2011-03-23,Charlotte Bobcats,Indiana Pacers,88,111,REG,1054
+nba-201103230CLE,2011,,2011-03-23,Cleveland Cavaliers,New Jersey Nets,94,98,REG,1055
+nba-201103230DEN,2011,,2011-03-23,Denver Nuggets,San Antonio Spurs,115,112,REG,1056
+nba-201103230DET,2011,,2011-03-23,Detroit Pistons,Miami Heat,94,100,REG,1057
+nba-201103230HOU,2011,,2011-03-23,Houston Rockets,Golden State Warriors,131,112,REG,1058
+nba-201103230LAC,2011,,2011-03-23,Los Angeles Clippers,Washington Wizards,127,119,REG,1059
+nba-201103230MIL,2011,,2011-03-23,Milwaukee Bucks,Sacramento Kings,90,97,REG,1060
+nba-201103230NYK,2011,,2011-03-23,New York Knicks,Orlando Magic,99,111,REG,1061
+nba-201103230OKC,2011,,2011-03-23,Oklahoma City Thunder,Utah Jazz,106,94,REG,1062
+nba-201103230PHI,2011,,2011-03-23,Philadelphia 76ers,Atlanta Hawks,105,100,REG,1063
+nba-201103230PHO,2011,,2011-03-23,Phoenix Suns,Toronto Raptors,114,106,REG,1064
+nba-201103240DAL,2011,,2011-03-24,Dallas Mavericks,Minnesota Timberwolves,104,96,REG,1065
+nba-201103240UTA,2011,,2011-03-24,Utah Jazz,New Orleans Hornets,117,121,REG,1066
+nba-201103250BOS,2011,,2011-03-25,Boston Celtics,Charlotte Bobcats,81,83,REG,1067
+nba-201103250CHI,2011,,2011-03-25,Chicago Bulls,Memphis Grizzlies,99,96,REG,1068
+nba-201103250CLE,2011,,2011-03-25,Cleveland Cavaliers,Detroit Pistons,97,91,REG,1069
+nba-201103250DEN,2011,,2011-03-25,Denver Nuggets,Washington Wizards,114,94,REG,1070
+nba-201103250GSW,2011,,2011-03-25,Golden State Warriors,Toronto Raptors,138,100,REG,1071
+nba-201103250IND,2011,,2011-03-25,Indiana Pacers,Sacramento Kings,93,110,REG,1072
+nba-201103250LAL,2011,,2011-03-25,Los Angeles Lakers,Los Angeles Clippers,112,104,REG,1073
+nba-201103250MIA,2011,,2011-03-25,Miami Heat,Philadelphia 76ers,111,99,REG,1074
+nba-201103250NYK,2011,,2011-03-25,New York Knicks,Milwaukee Bucks,96,102,REG,1075
+nba-201103250OKC,2011,,2011-03-25,Oklahoma City Thunder,Minnesota Timberwolves,111,103,REG,1076
+nba-201103250ORL,2011,,2011-03-25,Orlando Magic,New Jersey Nets,95,85,REG,1077
+nba-201103250PHO,2011,,2011-03-25,Phoenix Suns,New Orleans Hornets,100,106,REG,1078
+nba-201103250POR,2011,,2011-03-25,Portland Trail Blazers,San Antonio Spurs,98,96,REG,1079
+nba-201103260ATL,2011,,2011-03-26,Atlanta Hawks,New Jersey Nets,98,87,REG,1080
+nba-201103260CHA,2011,,2011-03-26,Charlotte Bobcats,New York Knicks,114,106,REG,1081
+nba-201103260DET,2011,,2011-03-26,Detroit Pistons,Indiana Pacers,100,88,REG,1082
+nba-201103260LAC,2011,,2011-03-26,Los Angeles Clippers,Toronto Raptors,94,90,REG,1083
+nba-201103260MIL,2011,,2011-03-26,Milwaukee Bucks,Chicago Bulls,87,95,REG,1084
+nba-201103260UTA,2011,,2011-03-26,Utah Jazz,Dallas Mavericks,77,94,REG,1085
+nba-201103270CLE,2011,,2011-03-27,Cleveland Cavaliers,Atlanta Hawks,83,99,REG,1086
+nba-201103270GSW,2011,,2011-03-27,Golden State Warriors,Washington Wizards,114,104,REG,1087
+nba-201103270LAL,2011,,2011-03-27,Los Angeles Lakers,New Orleans Hornets,102,84,REG,1088
+nba-201103270MEM,2011,,2011-03-27,Memphis Grizzlies,San Antonio Spurs,111,104,REG,1089
+nba-201103270MIA,2011,,2011-03-27,Miami Heat,Houston Rockets,125,119,REG,1090
+nba-201103270MIN,2011,,2011-03-27,Minnesota Timberwolves,Boston Celtics,82,85,REG,1091
+nba-201103270OKC,2011,,2011-03-27,Oklahoma City Thunder,Portland Trail Blazers,99,90,REG,1092
+nba-201103270PHI,2011,,2011-03-27,Philadelphia 76ers,Sacramento Kings,111,114,REG,1093
+nba-201103270PHO,2011,,2011-03-27,Phoenix Suns,Dallas Mavericks,83,91,REG,1094
+nba-201103280CHA,2011,,2011-03-28,Charlotte Bobcats,Milwaukee Bucks,87,86,REG,1095
+nba-201103280CHI,2011,,2011-03-28,Chicago Bulls,Philadelphia 76ers,85,97,REG,1096
+nba-201103280IND,2011,,2011-03-28,Indiana Pacers,Boston Celtics,107,100,REG,1097
+nba-201103280NYK,2011,,2011-03-28,New York Knicks,Orlando Magic,113,106,REG,1098
+nba-201103280SAS,2011,,2011-03-28,San Antonio Spurs,Portland Trail Blazers,92,100,REG,1099
+nba-201103280UTA,2011,,2011-03-28,Utah Jazz,Washington Wizards,95,100,REG,1100
+nba-201103290CLE,2011,,2011-03-29,Cleveland Cavaliers,Miami Heat,102,90,REG,1101
+nba-201103290NJN,2011,,2011-03-29,New Jersey Nets,Houston Rockets,87,112,REG,1102
+nba-201103290OKC,2011,,2011-03-29,Oklahoma City Thunder,Golden State Warriors,115,114,REG,1103
+nba-201103290SAC,2011,,2011-03-29,Sacramento Kings,Phoenix Suns,116,113,REG,1104
+nba-201103300ATL,2011,,2011-03-30,Atlanta Hawks,Orlando Magic,85,82,REG,1105
+nba-201103300CHA,2011,,2011-03-30,Charlotte Bobcats,Cleveland Cavaliers,98,97,REG,1106
+nba-201103300DEN,2011,,2011-03-30,Denver Nuggets,Sacramento Kings,104,90,REG,1107
+nba-201103300IND,2011,,2011-03-30,Indiana Pacers,Detroit Pistons,111,101,REG,1108
+nba-201103300LAC,2011,,2011-03-30,Los Angeles Clippers,Dallas Mavericks,100,106,REG,1109
+nba-201103300MEM,2011,,2011-03-30,Memphis Grizzlies,Golden State Warriors,110,91,REG,1110
+nba-201103300MIN,2011,,2011-03-30,Minnesota Timberwolves,Chicago Bulls,91,108,REG,1111
+nba-201103300NOH,2011,,2011-03-30,New Orleans Hornets,Portland Trail Blazers,95,91,REG,1112
+nba-201103300NYK,2011,,2011-03-30,New York Knicks,New Jersey Nets,120,116,REG,1113
+nba-201103300PHI,2011,,2011-03-30,Philadelphia 76ers,Houston Rockets,108,97,REG,1114
+nba-201103300PHO,2011,,2011-03-30,Phoenix Suns,Oklahoma City Thunder,98,116,REG,1115
+nba-201103300TOR,2011,,2011-03-30,Toronto Raptors,Milwaukee Bucks,98,104,REG,1116
+nba-201103300WAS,2011,,2011-03-30,Washington Wizards,Miami Heat,107,123,REG,1117
+nba-201103310LAL,2011,,2011-03-31,Los Angeles Lakers,Dallas Mavericks,110,82,REG,1118
+nba-201103310SAS,2011,,2011-03-31,San Antonio Spurs,Boston Celtics,97,107,REG,1119
+nba-201104010ATL,2011,,2011-04-01,Atlanta Hawks,Boston Celtics,88,83,REG,1120
+nba-201104010DET,2011,,2011-04-01,Detroit Pistons,Chicago Bulls,96,101,REG,1121
+nba-201104010HOU,2011,,2011-04-01,Houston Rockets,San Antonio Spurs,119,114,REG,1122
+nba-201104010IND,2011,,2011-04-01,Indiana Pacers,Milwaukee Bucks,89,88,REG,1123
+nba-201104010MIN,2011,,2011-04-01,Minnesota Timberwolves,Miami Heat,92,111,REG,1124
+nba-201104010NOH,2011,,2011-04-01,New Orleans Hornets,Memphis Grizzlies,81,93,REG,1125
+nba-201104010ORL,2011,,2011-04-01,Orlando Magic,Charlotte Bobcats,89,77,REG,1126
+nba-201104010PHI,2011,,2011-04-01,Philadelphia 76ers,New Jersey Nets,115,90,REG,1127
+nba-201104010PHO,2011,,2011-04-01,Phoenix Suns,Los Angeles Clippers,111,98,REG,1128
+nba-201104010POR,2011,,2011-04-01,Portland Trail Blazers,Oklahoma City Thunder,98,91,REG,1129
+nba-201104010SAC,2011,,2011-04-01,Sacramento Kings,Denver Nuggets,90,99,REG,1130
+nba-201104010UTA,2011,,2011-04-01,Utah Jazz,Los Angeles Lakers,85,96,REG,1131
+nba-201104010WAS,2011,,2011-04-01,Washington Wizards,Cleveland Cavaliers,115,107,REG,1132
+nba-201104020CHI,2011,,2011-04-02,Chicago Bulls,Toronto Raptors,113,106,REG,1133
+nba-201104020GSW,2011,,2011-04-02,Golden State Warriors,Dallas Mavericks,99,92,REG,1134
+nba-201104020LAC,2011,,2011-04-02,Los Angeles Clippers,Oklahoma City Thunder,98,92,REG,1135
+nba-201104020MEM,2011,,2011-04-02,Memphis Grizzlies,Minnesota Timberwolves,106,89,REG,1136
+nba-201104020MIL,2011,,2011-04-02,Milwaukee Bucks,Philadelphia 76ers,93,87,REG,1137
+nba-201104030BOS,2011,,2011-04-03,Boston Celtics,Detroit Pistons,101,90,REG,1138
+nba-201104030CHA,2011,,2011-04-03,Charlotte Bobcats,Washington Wizards,91,97,REG,1139
+nba-201104030HOU,2011,,2011-04-03,Houston Rockets,Atlanta Hawks,114,109,REG,1140
+nba-201104030LAL,2011,,2011-04-03,Los Angeles Lakers,Denver Nuggets,90,95,REG,1141
+nba-201104030NJN,2011,,2011-04-03,New Jersey Nets,Miami Heat,94,108,REG,1142
+nba-201104030NOH,2011,,2011-04-03,New Orleans Hornets,Indiana Pacers,108,96,REG,1143
+nba-201104030NYK,2011,,2011-04-03,New York Knicks,Cleveland Cavaliers,123,107,REG,1144
+nba-201104030POR,2011,,2011-04-03,Portland Trail Blazers,Dallas Mavericks,104,96,REG,1145
+nba-201104030SAC,2011,,2011-04-03,Sacramento Kings,Utah Jazz,106,97,REG,1146
+nba-201104030SAS,2011,,2011-04-03,San Antonio Spurs,Phoenix Suns,114,97,REG,1147
+nba-201104030TOR,2011,,2011-04-03,Toronto Raptors,Orlando Magic,102,98,REG,1148
+nba-201104050ATL,2011,,2011-04-05,Atlanta Hawks,San Antonio Spurs,90,97,REG,1149
+nba-201104050BOS,2011,,2011-04-05,Boston Celtics,Philadelphia 76ers,99,82,REG,1150
+nba-201104050CHI,2011,,2011-04-05,Chicago Bulls,Phoenix Suns,97,94,REG,1151
+nba-201104050CLE,2011,,2011-04-05,Cleveland Cavaliers,Charlotte Bobcats,99,89,REG,1152
+nba-201104050DEN,2011,,2011-04-05,Denver Nuggets,Oklahoma City Thunder,94,101,REG,1153
+nba-201104050HOU,2011,,2011-04-05,Houston Rockets,Sacramento Kings,101,104,REG,1154
+nba-201104050LAL,2011,,2011-04-05,Los Angeles Lakers,Utah Jazz,85,86,REG,1155
+nba-201104050MEM,2011,,2011-04-05,Memphis Grizzlies,Los Angeles Clippers,81,82,REG,1156
+nba-201104050NJN,2011,,2011-04-05,New Jersey Nets,Minnesota Timberwolves,107,105,REG,1157
+nba-201104050NYK,2011,,2011-04-05,New York Knicks,Toronto Raptors,131,118,REG,1158
+nba-201104050ORL,2011,,2011-04-05,Orlando Magic,Milwaukee Bucks,78,72,REG,1159
+nba-201104050POR,2011,,2011-04-05,Portland Trail Blazers,Golden State Warriors,87,108,REG,1160
+nba-201104050WAS,2011,,2011-04-05,Washington Wizards,Detroit Pistons,107,105,REG,1161
+nba-201104060CHA,2011,,2011-04-06,Charlotte Bobcats,Orlando Magic,102,111,REG,1162
+nba-201104060DAL,2011,,2011-04-06,Dallas Mavericks,Denver Nuggets,96,104,REG,1163
+nba-201104060DET,2011,,2011-04-06,Detroit Pistons,New Jersey Nets,116,109,REG,1164
+nba-201104060GSW,2011,,2011-04-06,Golden State Warriors,Los Angeles Lakers,95,87,REG,1165
+nba-201104060IND,2011,,2011-04-06,Indiana Pacers,Washington Wizards,136,112,REG,1166
+nba-201104060MIA,2011,,2011-04-06,Miami Heat,Milwaukee Bucks,85,90,REG,1167
+nba-201104060MIN,2011,,2011-04-06,Minnesota Timberwolves,Phoenix Suns,98,108,REG,1168
+nba-201104060NOH,2011,,2011-04-06,New Orleans Hornets,Houston Rockets,101,93,REG,1169
+nba-201104060OKC,2011,,2011-04-06,Oklahoma City Thunder,Los Angeles Clippers,112,108,REG,1170
+nba-201104060PHI,2011,,2011-04-06,Philadelphia 76ers,New York Knicks,92,97,REG,1171
+nba-201104060SAS,2011,,2011-04-06,San Antonio Spurs,Sacramento Kings,124,92,REG,1172
+nba-201104060TOR,2011,,2011-04-06,Toronto Raptors,Cleveland Cavaliers,96,104,REG,1173
+nba-201104070CHI,2011,,2011-04-07,Chicago Bulls,Boston Celtics,97,81,REG,1174
+nba-201104070UTA,2011,,2011-04-07,Utah Jazz,Portland Trail Blazers,87,98,REG,1175
+nba-201104080BOS,2011,,2011-04-08,Boston Celtics,Washington Wizards,104,88,REG,1176
+nba-201104080CLE,2011,,2011-04-08,Cleveland Cavaliers,Chicago Bulls,82,93,REG,1177
+nba-201104080DAL,2011,,2011-04-08,Dallas Mavericks,Los Angeles Clippers,107,96,REG,1178
+nba-201104080DET,2011,,2011-04-08,Detroit Pistons,Milwaukee Bucks,110,100,REG,1179
+nba-201104080IND,2011,,2011-04-08,Indiana Pacers,Atlanta Hawks,114,102,REG,1180
+nba-201104080MEM,2011,,2011-04-08,Memphis Grizzlies,Sacramento Kings,101,96,REG,1181
+nba-201104080MIA,2011,,2011-04-08,Miami Heat,Charlotte Bobcats,112,103,REG,1182
+nba-201104080NJN,2011,,2011-04-08,New Jersey Nets,New York Knicks,93,116,REG,1183
+nba-201104080NOH,2011,,2011-04-08,New Orleans Hornets,Phoenix Suns,109,97,REG,1184
+nba-201104080OKC,2011,,2011-04-08,Oklahoma City Thunder,Denver Nuggets,104,89,REG,1185
+nba-201104080PHI,2011,,2011-04-08,Philadelphia 76ers,Toronto Raptors,98,93,REG,1186
+nba-201104080POR,2011,,2011-04-08,Portland Trail Blazers,Los Angeles Lakers,93,86,REG,1187
+nba-201104090DEN,2011,,2011-04-09,Denver Nuggets,Minnesota Timberwolves,130,106,REG,1188
+nba-201104090HOU,2011,,2011-04-09,Houston Rockets,Los Angeles Clippers,99,78,REG,1189
+nba-201104090MIL,2011,,2011-04-09,Milwaukee Bucks,Cleveland Cavaliers,108,101,REG,1190
+nba-201104090SAS,2011,,2011-04-09,San Antonio Spurs,Utah Jazz,111,102,REG,1191
+nba-201104090WAS,2011,,2011-04-09,Washington Wizards,Atlanta Hawks,115,83,REG,1192
+nba-201104100CHA,2011,,2011-04-10,Charlotte Bobcats,Detroit Pistons,101,112,REG,1193
+nba-201104100DAL,2011,,2011-04-10,Dallas Mavericks,Phoenix Suns,115,90,REG,1194
+nba-201104100GSW,2011,,2011-04-10,Golden State Warriors,Sacramento Kings,103,104,REG,1195
+nba-201104100IND,2011,,2011-04-10,Indiana Pacers,New York Knicks,109,110,REG,1196
+nba-201104100LAL,2011,,2011-04-10,Los Angeles Lakers,Oklahoma City Thunder,106,120,REG,1197
+nba-201104100MEM,2011,,2011-04-10,Memphis Grizzlies,New Orleans Hornets,111,89,REG,1198
+nba-201104100MIA,2011,,2011-04-10,Miami Heat,Boston Celtics,100,77,REG,1199
+nba-201104100ORL,2011,,2011-04-10,Orlando Magic,Chicago Bulls,99,102,REG,1200
+nba-201104100TOR,2011,,2011-04-10,Toronto Raptors,New Jersey Nets,99,92,REG,1201
+nba-201104110ATL,2011,,2011-04-11,Atlanta Hawks,Miami Heat,90,98,REG,1202
+nba-201104110DEN,2011,,2011-04-11,Denver Nuggets,Golden State Warriors,134,111,REG,1203
+nba-201104110DET,2011,,2011-04-11,Detroit Pistons,Cleveland Cavaliers,101,110,REG,1204
+nba-201104110HOU,2011,,2011-04-11,Houston Rockets,Dallas Mavericks,91,98,REG,1205
+nba-201104110MIL,2011,,2011-04-11,Milwaukee Bucks,Toronto Raptors,93,86,REG,1206
+nba-201104110NJN,2011,,2011-04-11,New Jersey Nets,Charlotte Bobcats,103,105,REG,1207
+nba-201104110NOH,2011,,2011-04-11,New Orleans Hornets,Utah Jazz,78,90,REG,1208
+nba-201104110PHI,2011,,2011-04-11,Philadelphia 76ers,Orlando Magic,85,95,REG,1209
+nba-201104110PHO,2011,,2011-04-11,Phoenix Suns,Minnesota Timberwolves,135,127,REG,1210
+nba-201104110SAC,2011,,2011-04-11,Sacramento Kings,Oklahoma City Thunder,112,120,REG,1211
+nba-201104110WAS,2011,,2011-04-11,Washington Wizards,Boston Celtics,95,94,REG,1212
+nba-201104120LAL,2011,,2011-04-12,Los Angeles Lakers,San Antonio Spurs,102,93,REG,1213
+nba-201104120NYK,2011,,2011-04-12,New York Knicks,Chicago Bulls,90,103,REG,1214
+nba-201104120POR,2011,,2011-04-12,Portland Trail Blazers,Memphis Grizzlies,102,89,REG,1215
+nba-201104130BOS,2011,,2011-04-13,Boston Celtics,New York Knicks,112,102,REG,1216
+nba-201104130CHA,2011,,2011-04-13,Charlotte Bobcats,Atlanta Hawks,96,85,REG,1217
+nba-201104130CHI,2011,,2011-04-13,Chicago Bulls,New Jersey Nets,97,92,REG,1218
+nba-201104130CLE,2011,,2011-04-13,Cleveland Cavaliers,Washington Wizards,100,93,REG,1219
+nba-201104130DAL,2011,,2011-04-13,Dallas Mavericks,New Orleans Hornets,121,89,REG,1220
+nba-201104130GSW,2011,,2011-04-13,Golden State Warriors,Portland Trail Blazers,110,86,REG,1221
+nba-201104130LAC,2011,,2011-04-13,Los Angeles Clippers,Memphis Grizzlies,110,103,REG,1222
+nba-201104130MIN,2011,,2011-04-13,Minnesota Timberwolves,Houston Rockets,102,121,REG,1223
+nba-201104130OKC,2011,,2011-04-13,Oklahoma City Thunder,Milwaukee Bucks,106,110,REG,1224
+nba-201104130ORL,2011,,2011-04-13,Orlando Magic,Indiana Pacers,92,74,REG,1225
+nba-201104130PHI,2011,,2011-04-13,Philadelphia 76ers,Detroit Pistons,100,104,REG,1226
+nba-201104130PHO,2011,,2011-04-13,Phoenix Suns,San Antonio Spurs,106,103,REG,1227
+nba-201104130SAC,2011,,2011-04-13,Sacramento Kings,Los Angeles Lakers,108,116,REG,1228
+nba-201104130TOR,2011,,2011-04-13,Toronto Raptors,Miami Heat,79,97,REG,1229
+nba-201104130UTA,2011,,2011-04-13,Utah Jazz,Denver Nuggets,107,103,REG,1230
+nba-201104160CHI,2011,,2011-04-16,Chicago Bulls,Indiana Pacers,104,99,REG,1231
+nba-2011-post-2011-04-16-chicago-bulls-indiana-pacers,2011,,2011-04-16,Chicago Bulls,Indiana Pacers,104,99,POST,1232
+nba-201104160DAL,2011,,2011-04-16,Dallas Mavericks,Portland Trail Blazers,89,81,REG,1233
+nba-2011-post-2011-04-16-dallas-mavericks-portland-trail-blazers,2011,,2011-04-16,Dallas Mavericks,Portland Trail Blazers,89,81,POST,1234
+nba-201104160MIA,2011,,2011-04-16,Miami Heat,Philadelphia 76ers,97,89,REG,1235
+nba-2011-post-2011-04-16-miami-heat-philadelphia-76ers,2011,,2011-04-16,Miami Heat,Philadelphia 76ers,97,89,POST,1236
+nba-201104160ORL,2011,,2011-04-16,Orlando Magic,Atlanta Hawks,93,103,REG,1237
+nba-2011-post-2011-04-16-orlando-magic-atlanta-hawks,2011,,2011-04-16,Orlando Magic,Atlanta Hawks,93,103,POST,1238
+nba-201104170BOS,2011,,2011-04-17,Boston Celtics,New York Knicks,87,85,REG,1239
+nba-2011-post-2011-04-17-boston-celtics-new-york-knicks,2011,,2011-04-17,Boston Celtics,New York Knicks,87,85,POST,1240
+nba-201104170LAL,2011,,2011-04-17,Los Angeles Lakers,New Orleans Hornets,100,109,REG,1241
+nba-2011-post-2011-04-17-los-angeles-lakers-new-orleans-hornets,2011,,2011-04-17,Los Angeles Lakers,New Orleans Hornets,100,109,POST,1242
+nba-201104170OKC,2011,,2011-04-17,Oklahoma City Thunder,Denver Nuggets,107,103,REG,1243
+nba-2011-post-2011-04-17-oklahoma-city-thunder-denver-nuggets,2011,,2011-04-17,Oklahoma City Thunder,Denver Nuggets,107,103,POST,1244
+nba-201104170SAS,2011,,2011-04-17,San Antonio Spurs,Memphis Grizzlies,98,101,REG,1245
+nba-2011-post-2011-04-17-san-antonio-spurs-memphis-grizzlies,2011,,2011-04-17,San Antonio Spurs,Memphis Grizzlies,98,101,POST,1246
+nba-201104180CHI,2011,,2011-04-18,Chicago Bulls,Indiana Pacers,96,90,REG,1247
+nba-2011-post-2011-04-18-chicago-bulls-indiana-pacers,2011,,2011-04-18,Chicago Bulls,Indiana Pacers,96,90,POST,1248
+nba-201104180MIA,2011,,2011-04-18,Miami Heat,Philadelphia 76ers,94,73,REG,1249
+nba-2011-post-2011-04-18-miami-heat-philadelphia-76ers,2011,,2011-04-18,Miami Heat,Philadelphia 76ers,94,73,POST,1250
+nba-201104190BOS,2011,,2011-04-19,Boston Celtics,New York Knicks,96,93,REG,1251
+nba-2011-post-2011-04-19-boston-celtics-new-york-knicks,2011,,2011-04-19,Boston Celtics,New York Knicks,96,93,POST,1252
+nba-201104190DAL,2011,,2011-04-19,Dallas Mavericks,Portland Trail Blazers,101,89,REG,1253
+nba-2011-post-2011-04-19-dallas-mavericks-portland-trail-blazers,2011,,2011-04-19,Dallas Mavericks,Portland Trail Blazers,101,89,POST,1254
+nba-201104190ORL,2011,,2011-04-19,Orlando Magic,Atlanta Hawks,88,82,REG,1255
+nba-2011-post-2011-04-19-orlando-magic-atlanta-hawks,2011,,2011-04-19,Orlando Magic,Atlanta Hawks,88,82,POST,1256
+nba-201104200LAL,2011,,2011-04-20,Los Angeles Lakers,New Orleans Hornets,87,78,REG,1257
+nba-2011-post-2011-04-20-los-angeles-lakers-new-orleans-hornets,2011,,2011-04-20,Los Angeles Lakers,New Orleans Hornets,87,78,POST,1258
+nba-201104200OKC,2011,,2011-04-20,Oklahoma City Thunder,Denver Nuggets,106,89,REG,1259
+nba-2011-post-2011-04-20-oklahoma-city-thunder-denver-nuggets,2011,,2011-04-20,Oklahoma City Thunder,Denver Nuggets,106,89,POST,1260
+nba-201104200SAS,2011,,2011-04-20,San Antonio Spurs,Memphis Grizzlies,93,87,REG,1261
+nba-2011-post-2011-04-20-san-antonio-spurs-memphis-grizzlies,2011,,2011-04-20,San Antonio Spurs,Memphis Grizzlies,93,87,POST,1262
+nba-201104210IND,2011,,2011-04-21,Indiana Pacers,Chicago Bulls,84,88,REG,1263
+nba-2011-post-2011-04-21-indiana-pacers-chicago-bulls,2011,,2011-04-21,Indiana Pacers,Chicago Bulls,84,88,POST,1264
+nba-201104210PHI,2011,,2011-04-21,Philadelphia 76ers,Miami Heat,94,100,REG,1265
+nba-2011-post-2011-04-21-philadelphia-76ers-miami-heat,2011,,2011-04-21,Philadelphia 76ers,Miami Heat,94,100,POST,1266
+nba-201104210POR,2011,,2011-04-21,Portland Trail Blazers,Dallas Mavericks,97,92,REG,1267
+nba-2011-post-2011-04-21-portland-trail-blazers-dallas-mavericks,2011,,2011-04-21,Portland Trail Blazers,Dallas Mavericks,97,92,POST,1268
+nba-201104220ATL,2011,,2011-04-22,Atlanta Hawks,Orlando Magic,88,84,REG,1269
+nba-2011-post-2011-04-22-atlanta-hawks-orlando-magic,2011,,2011-04-22,Atlanta Hawks,Orlando Magic,88,84,POST,1270
+nba-201104220NOH,2011,,2011-04-22,New Orleans Hornets,Los Angeles Lakers,86,100,REG,1271
+nba-2011-post-2011-04-22-new-orleans-hornets-los-angeles-lakers,2011,,2011-04-22,New Orleans Hornets,Los Angeles Lakers,86,100,POST,1272
+nba-201104220NYK,2011,,2011-04-22,New York Knicks,Boston Celtics,96,113,REG,1273
+nba-2011-post-2011-04-22-new-york-knicks-boston-celtics,2011,,2011-04-22,New York Knicks,Boston Celtics,96,113,POST,1274
+nba-201104230DEN,2011,,2011-04-23,Denver Nuggets,Oklahoma City Thunder,94,97,REG,1275
+nba-2011-post-2011-04-23-denver-nuggets-oklahoma-city-thunder,2011,,2011-04-23,Denver Nuggets,Oklahoma City Thunder,94,97,POST,1276
+nba-201104230IND,2011,,2011-04-23,Indiana Pacers,Chicago Bulls,89,84,REG,1277
+nba-2011-post-2011-04-23-indiana-pacers-chicago-bulls,2011,,2011-04-23,Indiana Pacers,Chicago Bulls,89,84,POST,1278
+nba-201104230MEM,2011,,2011-04-23,Memphis Grizzlies,San Antonio Spurs,91,88,REG,1279
+nba-2011-post-2011-04-23-memphis-grizzlies-san-antonio-spurs,2011,,2011-04-23,Memphis Grizzlies,San Antonio Spurs,91,88,POST,1280
+nba-201104230POR,2011,,2011-04-23,Portland Trail Blazers,Dallas Mavericks,84,82,REG,1281
+nba-2011-post-2011-04-23-portland-trail-blazers-dallas-mavericks,2011,,2011-04-23,Portland Trail Blazers,Dallas Mavericks,84,82,POST,1282
+nba-201104240ATL,2011,,2011-04-24,Atlanta Hawks,Orlando Magic,88,85,REG,1283
+nba-2011-post-2011-04-24-atlanta-hawks-orlando-magic,2011,,2011-04-24,Atlanta Hawks,Orlando Magic,88,85,POST,1284
+nba-201104240NOH,2011,,2011-04-24,New Orleans Hornets,Los Angeles Lakers,93,88,REG,1285
+nba-2011-post-2011-04-24-new-orleans-hornets-los-angeles-lakers,2011,,2011-04-24,New Orleans Hornets,Los Angeles Lakers,93,88,POST,1286
+nba-201104240NYK,2011,,2011-04-24,New York Knicks,Boston Celtics,89,101,REG,1287
+nba-2011-post-2011-04-24-new-york-knicks-boston-celtics,2011,,2011-04-24,New York Knicks,Boston Celtics,89,101,POST,1288
+nba-201104240PHI,2011,,2011-04-24,Philadelphia 76ers,Miami Heat,86,82,REG,1289
+nba-2011-post-2011-04-24-philadelphia-76ers-miami-heat,2011,,2011-04-24,Philadelphia 76ers,Miami Heat,86,82,POST,1290
+nba-201104250DAL,2011,,2011-04-25,Dallas Mavericks,Portland Trail Blazers,93,82,REG,1291
+nba-2011-post-2011-04-25-dallas-mavericks-portland-trail-blazers,2011,,2011-04-25,Dallas Mavericks,Portland Trail Blazers,93,82,POST,1292
+nba-201104250DEN,2011,,2011-04-25,Denver Nuggets,Oklahoma City Thunder,104,101,REG,1293
+nba-2011-post-2011-04-25-denver-nuggets-oklahoma-city-thunder,2011,,2011-04-25,Denver Nuggets,Oklahoma City Thunder,104,101,POST,1294
+nba-201104250MEM,2011,,2011-04-25,Memphis Grizzlies,San Antonio Spurs,104,86,REG,1295
+nba-2011-post-2011-04-25-memphis-grizzlies-san-antonio-spurs,2011,,2011-04-25,Memphis Grizzlies,San Antonio Spurs,104,86,POST,1296
+nba-201104260CHI,2011,,2011-04-26,Chicago Bulls,Indiana Pacers,116,89,REG,1297
+nba-2011-post-2011-04-26-chicago-bulls-indiana-pacers,2011,,2011-04-26,Chicago Bulls,Indiana Pacers,116,89,POST,1298
+nba-201104260LAL,2011,,2011-04-26,Los Angeles Lakers,New Orleans Hornets,106,90,REG,1299
+nba-2011-post-2011-04-26-los-angeles-lakers-new-orleans-hornets,2011,,2011-04-26,Los Angeles Lakers,New Orleans Hornets,106,90,POST,1300
+nba-201104260ORL,2011,,2011-04-26,Orlando Magic,Atlanta Hawks,101,76,REG,1301
+nba-2011-post-2011-04-26-orlando-magic-atlanta-hawks,2011,,2011-04-26,Orlando Magic,Atlanta Hawks,101,76,POST,1302
+nba-201104270MIA,2011,,2011-04-27,Miami Heat,Philadelphia 76ers,97,91,REG,1303
+nba-2011-post-2011-04-27-miami-heat-philadelphia-76ers,2011,,2011-04-27,Miami Heat,Philadelphia 76ers,97,91,POST,1304
+nba-201104270OKC,2011,,2011-04-27,Oklahoma City Thunder,Denver Nuggets,100,97,REG,1305
+nba-2011-post-2011-04-27-oklahoma-city-thunder-denver-nuggets,2011,,2011-04-27,Oklahoma City Thunder,Denver Nuggets,100,97,POST,1306
+nba-201104270SAS,2011,,2011-04-27,San Antonio Spurs,Memphis Grizzlies,110,103,REG,1307
+nba-2011-post-2011-04-27-san-antonio-spurs-memphis-grizzlies,2011,,2011-04-27,San Antonio Spurs,Memphis Grizzlies,110,103,POST,1308
+nba-201104280ATL,2011,,2011-04-28,Atlanta Hawks,Orlando Magic,84,81,REG,1309
+nba-2011-post-2011-04-28-atlanta-hawks-orlando-magic,2011,,2011-04-28,Atlanta Hawks,Orlando Magic,84,81,POST,1310
+nba-201104280NOH,2011,,2011-04-28,New Orleans Hornets,Los Angeles Lakers,80,98,REG,1311
+nba-2011-post-2011-04-28-new-orleans-hornets-los-angeles-lakers,2011,,2011-04-28,New Orleans Hornets,Los Angeles Lakers,80,98,POST,1312
+nba-201104280POR,2011,,2011-04-28,Portland Trail Blazers,Dallas Mavericks,96,103,REG,1313
+nba-2011-post-2011-04-28-portland-trail-blazers-dallas-mavericks,2011,,2011-04-28,Portland Trail Blazers,Dallas Mavericks,96,103,POST,1314
+nba-201104290MEM,2011,,2011-04-29,Memphis Grizzlies,San Antonio Spurs,99,91,REG,1315
+nba-2011-post-2011-04-29-memphis-grizzlies-san-antonio-spurs,2011,,2011-04-29,Memphis Grizzlies,San Antonio Spurs,99,91,POST,1316
+nba-201105010MIA,2011,,2011-05-01,Miami Heat,Boston Celtics,99,90,REG,1317
+nba-2011-post-2011-05-01-miami-heat-boston-celtics,2011,,2011-05-01,Miami Heat,Boston Celtics,99,90,POST,1318
+nba-201105010OKC,2011,,2011-05-01,Oklahoma City Thunder,Memphis Grizzlies,101,114,REG,1319
+nba-2011-post-2011-05-01-oklahoma-city-thunder-memphis-grizzlies,2011,,2011-05-01,Oklahoma City Thunder,Memphis Grizzlies,101,114,POST,1320
+nba-201105020CHI,2011,,2011-05-02,Chicago Bulls,Atlanta Hawks,95,103,REG,1321
+nba-2011-post-2011-05-02-chicago-bulls-atlanta-hawks,2011,,2011-05-02,Chicago Bulls,Atlanta Hawks,95,103,POST,1322
+nba-201105020LAL,2011,,2011-05-02,Los Angeles Lakers,Dallas Mavericks,94,96,REG,1323
+nba-2011-post-2011-05-02-los-angeles-lakers-dallas-mavericks,2011,,2011-05-02,Los Angeles Lakers,Dallas Mavericks,94,96,POST,1324
+nba-201105030MIA,2011,,2011-05-03,Miami Heat,Boston Celtics,102,91,REG,1325
+nba-2011-post-2011-05-03-miami-heat-boston-celtics,2011,,2011-05-03,Miami Heat,Boston Celtics,102,91,POST,1326
+nba-201105030OKC,2011,,2011-05-03,Oklahoma City Thunder,Memphis Grizzlies,111,102,REG,1327
+nba-2011-post-2011-05-03-oklahoma-city-thunder-memphis-grizzlies,2011,,2011-05-03,Oklahoma City Thunder,Memphis Grizzlies,111,102,POST,1328
+nba-201105040CHI,2011,,2011-05-04,Chicago Bulls,Atlanta Hawks,86,73,REG,1329
+nba-2011-post-2011-05-04-chicago-bulls-atlanta-hawks,2011,,2011-05-04,Chicago Bulls,Atlanta Hawks,86,73,POST,1330
+nba-201105040LAL,2011,,2011-05-04,Los Angeles Lakers,Dallas Mavericks,81,93,REG,1331
+nba-2011-post-2011-05-04-los-angeles-lakers-dallas-mavericks,2011,,2011-05-04,Los Angeles Lakers,Dallas Mavericks,81,93,POST,1332
+nba-201105060ATL,2011,,2011-05-06,Atlanta Hawks,Chicago Bulls,82,99,REG,1333
+nba-2011-post-2011-05-06-atlanta-hawks-chicago-bulls,2011,,2011-05-06,Atlanta Hawks,Chicago Bulls,82,99,POST,1334
+nba-201105060DAL,2011,,2011-05-06,Dallas Mavericks,Los Angeles Lakers,98,92,REG,1335
+nba-2011-post-2011-05-06-dallas-mavericks-los-angeles-lakers,2011,,2011-05-06,Dallas Mavericks,Los Angeles Lakers,98,92,POST,1336
+nba-201105070BOS,2011,,2011-05-07,Boston Celtics,Miami Heat,97,81,REG,1337
+nba-2011-post-2011-05-07-boston-celtics-miami-heat,2011,,2011-05-07,Boston Celtics,Miami Heat,97,81,POST,1338
+nba-201105070MEM,2011,,2011-05-07,Memphis Grizzlies,Oklahoma City Thunder,101,93,REG,1339
+nba-2011-post-2011-05-07-memphis-grizzlies-oklahoma-city-thunder,2011,,2011-05-07,Memphis Grizzlies,Oklahoma City Thunder,101,93,POST,1340
+nba-201105080ATL,2011,,2011-05-08,Atlanta Hawks,Chicago Bulls,100,88,REG,1341
+nba-2011-post-2011-05-08-atlanta-hawks-chicago-bulls,2011,,2011-05-08,Atlanta Hawks,Chicago Bulls,100,88,POST,1342
+nba-201105080DAL,2011,,2011-05-08,Dallas Mavericks,Los Angeles Lakers,122,86,REG,1343
+nba-2011-post-2011-05-08-dallas-mavericks-los-angeles-lakers,2011,,2011-05-08,Dallas Mavericks,Los Angeles Lakers,122,86,POST,1344
+nba-201105090BOS,2011,,2011-05-09,Boston Celtics,Miami Heat,90,98,REG,1345
+nba-2011-post-2011-05-09-boston-celtics-miami-heat,2011,,2011-05-09,Boston Celtics,Miami Heat,90,98,POST,1346
+nba-201105090MEM,2011,,2011-05-09,Memphis Grizzlies,Oklahoma City Thunder,123,133,REG,1347
+nba-2011-post-2011-05-09-memphis-grizzlies-oklahoma-city-thunder,2011,,2011-05-09,Memphis Grizzlies,Oklahoma City Thunder,123,133,POST,1348
+nba-201105100CHI,2011,,2011-05-10,Chicago Bulls,Atlanta Hawks,95,83,REG,1349
+nba-2011-post-2011-05-10-chicago-bulls-atlanta-hawks,2011,,2011-05-10,Chicago Bulls,Atlanta Hawks,95,83,POST,1350
+nba-201105110MIA,2011,,2011-05-11,Miami Heat,Boston Celtics,97,87,REG,1351
+nba-2011-post-2011-05-11-miami-heat-boston-celtics,2011,,2011-05-11,Miami Heat,Boston Celtics,97,87,POST,1352
+nba-201105110OKC,2011,,2011-05-11,Oklahoma City Thunder,Memphis Grizzlies,99,72,REG,1353
+nba-2011-post-2011-05-11-oklahoma-city-thunder-memphis-grizzlies,2011,,2011-05-11,Oklahoma City Thunder,Memphis Grizzlies,99,72,POST,1354
+nba-201105120ATL,2011,,2011-05-12,Atlanta Hawks,Chicago Bulls,73,93,REG,1355
+nba-2011-post-2011-05-12-atlanta-hawks-chicago-bulls,2011,,2011-05-12,Atlanta Hawks,Chicago Bulls,73,93,POST,1356
+nba-201105130MEM,2011,,2011-05-13,Memphis Grizzlies,Oklahoma City Thunder,95,83,REG,1357
+nba-2011-post-2011-05-13-memphis-grizzlies-oklahoma-city-thunder,2011,,2011-05-13,Memphis Grizzlies,Oklahoma City Thunder,95,83,POST,1358
+nba-201105150CHI,2011,,2011-05-15,Chicago Bulls,Miami Heat,103,82,REG,1359
+nba-2011-post-2011-05-15-chicago-bulls-miami-heat,2011,,2011-05-15,Chicago Bulls,Miami Heat,103,82,POST,1360
+nba-201105150OKC,2011,,2011-05-15,Oklahoma City Thunder,Memphis Grizzlies,105,90,REG,1361
+nba-2011-post-2011-05-15-oklahoma-city-thunder-memphis-grizzlies,2011,,2011-05-15,Oklahoma City Thunder,Memphis Grizzlies,105,90,POST,1362
+nba-201105170DAL,2011,,2011-05-17,Dallas Mavericks,Oklahoma City Thunder,121,112,REG,1363
+nba-2011-post-2011-05-17-dallas-mavericks-oklahoma-city-thunder,2011,,2011-05-17,Dallas Mavericks,Oklahoma City Thunder,121,112,POST,1364
+nba-201105180CHI,2011,,2011-05-18,Chicago Bulls,Miami Heat,75,85,REG,1365
+nba-2011-post-2011-05-18-chicago-bulls-miami-heat,2011,,2011-05-18,Chicago Bulls,Miami Heat,75,85,POST,1366
+nba-201105190DAL,2011,,2011-05-19,Dallas Mavericks,Oklahoma City Thunder,100,106,REG,1367
+nba-2011-post-2011-05-19-dallas-mavericks-oklahoma-city-thunder,2011,,2011-05-19,Dallas Mavericks,Oklahoma City Thunder,100,106,POST,1368
+nba-201105210OKC,2011,,2011-05-21,Oklahoma City Thunder,Dallas Mavericks,87,93,REG,1369
+nba-2011-post-2011-05-21-oklahoma-city-thunder-dallas-mavericks,2011,,2011-05-21,Oklahoma City Thunder,Dallas Mavericks,87,93,POST,1370
+nba-201105220MIA,2011,,2011-05-22,Miami Heat,Chicago Bulls,96,85,REG,1371
+nba-2011-post-2011-05-22-miami-heat-chicago-bulls,2011,,2011-05-22,Miami Heat,Chicago Bulls,96,85,POST,1372
+nba-201105230OKC,2011,,2011-05-23,Oklahoma City Thunder,Dallas Mavericks,105,112,REG,1373
+nba-2011-post-2011-05-23-oklahoma-city-thunder-dallas-mavericks,2011,,2011-05-23,Oklahoma City Thunder,Dallas Mavericks,105,112,POST,1374
+nba-201105240MIA,2011,,2011-05-24,Miami Heat,Chicago Bulls,101,93,REG,1375
+nba-2011-post-2011-05-24-miami-heat-chicago-bulls,2011,,2011-05-24,Miami Heat,Chicago Bulls,101,93,POST,1376
+nba-201105250DAL,2011,,2011-05-25,Dallas Mavericks,Oklahoma City Thunder,100,96,REG,1377
+nba-2011-post-2011-05-25-dallas-mavericks-oklahoma-city-thunder,2011,,2011-05-25,Dallas Mavericks,Oklahoma City Thunder,100,96,POST,1378
+nba-201105260CHI,2011,,2011-05-26,Chicago Bulls,Miami Heat,80,83,REG,1379
+nba-2011-post-2011-05-26-chicago-bulls-miami-heat,2011,,2011-05-26,Chicago Bulls,Miami Heat,80,83,POST,1380
+nba-201105310MIA,2011,,2011-05-31,Miami Heat,Dallas Mavericks,92,84,REG,1381
+nba-2011-post-2011-05-31-miami-heat-dallas-mavericks,2011,,2011-05-31,Miami Heat,Dallas Mavericks,92,84,POST,1382
+nba-201106020MIA,2011,,2011-06-02,Miami Heat,Dallas Mavericks,93,95,REG,1383
+nba-2011-post-2011-06-02-miami-heat-dallas-mavericks,2011,,2011-06-02,Miami Heat,Dallas Mavericks,93,95,POST,1384
+nba-201106050DAL,2011,,2011-06-05,Dallas Mavericks,Miami Heat,86,88,REG,1385
+nba-2011-post-2011-06-05-dallas-mavericks-miami-heat,2011,,2011-06-05,Dallas Mavericks,Miami Heat,86,88,POST,1386
+nba-201106070DAL,2011,,2011-06-07,Dallas Mavericks,Miami Heat,86,83,REG,1387
+nba-2011-post-2011-06-07-dallas-mavericks-miami-heat,2011,,2011-06-07,Dallas Mavericks,Miami Heat,86,83,POST,1388
+nba-201106090DAL,2011,,2011-06-09,Dallas Mavericks,Miami Heat,112,103,REG,1389
+nba-2011-post-2011-06-09-dallas-mavericks-miami-heat,2011,,2011-06-09,Dallas Mavericks,Miami Heat,112,103,POST,1390
+nba-201106120MIA,2011,,2011-06-12,Miami Heat,Dallas Mavericks,95,105,REG,1391
+nba-2011-post-2011-06-12-miami-heat-dallas-mavericks,2011,,2011-06-12,Miami Heat,Dallas Mavericks,95,105,POST,1392

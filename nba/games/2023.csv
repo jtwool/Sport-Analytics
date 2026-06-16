@@ -1,0 +1,1405 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,season_type,game_num
+nba-202210180BOS,2023,,2022-10-18,Boston Celtics,Philadelphia 76ers,126,117,REG,1
+nba-202210180GSW,2023,,2022-10-18,Golden State Warriors,Los Angeles Lakers,123,109,REG,2
+nba-202210190ATL,2023,,2022-10-19,Atlanta Hawks,Houston Rockets,117,107,REG,3
+nba-202210190BRK,2023,,2022-10-19,Brooklyn Nets,New Orleans Pelicans,108,130,REG,4
+nba-202210190DET,2023,,2022-10-19,Detroit Pistons,Orlando Magic,113,109,REG,5
+nba-202210190IND,2023,,2022-10-19,Indiana Pacers,Washington Wizards,107,114,REG,6
+nba-202210190MEM,2023,,2022-10-19,Memphis Grizzlies,New York Knicks,115,112,REG,7
+nba-202210190MIA,2023,,2022-10-19,Miami Heat,Chicago Bulls,108,116,REG,8
+nba-202210190MIN,2023,,2022-10-19,Minnesota Timberwolves,Oklahoma City Thunder,115,108,REG,9
+nba-202210190PHO,2023,,2022-10-19,Phoenix Suns,Dallas Mavericks,107,105,REG,10
+nba-202210190SAC,2023,,2022-10-19,Sacramento Kings,Portland Trail Blazers,108,115,REG,11
+nba-202210190SAS,2023,,2022-10-19,San Antonio Spurs,Charlotte Hornets,102,129,REG,12
+nba-202210190TOR,2023,,2022-10-19,Toronto Raptors,Cleveland Cavaliers,108,105,REG,13
+nba-202210190UTA,2023,,2022-10-19,Utah Jazz,Denver Nuggets,123,102,REG,14
+nba-202210200LAL,2023,,2022-10-20,Los Angeles Lakers,Los Angeles Clippers,97,103,REG,15
+nba-202210200PHI,2023,,2022-10-20,Philadelphia 76ers,Milwaukee Bucks,88,90,REG,16
+nba-202210210ATL,2023,,2022-10-21,Atlanta Hawks,Orlando Magic,108,98,REG,17
+nba-202210210BRK,2023,,2022-10-21,Brooklyn Nets,Toronto Raptors,109,105,REG,18
+nba-202210210CHO,2023,,2022-10-21,Charlotte Hornets,New Orleans Pelicans,112,124,REG,19
+nba-202210210GSW,2023,,2022-10-21,Golden State Warriors,Denver Nuggets,123,128,REG,20
+nba-202210210HOU,2023,,2022-10-21,Houston Rockets,Memphis Grizzlies,122,129,REG,21
+nba-202210210IND,2023,,2022-10-21,Indiana Pacers,San Antonio Spurs,134,137,REG,22
+nba-202210210MIA,2023,,2022-10-21,Miami Heat,Boston Celtics,104,111,REG,23
+nba-202210210MIN,2023,,2022-10-21,Minnesota Timberwolves,Utah Jazz,126,132,REG,24
+nba-202210210NYK,2023,,2022-10-21,New York Knicks,Detroit Pistons,130,106,REG,25
+nba-202210210POR,2023,,2022-10-21,Portland Trail Blazers,Phoenix Suns,113,111,REG,26
+nba-202210210WAS,2023,,2022-10-21,Washington Wizards,Chicago Bulls,102,100,REG,27
+nba-202210220CHI,2023,,2022-10-22,Chicago Bulls,Cleveland Cavaliers,96,128,REG,28
+nba-202210220DAL,2023,,2022-10-22,Dallas Mavericks,Memphis Grizzlies,137,96,REG,29
+nba-202210220DEN,2023,,2022-10-22,Denver Nuggets,Oklahoma City Thunder,122,117,REG,30
+nba-202210220IND,2023,,2022-10-22,Indiana Pacers,Detroit Pistons,124,115,REG,31
+nba-202210220MIA,2023,,2022-10-22,Miami Heat,Toronto Raptors,112,109,REG,32
+nba-202210220MIL,2023,,2022-10-22,Milwaukee Bucks,Houston Rockets,125,105,REG,33
+nba-202210220ORL,2023,,2022-10-22,Orlando Magic,Boston Celtics,120,126,REG,34
+nba-202210220PHI,2023,,2022-10-22,Philadelphia 76ers,San Antonio Spurs,105,114,REG,35
+nba-202210220SAC,2023,,2022-10-22,Sacramento Kings,Los Angeles Clippers,109,111,REG,36
+nba-202210230ATL,2023,,2022-10-23,Atlanta Hawks,Charlotte Hornets,109,126,REG,37
+nba-202210230CLE,2023,,2022-10-23,Cleveland Cavaliers,Washington Wizards,117,107,REG,38
+nba-202210230GSW,2023,,2022-10-23,Golden State Warriors,Sacramento Kings,130,125,REG,39
+nba-202210230LAC,2023,,2022-10-23,Los Angeles Clippers,Phoenix Suns,95,112,REG,40
+nba-202210230LAL,2023,,2022-10-23,Los Angeles Lakers,Portland Trail Blazers,104,106,REG,41
+nba-202210230NOP,2023,,2022-10-23,New Orleans Pelicans,Utah Jazz,121,122,REG,42
+nba-202210230OKC,2023,,2022-10-23,Oklahoma City Thunder,Minnesota Timberwolves,106,116,REG,43
+nba-202210240CHI,2023,,2022-10-24,Chicago Bulls,Boston Celtics,120,102,REG,44
+nba-202210240HOU,2023,,2022-10-24,Houston Rockets,Utah Jazz,114,108,REG,45
+nba-202210240MEM,2023,,2022-10-24,Memphis Grizzlies,Brooklyn Nets,134,124,REG,46
+nba-202210240MIA,2023,,2022-10-24,Miami Heat,Toronto Raptors,90,98,REG,47
+nba-202210240MIN,2023,,2022-10-24,Minnesota Timberwolves,San Antonio Spurs,106,115,REG,48
+nba-202210240NYK,2023,,2022-10-24,New York Knicks,Orlando Magic,115,102,REG,49
+nba-202210240PHI,2023,,2022-10-24,Philadelphia 76ers,Indiana Pacers,120,106,REG,50
+nba-202210240POR,2023,,2022-10-24,Portland Trail Blazers,Denver Nuggets,135,110,REG,51
+nba-202210250NOP,2023,,2022-10-25,New Orleans Pelicans,Dallas Mavericks,113,111,REG,52
+nba-202210250OKC,2023,,2022-10-25,Oklahoma City Thunder,Los Angeles Clippers,108,94,REG,53
+nba-202210250PHO,2023,,2022-10-25,Phoenix Suns,Golden State Warriors,134,105,REG,54
+nba-202210250WAS,2023,,2022-10-25,Washington Wizards,Detroit Pistons,120,99,REG,55
+nba-202210260CHI,2023,,2022-10-26,Chicago Bulls,Indiana Pacers,124,109,REG,56
+nba-202210260CLE,2023,,2022-10-26,Cleveland Cavaliers,Orlando Magic,103,92,REG,57
+nba-202210260DEN,2023,,2022-10-26,Denver Nuggets,Los Angeles Lakers,110,99,REG,58
+nba-202210260DET,2023,,2022-10-26,Detroit Pistons,Atlanta Hawks,113,118,REG,59
+nba-202210260MIL,2023,,2022-10-26,Milwaukee Bucks,Brooklyn Nets,110,99,REG,60
+nba-202210260MIN,2023,,2022-10-26,Minnesota Timberwolves,San Antonio Spurs,134,122,REG,61
+nba-202210260NYK,2023,,2022-10-26,New York Knicks,Charlotte Hornets,134,131,REG,62
+nba-202210260POR,2023,,2022-10-26,Portland Trail Blazers,Miami Heat,98,119,REG,63
+nba-202210260TOR,2023,,2022-10-26,Toronto Raptors,Philadelphia 76ers,119,109,REG,64
+nba-202210260UTA,2023,,2022-10-26,Utah Jazz,Houston Rockets,109,101,REG,65
+nba-202210270BRK,2023,,2022-10-27,Brooklyn Nets,Dallas Mavericks,125,129,REG,66
+nba-202210270GSW,2023,,2022-10-27,Golden State Warriors,Miami Heat,123,110,REG,67
+nba-202210270OKC,2023,,2022-10-27,Oklahoma City Thunder,Los Angeles Clippers,118,110,REG,68
+nba-202210270SAC,2023,,2022-10-27,Sacramento Kings,Memphis Grizzlies,110,125,REG,69
+nba-202210280BOS,2023,,2022-10-28,Boston Celtics,Cleveland Cavaliers,123,132,REG,70
+nba-202210280DEN,2023,,2022-10-28,Denver Nuggets,Utah Jazz,117,101,REG,71
+nba-202210280DET,2023,,2022-10-28,Detroit Pistons,Atlanta Hawks,112,136,REG,72
+nba-202210280MIL,2023,,2022-10-28,Milwaukee Bucks,New York Knicks,119,108,REG,73
+nba-202210280MIN,2023,,2022-10-28,Minnesota Timberwolves,Los Angeles Lakers,111,102,REG,74
+nba-202210280ORL,2023,,2022-10-28,Orlando Magic,Charlotte Hornets,113,93,REG,75
+nba-202210280PHO,2023,,2022-10-28,Phoenix Suns,New Orleans Pelicans,124,111,REG,76
+nba-202210280POR,2023,,2022-10-28,Portland Trail Blazers,Houston Rockets,125,111,REG,77
+nba-202210280SAS,2023,,2022-10-28,San Antonio Spurs,Chicago Bulls,129,124,REG,78
+nba-202210280TOR,2023,,2022-10-28,Toronto Raptors,Philadelphia 76ers,90,112,REG,79
+nba-202210280WAS,2023,,2022-10-28,Washington Wizards,Indiana Pacers,117,127,REG,80
+nba-202210290BRK,2023,,2022-10-29,Brooklyn Nets,Indiana Pacers,116,125,REG,81
+nba-202210290CHO,2023,,2022-10-29,Charlotte Hornets,Golden State Warriors,120,113,REG,82
+nba-202210290CHI,2023,,2022-10-29,Chicago Bulls,Philadelphia 76ers,109,114,REG,83
+nba-202210290DAL,2023,,2022-10-29,Dallas Mavericks,Oklahoma City Thunder,111,117,REG,84
+nba-202210290MIL,2023,,2022-10-29,Milwaukee Bucks,Atlanta Hawks,123,115,REG,85
+nba-202210290SAC,2023,,2022-10-29,Sacramento Kings,Miami Heat,119,113,REG,86
+nba-202210290UTA,2023,,2022-10-29,Utah Jazz,Memphis Grizzlies,124,123,REG,87
+nba-202210300BOS,2023,,2022-10-30,Boston Celtics,Washington Wizards,112,94,REG,88
+nba-202210300CLE,2023,,2022-10-30,Cleveland Cavaliers,New York Knicks,121,108,REG,89
+nba-202210300DAL,2023,,2022-10-30,Dallas Mavericks,Orlando Magic,114,105,REG,90
+nba-202210300DET,2023,,2022-10-30,Detroit Pistons,Golden State Warriors,128,114,REG,91
+nba-202210300LAC,2023,,2022-10-30,Los Angeles Clippers,New Orleans Pelicans,91,112,REG,92
+nba-202210300LAL,2023,,2022-10-30,Los Angeles Lakers,Denver Nuggets,121,110,REG,93
+nba-202210300PHO,2023,,2022-10-30,Phoenix Suns,Houston Rockets,124,109,REG,94
+nba-202210300SAS,2023,,2022-10-30,San Antonio Spurs,Minnesota Timberwolves,107,98,REG,95
+nba-202210310BRK,2023,,2022-10-31,Brooklyn Nets,Indiana Pacers,116,109,REG,96
+nba-202210310CHO,2023,,2022-10-31,Charlotte Hornets,Sacramento Kings,108,115,REG,97
+nba-202210310LAC,2023,,2022-10-31,Los Angeles Clippers,Houston Rockets,95,93,REG,98
+nba-202210310MIL,2023,,2022-10-31,Milwaukee Bucks,Detroit Pistons,110,108,REG,99
+nba-202210310TOR,2023,,2022-10-31,Toronto Raptors,Atlanta Hawks,139,109,REG,100
+nba-202210310UTA,2023,,2022-10-31,Utah Jazz,Memphis Grizzlies,121,105,REG,101
+nba-202210310WAS,2023,,2022-10-31,Washington Wizards,Philadelphia 76ers,111,118,REG,102
+nba-202211010BRK,2023,,2022-11-01,Brooklyn Nets,Chicago Bulls,99,108,REG,103
+nba-202211010MIA,2023,,2022-11-01,Miami Heat,Golden State Warriors,116,109,REG,104
+nba-202211010OKC,2023,,2022-11-01,Oklahoma City Thunder,Orlando Magic,116,108,REG,105
+nba-202211010PHO,2023,,2022-11-01,Phoenix Suns,Minnesota Timberwolves,116,107,REG,106
+nba-202211020CHI,2023,,2022-11-02,Chicago Bulls,Charlotte Hornets,106,88,REG,107
+nba-202211020CLE,2023,,2022-11-02,Cleveland Cavaliers,Boston Celtics,114,113,REG,108
+nba-202211020DAL,2023,,2022-11-02,Dallas Mavericks,Utah Jazz,103,100,REG,109
+nba-202211020HOU,2023,,2022-11-02,Houston Rockets,Los Angeles Clippers,101,109,REG,110
+nba-202211020LAL,2023,,2022-11-02,Los Angeles Lakers,New Orleans Pelicans,120,117,REG,111
+nba-202211020MIA,2023,,2022-11-02,Miami Heat,Sacramento Kings,110,107,REG,112
+nba-202211020MIL,2023,,2022-11-02,Milwaukee Bucks,Detroit Pistons,116,91,REG,113
+nba-202211020NYK,2023,,2022-11-02,New York Knicks,Atlanta Hawks,99,112,REG,114
+nba-202211020PHI,2023,,2022-11-02,Philadelphia 76ers,Washington Wizards,111,121,REG,115
+nba-202211020POR,2023,,2022-11-02,Portland Trail Blazers,Memphis Grizzlies,106,111,REG,116
+nba-202211020SAS,2023,,2022-11-02,San Antonio Spurs,Toronto Raptors,100,143,REG,117
+nba-202211030OKC,2023,,2022-11-03,Oklahoma City Thunder,Denver Nuggets,110,122,REG,118
+nba-202211030ORL,2023,,2022-11-03,Orlando Magic,Golden State Warriors,130,129,REG,119
+nba-202211040BOS,2023,,2022-11-04,Boston Celtics,Chicago Bulls,123,119,REG,120
+nba-202211040DAL,2023,,2022-11-04,Dallas Mavericks,Toronto Raptors,111,110,REG,121
+nba-202211040DET,2023,,2022-11-04,Detroit Pistons,Cleveland Cavaliers,88,112,REG,122
+nba-202211040IND,2023,,2022-11-04,Indiana Pacers,Miami Heat,101,99,REG,123
+nba-202211040LAL,2023,,2022-11-04,Los Angeles Lakers,Utah Jazz,116,130,REG,124
+nba-202211040MEM,2023,,2022-11-04,Memphis Grizzlies,Charlotte Hornets,130,99,REG,125
+nba-202211040MIN,2023,,2022-11-04,Minnesota Timberwolves,Milwaukee Bucks,102,115,REG,126
+nba-202211040NOP,2023,,2022-11-04,New Orleans Pelicans,Golden State Warriors,114,105,REG,127
+nba-202211040PHI,2023,,2022-11-04,Philadelphia 76ers,New York Knicks,104,106,REG,128
+nba-202211040PHO,2023,,2022-11-04,Phoenix Suns,Portland Trail Blazers,106,108,REG,129
+nba-202211040SAS,2023,,2022-11-04,San Antonio Spurs,Los Angeles Clippers,106,113,REG,130
+nba-202211040WAS,2023,,2022-11-04,Washington Wizards,Brooklyn Nets,86,128,REG,131
+nba-202211050ATL,2023,,2022-11-05,Atlanta Hawks,New Orleans Pelicans,124,121,REG,132
+nba-202211050CHO,2023,,2022-11-05,Charlotte Hornets,Brooklyn Nets,94,98,REG,133
+nba-202211050DEN,2023,,2022-11-05,Denver Nuggets,San Antonio Spurs,126,101,REG,134
+nba-202211050MIL,2023,,2022-11-05,Milwaukee Bucks,Oklahoma City Thunder,108,94,REG,135
+nba-202211050MIN,2023,,2022-11-05,Minnesota Timberwolves,Houston Rockets,129,117,REG,136
+nba-202211050NYK,2023,,2022-11-05,New York Knicks,Boston Celtics,118,133,REG,137
+nba-202211050ORL,2023,,2022-11-05,Orlando Magic,Sacramento Kings,123,126,REG,138
+nba-202211050PHO,2023,,2022-11-05,Phoenix Suns,Portland Trail Blazers,102,82,REG,139
+nba-202211060LAC,2023,,2022-11-06,Los Angeles Clippers,Utah Jazz,102,110,REG,140
+nba-202211060LAL,2023,,2022-11-06,Los Angeles Lakers,Cleveland Cavaliers,100,114,REG,141
+nba-202211060MEM,2023,,2022-11-06,Memphis Grizzlies,Washington Wizards,103,97,REG,142
+nba-202211060TOR,2023,,2022-11-06,Toronto Raptors,Chicago Bulls,113,104,REG,143
+nba-202211070ATL,2023,,2022-11-07,Atlanta Hawks,Milwaukee Bucks,117,98,REG,144
+nba-202211070CHO,2023,,2022-11-07,Charlotte Hornets,Washington Wizards,100,108,REG,145
+nba-202211070CHI,2023,,2022-11-07,Chicago Bulls,Toronto Raptors,111,97,REG,146
+nba-202211070DAL,2023,,2022-11-07,Dallas Mavericks,Brooklyn Nets,96,94,REG,147
+nba-202211070DET,2023,,2022-11-07,Detroit Pistons,Oklahoma City Thunder,112,103,REG,148
+nba-202211070GSW,2023,,2022-11-07,Golden State Warriors,Sacramento Kings,116,113,REG,149
+nba-202211070IND,2023,,2022-11-07,Indiana Pacers,New Orleans Pelicans,129,122,REG,150
+nba-202211070LAC,2023,,2022-11-07,Los Angeles Clippers,Cleveland Cavaliers,119,117,REG,151
+nba-202211070MEM,2023,,2022-11-07,Memphis Grizzlies,Boston Celtics,106,109,REG,152
+nba-202211070MIA,2023,,2022-11-07,Miami Heat,Portland Trail Blazers,107,110,REG,153
+nba-202211070MIN,2023,,2022-11-07,Minnesota Timberwolves,New York Knicks,107,120,REG,154
+nba-202211070ORL,2023,,2022-11-07,Orlando Magic,Houston Rockets,127,134,REG,155
+nba-202211070PHI,2023,,2022-11-07,Philadelphia 76ers,Phoenix Suns,100,88,REG,156
+nba-202211070SAS,2023,,2022-11-07,San Antonio Spurs,Denver Nuggets,109,115,REG,157
+nba-202211070UTA,2023,,2022-11-07,Utah Jazz,Los Angeles Lakers,139,116,REG,158
+nba-202211090ATL,2023,,2022-11-09,Atlanta Hawks,Utah Jazz,119,125,REG,159
+nba-202211090BOS,2023,,2022-11-09,Boston Celtics,Detroit Pistons,128,112,REG,160
+nba-202211090BRK,2023,,2022-11-09,Brooklyn Nets,New York Knicks,112,85,REG,161
+nba-202211090CHO,2023,,2022-11-09,Charlotte Hornets,Portland Trail Blazers,95,105,REG,162
+nba-202211090CHI,2023,,2022-11-09,Chicago Bulls,New Orleans Pelicans,111,115,REG,163
+nba-202211090IND,2023,,2022-11-09,Indiana Pacers,Denver Nuggets,119,122,REG,164
+nba-202211090LAC,2023,,2022-11-09,Los Angeles Clippers,Los Angeles Lakers,114,101,REG,165
+nba-202211090MIN,2023,,2022-11-09,Minnesota Timberwolves,Phoenix Suns,117,129,REG,166
+nba-202211090OKC,2023,,2022-11-09,Oklahoma City Thunder,Milwaukee Bucks,132,136,REG,167
+nba-202211090ORL,2023,,2022-11-09,Orlando Magic,Dallas Mavericks,94,87,REG,168
+nba-202211090SAC,2023,,2022-11-09,Sacramento Kings,Cleveland Cavaliers,127,120,REG,169
+nba-202211090SAS,2023,,2022-11-09,San Antonio Spurs,Memphis Grizzlies,122,124,REG,170
+nba-202211090TOR,2023,,2022-11-09,Toronto Raptors,Houston Rockets,116,109,REG,171
+nba-202211100ATL,2023,,2022-11-10,Atlanta Hawks,Philadelphia 76ers,104,95,REG,172
+nba-202211100MIA,2023,,2022-11-10,Miami Heat,Charlotte Hornets,117,112,REG,173
+nba-202211100NOP,2023,,2022-11-10,New Orleans Pelicans,Portland Trail Blazers,95,106,REG,174
+nba-202211100WAS,2023,,2022-11-10,Washington Wizards,Dallas Mavericks,113,105,REG,175
+nba-202211110BOS,2023,,2022-11-11,Boston Celtics,Denver Nuggets,131,112,REG,176
+nba-202211110GSW,2023,,2022-11-11,Golden State Warriors,Cleveland Cavaliers,106,101,REG,177
+nba-202211110LAL,2023,,2022-11-11,Los Angeles Lakers,Sacramento Kings,114,120,REG,178
+nba-202211110MEM,2023,,2022-11-11,Memphis Grizzlies,Minnesota Timberwolves,114,103,REG,179
+nba-202211110NYK,2023,,2022-11-11,New York Knicks,Detroit Pistons,121,112,REG,180
+nba-202211110OKC,2023,,2022-11-11,Oklahoma City Thunder,Toronto Raptors,132,113,REG,181
+nba-202211110ORL,2023,,2022-11-11,Orlando Magic,Phoenix Suns,114,97,REG,182
+nba-202211110SAS,2023,,2022-11-11,San Antonio Spurs,Milwaukee Bucks,111,93,REG,183
+nba-202211120DAL,2023,,2022-11-12,Dallas Mavericks,Portland Trail Blazers,117,112,REG,184
+nba-202211120DET,2023,,2022-11-12,Detroit Pistons,Boston Celtics,108,117,REG,185
+nba-202211120IND,2023,,2022-11-12,Indiana Pacers,Toronto Raptors,118,104,REG,186
+nba-202211120LAC,2023,,2022-11-12,Los Angeles Clippers,Brooklyn Nets,95,110,REG,187
+nba-202211120MIA,2023,,2022-11-12,Miami Heat,Charlotte Hornets,132,115,REG,188
+nba-202211120NOP,2023,,2022-11-12,New Orleans Pelicans,Houston Rockets,119,106,REG,189
+nba-202211120PHI,2023,,2022-11-12,Philadelphia 76ers,Atlanta Hawks,121,109,REG,190
+nba-202211120WAS,2023,,2022-11-12,Washington Wizards,Utah Jazz,121,112,REG,191
+nba-202211130CHI,2023,,2022-11-13,Chicago Bulls,Denver Nuggets,103,126,REG,192
+nba-202211130CLE,2023,,2022-11-13,Cleveland Cavaliers,Minnesota Timberwolves,124,129,REG,193
+nba-202211130LAL,2023,,2022-11-13,Los Angeles Lakers,Brooklyn Nets,116,103,REG,194
+nba-202211130NYK,2023,,2022-11-13,New York Knicks,Oklahoma City Thunder,135,145,REG,195
+nba-202211130PHI,2023,,2022-11-13,Philadelphia 76ers,Utah Jazz,105,98,REG,196
+nba-202211130SAC,2023,,2022-11-13,Sacramento Kings,Golden State Warriors,122,115,REG,197
+nba-202211130WAS,2023,,2022-11-13,Washington Wizards,Memphis Grizzlies,102,92,REG,198
+nba-202211140BOS,2023,,2022-11-14,Boston Celtics,Oklahoma City Thunder,126,122,REG,199
+nba-202211140DET,2023,,2022-11-14,Detroit Pistons,Toronto Raptors,111,115,REG,200
+nba-202211140GSW,2023,,2022-11-14,Golden State Warriors,San Antonio Spurs,132,95,REG,201
+nba-202211140HOU,2023,,2022-11-14,Houston Rockets,Los Angeles Clippers,106,122,REG,202
+nba-202211140MIA,2023,,2022-11-14,Miami Heat,Phoenix Suns,113,112,REG,203
+nba-202211140MIL,2023,,2022-11-14,Milwaukee Bucks,Atlanta Hawks,106,121,REG,204
+nba-202211140ORL,2023,,2022-11-14,Orlando Magic,Charlotte Hornets,105,112,REG,205
+nba-202211150DAL,2023,,2022-11-15,Dallas Mavericks,Los Angeles Clippers,103,101,REG,206
+nba-202211150NOP,2023,,2022-11-15,New Orleans Pelicans,Memphis Grizzlies,113,102,REG,207
+nba-202211150POR,2023,,2022-11-15,Portland Trail Blazers,San Antonio Spurs,117,110,REG,208
+nba-202211150SAC,2023,,2022-11-15,Sacramento Kings,Brooklyn Nets,153,121,REG,209
+nba-202211150UTA,2023,,2022-11-15,Utah Jazz,New York Knicks,111,118,REG,210
+nba-202211160ATL,2023,,2022-11-16,Atlanta Hawks,Boston Celtics,101,126,REG,211
+nba-202211160CHO,2023,,2022-11-16,Charlotte Hornets,Indiana Pacers,113,125,REG,212
+nba-202211160DAL,2023,,2022-11-16,Dallas Mavericks,Houston Rockets,92,101,REG,213
+nba-202211160DEN,2023,,2022-11-16,Denver Nuggets,New York Knicks,103,106,REG,214
+nba-202211160MIL,2023,,2022-11-16,Milwaukee Bucks,Cleveland Cavaliers,113,98,REG,215
+nba-202211160NOP,2023,,2022-11-16,New Orleans Pelicans,Chicago Bulls,124,110,REG,216
+nba-202211160ORL,2023,,2022-11-16,Orlando Magic,Minnesota Timberwolves,108,126,REG,217
+nba-202211160PHO,2023,,2022-11-16,Phoenix Suns,Golden State Warriors,130,119,REG,218
+nba-202211160TOR,2023,,2022-11-16,Toronto Raptors,Miami Heat,112,104,REG,219
+nba-202211160WAS,2023,,2022-11-16,Washington Wizards,Oklahoma City Thunder,120,121,REG,220
+nba-202211170LAC,2023,,2022-11-17,Los Angeles Clippers,Detroit Pistons,96,91,REG,221
+nba-202211170POR,2023,,2022-11-17,Portland Trail Blazers,Brooklyn Nets,107,109,REG,222
+nba-202211170SAC,2023,,2022-11-17,Sacramento Kings,San Antonio Spurs,130,112,REG,223
+nba-202211180CHI,2023,,2022-11-18,Chicago Bulls,Orlando Magic,107,108,REG,224
+nba-202211180CLE,2023,,2022-11-18,Cleveland Cavaliers,Charlotte Hornets,132,122,REG,225
+nba-202211180DAL,2023,,2022-11-18,Dallas Mavericks,Denver Nuggets,127,99,REG,226
+nba-202211180GSW,2023,,2022-11-18,Golden State Warriors,New York Knicks,111,101,REG,227
+nba-202211180HOU,2023,,2022-11-18,Houston Rockets,Indiana Pacers,91,99,REG,228
+nba-202211180LAL,2023,,2022-11-18,Los Angeles Lakers,Detroit Pistons,128,121,REG,229
+nba-202211180MEM,2023,,2022-11-18,Memphis Grizzlies,Oklahoma City Thunder,121,110,REG,230
+nba-202211180NOP,2023,,2022-11-18,New Orleans Pelicans,Boston Celtics,109,117,REG,231
+nba-202211180PHI,2023,,2022-11-18,Philadelphia 76ers,Milwaukee Bucks,110,102,REG,232
+nba-202211180UTA,2023,,2022-11-18,Utah Jazz,Phoenix Suns,134,133,REG,233
+nba-202211180WAS,2023,,2022-11-18,Washington Wizards,Miami Heat,107,106,REG,234
+nba-202211190ATL,2023,,2022-11-19,Atlanta Hawks,Toronto Raptors,124,122,REG,235
+nba-202211190IND,2023,,2022-11-19,Indiana Pacers,Orlando Magic,114,113,REG,236
+nba-202211190LAC,2023,,2022-11-19,Los Angeles Clippers,San Antonio Spurs,119,97,REG,237
+nba-202211190PHI,2023,,2022-11-19,Philadelphia 76ers,Minnesota Timberwolves,109,112,REG,238
+nba-202211190POR,2023,,2022-11-19,Portland Trail Blazers,Utah Jazz,113,118,REG,239
+nba-202211200BRK,2023,,2022-11-20,Brooklyn Nets,Memphis Grizzlies,127,115,REG,240
+nba-202211200CLE,2023,,2022-11-20,Cleveland Cavaliers,Miami Heat,113,87,REG,241
+nba-202211200DAL,2023,,2022-11-20,Dallas Mavericks,Denver Nuggets,97,98,REG,242
+nba-202211200HOU,2023,,2022-11-20,Houston Rockets,Golden State Warriors,120,127,REG,243
+nba-202211200LAL,2023,,2022-11-20,Los Angeles Lakers,San Antonio Spurs,123,92,REG,244
+nba-202211200PHO,2023,,2022-11-20,Phoenix Suns,New York Knicks,116,95,REG,245
+nba-202211200SAC,2023,,2022-11-20,Sacramento Kings,Detroit Pistons,137,129,REG,246
+nba-202211200WAS,2023,,2022-11-20,Washington Wizards,Charlotte Hornets,106,102,REG,247
+nba-202211210CHI,2023,,2022-11-21,Chicago Bulls,Boston Celtics,121,107,REG,248
+nba-202211210CLE,2023,,2022-11-21,Cleveland Cavaliers,Atlanta Hawks,114,102,REG,249
+nba-202211210IND,2023,,2022-11-21,Indiana Pacers,Orlando Magic,123,102,REG,250
+nba-202211210LAC,2023,,2022-11-21,Los Angeles Clippers,Utah Jazz,121,114,REG,251
+nba-202211210MIL,2023,,2022-11-21,Milwaukee Bucks,Portland Trail Blazers,119,111,REG,252
+nba-202211210MIN,2023,,2022-11-21,Minnesota Timberwolves,Miami Heat,105,101,REG,253
+nba-202211210NOP,2023,,2022-11-21,New Orleans Pelicans,Golden State Warriors,128,83,REG,254
+nba-202211210OKC,2023,,2022-11-21,Oklahoma City Thunder,New York Knicks,119,129,REG,255
+nba-202211220DEN,2023,,2022-11-22,Denver Nuggets,Detroit Pistons,108,110,REG,256
+nba-202211220MEM,2023,,2022-11-22,Memphis Grizzlies,Sacramento Kings,109,113,REG,257
+nba-202211220PHI,2023,,2022-11-22,Philadelphia 76ers,Brooklyn Nets,115,106,REG,258
+nba-202211220PHO,2023,,2022-11-22,Phoenix Suns,Los Angeles Lakers,115,105,REG,259
+nba-202211230ATL,2023,,2022-11-23,Atlanta Hawks,Sacramento Kings,115,106,REG,260
+nba-202211230BOS,2023,,2022-11-23,Boston Celtics,Dallas Mavericks,125,112,REG,261
+nba-202211230CHO,2023,,2022-11-23,Charlotte Hornets,Philadelphia 76ers,107,101,REG,262
+nba-202211230CLE,2023,,2022-11-23,Cleveland Cavaliers,Portland Trail Blazers,114,96,REG,263
+nba-202211230GSW,2023,,2022-11-23,Golden State Warriors,Los Angeles Clippers,124,107,REG,264
+nba-202211230IND,2023,,2022-11-23,Indiana Pacers,Minnesota Timberwolves,101,115,REG,265
+nba-202211230MIA,2023,,2022-11-23,Miami Heat,Washington Wizards,113,105,REG,266
+nba-202211230MIL,2023,,2022-11-23,Milwaukee Bucks,Chicago Bulls,113,118,REG,267
+nba-202211230OKC,2023,,2022-11-23,Oklahoma City Thunder,Denver Nuggets,126,131,REG,268
+nba-202211230SAS,2023,,2022-11-23,San Antonio Spurs,New Orleans Pelicans,110,129,REG,269
+nba-202211230TOR,2023,,2022-11-23,Toronto Raptors,Brooklyn Nets,98,112,REG,270
+nba-202211230UTA,2023,,2022-11-23,Utah Jazz,Detroit Pistons,116,125,REG,271
+nba-202211250BOS,2023,,2022-11-25,Boston Celtics,Sacramento Kings,122,104,REG,272
+nba-202211250CHO,2023,,2022-11-25,Charlotte Hornets,Minnesota Timberwolves,110,108,REG,273
+nba-202211250GSW,2023,,2022-11-25,Golden State Warriors,Utah Jazz,129,118,REG,274
+nba-202211250HOU,2023,,2022-11-25,Houston Rockets,Atlanta Hawks,128,122,REG,275
+nba-202211250IND,2023,,2022-11-25,Indiana Pacers,Brooklyn Nets,128,117,REG,276
+nba-202211250LAC,2023,,2022-11-25,Los Angeles Clippers,Denver Nuggets,104,114,REG,277
+nba-202211250MEM,2023,,2022-11-25,Memphis Grizzlies,New Orleans Pelicans,132,111,REG,278
+nba-202211250MIA,2023,,2022-11-25,Miami Heat,Washington Wizards,110,107,REG,279
+nba-202211250MIL,2023,,2022-11-25,Milwaukee Bucks,Cleveland Cavaliers,117,102,REG,280
+nba-202211250NYK,2023,,2022-11-25,New York Knicks,Portland Trail Blazers,129,132,REG,281
+nba-202211250OKC,2023,,2022-11-25,Oklahoma City Thunder,Chicago Bulls,123,119,REG,282
+nba-202211250ORL,2023,,2022-11-25,Orlando Magic,Philadelphia 76ers,99,107,REG,283
+nba-202211250PHO,2023,,2022-11-25,Phoenix Suns,Detroit Pistons,108,102,REG,284
+nba-202211250SAS,2023,,2022-11-25,San Antonio Spurs,Los Angeles Lakers,94,105,REG,285
+nba-202211260HOU,2023,,2022-11-26,Houston Rockets,Oklahoma City Thunder,118,105,REG,286
+nba-202211260PHO,2023,,2022-11-26,Phoenix Suns,Utah Jazz,113,112,REG,287
+nba-202211260SAS,2023,,2022-11-26,San Antonio Spurs,Los Angeles Lakers,138,143,REG,288
+nba-202211260TOR,2023,,2022-11-26,Toronto Raptors,Dallas Mavericks,105,100,REG,289
+nba-202211270ATL,2023,,2022-11-27,Atlanta Hawks,Miami Heat,98,106,REG,290
+nba-202211270BOS,2023,,2022-11-27,Boston Celtics,Washington Wizards,130,121,REG,291
+nba-202211270BRK,2023,,2022-11-27,Brooklyn Nets,Portland Trail Blazers,111,97,REG,292
+nba-202211270DET,2023,,2022-11-27,Detroit Pistons,Cleveland Cavaliers,94,102,REG,293
+nba-202211270LAC,2023,,2022-11-27,Los Angeles Clippers,Indiana Pacers,114,100,REG,294
+nba-202211270MIL,2023,,2022-11-27,Milwaukee Bucks,Dallas Mavericks,124,115,REG,295
+nba-202211270MIN,2023,,2022-11-27,Minnesota Timberwolves,Golden State Warriors,114,137,REG,296
+nba-202211270NYK,2023,,2022-11-27,New York Knicks,Memphis Grizzlies,123,127,REG,297
+nba-202211270ORL,2023,,2022-11-27,Orlando Magic,Philadelphia 76ers,103,133,REG,298
+nba-202211280BOS,2023,,2022-11-28,Boston Celtics,Charlotte Hornets,140,105,REG,299
+nba-202211280BRK,2023,,2022-11-28,Brooklyn Nets,Orlando Magic,109,102,REG,300
+nba-202211280DEN,2023,,2022-11-28,Denver Nuggets,Houston Rockets,129,113,REG,301
+nba-202211280LAL,2023,,2022-11-28,Los Angeles Lakers,Indiana Pacers,115,116,REG,302
+nba-202211280NOP,2023,,2022-11-28,New Orleans Pelicans,Oklahoma City Thunder,105,101,REG,303
+nba-202211280PHI,2023,,2022-11-28,Philadelphia 76ers,Atlanta Hawks,104,101,REG,304
+nba-202211280SAC,2023,,2022-11-28,Sacramento Kings,Phoenix Suns,117,122,REG,305
+nba-202211280TOR,2023,,2022-11-28,Toronto Raptors,Cleveland Cavaliers,100,88,REG,306
+nba-202211280UTA,2023,,2022-11-28,Utah Jazz,Chicago Bulls,107,114,REG,307
+nba-202211280WAS,2023,,2022-11-28,Washington Wizards,Minnesota Timberwolves,142,127,REG,308
+nba-202211290DAL,2023,,2022-11-29,Dallas Mavericks,Golden State Warriors,116,113,REG,309
+nba-202211290DET,2023,,2022-11-29,Detroit Pistons,New York Knicks,110,140,REG,310
+nba-202211290POR,2023,,2022-11-29,Portland Trail Blazers,Los Angeles Clippers,112,118,REG,311
+nba-202211300BOS,2023,,2022-11-30,Boston Celtics,Miami Heat,134,121,REG,312
+nba-202211300BRK,2023,,2022-11-30,Brooklyn Nets,Washington Wizards,113,107,REG,313
+nba-202211300CLE,2023,,2022-11-30,Cleveland Cavaliers,Philadelphia 76ers,113,85,REG,314
+nba-202211300DEN,2023,,2022-11-30,Denver Nuggets,Houston Rockets,120,100,REG,315
+nba-202211300LAL,2023,,2022-11-30,Los Angeles Lakers,Portland Trail Blazers,128,109,REG,316
+nba-202211300MIN,2023,,2022-11-30,Minnesota Timberwolves,Memphis Grizzlies,109,101,REG,317
+nba-202211300NOP,2023,,2022-11-30,New Orleans Pelicans,Toronto Raptors,126,108,REG,318
+nba-202211300NYK,2023,,2022-11-30,New York Knicks,Milwaukee Bucks,103,109,REG,319
+nba-202211300OKC,2023,,2022-11-30,Oklahoma City Thunder,San Antonio Spurs,119,111,REG,320
+nba-202211300ORL,2023,,2022-11-30,Orlando Magic,Atlanta Hawks,108,125,REG,321
+nba-202211300PHO,2023,,2022-11-30,Phoenix Suns,Chicago Bulls,132,113,REG,322
+nba-202211300SAC,2023,,2022-11-30,Sacramento Kings,Indiana Pacers,137,114,REG,323
+nba-202211300UTA,2023,,2022-11-30,Utah Jazz,Los Angeles Clippers,125,112,REG,324
+nba-202212010DET,2023,,2022-12-01,Detroit Pistons,Dallas Mavericks,131,125,REG,325
+nba-202212020ATL,2023,,2022-12-02,Atlanta Hawks,Denver Nuggets,117,109,REG,326
+nba-202212020BOS,2023,,2022-12-02,Boston Celtics,Miami Heat,116,120,REG,327
+nba-202212020BRK,2023,,2022-12-02,Brooklyn Nets,Toronto Raptors,114,105,REG,328
+nba-202212020CHO,2023,,2022-12-02,Charlotte Hornets,Washington Wizards,117,116,REG,329
+nba-202212020CLE,2023,,2022-12-02,Cleveland Cavaliers,Orlando Magic,107,96,REG,330
+nba-202212020GSW,2023,,2022-12-02,Golden State Warriors,Chicago Bulls,119,111,REG,331
+nba-202212020MEM,2023,,2022-12-02,Memphis Grizzlies,Philadelphia 76ers,117,109,REG,332
+nba-202212020MIL,2023,,2022-12-02,Milwaukee Bucks,Los Angeles Lakers,129,133,REG,333
+nba-202212020PHO,2023,,2022-12-02,Phoenix Suns,Houston Rockets,121,122,REG,334
+nba-202212020SAS,2023,,2022-12-02,San Antonio Spurs,New Orleans Pelicans,99,117,REG,335
+nba-202212020UTA,2023,,2022-12-02,Utah Jazz,Indiana Pacers,139,119,REG,336
+nba-202212030CHO,2023,,2022-12-03,Charlotte Hornets,Milwaukee Bucks,96,105,REG,337
+nba-202212030GSW,2023,,2022-12-03,Golden State Warriors,Houston Rockets,120,101,REG,338
+nba-202212030LAC,2023,,2022-12-03,Los Angeles Clippers,Sacramento Kings,96,123,REG,339
+nba-202212030MIN,2023,,2022-12-03,Minnesota Timberwolves,Oklahoma City Thunder,128,135,REG,340
+nba-202212030NYK,2023,,2022-12-03,New York Knicks,Dallas Mavericks,100,121,REG,341
+nba-202212030TOR,2023,,2022-12-03,Toronto Raptors,Orlando Magic,121,108,REG,342
+nba-202212030UTA,2023,,2022-12-03,Utah Jazz,Portland Trail Blazers,111,116,REG,343
+nba-202212040BRK,2023,,2022-12-04,Brooklyn Nets,Boston Celtics,92,103,REG,344
+nba-202212040DET,2023,,2022-12-04,Detroit Pistons,Memphis Grizzlies,112,122,REG,345
+nba-202212040NOP,2023,,2022-12-04,New Orleans Pelicans,Denver Nuggets,121,106,REG,346
+nba-202212040NYK,2023,,2022-12-04,New York Knicks,Cleveland Cavaliers,92,81,REG,347
+nba-202212040POR,2023,,2022-12-04,Portland Trail Blazers,Indiana Pacers,116,100,REG,348
+nba-202212040SAC,2023,,2022-12-04,Sacramento Kings,Chicago Bulls,110,101,REG,349
+nba-202212040SAS,2023,,2022-12-04,San Antonio Spurs,Phoenix Suns,95,133,REG,350
+nba-202212040WAS,2023,,2022-12-04,Washington Wizards,Los Angeles Lakers,119,130,REG,351
+nba-202212050ATL,2023,,2022-12-05,Atlanta Hawks,Oklahoma City Thunder,114,121,REG,352
+nba-202212050CHO,2023,,2022-12-05,Charlotte Hornets,Los Angeles Clippers,117,119,REG,353
+nba-202212050DAL,2023,,2022-12-05,Dallas Mavericks,Phoenix Suns,130,111,REG,354
+nba-202212050GSW,2023,,2022-12-05,Golden State Warriors,Indiana Pacers,104,112,REG,355
+nba-202212050HOU,2023,,2022-12-05,Houston Rockets,Philadelphia 76ers,132,123,REG,356
+nba-202212050MEM,2023,,2022-12-05,Memphis Grizzlies,Miami Heat,101,93,REG,357
+nba-202212050ORL,2023,,2022-12-05,Orlando Magic,Milwaukee Bucks,102,109,REG,358
+nba-202212050TOR,2023,,2022-12-05,Toronto Raptors,Boston Celtics,110,116,REG,359
+nba-202212060CLE,2023,,2022-12-06,Cleveland Cavaliers,Los Angeles Lakers,116,102,REG,360
+nba-202212060DEN,2023,,2022-12-06,Denver Nuggets,Dallas Mavericks,115,116,REG,361
+nba-202212060MIA,2023,,2022-12-06,Miami Heat,Detroit Pistons,96,116,REG,362
+nba-202212070BRK,2023,,2022-12-07,Brooklyn Nets,Charlotte Hornets,122,116,REG,363
+nba-202212070CHI,2023,,2022-12-07,Chicago Bulls,Washington Wizards,115,111,REG,364
+nba-202212070MEM,2023,,2022-12-07,Memphis Grizzlies,Oklahoma City Thunder,123,102,REG,365
+nba-202212070MIL,2023,,2022-12-07,Milwaukee Bucks,Sacramento Kings,126,113,REG,366
+nba-202212070MIN,2023,,2022-12-07,Minnesota Timberwolves,Indiana Pacers,121,115,REG,367
+nba-202212070NOP,2023,,2022-12-07,New Orleans Pelicans,Detroit Pistons,104,98,REG,368
+nba-202212070NYK,2023,,2022-12-07,New York Knicks,Atlanta Hawks,113,89,REG,369
+nba-202212070ORL,2023,,2022-12-07,Orlando Magic,Los Angeles Clippers,116,111,REG,370
+nba-202212070PHO,2023,,2022-12-07,Phoenix Suns,Boston Celtics,98,125,REG,371
+nba-202212070TOR,2023,,2022-12-07,Toronto Raptors,Los Angeles Lakers,126,113,REG,372
+nba-202212070UTA,2023,,2022-12-07,Utah Jazz,Golden State Warriors,124,123,REG,373
+nba-202212080MIA,2023,,2022-12-08,Miami Heat,Los Angeles Clippers,115,110,REG,374
+nba-202212080POR,2023,,2022-12-08,Portland Trail Blazers,Denver Nuggets,120,121,REG,375
+nba-202212080SAS,2023,,2022-12-08,San Antonio Spurs,Houston Rockets,118,109,REG,376
+nba-202212090BRK,2023,,2022-12-09,Brooklyn Nets,Atlanta Hawks,120,116,REG,377
+nba-202212090CHO,2023,,2022-12-09,Charlotte Hornets,New York Knicks,102,121,REG,378
+nba-202212090CLE,2023,,2022-12-09,Cleveland Cavaliers,Sacramento Kings,95,106,REG,379
+nba-202212090DAL,2023,,2022-12-09,Dallas Mavericks,Milwaukee Bucks,105,106,REG,380
+nba-202212090IND,2023,,2022-12-09,Indiana Pacers,Washington Wizards,121,111,REG,381
+nba-202212090MEM,2023,,2022-12-09,Memphis Grizzlies,Detroit Pistons,114,103,REG,382
+nba-202212090NOP,2023,,2022-12-09,New Orleans Pelicans,Phoenix Suns,128,117,REG,383
+nba-202212090ORL,2023,,2022-12-09,Orlando Magic,Toronto Raptors,113,109,REG,384
+nba-202212090PHI,2023,,2022-12-09,Philadelphia 76ers,Los Angeles Lakers,133,122,REG,385
+nba-202212090UTA,2023,,2022-12-09,Utah Jazz,Minnesota Timberwolves,108,118,REG,386
+nba-202212100CHI,2023,,2022-12-10,Chicago Bulls,Dallas Mavericks,144,115,REG,387
+nba-202212100CLE,2023,,2022-12-10,Cleveland Cavaliers,Oklahoma City Thunder,110,102,REG,388
+nba-202212100DEN,2023,,2022-12-10,Denver Nuggets,Utah Jazz,115,110,REG,389
+nba-202212100GSW,2023,,2022-12-10,Golden State Warriors,Boston Celtics,123,107,REG,390
+nba-202212100IND,2023,,2022-12-10,Indiana Pacers,Brooklyn Nets,133,136,REG,391
+nba-202212100MIA,2023,,2022-12-10,Miami Heat,San Antonio Spurs,111,115,REG,392
+nba-202212100POR,2023,,2022-12-10,Portland Trail Blazers,Minnesota Timberwolves,124,118,REG,393
+nba-202212100WAS,2023,,2022-12-10,Washington Wizards,Los Angeles Clippers,107,114,REG,394
+nba-202212110ATL,2023,,2022-12-11,Atlanta Hawks,Chicago Bulls,123,122,REG,395
+nba-202212110DET,2023,,2022-12-11,Detroit Pistons,Los Angeles Lakers,117,124,REG,396
+nba-202212110HOU,2023,,2022-12-11,Houston Rockets,Milwaukee Bucks,97,92,REG,397
+nba-202212110NOP,2023,,2022-12-11,New Orleans Pelicans,Phoenix Suns,129,124,REG,398
+nba-202212110NYK,2023,,2022-12-11,New York Knicks,Sacramento Kings,112,99,REG,399
+nba-202212110ORL,2023,,2022-12-11,Orlando Magic,Toronto Raptors,111,99,REG,400
+nba-202212110PHI,2023,,2022-12-11,Philadelphia 76ers,Charlotte Hornets,131,113,REG,401
+nba-202212120DAL,2023,,2022-12-12,Dallas Mavericks,Oklahoma City Thunder,121,114,REG,402
+nba-202212120IND,2023,,2022-12-12,Indiana Pacers,Miami Heat,82,87,REG,403
+nba-202212120LAC,2023,,2022-12-12,Los Angeles Clippers,Boston Celtics,113,93,REG,404
+nba-202212120MEM,2023,,2022-12-12,Memphis Grizzlies,Atlanta Hawks,128,103,REG,405
+nba-202212120POR,2023,,2022-12-12,Portland Trail Blazers,Minnesota Timberwolves,133,112,REG,406
+nba-202212120SAS,2023,,2022-12-12,San Antonio Spurs,Cleveland Cavaliers,112,111,REG,407
+nba-202212120WAS,2023,,2022-12-12,Washington Wizards,Brooklyn Nets,100,112,REG,408
+nba-202212130HOU,2023,,2022-12-13,Houston Rockets,Phoenix Suns,111,97,REG,409
+nba-202212130LAL,2023,,2022-12-13,Los Angeles Lakers,Boston Celtics,118,122,REG,410
+nba-202212130MIL,2023,,2022-12-13,Milwaukee Bucks,Golden State Warriors,128,111,REG,411
+nba-202212130PHI,2023,,2022-12-13,Philadelphia 76ers,Sacramento Kings,123,103,REG,412
+nba-202212130UTA,2023,,2022-12-13,Utah Jazz,New Orleans Pelicans,121,100,REG,413
+nba-202212140CHO,2023,,2022-12-14,Charlotte Hornets,Detroit Pistons,134,141,REG,414
+nba-202212140CHI,2023,,2022-12-14,Chicago Bulls,New York Knicks,120,128,REG,415
+nba-202212140DAL,2023,,2022-12-14,Dallas Mavericks,Cleveland Cavaliers,90,105,REG,416
+nba-202212140DEN,2023,,2022-12-14,Denver Nuggets,Washington Wizards,141,128,REG,417
+nba-202212140IND,2023,,2022-12-14,Indiana Pacers,Golden State Warriors,125,119,REG,418
+nba-202212140LAC,2023,,2022-12-14,Los Angeles Clippers,Minnesota Timberwolves,99,88,REG,419
+nba-202212140OKC,2023,,2022-12-14,Oklahoma City Thunder,Miami Heat,108,110,REG,420
+nba-202212140ORL,2023,,2022-12-14,Orlando Magic,Atlanta Hawks,135,124,REG,421
+nba-202212140SAS,2023,,2022-12-14,San Antonio Spurs,Portland Trail Blazers,112,128,REG,422
+nba-202212140TOR,2023,,2022-12-14,Toronto Raptors,Sacramento Kings,123,124,REG,423
+nba-202212150HOU,2023,,2022-12-15,Houston Rockets,Miami Heat,108,111,REG,424
+nba-202212150LAC,2023,,2022-12-15,Los Angeles Clippers,Phoenix Suns,95,111,REG,425
+nba-202212150MEM,2023,,2022-12-15,Memphis Grizzlies,Milwaukee Bucks,142,101,REG,426
+nba-202212150UTA,2023,,2022-12-15,Utah Jazz,New Orleans Pelicans,132,129,REG,427
+nba-202212160BOS,2023,,2022-12-16,Boston Celtics,Orlando Magic,109,117,REG,428
+nba-202212160CHO,2023,,2022-12-16,Charlotte Hornets,Atlanta Hawks,106,125,REG,429
+nba-202212160CHI,2023,,2022-12-16,Chicago Bulls,New York Knicks,91,114,REG,430
+nba-202212160CLE,2023,,2022-12-16,Cleveland Cavaliers,Indiana Pacers,118,112,REG,431
+nba-202212160DAL,2023,,2022-12-16,Dallas Mavericks,Portland Trail Blazers,130,110,REG,432
+nba-202212160DET,2023,,2022-12-16,Detroit Pistons,Sacramento Kings,113,122,REG,433
+nba-202212160LAL,2023,,2022-12-16,Los Angeles Lakers,Denver Nuggets,126,108,REG,434
+nba-202212160OKC,2023,,2022-12-16,Oklahoma City Thunder,Minnesota Timberwolves,110,112,REG,435
+nba-202212160PHI,2023,,2022-12-16,Philadelphia 76ers,Golden State Warriors,118,106,REG,436
+nba-202212160TOR,2023,,2022-12-16,Toronto Raptors,Brooklyn Nets,116,119,REG,437
+nba-202212170CLE,2023,,2022-12-17,Cleveland Cavaliers,Dallas Mavericks,100,99,REG,438
+nba-202212170HOU,2023,,2022-12-17,Houston Rockets,Portland Trail Blazers,95,107,REG,439
+nba-202212170LAC,2023,,2022-12-17,Los Angeles Clippers,Washington Wizards,102,93,REG,440
+nba-202212170MIL,2023,,2022-12-17,Milwaukee Bucks,Utah Jazz,123,97,REG,441
+nba-202212170OKC,2023,,2022-12-17,Oklahoma City Thunder,Memphis Grizzlies,115,109,REG,442
+nba-202212170PHO,2023,,2022-12-17,Phoenix Suns,New Orleans Pelicans,118,114,REG,443
+nba-202212170SAS,2023,,2022-12-17,San Antonio Spurs,Miami Heat,101,111,REG,444
+nba-202212180BOS,2023,,2022-12-18,Boston Celtics,Orlando Magic,92,95,REG,445
+nba-202212180DEN,2023,,2022-12-18,Denver Nuggets,Charlotte Hornets,119,115,REG,446
+nba-202212180DET,2023,,2022-12-18,Detroit Pistons,Brooklyn Nets,121,124,REG,447
+nba-202212180IND,2023,,2022-12-18,Indiana Pacers,New York Knicks,106,109,REG,448
+nba-202212180LAL,2023,,2022-12-18,Los Angeles Lakers,Washington Wizards,119,117,REG,449
+nba-202212180MIN,2023,,2022-12-18,Minnesota Timberwolves,Chicago Bulls,150,126,REG,450
+nba-202212180TOR,2023,,2022-12-18,Toronto Raptors,Golden State Warriors,110,126,REG,451
+nba-202212190ATL,2023,,2022-12-19,Atlanta Hawks,Orlando Magic,126,125,REG,452
+nba-202212190CLE,2023,,2022-12-19,Cleveland Cavaliers,Utah Jazz,122,99,REG,453
+nba-202212190HOU,2023,,2022-12-19,Houston Rockets,San Antonio Spurs,105,124,REG,454
+nba-202212190MIN,2023,,2022-12-19,Minnesota Timberwolves,Dallas Mavericks,116,106,REG,455
+nba-202212190NOP,2023,,2022-12-19,New Orleans Pelicans,Milwaukee Bucks,119,128,REG,456
+nba-202212190OKC,2023,,2022-12-19,Oklahoma City Thunder,Portland Trail Blazers,123,121,REG,457
+nba-202212190PHI,2023,,2022-12-19,Philadelphia 76ers,Toronto Raptors,104,101,REG,458
+nba-202212190PHO,2023,,2022-12-19,Phoenix Suns,Los Angeles Lakers,130,104,REG,459
+nba-202212190SAC,2023,,2022-12-19,Sacramento Kings,Charlotte Hornets,119,125,REG,460
+nba-202212200DEN,2023,,2022-12-20,Denver Nuggets,Memphis Grizzlies,105,91,REG,461
+nba-202212200DET,2023,,2022-12-20,Detroit Pistons,Utah Jazz,111,126,REG,462
+nba-202212200MIA,2023,,2022-12-20,Miami Heat,Chicago Bulls,103,113,REG,463
+nba-202212200NYK,2023,,2022-12-20,New York Knicks,Golden State Warriors,132,94,REG,464
+nba-202212200PHO,2023,,2022-12-20,Phoenix Suns,Washington Wizards,110,113,REG,465
+nba-202212210ATL,2023,,2022-12-21,Atlanta Hawks,Chicago Bulls,108,110,REG,466
+nba-202212210BOS,2023,,2022-12-21,Boston Celtics,Indiana Pacers,112,117,REG,467
+nba-202212210BRK,2023,,2022-12-21,Brooklyn Nets,Golden State Warriors,143,113,REG,468
+nba-202212210CLE,2023,,2022-12-21,Cleveland Cavaliers,Milwaukee Bucks,114,106,REG,469
+nba-202212210HOU,2023,,2022-12-21,Houston Rockets,Orlando Magic,110,116,REG,470
+nba-202212210LAC,2023,,2022-12-21,Los Angeles Clippers,Charlotte Hornets,126,105,REG,471
+nba-202212210MIN,2023,,2022-12-21,Minnesota Timberwolves,Dallas Mavericks,99,104,REG,472
+nba-202212210NYK,2023,,2022-12-21,New York Knicks,Toronto Raptors,106,113,REG,473
+nba-202212210OKC,2023,,2022-12-21,Oklahoma City Thunder,Portland Trail Blazers,101,98,REG,474
+nba-202212210PHI,2023,,2022-12-21,Philadelphia 76ers,Detroit Pistons,113,93,REG,475
+nba-202212210SAC,2023,,2022-12-21,Sacramento Kings,Los Angeles Lakers,134,120,REG,476
+nba-202212220NOP,2023,,2022-12-22,New Orleans Pelicans,San Antonio Spurs,126,117,REG,477
+nba-202212220UTA,2023,,2022-12-22,Utah Jazz,Washington Wizards,120,112,REG,478
+nba-202212230ATL,2023,,2022-12-23,Atlanta Hawks,Detroit Pistons,130,105,REG,479
+nba-202212230BOS,2023,,2022-12-23,Boston Celtics,Minnesota Timberwolves,121,109,REG,480
+nba-202212230BRK,2023,,2022-12-23,Brooklyn Nets,Milwaukee Bucks,118,100,REG,481
+nba-202212230CLE,2023,,2022-12-23,Cleveland Cavaliers,Toronto Raptors,107,118,REG,482
+nba-202212230DEN,2023,,2022-12-23,Denver Nuggets,Portland Trail Blazers,120,107,REG,483
+nba-202212230HOU,2023,,2022-12-23,Houston Rockets,Dallas Mavericks,106,112,REG,484
+nba-202212230LAL,2023,,2022-12-23,Los Angeles Lakers,Charlotte Hornets,130,134,REG,485
+nba-202212230MIA,2023,,2022-12-23,Miami Heat,Indiana Pacers,108,111,REG,486
+nba-202212230NYK,2023,,2022-12-23,New York Knicks,Chicago Bulls,117,118,REG,487
+nba-202212230OKC,2023,,2022-12-23,Oklahoma City Thunder,New Orleans Pelicans,125,128,REG,488
+nba-202212230ORL,2023,,2022-12-23,Orlando Magic,San Antonio Spurs,133,113,REG,489
+nba-202212230PHI,2023,,2022-12-23,Philadelphia 76ers,Los Angeles Clippers,119,114,REG,490
+nba-202212230PHO,2023,,2022-12-23,Phoenix Suns,Memphis Grizzlies,100,125,REG,491
+nba-202212230SAC,2023,,2022-12-23,Sacramento Kings,Washington Wizards,111,125,REG,492
+nba-202212250BOS,2023,,2022-12-25,Boston Celtics,Milwaukee Bucks,139,118,REG,493
+nba-202212250DAL,2023,,2022-12-25,Dallas Mavericks,Los Angeles Lakers,124,115,REG,494
+nba-202212250DEN,2023,,2022-12-25,Denver Nuggets,Phoenix Suns,128,125,REG,495
+nba-202212250GSW,2023,,2022-12-25,Golden State Warriors,Memphis Grizzlies,123,109,REG,496
+nba-202212250NYK,2023,,2022-12-25,New York Knicks,Philadelphia 76ers,112,119,REG,497
+nba-202212260CHI,2023,,2022-12-26,Chicago Bulls,Houston Rockets,118,133,REG,498
+nba-202212260CLE,2023,,2022-12-26,Cleveland Cavaliers,Brooklyn Nets,117,125,REG,499
+nba-202212260DET,2023,,2022-12-26,Detroit Pistons,Los Angeles Clippers,131,142,REG,500
+nba-202212260MIA,2023,,2022-12-26,Miami Heat,Minnesota Timberwolves,113,110,REG,501
+nba-202212260NOP,2023,,2022-12-26,New Orleans Pelicans,Indiana Pacers,113,93,REG,502
+nba-202212260POR,2023,,2022-12-26,Portland Trail Blazers,Charlotte Hornets,124,113,REG,503
+nba-202212260SAS,2023,,2022-12-26,San Antonio Spurs,Utah Jazz,126,122,REG,504
+nba-202212270BOS,2023,,2022-12-27,Boston Celtics,Houston Rockets,126,102,REG,505
+nba-202212270DAL,2023,,2022-12-27,Dallas Mavericks,New York Knicks,126,121,REG,506
+nba-202212270GSW,2023,,2022-12-27,Golden State Warriors,Charlotte Hornets,110,105,REG,507
+nba-202212270IND,2023,,2022-12-27,Indiana Pacers,Atlanta Hawks,129,114,REG,508
+nba-202212270MEM,2023,,2022-12-27,Memphis Grizzlies,Phoenix Suns,108,125,REG,509
+nba-202212270OKC,2023,,2022-12-27,Oklahoma City Thunder,San Antonio Spurs,130,114,REG,510
+nba-202212270ORL,2023,,2022-12-27,Orlando Magic,Los Angeles Lakers,110,129,REG,511
+nba-202212270SAC,2023,,2022-12-27,Sacramento Kings,Denver Nuggets,106,113,REG,512
+nba-202212270TOR,2023,,2022-12-27,Toronto Raptors,Los Angeles Clippers,113,124,REG,513
+nba-202212270WAS,2023,,2022-12-27,Washington Wizards,Philadelphia 76ers,116,111,REG,514
+nba-202212280ATL,2023,,2022-12-28,Atlanta Hawks,Brooklyn Nets,107,108,REG,515
+nba-202212280CHI,2023,,2022-12-28,Chicago Bulls,Milwaukee Bucks,119,113,REG,516
+nba-202212280DET,2023,,2022-12-28,Detroit Pistons,Orlando Magic,121,101,REG,517
+nba-202212280GSW,2023,,2022-12-28,Golden State Warriors,Utah Jazz,112,107,REG,518
+nba-202212280MIA,2023,,2022-12-28,Miami Heat,Los Angeles Lakers,112,98,REG,519
+nba-202212280NOP,2023,,2022-12-28,New Orleans Pelicans,Minnesota Timberwolves,119,118,REG,520
+nba-202212280SAC,2023,,2022-12-28,Sacramento Kings,Denver Nuggets,127,126,REG,521
+nba-202212280WAS,2023,,2022-12-28,Washington Wizards,Phoenix Suns,127,102,REG,522
+nba-202212290BOS,2023,,2022-12-29,Boston Celtics,Los Angeles Clippers,116,110,REG,523
+nba-202212290CHO,2023,,2022-12-29,Charlotte Hornets,Oklahoma City Thunder,121,113,REG,524
+nba-202212290DAL,2023,,2022-12-29,Dallas Mavericks,Houston Rockets,129,114,REG,525
+nba-202212290IND,2023,,2022-12-29,Indiana Pacers,Cleveland Cavaliers,135,126,REG,526
+nba-202212290SAS,2023,,2022-12-29,San Antonio Spurs,New York Knicks,122,115,REG,527
+nba-202212290TOR,2023,,2022-12-29,Toronto Raptors,Memphis Grizzlies,106,119,REG,528
+nba-202212300ATL,2023,,2022-12-30,Atlanta Hawks,Los Angeles Lakers,121,130,REG,529
+nba-202212300CHI,2023,,2022-12-30,Chicago Bulls,Detroit Pistons,132,118,REG,530
+nba-202212300DEN,2023,,2022-12-30,Denver Nuggets,Miami Heat,124,119,REG,531
+nba-202212300GSW,2023,,2022-12-30,Golden State Warriors,Portland Trail Blazers,118,112,REG,532
+nba-202212300MIL,2023,,2022-12-30,Milwaukee Bucks,Minnesota Timberwolves,123,114,REG,533
+nba-202212300NOP,2023,,2022-12-30,New Orleans Pelicans,Philadelphia 76ers,127,116,REG,534
+nba-202212300ORL,2023,,2022-12-30,Orlando Magic,Washington Wizards,100,119,REG,535
+nba-202212300SAC,2023,,2022-12-30,Sacramento Kings,Utah Jazz,126,125,REG,536
+nba-202212300TOR,2023,,2022-12-30,Toronto Raptors,Phoenix Suns,113,104,REG,537
+nba-202212310CHO,2023,,2022-12-31,Charlotte Hornets,Brooklyn Nets,106,123,REG,538
+nba-202212310CHI,2023,,2022-12-31,Chicago Bulls,Cleveland Cavaliers,102,103,REG,539
+nba-202212310HOU,2023,,2022-12-31,Houston Rockets,New York Knicks,88,108,REG,540
+nba-202212310IND,2023,,2022-12-31,Indiana Pacers,Los Angeles Clippers,131,130,REG,541
+nba-202212310MEM,2023,,2022-12-31,Memphis Grizzlies,New Orleans Pelicans,116,101,REG,542
+nba-202212310MIN,2023,,2022-12-31,Minnesota Timberwolves,Detroit Pistons,104,116,REG,543
+nba-202212310OKC,2023,,2022-12-31,Oklahoma City Thunder,Philadelphia 76ers,96,115,REG,544
+nba-202212310SAS,2023,,2022-12-31,San Antonio Spurs,Dallas Mavericks,125,126,REG,545
+nba-202212310UTA,2023,,2022-12-31,Utah Jazz,Miami Heat,123,126,REG,546
+nba-202301010DEN,2023,,2023-01-01,Denver Nuggets,Boston Celtics,123,111,REG,547
+nba-202301010MEM,2023,,2023-01-01,Memphis Grizzlies,Sacramento Kings,118,108,REG,548
+nba-202301010MIL,2023,,2023-01-01,Milwaukee Bucks,Washington Wizards,95,118,REG,549
+nba-202301020BRK,2023,,2023-01-02,Brooklyn Nets,San Antonio Spurs,139,103,REG,550
+nba-202301020CHO,2023,,2023-01-02,Charlotte Hornets,Los Angeles Lakers,115,121,REG,551
+nba-202301020CLE,2023,,2023-01-02,Cleveland Cavaliers,Chicago Bulls,145,134,REG,552
+nba-202301020GSW,2023,,2023-01-02,Golden State Warriors,Atlanta Hawks,143,141,REG,553
+nba-202301020HOU,2023,,2023-01-02,Houston Rockets,Dallas Mavericks,106,111,REG,554
+nba-202301020IND,2023,,2023-01-02,Indiana Pacers,Toronto Raptors,122,114,REG,555
+nba-202301020LAC,2023,,2023-01-02,Los Angeles Clippers,Miami Heat,100,110,REG,556
+nba-202301020MIN,2023,,2023-01-02,Minnesota Timberwolves,Denver Nuggets,124,111,REG,557
+nba-202301020NYK,2023,,2023-01-02,New York Knicks,Phoenix Suns,102,83,REG,558
+nba-202301020PHI,2023,,2023-01-02,Philadelphia 76ers,New Orleans Pelicans,120,111,REG,559
+nba-202301020POR,2023,,2023-01-02,Portland Trail Blazers,Detroit Pistons,135,106,REG,560
+nba-202301030MIL,2023,,2023-01-03,Milwaukee Bucks,Washington Wizards,123,113,REG,561
+nba-202301030OKC,2023,,2023-01-03,Oklahoma City Thunder,Boston Celtics,150,117,REG,562
+nba-202301030UTA,2023,,2023-01-03,Utah Jazz,Sacramento Kings,115,117,REG,563
+nba-202301040CHO,2023,,2023-01-04,Charlotte Hornets,Memphis Grizzlies,107,131,REG,564
+nba-202301040CHI,2023,,2023-01-04,Chicago Bulls,Brooklyn Nets,121,112,REG,565
+nba-202301040CLE,2023,,2023-01-04,Cleveland Cavaliers,Phoenix Suns,90,88,REG,566
+nba-202301040GSW,2023,,2023-01-04,Golden State Warriors,Detroit Pistons,119,122,REG,567
+nba-202301040LAL,2023,,2023-01-04,Los Angeles Lakers,Miami Heat,112,109,REG,568
+nba-202301040MIN,2023,,2023-01-04,Minnesota Timberwolves,Portland Trail Blazers,113,106,REG,569
+nba-202301040NOP,2023,,2023-01-04,New Orleans Pelicans,Houston Rockets,119,108,REG,570
+nba-202301040NYK,2023,,2023-01-04,New York Knicks,San Antonio Spurs,117,114,REG,571
+nba-202301040ORL,2023,,2023-01-04,Orlando Magic,Oklahoma City Thunder,126,115,REG,572
+nba-202301040PHI,2023,,2023-01-04,Philadelphia 76ers,Indiana Pacers,129,126,REG,573
+nba-202301040SAC,2023,,2023-01-04,Sacramento Kings,Atlanta Hawks,117,120,REG,574
+nba-202301040TOR,2023,,2023-01-04,Toronto Raptors,Milwaukee Bucks,101,104,REG,575
+nba-202301050DAL,2023,,2023-01-05,Dallas Mavericks,Boston Celtics,95,124,REG,576
+nba-202301050DEN,2023,,2023-01-05,Denver Nuggets,Los Angeles Clippers,122,91,REG,577
+nba-202301050HOU,2023,,2023-01-05,Houston Rockets,Utah Jazz,114,131,REG,578
+nba-202301050ORL,2023,,2023-01-05,Orlando Magic,Memphis Grizzlies,115,123,REG,579
+nba-202301060DEN,2023,,2023-01-06,Denver Nuggets,Cleveland Cavaliers,121,108,REG,580
+nba-202301060IND,2023,,2023-01-06,Indiana Pacers,Portland Trail Blazers,108,99,REG,581
+nba-202301060LAL,2023,,2023-01-06,Los Angeles Lakers,Atlanta Hawks,130,114,REG,582
+nba-202301060MIL,2023,,2023-01-06,Milwaukee Bucks,Charlotte Hornets,109,138,REG,583
+nba-202301060MIN,2023,,2023-01-06,Minnesota Timberwolves,Los Angeles Clippers,128,115,REG,584
+nba-202301060NOP,2023,,2023-01-06,New Orleans Pelicans,Brooklyn Nets,102,108,REG,585
+nba-202301060OKC,2023,,2023-01-06,Oklahoma City Thunder,Washington Wizards,127,110,REG,586
+nba-202301060PHI,2023,,2023-01-06,Philadelphia 76ers,Chicago Bulls,112,126,REG,587
+nba-202301060PHO,2023,,2023-01-06,Phoenix Suns,Miami Heat,96,104,REG,588
+nba-202301060SAS,2023,,2023-01-06,San Antonio Spurs,Detroit Pistons,121,109,REG,589
+nba-202301060TOR,2023,,2023-01-06,Toronto Raptors,New York Knicks,108,112,REG,590
+nba-202301070CHI,2023,,2023-01-07,Chicago Bulls,Utah Jazz,126,118,REG,591
+nba-202301070DAL,2023,,2023-01-07,Dallas Mavericks,New Orleans Pelicans,127,117,REG,592
+nba-202301070GSW,2023,,2023-01-07,Golden State Warriors,Orlando Magic,101,115,REG,593
+nba-202301070SAC,2023,,2023-01-07,Sacramento Kings,Los Angeles Lakers,134,136,REG,594
+nba-202301070SAS,2023,,2023-01-07,San Antonio Spurs,Boston Celtics,116,121,REG,595
+nba-202301080DET,2023,,2023-01-08,Detroit Pistons,Philadelphia 76ers,111,123,REG,596
+nba-202301080HOU,2023,,2023-01-08,Houston Rockets,Minnesota Timberwolves,96,104,REG,597
+nba-202301080IND,2023,,2023-01-08,Indiana Pacers,Charlotte Hornets,116,111,REG,598
+nba-202301080LAC,2023,,2023-01-08,Los Angeles Clippers,Atlanta Hawks,108,112,REG,599
+nba-202301080MEM,2023,,2023-01-08,Memphis Grizzlies,Utah Jazz,123,118,REG,600
+nba-202301080MIA,2023,,2023-01-08,Miami Heat,Brooklyn Nets,101,102,REG,601
+nba-202301080OKC,2023,,2023-01-08,Oklahoma City Thunder,Dallas Mavericks,120,109,REG,602
+nba-202301080PHO,2023,,2023-01-08,Phoenix Suns,Cleveland Cavaliers,98,112,REG,603
+nba-202301080TOR,2023,,2023-01-08,Toronto Raptors,Portland Trail Blazers,117,105,REG,604
+nba-202301090BOS,2023,,2023-01-09,Boston Celtics,Chicago Bulls,107,99,REG,605
+nba-202301090DEN,2023,,2023-01-09,Denver Nuggets,Los Angeles Lakers,122,109,REG,606
+nba-202301090MEM,2023,,2023-01-09,Memphis Grizzlies,San Antonio Spurs,121,113,REG,607
+nba-202301090NYK,2023,,2023-01-09,New York Knicks,Milwaukee Bucks,107,111,REG,608
+nba-202301090SAC,2023,,2023-01-09,Sacramento Kings,Orlando Magic,136,111,REG,609
+nba-202301090WAS,2023,,2023-01-09,Washington Wizards,New Orleans Pelicans,112,132,REG,610
+nba-202301100GSW,2023,,2023-01-10,Golden State Warriors,Phoenix Suns,113,125,REG,611
+nba-202301100LAC,2023,,2023-01-10,Los Angeles Clippers,Dallas Mavericks,113,101,REG,612
+nba-202301100MIA,2023,,2023-01-10,Miami Heat,Oklahoma City Thunder,112,111,REG,613
+nba-202301100PHI,2023,,2023-01-10,Philadelphia 76ers,Detroit Pistons,147,116,REG,614
+nba-202301100POR,2023,,2023-01-10,Portland Trail Blazers,Orlando Magic,106,109,REG,615
+nba-202301100TOR,2023,,2023-01-10,Toronto Raptors,Charlotte Hornets,132,120,REG,616
+nba-202301100UTA,2023,,2023-01-10,Utah Jazz,Cleveland Cavaliers,116,114,REG,617
+nba-202301110ATL,2023,,2023-01-11,Atlanta Hawks,Milwaukee Bucks,105,114,REG,618
+nba-202301110BOS,2023,,2023-01-11,Boston Celtics,New Orleans Pelicans,125,114,REG,619
+nba-202301110DEN,2023,,2023-01-11,Denver Nuggets,Phoenix Suns,126,97,REG,620
+nba-202301110DET,2023,,2023-01-11,Detroit Pistons,Minnesota Timberwolves,135,118,REG,621
+nba-202301110MEM,2023,,2023-01-11,Memphis Grizzlies,San Antonio Spurs,135,129,REG,622
+nba-202301110NYK,2023,,2023-01-11,New York Knicks,Indiana Pacers,119,113,REG,623
+nba-202301110SAC,2023,,2023-01-11,Sacramento Kings,Houston Rockets,135,115,REG,624
+nba-202301110WAS,2023,,2023-01-11,Washington Wizards,Chicago Bulls,100,97,REG,625
+nba-202301120BRK,2023,,2023-01-12,Brooklyn Nets,Boston Celtics,98,109,REG,626
+nba-202301120LAL,2023,,2023-01-12,Los Angeles Lakers,Dallas Mavericks,115,119,REG,627
+nba-202301120MIA,2023,,2023-01-12,Miami Heat,Milwaukee Bucks,108,102,REG,628
+nba-202301120PHI,2023,,2023-01-12,Philadelphia 76ers,Oklahoma City Thunder,114,133,REG,629
+nba-202301120POR,2023,,2023-01-12,Portland Trail Blazers,Cleveland Cavaliers,113,119,REG,630
+nba-202301120TOR,2023,,2023-01-12,Toronto Raptors,Charlotte Hornets,124,114,REG,631
+nba-202301130CHI,2023,,2023-01-13,Chicago Bulls,Oklahoma City Thunder,110,124,REG,632
+nba-202301130DET,2023,,2023-01-13,Detroit Pistons,New Orleans Pelicans,110,116,REG,633
+nba-202301130IND,2023,,2023-01-13,Indiana Pacers,Atlanta Hawks,111,113,REG,634
+nba-202301130LAC,2023,,2023-01-13,Los Angeles Clippers,Denver Nuggets,103,115,REG,635
+nba-202301130MIN,2023,,2023-01-13,Minnesota Timberwolves,Phoenix Suns,121,116,REG,636
+nba-202301130SAC,2023,,2023-01-13,Sacramento Kings,Houston Rockets,139,114,REG,637
+nba-202301130SAS,2023,,2023-01-13,San Antonio Spurs,Golden State Warriors,113,144,REG,638
+nba-202301130UTA,2023,,2023-01-13,Utah Jazz,Orlando Magic,112,108,REG,639
+nba-202301130WAS,2023,,2023-01-13,Washington Wizards,New York Knicks,108,112,REG,640
+nba-202301140CHO,2023,,2023-01-14,Charlotte Hornets,Boston Celtics,106,122,REG,641
+nba-202301140IND,2023,,2023-01-14,Indiana Pacers,Memphis Grizzlies,112,130,REG,642
+nba-202301140MIA,2023,,2023-01-14,Miami Heat,Milwaukee Bucks,111,95,REG,643
+nba-202301140MIN,2023,,2023-01-14,Minnesota Timberwolves,Cleveland Cavaliers,110,102,REG,644
+nba-202301140POR,2023,,2023-01-14,Portland Trail Blazers,Dallas Mavericks,136,119,REG,645
+nba-202301140TOR,2023,,2023-01-14,Toronto Raptors,Atlanta Hawks,103,114,REG,646
+nba-202301140UTA,2023,,2023-01-14,Utah Jazz,Philadelphia 76ers,117,118,REG,647
+nba-202301150BRK,2023,,2023-01-15,Brooklyn Nets,Oklahoma City Thunder,102,112,REG,648
+nba-202301150CHI,2023,,2023-01-15,Chicago Bulls,Golden State Warriors,132,118,REG,649
+nba-202301150DEN,2023,,2023-01-15,Denver Nuggets,Orlando Magic,119,116,REG,650
+nba-202301150DET,2023,,2023-01-15,Detroit Pistons,New York Knicks,104,117,REG,651
+nba-202301150LAC,2023,,2023-01-15,Los Angeles Clippers,Houston Rockets,121,100,REG,652
+nba-202301150LAL,2023,,2023-01-15,Los Angeles Lakers,Philadelphia 76ers,112,113,REG,653
+nba-202301150POR,2023,,2023-01-15,Portland Trail Blazers,Dallas Mavericks,140,123,REG,654
+nba-202301150SAS,2023,,2023-01-15,San Antonio Spurs,Sacramento Kings,119,132,REG,655
+nba-202301160ATL,2023,,2023-01-16,Atlanta Hawks,Miami Heat,121,113,REG,656
+nba-202301160CHO,2023,,2023-01-16,Charlotte Hornets,Boston Celtics,118,130,REG,657
+nba-202301160CLE,2023,,2023-01-16,Cleveland Cavaliers,New Orleans Pelicans,113,103,REG,658
+nba-202301160LAL,2023,,2023-01-16,Los Angeles Lakers,Houston Rockets,140,132,REG,659
+nba-202301160MEM,2023,,2023-01-16,Memphis Grizzlies,Phoenix Suns,136,106,REG,660
+nba-202301160MIL,2023,,2023-01-16,Milwaukee Bucks,Indiana Pacers,132,119,REG,661
+nba-202301160MIN,2023,,2023-01-16,Minnesota Timberwolves,Utah Jazz,125,126,REG,662
+nba-202301160NYK,2023,,2023-01-16,New York Knicks,Toronto Raptors,121,123,REG,663
+nba-202301160WAS,2023,,2023-01-16,Washington Wizards,Golden State Warriors,118,127,REG,664
+nba-202301170DEN,2023,,2023-01-17,Denver Nuggets,Portland Trail Blazers,122,113,REG,665
+nba-202301170LAC,2023,,2023-01-17,Los Angeles Clippers,Philadelphia 76ers,110,120,REG,666
+nba-202301170MIL,2023,,2023-01-17,Milwaukee Bucks,Toronto Raptors,130,122,REG,667
+nba-202301170SAS,2023,,2023-01-17,San Antonio Spurs,Brooklyn Nets,106,98,REG,668
+nba-202301180DAL,2023,,2023-01-18,Dallas Mavericks,Atlanta Hawks,122,130,REG,669
+nba-202301180DEN,2023,,2023-01-18,Denver Nuggets,Minnesota Timberwolves,122,118,REG,670
+nba-202301180HOU,2023,,2023-01-18,Houston Rockets,Charlotte Hornets,117,122,REG,671
+nba-202301180LAL,2023,,2023-01-18,Los Angeles Lakers,Sacramento Kings,111,116,REG,672
+nba-202301180MEM,2023,,2023-01-18,Memphis Grizzlies,Cleveland Cavaliers,115,114,REG,673
+nba-202301180NOP,2023,,2023-01-18,New Orleans Pelicans,Miami Heat,98,124,REG,674
+nba-202301180NYK,2023,,2023-01-18,New York Knicks,Washington Wizards,105,116,REG,675
+nba-202301180OKC,2023,,2023-01-18,Oklahoma City Thunder,Indiana Pacers,126,106,REG,676
+nba-202301180UTA,2023,,2023-01-18,Utah Jazz,Los Angeles Clippers,126,103,REG,677
+nba-202301190BOS,2023,,2023-01-19,Boston Celtics,Golden State Warriors,121,118,REG,678
+nba-202301190DET,2023,,2023-01-19,Detroit Pistons,Chicago Bulls,108,126,REG,679
+nba-202301190MIN,2023,,2023-01-19,Minnesota Timberwolves,Toronto Raptors,128,126,REG,680
+nba-202301190PHO,2023,,2023-01-19,Phoenix Suns,Brooklyn Nets,117,112,REG,681
+nba-202301190POR,2023,,2023-01-19,Portland Trail Blazers,Philadelphia 76ers,95,105,REG,682
+nba-202301200ATL,2023,,2023-01-20,Atlanta Hawks,New York Knicks,139,124,REG,683
+nba-202301200CLE,2023,,2023-01-20,Cleveland Cavaliers,Golden State Warriors,114,120,REG,684
+nba-202301200DAL,2023,,2023-01-20,Dallas Mavericks,Miami Heat,115,90,REG,685
+nba-202301200DEN,2023,,2023-01-20,Denver Nuggets,Indiana Pacers,134,111,REG,686
+nba-202301200LAL,2023,,2023-01-20,Los Angeles Lakers,Memphis Grizzlies,122,121,REG,687
+nba-202301200ORL,2023,,2023-01-20,Orlando Magic,New Orleans Pelicans,123,110,REG,688
+nba-202301200SAC,2023,,2023-01-20,Sacramento Kings,Oklahoma City Thunder,118,113,REG,689
+nba-202301200SAS,2023,,2023-01-20,San Antonio Spurs,Los Angeles Clippers,126,131,REG,690
+nba-202301200UTA,2023,,2023-01-20,Utah Jazz,Brooklyn Nets,106,117,REG,691
+nba-202301210ATL,2023,,2023-01-21,Atlanta Hawks,Charlotte Hornets,118,122,REG,692
+nba-202301210CLE,2023,,2023-01-21,Cleveland Cavaliers,Milwaukee Bucks,114,102,REG,693
+nba-202301210MIN,2023,,2023-01-21,Minnesota Timberwolves,Houston Rockets,113,104,REG,694
+nba-202301210PHO,2023,,2023-01-21,Phoenix Suns,Indiana Pacers,112,107,REG,695
+nba-202301210SAC,2023,,2023-01-21,Sacramento Kings,Philadelphia 76ers,127,129,REG,696
+nba-202301210TOR,2023,,2023-01-21,Toronto Raptors,Boston Celtics,104,106,REG,697
+nba-202301210WAS,2023,,2023-01-21,Washington Wizards,Orlando Magic,138,118,REG,698
+nba-202301220DAL,2023,,2023-01-22,Dallas Mavericks,Los Angeles Clippers,98,112,REG,699
+nba-202301220DEN,2023,,2023-01-22,Denver Nuggets,Oklahoma City Thunder,99,101,REG,700
+nba-202301220GSW,2023,,2023-01-22,Golden State Warriors,Brooklyn Nets,116,120,REG,701
+nba-202301220MIA,2023,,2023-01-22,Miami Heat,New Orleans Pelicans,100,96,REG,702
+nba-202301220PHO,2023,,2023-01-22,Phoenix Suns,Memphis Grizzlies,112,110,REG,703
+nba-202301220POR,2023,,2023-01-22,Portland Trail Blazers,Los Angeles Lakers,112,121,REG,704
+nba-202301220TOR,2023,,2023-01-22,Toronto Raptors,New York Knicks,125,116,REG,705
+nba-202301230CHI,2023,,2023-01-23,Chicago Bulls,Atlanta Hawks,111,100,REG,706
+nba-202301230DET,2023,,2023-01-23,Detroit Pistons,Milwaukee Bucks,130,150,REG,707
+nba-202301230HOU,2023,,2023-01-23,Houston Rockets,Minnesota Timberwolves,119,114,REG,708
+nba-202301230ORL,2023,,2023-01-23,Orlando Magic,Boston Celtics,113,98,REG,709
+nba-202301230POR,2023,,2023-01-23,Portland Trail Blazers,San Antonio Spurs,147,127,REG,710
+nba-202301230SAC,2023,,2023-01-23,Sacramento Kings,Memphis Grizzlies,133,100,REG,711
+nba-202301230UTA,2023,,2023-01-23,Utah Jazz,Charlotte Hornets,120,102,REG,712
+nba-202301240DAL,2023,,2023-01-24,Dallas Mavericks,Washington Wizards,126,127,REG,713
+nba-202301240IND,2023,,2023-01-24,Indiana Pacers,Chicago Bulls,116,110,REG,714
+nba-202301240LAL,2023,,2023-01-24,Los Angeles Lakers,Los Angeles Clippers,115,133,REG,715
+nba-202301240MIA,2023,,2023-01-24,Miami Heat,Boston Celtics,98,95,REG,716
+nba-202301240NOP,2023,,2023-01-24,New Orleans Pelicans,Denver Nuggets,98,99,REG,717
+nba-202301240NYK,2023,,2023-01-24,New York Knicks,Cleveland Cavaliers,105,103,REG,718
+nba-202301240PHO,2023,,2023-01-24,Phoenix Suns,Charlotte Hornets,128,97,REG,719
+nba-202301250GSW,2023,,2023-01-25,Golden State Warriors,Memphis Grizzlies,122,120,REG,720
+nba-202301250HOU,2023,,2023-01-25,Houston Rockets,Washington Wizards,103,108,REG,721
+nba-202301250LAL,2023,,2023-01-25,Los Angeles Lakers,San Antonio Spurs,113,104,REG,722
+nba-202301250MIL,2023,,2023-01-25,Milwaukee Bucks,Denver Nuggets,107,99,REG,723
+nba-202301250NOP,2023,,2023-01-25,New Orleans Pelicans,Minnesota Timberwolves,102,111,REG,724
+nba-202301250OKC,2023,,2023-01-25,Oklahoma City Thunder,Atlanta Hawks,132,137,REG,725
+nba-202301250ORL,2023,,2023-01-25,Orlando Magic,Indiana Pacers,126,120,REG,726
+nba-202301250PHI,2023,,2023-01-25,Philadelphia 76ers,Brooklyn Nets,137,133,REG,727
+nba-202301250POR,2023,,2023-01-25,Portland Trail Blazers,Utah Jazz,134,124,REG,728
+nba-202301250SAC,2023,,2023-01-25,Sacramento Kings,Toronto Raptors,95,113,REG,729
+nba-202301260BOS,2023,,2023-01-26,Boston Celtics,New York Knicks,117,120,REG,730
+nba-202301260BRK,2023,,2023-01-26,Brooklyn Nets,Detroit Pistons,122,130,REG,731
+nba-202301260CHO,2023,,2023-01-26,Charlotte Hornets,Chicago Bulls,111,96,REG,732
+nba-202301260HOU,2023,,2023-01-26,Houston Rockets,Cleveland Cavaliers,95,113,REG,733
+nba-202301260LAC,2023,,2023-01-26,Los Angeles Clippers,San Antonio Spurs,138,100,REG,734
+nba-202301260PHO,2023,,2023-01-26,Phoenix Suns,Dallas Mavericks,95,99,REG,735
+nba-202301270GSW,2023,,2023-01-27,Golden State Warriors,Toronto Raptors,129,117,REG,736
+nba-202301270IND,2023,,2023-01-27,Indiana Pacers,Milwaukee Bucks,131,141,REG,737
+nba-202301270MIA,2023,,2023-01-27,Miami Heat,Orlando Magic,110,105,REG,738
+nba-202301270MIN,2023,,2023-01-27,Minnesota Timberwolves,Memphis Grizzlies,111,100,REG,739
+nba-202301270OKC,2023,,2023-01-27,Oklahoma City Thunder,Cleveland Cavaliers,112,100,REG,740
+nba-202301280ATL,2023,,2023-01-28,Atlanta Hawks,Los Angeles Clippers,113,120,REG,741
+nba-202301280BOS,2023,,2023-01-28,Boston Celtics,Los Angeles Lakers,125,121,REG,742
+nba-202301280BRK,2023,,2023-01-28,Brooklyn Nets,New York Knicks,122,115,REG,743
+nba-202301280DET,2023,,2023-01-28,Detroit Pistons,Houston Rockets,114,117,REG,744
+nba-202301280MIN,2023,,2023-01-28,Minnesota Timberwolves,Sacramento Kings,117,110,REG,745
+nba-202301280NOP,2023,,2023-01-28,New Orleans Pelicans,Washington Wizards,103,113,REG,746
+nba-202301280ORL,2023,,2023-01-28,Orlando Magic,Chicago Bulls,109,128,REG,747
+nba-202301280PHI,2023,,2023-01-28,Philadelphia 76ers,Denver Nuggets,126,119,REG,748
+nba-202301280POR,2023,,2023-01-28,Portland Trail Blazers,Toronto Raptors,105,123,REG,749
+nba-202301280SAS,2023,,2023-01-28,San Antonio Spurs,Phoenix Suns,118,128,REG,750
+nba-202301280UTA,2023,,2023-01-28,Utah Jazz,Dallas Mavericks,108,100,REG,751
+nba-202301290CHO,2023,,2023-01-29,Charlotte Hornets,Miami Heat,122,117,REG,752
+nba-202301290CLE,2023,,2023-01-29,Cleveland Cavaliers,Los Angeles Clippers,122,99,REG,753
+nba-202301290MEM,2023,,2023-01-29,Memphis Grizzlies,Indiana Pacers,112,100,REG,754
+nba-202301290MIL,2023,,2023-01-29,Milwaukee Bucks,New Orleans Pelicans,135,110,REG,755
+nba-202301300BRK,2023,,2023-01-30,Brooklyn Nets,Los Angeles Lakers,121,104,REG,756
+nba-202301300DAL,2023,,2023-01-30,Dallas Mavericks,Detroit Pistons,111,105,REG,757
+nba-202301300MIN,2023,,2023-01-30,Minnesota Timberwolves,Sacramento Kings,111,118,REG,758
+nba-202301300OKC,2023,,2023-01-30,Oklahoma City Thunder,Golden State Warriors,120,128,REG,759
+nba-202301300PHI,2023,,2023-01-30,Philadelphia 76ers,Orlando Magic,109,119,REG,760
+nba-202301300PHO,2023,,2023-01-30,Phoenix Suns,Toronto Raptors,114,106,REG,761
+nba-202301300POR,2023,,2023-01-30,Portland Trail Blazers,Atlanta Hawks,129,125,REG,762
+nba-202301300SAS,2023,,2023-01-30,San Antonio Spurs,Washington Wizards,106,127,REG,763
+nba-202301310CHI,2023,,2023-01-31,Chicago Bulls,Los Angeles Clippers,103,108,REG,764
+nba-202301310CLE,2023,,2023-01-31,Cleveland Cavaliers,Miami Heat,97,100,REG,765
+nba-202301310DEN,2023,,2023-01-31,Denver Nuggets,New Orleans Pelicans,122,113,REG,766
+nba-202301310MIL,2023,,2023-01-31,Milwaukee Bucks,Charlotte Hornets,124,115,REG,767
+nba-202301310NYK,2023,,2023-01-31,New York Knicks,Los Angeles Lakers,123,129,REG,768
+nba-202302010BOS,2023,,2023-02-01,Boston Celtics,Brooklyn Nets,139,96,REG,769
+nba-202302010HOU,2023,,2023-02-01,Houston Rockets,Oklahoma City Thunder,112,106,REG,770
+nba-202302010MEM,2023,,2023-02-01,Memphis Grizzlies,Portland Trail Blazers,112,122,REG,771
+nba-202302010MIN,2023,,2023-02-01,Minnesota Timberwolves,Golden State Warriors,119,114,REG,772
+nba-202302010PHI,2023,,2023-02-01,Philadelphia 76ers,Orlando Magic,105,94,REG,773
+nba-202302010PHO,2023,,2023-02-01,Phoenix Suns,Atlanta Hawks,100,132,REG,774
+nba-202302010SAS,2023,,2023-02-01,San Antonio Spurs,Sacramento Kings,109,119,REG,775
+nba-202302010UTA,2023,,2023-02-01,Utah Jazz,Toronto Raptors,131,128,REG,776
+nba-202302020CHI,2023,,2023-02-02,Chicago Bulls,Charlotte Hornets,114,98,REG,777
+nba-202302020CLE,2023,,2023-02-02,Cleveland Cavaliers,Memphis Grizzlies,128,113,REG,778
+nba-202302020DAL,2023,,2023-02-02,Dallas Mavericks,New Orleans Pelicans,111,106,REG,779
+nba-202302020DEN,2023,,2023-02-02,Denver Nuggets,Golden State Warriors,134,117,REG,780
+nba-202302020IND,2023,,2023-02-02,Indiana Pacers,Los Angeles Lakers,111,112,REG,781
+nba-202302020MIL,2023,,2023-02-02,Milwaukee Bucks,Los Angeles Clippers,106,105,REG,782
+nba-202302020NYK,2023,,2023-02-02,New York Knicks,Miami Heat,106,104,REG,783
+nba-202302030BOS,2023,,2023-02-03,Boston Celtics,Phoenix Suns,94,106,REG,784
+nba-202302030DET,2023,,2023-02-03,Detroit Pistons,Charlotte Hornets,118,112,REG,785
+nba-202302030HOU,2023,,2023-02-03,Houston Rockets,Toronto Raptors,111,117,REG,786
+nba-202302030IND,2023,,2023-02-03,Indiana Pacers,Sacramento Kings,107,104,REG,787
+nba-202302030MIN,2023,,2023-02-03,Minnesota Timberwolves,Orlando Magic,120,127,REG,788
+nba-202302030SAS,2023,,2023-02-03,San Antonio Spurs,Philadelphia 76ers,125,137,REG,789
+nba-202302030UTA,2023,,2023-02-03,Utah Jazz,Atlanta Hawks,108,115,REG,790
+nba-202302030WAS,2023,,2023-02-03,Washington Wizards,Portland Trail Blazers,116,124,REG,791
+nba-202302040BRK,2023,,2023-02-04,Brooklyn Nets,Washington Wizards,125,123,REG,792
+nba-202302040CHI,2023,,2023-02-04,Chicago Bulls,Portland Trail Blazers,129,121,REG,793
+nba-202302040DEN,2023,,2023-02-04,Denver Nuggets,Atlanta Hawks,128,108,REG,794
+nba-202302040DET,2023,,2023-02-04,Detroit Pistons,Phoenix Suns,100,116,REG,795
+nba-202302040GSW,2023,,2023-02-04,Golden State Warriors,Dallas Mavericks,119,113,REG,796
+nba-202302040MIL,2023,,2023-02-04,Milwaukee Bucks,Miami Heat,123,115,REG,797
+nba-202302040NOP,2023,,2023-02-04,New Orleans Pelicans,Los Angeles Lakers,131,126,REG,798
+nba-202302040NYK,2023,,2023-02-04,New York Knicks,Los Angeles Clippers,128,134,REG,799
+nba-202302040OKC,2023,,2023-02-04,Oklahoma City Thunder,Houston Rockets,153,121,REG,800
+nba-202302050CHO,2023,,2023-02-05,Charlotte Hornets,Orlando Magic,113,119,REG,801
+nba-202302050IND,2023,,2023-02-05,Indiana Pacers,Cleveland Cavaliers,103,122,REG,802
+nba-202302050MEM,2023,,2023-02-05,Memphis Grizzlies,Toronto Raptors,103,106,REG,803
+nba-202302050MIN,2023,,2023-02-05,Minnesota Timberwolves,Denver Nuggets,128,98,REG,804
+nba-202302050NOP,2023,,2023-02-05,New Orleans Pelicans,Sacramento Kings,136,104,REG,805
+nba-202302050NYK,2023,,2023-02-05,New York Knicks,Philadelphia 76ers,108,97,REG,806
+nba-202302060BRK,2023,,2023-02-06,Brooklyn Nets,Los Angeles Clippers,116,124,REG,807
+nba-202302060CHI,2023,,2023-02-06,Chicago Bulls,San Antonio Spurs,128,104,REG,808
+nba-202302060DET,2023,,2023-02-06,Detroit Pistons,Boston Celtics,99,111,REG,809
+nba-202302060GSW,2023,,2023-02-06,Golden State Warriors,Oklahoma City Thunder,141,114,REG,810
+nba-202302060HOU,2023,,2023-02-06,Houston Rockets,Sacramento Kings,120,140,REG,811
+nba-202302060POR,2023,,2023-02-06,Portland Trail Blazers,Milwaukee Bucks,108,127,REG,812
+nba-202302060UTA,2023,,2023-02-06,Utah Jazz,Dallas Mavericks,111,124,REG,813
+nba-202302060WAS,2023,,2023-02-06,Washington Wizards,Cleveland Cavaliers,91,114,REG,814
+nba-202302070BRK,2023,,2023-02-07,Brooklyn Nets,Phoenix Suns,112,116,REG,815
+nba-202302070DEN,2023,,2023-02-07,Denver Nuggets,Minnesota Timberwolves,146,112,REG,816
+nba-202302070LAL,2023,,2023-02-07,Los Angeles Lakers,Oklahoma City Thunder,130,133,REG,817
+nba-202302070MEM,2023,,2023-02-07,Memphis Grizzlies,Chicago Bulls,104,89,REG,818
+nba-202302070NOP,2023,,2023-02-07,New Orleans Pelicans,Atlanta Hawks,116,107,REG,819
+nba-202302070ORL,2023,,2023-02-07,Orlando Magic,New York Knicks,98,102,REG,820
+nba-202302080BOS,2023,,2023-02-08,Boston Celtics,Philadelphia 76ers,106,99,REG,821
+nba-202302080CLE,2023,,2023-02-08,Cleveland Cavaliers,Detroit Pistons,113,85,REG,822
+nba-202302080HOU,2023,,2023-02-08,Houston Rockets,Sacramento Kings,128,130,REG,823
+nba-202302080LAC,2023,,2023-02-08,Los Angeles Clippers,Dallas Mavericks,104,110,REG,824
+nba-202302080MIA,2023,,2023-02-08,Miami Heat,Indiana Pacers,116,111,REG,825
+nba-202302080POR,2023,,2023-02-08,Portland Trail Blazers,Golden State Warriors,125,122,REG,826
+nba-202302080TOR,2023,,2023-02-08,Toronto Raptors,San Antonio Spurs,112,98,REG,827
+nba-202302080UTA,2023,,2023-02-08,Utah Jazz,Minnesota Timberwolves,118,143,REG,828
+nba-202302080WAS,2023,,2023-02-08,Washington Wizards,Charlotte Hornets,118,104,REG,829
+nba-202302090ATL,2023,,2023-02-09,Atlanta Hawks,Phoenix Suns,116,107,REG,830
+nba-202302090BRK,2023,,2023-02-09,Brooklyn Nets,Chicago Bulls,116,105,REG,831
+nba-202302090LAL,2023,,2023-02-09,Los Angeles Lakers,Milwaukee Bucks,106,115,REG,832
+nba-202302090ORL,2023,,2023-02-09,Orlando Magic,Denver Nuggets,115,104,REG,833
+nba-202302100BOS,2023,,2023-02-10,Boston Celtics,Charlotte Hornets,127,116,REG,834
+nba-202302100DET,2023,,2023-02-10,Detroit Pistons,San Antonio Spurs,138,131,REG,835
+nba-202302100IND,2023,,2023-02-10,Indiana Pacers,Phoenix Suns,104,117,REG,836
+nba-202302100LAC,2023,,2023-02-10,Los Angeles Clippers,Milwaukee Bucks,106,119,REG,837
+nba-202302100MEM,2023,,2023-02-10,Memphis Grizzlies,Minnesota Timberwolves,128,107,REG,838
+nba-202302100MIA,2023,,2023-02-10,Miami Heat,Houston Rockets,97,95,REG,839
+nba-202302100NOP,2023,,2023-02-10,New Orleans Pelicans,Cleveland Cavaliers,107,118,REG,840
+nba-202302100PHI,2023,,2023-02-10,Philadelphia 76ers,New York Knicks,119,108,REG,841
+nba-202302100POR,2023,,2023-02-10,Portland Trail Blazers,Oklahoma City Thunder,129,138,REG,842
+nba-202302100SAC,2023,,2023-02-10,Sacramento Kings,Dallas Mavericks,114,122,REG,843
+nba-202302100TOR,2023,,2023-02-10,Toronto Raptors,Utah Jazz,116,122,REG,844
+nba-202302110ATL,2023,,2023-02-11,Atlanta Hawks,San Antonio Spurs,125,106,REG,845
+nba-202302110BRK,2023,,2023-02-11,Brooklyn Nets,Philadelphia 76ers,98,101,REG,846
+nba-202302110CHO,2023,,2023-02-11,Charlotte Hornets,Denver Nuggets,105,119,REG,847
+nba-202302110CLE,2023,,2023-02-11,Cleveland Cavaliers,Chicago Bulls,97,89,REG,848
+nba-202302110GSW,2023,,2023-02-11,Golden State Warriors,Los Angeles Lakers,103,109,REG,849
+nba-202302110NYK,2023,,2023-02-11,New York Knicks,Utah Jazz,126,120,REG,850
+nba-202302110ORL,2023,,2023-02-11,Orlando Magic,Miami Heat,103,107,REG,851
+nba-202302110SAC,2023,,2023-02-11,Sacramento Kings,Dallas Mavericks,133,128,REG,852
+nba-202302110WAS,2023,,2023-02-11,Washington Wizards,Indiana Pacers,127,113,REG,853
+nba-202302120BOS,2023,,2023-02-12,Boston Celtics,Memphis Grizzlies,119,109,REG,854
+nba-202302120TOR,2023,,2023-02-12,Toronto Raptors,Detroit Pistons,119,118,REG,855
+nba-202302130CHO,2023,,2023-02-13,Charlotte Hornets,Atlanta Hawks,144,138,REG,856
+nba-202302130CHI,2023,,2023-02-13,Chicago Bulls,Orlando Magic,91,100,REG,857
+nba-202302130CLE,2023,,2023-02-13,Cleveland Cavaliers,San Antonio Spurs,117,109,REG,858
+nba-202302130DAL,2023,,2023-02-13,Dallas Mavericks,Minnesota Timberwolves,121,124,REG,859
+nba-202302130GSW,2023,,2023-02-13,Golden State Warriors,Washington Wizards,135,126,REG,860
+nba-202302130IND,2023,,2023-02-13,Indiana Pacers,Utah Jazz,117,123,REG,861
+nba-202302130MIA,2023,,2023-02-13,Miami Heat,Denver Nuggets,108,112,REG,862
+nba-202302130NYK,2023,,2023-02-13,New York Knicks,Brooklyn Nets,124,106,REG,863
+nba-202302130OKC,2023,,2023-02-13,Oklahoma City Thunder,New Orleans Pelicans,100,103,REG,864
+nba-202302130PHI,2023,,2023-02-13,Philadelphia 76ers,Houston Rockets,123,104,REG,865
+nba-202302130POR,2023,,2023-02-13,Portland Trail Blazers,Los Angeles Lakers,127,115,REG,866
+nba-202302140LAC,2023,,2023-02-14,Los Angeles Clippers,Golden State Warriors,134,124,REG,867
+nba-202302140MIL,2023,,2023-02-14,Milwaukee Bucks,Boston Celtics,131,125,REG,868
+nba-202302140PHO,2023,,2023-02-14,Phoenix Suns,Sacramento Kings,120,109,REG,869
+nba-202302140POR,2023,,2023-02-14,Portland Trail Blazers,Washington Wizards,101,126,REG,870
+nba-202302140TOR,2023,,2023-02-14,Toronto Raptors,Orlando Magic,123,113,REG,871
+nba-202302150ATL,2023,,2023-02-15,Atlanta Hawks,New York Knicks,101,122,REG,872
+nba-202302150BOS,2023,,2023-02-15,Boston Celtics,Detroit Pistons,127,109,REG,873
+nba-202302150BRK,2023,,2023-02-15,Brooklyn Nets,Miami Heat,116,105,REG,874
+nba-202302150CHO,2023,,2023-02-15,Charlotte Hornets,San Antonio Spurs,120,110,REG,875
+nba-202302150DEN,2023,,2023-02-15,Denver Nuggets,Dallas Mavericks,118,109,REG,876
+nba-202302150IND,2023,,2023-02-15,Indiana Pacers,Chicago Bulls,117,113,REG,877
+nba-202302150LAL,2023,,2023-02-15,Los Angeles Lakers,New Orleans Pelicans,120,102,REG,878
+nba-202302150MEM,2023,,2023-02-15,Memphis Grizzlies,Utah Jazz,117,111,REG,879
+nba-202302150OKC,2023,,2023-02-15,Oklahoma City Thunder,Houston Rockets,133,96,REG,880
+nba-202302150PHI,2023,,2023-02-15,Philadelphia 76ers,Cleveland Cavaliers,118,112,REG,881
+nba-202302160CHI,2023,,2023-02-16,Chicago Bulls,Milwaukee Bucks,100,112,REG,882
+nba-202302160MIN,2023,,2023-02-16,Minnesota Timberwolves,Washington Wizards,106,114,REG,883
+nba-202302160PHO,2023,,2023-02-16,Phoenix Suns,Los Angeles Clippers,107,116,REG,884
+nba-202302230CLE,2023,,2023-02-23,Cleveland Cavaliers,Denver Nuggets,109,115,REG,885
+nba-202302230DAL,2023,,2023-02-23,Dallas Mavericks,San Antonio Spurs,142,116,REG,886
+nba-202302230IND,2023,,2023-02-23,Indiana Pacers,Boston Celtics,138,142,REG,887
+nba-202302230LAL,2023,,2023-02-23,Los Angeles Lakers,Golden State Warriors,124,111,REG,888
+nba-202302230ORL,2023,,2023-02-23,Orlando Magic,Detroit Pistons,108,106,REG,889
+nba-202302230PHI,2023,,2023-02-23,Philadelphia 76ers,Memphis Grizzlies,110,105,REG,890
+nba-202302230SAC,2023,,2023-02-23,Sacramento Kings,Portland Trail Blazers,133,116,REG,891
+nba-202302230TOR,2023,,2023-02-23,Toronto Raptors,New Orleans Pelicans,115,110,REG,892
+nba-202302230UTA,2023,,2023-02-23,Utah Jazz,Oklahoma City Thunder,120,119,REG,893
+nba-202302240ATL,2023,,2023-02-24,Atlanta Hawks,Cleveland Cavaliers,136,119,REG,894
+nba-202302240CHI,2023,,2023-02-24,Chicago Bulls,Brooklyn Nets,131,87,REG,895
+nba-202302240GSW,2023,,2023-02-24,Golden State Warriors,Houston Rockets,116,101,REG,896
+nba-202302240LAC,2023,,2023-02-24,Los Angeles Clippers,Sacramento Kings,175,176,REG,897
+nba-202302240MIL,2023,,2023-02-24,Milwaukee Bucks,Miami Heat,128,99,REG,898
+nba-202302240MIN,2023,,2023-02-24,Minnesota Timberwolves,Charlotte Hornets,113,121,REG,899
+nba-202302240PHO,2023,,2023-02-24,Phoenix Suns,Oklahoma City Thunder,124,115,REG,900
+nba-202302240WAS,2023,,2023-02-24,Washington Wizards,New York Knicks,109,115,REG,901
+nba-202302250CHO,2023,,2023-02-25,Charlotte Hornets,Miami Heat,108,103,REG,902
+nba-202302250DET,2023,,2023-02-25,Detroit Pistons,Toronto Raptors,91,95,REG,903
+nba-202302250MEM,2023,,2023-02-25,Memphis Grizzlies,Denver Nuggets,112,94,REG,904
+nba-202302250NYK,2023,,2023-02-25,New York Knicks,New Orleans Pelicans,128,106,REG,905
+nba-202302250ORL,2023,,2023-02-25,Orlando Magic,Indiana Pacers,108,121,REG,906
+nba-202302250PHI,2023,,2023-02-25,Philadelphia 76ers,Boston Celtics,107,110,REG,907
+nba-202302250UTA,2023,,2023-02-25,Utah Jazz,San Antonio Spurs,118,102,REG,908
+nba-202302260ATL,2023,,2023-02-26,Atlanta Hawks,Brooklyn Nets,129,127,REG,909
+nba-202302260CHI,2023,,2023-02-26,Chicago Bulls,Washington Wizards,102,82,REG,910
+nba-202302260CLE,2023,,2023-02-26,Cleveland Cavaliers,Toronto Raptors,118,93,REG,911
+nba-202302260DAL,2023,,2023-02-26,Dallas Mavericks,Los Angeles Lakers,108,111,REG,912
+nba-202302260DEN,2023,,2023-02-26,Denver Nuggets,Los Angeles Clippers,134,124,REG,913
+nba-202302260GSW,2023,,2023-02-26,Golden State Warriors,Minnesota Timberwolves,109,104,REG,914
+nba-202302260MIL,2023,,2023-02-26,Milwaukee Bucks,Phoenix Suns,104,101,REG,915
+nba-202302260OKC,2023,,2023-02-26,Oklahoma City Thunder,Sacramento Kings,115,124,REG,916
+nba-202302260POR,2023,,2023-02-26,Portland Trail Blazers,Houston Rockets,131,114,REG,917
+nba-202302270CHO,2023,,2023-02-27,Charlotte Hornets,Detroit Pistons,117,106,REG,918
+nba-202302270NOP,2023,,2023-02-27,New Orleans Pelicans,Orlando Magic,93,101,REG,919
+nba-202302270NYK,2023,,2023-02-27,New York Knicks,Boston Celtics,109,94,REG,920
+nba-202302270PHI,2023,,2023-02-27,Philadelphia 76ers,Miami Heat,99,101,REG,921
+nba-202302280ATL,2023,,2023-02-28,Atlanta Hawks,Washington Wizards,116,119,REG,922
+nba-202302280BRK,2023,,2023-02-28,Brooklyn Nets,Milwaukee Bucks,104,118,REG,923
+nba-202302280DAL,2023,,2023-02-28,Dallas Mavericks,Indiana Pacers,122,124,REG,924
+nba-202302280GSW,2023,,2023-02-28,Golden State Warriors,Portland Trail Blazers,123,105,REG,925
+nba-202302280HOU,2023,,2023-02-28,Houston Rockets,Denver Nuggets,112,133,REG,926
+nba-202302280LAC,2023,,2023-02-28,Los Angeles Clippers,Minnesota Timberwolves,101,108,REG,927
+nba-202302280MEM,2023,,2023-02-28,Memphis Grizzlies,Los Angeles Lakers,121,109,REG,928
+nba-202302280OKC,2023,,2023-02-28,Oklahoma City Thunder,Sacramento Kings,117,123,REG,929
+nba-202302280TOR,2023,,2023-02-28,Toronto Raptors,Chicago Bulls,104,98,REG,930
+nba-202302280UTA,2023,,2023-02-28,Utah Jazz,San Antonio Spurs,94,102,REG,931
+nba-202303010BOS,2023,,2023-03-01,Boston Celtics,Cleveland Cavaliers,117,113,REG,932
+nba-202303010CHO,2023,,2023-03-01,Charlotte Hornets,Phoenix Suns,91,105,REG,933
+nba-202303010DET,2023,,2023-03-01,Detroit Pistons,Chicago Bulls,115,117,REG,934
+nba-202303010HOU,2023,,2023-03-01,Houston Rockets,Memphis Grizzlies,99,113,REG,935
+nba-202303010MIA,2023,,2023-03-01,Miami Heat,Philadelphia 76ers,96,119,REG,936
+nba-202303010MIL,2023,,2023-03-01,Milwaukee Bucks,Orlando Magic,139,117,REG,937
+nba-202303010NYK,2023,,2023-03-01,New York Knicks,Brooklyn Nets,142,118,REG,938
+nba-202303010OKC,2023,,2023-03-01,Oklahoma City Thunder,Los Angeles Lakers,117,123,REG,939
+nba-202303010POR,2023,,2023-03-01,Portland Trail Blazers,New Orleans Pelicans,110,121,REG,940
+nba-202303020DAL,2023,,2023-03-02,Dallas Mavericks,Philadelphia 76ers,133,126,REG,941
+nba-202303020GSW,2023,,2023-03-02,Golden State Warriors,Los Angeles Clippers,115,91,REG,942
+nba-202303020SAS,2023,,2023-03-02,San Antonio Spurs,Indiana Pacers,110,99,REG,943
+nba-202303020WAS,2023,,2023-03-02,Washington Wizards,Toronto Raptors,119,108,REG,944
+nba-202303030ATL,2023,,2023-03-03,Atlanta Hawks,Portland Trail Blazers,129,111,REG,945
+nba-202303030BOS,2023,,2023-03-03,Boston Celtics,Brooklyn Nets,105,115,REG,946
+nba-202303030CHO,2023,,2023-03-03,Charlotte Hornets,Orlando Magic,106,117,REG,947
+nba-202303030CHI,2023,,2023-03-03,Chicago Bulls,Phoenix Suns,104,125,REG,948
+nba-202303030DEN,2023,,2023-03-03,Denver Nuggets,Memphis Grizzlies,113,97,REG,949
+nba-202303030GSW,2023,,2023-03-03,Golden State Warriors,New Orleans Pelicans,108,99,REG,950
+nba-202303030LAL,2023,,2023-03-03,Los Angeles Lakers,Minnesota Timberwolves,102,110,REG,951
+nba-202303030MIA,2023,,2023-03-03,Miami Heat,New York Knicks,120,122,REG,952
+nba-202303030OKC,2023,,2023-03-03,Oklahoma City Thunder,Utah Jazz,130,103,REG,953
+nba-202303030SAC,2023,,2023-03-03,Sacramento Kings,Los Angeles Clippers,128,127,REG,954
+nba-202303040CLE,2023,,2023-03-04,Cleveland Cavaliers,Detroit Pistons,114,90,REG,955
+nba-202303040MIA,2023,,2023-03-04,Miami Heat,Atlanta Hawks,117,109,REG,956
+nba-202303040MIL,2023,,2023-03-04,Milwaukee Bucks,Philadelphia 76ers,130,133,REG,957
+nba-202303040SAC,2023,,2023-03-04,Sacramento Kings,Minnesota Timberwolves,134,138,REG,958
+nba-202303040SAS,2023,,2023-03-04,San Antonio Spurs,Houston Rockets,110,122,REG,959
+nba-202303040WAS,2023,,2023-03-04,Washington Wizards,Toronto Raptors,109,116,REG,960
+nba-202303050BOS,2023,,2023-03-05,Boston Celtics,New York Knicks,129,131,REG,961
+nba-202303050BRK,2023,,2023-03-05,Brooklyn Nets,Charlotte Hornets,102,86,REG,962
+nba-202303050CHI,2023,,2023-03-05,Chicago Bulls,Indiana Pacers,122,125,REG,963
+nba-202303050DAL,2023,,2023-03-05,Dallas Mavericks,Phoenix Suns,126,130,REG,964
+nba-202303050HOU,2023,,2023-03-05,Houston Rockets,San Antonio Spurs,142,110,REG,965
+nba-202303050LAC,2023,,2023-03-05,Los Angeles Clippers,Memphis Grizzlies,135,129,REG,966
+nba-202303050LAL,2023,,2023-03-05,Los Angeles Lakers,Golden State Warriors,113,105,REG,967
+nba-202303050OKC,2023,,2023-03-05,Oklahoma City Thunder,Utah Jazz,129,119,REG,968
+nba-202303050ORL,2023,,2023-03-05,Orlando Magic,Portland Trail Blazers,119,122,REG,969
+nba-202303050WAS,2023,,2023-03-05,Washington Wizards,Milwaukee Bucks,111,117,REG,970
+nba-202303060CLE,2023,,2023-03-06,Cleveland Cavaliers,Boston Celtics,118,114,REG,971
+nba-202303060DEN,2023,,2023-03-06,Denver Nuggets,Toronto Raptors,118,113,REG,972
+nba-202303060DET,2023,,2023-03-06,Detroit Pistons,Portland Trail Blazers,104,110,REG,973
+nba-202303060IND,2023,,2023-03-06,Indiana Pacers,Philadelphia 76ers,143,147,REG,974
+nba-202303060MIA,2023,,2023-03-06,Miami Heat,Atlanta Hawks,130,128,REG,975
+nba-202303060SAC,2023,,2023-03-06,Sacramento Kings,New Orleans Pelicans,123,108,REG,976
+nba-202303070DAL,2023,,2023-03-07,Dallas Mavericks,Utah Jazz,120,116,REG,977
+nba-202303070DET,2023,,2023-03-07,Detroit Pistons,Washington Wizards,117,119,REG,978
+nba-202303070HOU,2023,,2023-03-07,Houston Rockets,Brooklyn Nets,96,118,REG,979
+nba-202303070LAL,2023,,2023-03-07,Los Angeles Lakers,Memphis Grizzlies,112,103,REG,980
+nba-202303070MIN,2023,,2023-03-07,Minnesota Timberwolves,Philadelphia 76ers,94,117,REG,981
+nba-202303070NYK,2023,,2023-03-07,New York Knicks,Charlotte Hornets,105,112,REG,982
+nba-202303070OKC,2023,,2023-03-07,Oklahoma City Thunder,Golden State Warriors,137,128,REG,983
+nba-202303070ORL,2023,,2023-03-07,Orlando Magic,Milwaukee Bucks,123,134,REG,984
+nba-202303080BOS,2023,,2023-03-08,Boston Celtics,Portland Trail Blazers,115,93,REG,985
+nba-202303080DEN,2023,,2023-03-08,Denver Nuggets,Chicago Bulls,96,117,REG,986
+nba-202303080LAC,2023,,2023-03-08,Los Angeles Clippers,Toronto Raptors,108,100,REG,987
+nba-202303080MIA,2023,,2023-03-08,Miami Heat,Cleveland Cavaliers,100,104,REG,988
+nba-202303080NOP,2023,,2023-03-08,New Orleans Pelicans,Dallas Mavericks,113,106,REG,989
+nba-202303080PHO,2023,,2023-03-08,Phoenix Suns,Oklahoma City Thunder,132,101,REG,990
+nba-202303080WAS,2023,,2023-03-08,Washington Wizards,Atlanta Hawks,120,122,REG,991
+nba-202303090DET,2023,,2023-03-09,Detroit Pistons,Charlotte Hornets,103,113,REG,992
+nba-202303090IND,2023,,2023-03-09,Indiana Pacers,Houston Rockets,134,125,REG,993
+nba-202303090MEM,2023,,2023-03-09,Memphis Grizzlies,Golden State Warriors,131,110,REG,994
+nba-202303090MIL,2023,,2023-03-09,Milwaukee Bucks,Brooklyn Nets,118,113,REG,995
+nba-202303090ORL,2023,,2023-03-09,Orlando Magic,Utah Jazz,124,131,REG,996
+nba-202303090SAC,2023,,2023-03-09,Sacramento Kings,New York Knicks,122,117,REG,997
+nba-202303100LAL,2023,,2023-03-10,Los Angeles Lakers,Toronto Raptors,122,112,REG,998
+nba-202303100MIA,2023,,2023-03-10,Miami Heat,Cleveland Cavaliers,119,115,REG,999
+nba-202303100MIN,2023,,2023-03-10,Minnesota Timberwolves,Brooklyn Nets,123,124,REG,1000
+nba-202303100PHI,2023,,2023-03-10,Philadelphia 76ers,Portland Trail Blazers,120,119,REG,1001
+nba-202303100SAS,2023,,2023-03-10,San Antonio Spurs,Denver Nuggets,128,120,REG,1002
+nba-202303100WAS,2023,,2023-03-10,Washington Wizards,Atlanta Hawks,107,114,REG,1003
+nba-202303110ATL,2023,,2023-03-11,Atlanta Hawks,Boston Celtics,125,134,REG,1004
+nba-202303110CHO,2023,,2023-03-11,Charlotte Hornets,Utah Jazz,111,119,REG,1005
+nba-202303110DET,2023,,2023-03-11,Detroit Pistons,Indiana Pacers,115,121,REG,1006
+nba-202303110GSW,2023,,2023-03-11,Golden State Warriors,Milwaukee Bucks,125,116,REG,1007
+nba-202303110HOU,2023,,2023-03-11,Houston Rockets,Chicago Bulls,111,119,REG,1008
+nba-202303110LAC,2023,,2023-03-11,Los Angeles Clippers,New York Knicks,106,95,REG,1009
+nba-202303110MEM,2023,,2023-03-11,Memphis Grizzlies,Dallas Mavericks,112,108,REG,1010
+nba-202303110NOP,2023,,2023-03-11,New Orleans Pelicans,Oklahoma City Thunder,96,110,REG,1011
+nba-202303110ORL,2023,,2023-03-11,Orlando Magic,Miami Heat,126,114,REG,1012
+nba-202303110PHO,2023,,2023-03-11,Phoenix Suns,Sacramento Kings,119,128,REG,1013
+nba-202303120CHO,2023,,2023-03-12,Charlotte Hornets,Cleveland Cavaliers,108,114,REG,1014
+nba-202303120DEN,2023,,2023-03-12,Denver Nuggets,Brooklyn Nets,120,122,REG,1015
+nba-202303120LAL,2023,,2023-03-12,Los Angeles Lakers,New York Knicks,108,112,REG,1016
+nba-202303120NOP,2023,,2023-03-12,New Orleans Pelicans,Portland Trail Blazers,127,110,REG,1017
+nba-202303120PHI,2023,,2023-03-12,Philadelphia 76ers,Washington Wizards,112,93,REG,1018
+nba-202303120SAS,2023,,2023-03-12,San Antonio Spurs,Oklahoma City Thunder,90,102,REG,1019
+nba-202303130ATL,2023,,2023-03-13,Atlanta Hawks,Minnesota Timberwolves,115,136,REG,1020
+nba-202303130DAL,2023,,2023-03-13,Dallas Mavericks,Memphis Grizzlies,88,104,REG,1021
+nba-202303130DET,2023,,2023-03-13,Detroit Pistons,Indiana Pacers,117,97,REG,1022
+nba-202303130GSW,2023,,2023-03-13,Golden State Warriors,Phoenix Suns,123,112,REG,1023
+nba-202303130HOU,2023,,2023-03-13,Houston Rockets,Boston Celtics,111,109,REG,1024
+nba-202303130MIA,2023,,2023-03-13,Miami Heat,Utah Jazz,119,115,REG,1025
+nba-202303130SAC,2023,,2023-03-13,Sacramento Kings,Milwaukee Bucks,124,133,REG,1026
+nba-202303140CHO,2023,,2023-03-14,Charlotte Hornets,Cleveland Cavaliers,104,120,REG,1027
+nba-202303140NOP,2023,,2023-03-14,New Orleans Pelicans,Los Angeles Lakers,108,123,REG,1028
+nba-202303140OKC,2023,,2023-03-14,Oklahoma City Thunder,Brooklyn Nets,121,107,REG,1029
+nba-202303140PHO,2023,,2023-03-14,Phoenix Suns,Milwaukee Bucks,104,116,REG,1030
+nba-202303140POR,2023,,2023-03-14,Portland Trail Blazers,New York Knicks,107,123,REG,1031
+nba-202303140SAS,2023,,2023-03-14,San Antonio Spurs,Orlando Magic,132,114,REG,1032
+nba-202303140TOR,2023,,2023-03-14,Toronto Raptors,Denver Nuggets,125,110,REG,1033
+nba-202303140WAS,2023,,2023-03-14,Washington Wizards,Detroit Pistons,117,97,REG,1034
+nba-202303150CHI,2023,,2023-03-15,Chicago Bulls,Sacramento Kings,114,117,REG,1035
+nba-202303150CLE,2023,,2023-03-15,Cleveland Cavaliers,Philadelphia 76ers,109,118,REG,1036
+nba-202303150HOU,2023,,2023-03-15,Houston Rockets,Los Angeles Lakers,114,110,REG,1037
+nba-202303150LAC,2023,,2023-03-15,Los Angeles Clippers,Golden State Warriors,134,126,REG,1038
+nba-202303150MIA,2023,,2023-03-15,Miami Heat,Memphis Grizzlies,138,119,REG,1039
+nba-202303150MIN,2023,,2023-03-15,Minnesota Timberwolves,Boston Celtics,102,104,REG,1040
+nba-202303150SAS,2023,,2023-03-15,San Antonio Spurs,Dallas Mavericks,128,137,REG,1041
+nba-202303160BRK,2023,,2023-03-16,Brooklyn Nets,Sacramento Kings,96,101,REG,1042
+nba-202303160DET,2023,,2023-03-16,Detroit Pistons,Denver Nuggets,100,119,REG,1043
+nba-202303160MIL,2023,,2023-03-16,Milwaukee Bucks,Indiana Pacers,123,139,REG,1044
+nba-202303160PHO,2023,,2023-03-16,Phoenix Suns,Orlando Magic,116,113,REG,1045
+nba-202303160TOR,2023,,2023-03-16,Toronto Raptors,Oklahoma City Thunder,128,111,REG,1046
+nba-202303170ATL,2023,,2023-03-17,Atlanta Hawks,Golden State Warriors,127,119,REG,1047
+nba-202303170CHO,2023,,2023-03-17,Charlotte Hornets,Philadelphia 76ers,82,121,REG,1048
+nba-202303170CHI,2023,,2023-03-17,Chicago Bulls,Minnesota Timberwolves,139,131,REG,1049
+nba-202303170CLE,2023,,2023-03-17,Cleveland Cavaliers,Washington Wizards,117,94,REG,1050
+nba-202303170HOU,2023,,2023-03-17,Houston Rockets,New Orleans Pelicans,114,112,REG,1051
+nba-202303170LAL,2023,,2023-03-17,Los Angeles Lakers,Dallas Mavericks,110,111,REG,1052
+nba-202303170POR,2023,,2023-03-17,Portland Trail Blazers,Boston Celtics,112,126,REG,1053
+nba-202303170SAS,2023,,2023-03-17,San Antonio Spurs,Memphis Grizzlies,120,126,REG,1054
+nba-202303180CHI,2023,,2023-03-18,Chicago Bulls,Miami Heat,113,99,REG,1055
+nba-202303180IND,2023,,2023-03-18,Indiana Pacers,Philadelphia 76ers,121,141,REG,1056
+nba-202303180LAC,2023,,2023-03-18,Los Angeles Clippers,Orlando Magic,108,113,REG,1057
+nba-202303180MEM,2023,,2023-03-18,Memphis Grizzlies,Golden State Warriors,133,119,REG,1058
+nba-202303180NYK,2023,,2023-03-18,New York Knicks,Denver Nuggets,116,110,REG,1059
+nba-202303180TOR,2023,,2023-03-18,Toronto Raptors,Minnesota Timberwolves,122,107,REG,1060
+nba-202303180UTA,2023,,2023-03-18,Utah Jazz,Boston Celtics,118,117,REG,1061
+nba-202303180WAS,2023,,2023-03-18,Washington Wizards,Sacramento Kings,118,132,REG,1062
+nba-202303190BRK,2023,,2023-03-19,Brooklyn Nets,Denver Nuggets,102,108,REG,1063
+nba-202303190DET,2023,,2023-03-19,Detroit Pistons,Miami Heat,100,112,REG,1064
+nba-202303190HOU,2023,,2023-03-19,Houston Rockets,New Orleans Pelicans,107,117,REG,1065
+nba-202303190LAL,2023,,2023-03-19,Los Angeles Lakers,Orlando Magic,111,105,REG,1066
+nba-202303190MIL,2023,,2023-03-19,Milwaukee Bucks,Toronto Raptors,118,111,REG,1067
+nba-202303190OKC,2023,,2023-03-19,Oklahoma City Thunder,Phoenix Suns,124,120,REG,1068
+nba-202303190POR,2023,,2023-03-19,Portland Trail Blazers,Los Angeles Clippers,102,117,REG,1069
+nba-202303190SAS,2023,,2023-03-19,San Antonio Spurs,Atlanta Hawks,126,118,REG,1070
+nba-202303200CHO,2023,,2023-03-20,Charlotte Hornets,Indiana Pacers,115,109,REG,1071
+nba-202303200HOU,2023,,2023-03-20,Houston Rockets,Golden State Warriors,108,121,REG,1072
+nba-202303200MEM,2023,,2023-03-20,Memphis Grizzlies,Dallas Mavericks,112,108,REG,1073
+nba-202303200NYK,2023,,2023-03-20,New York Knicks,Minnesota Timberwolves,134,140,REG,1074
+nba-202303200PHI,2023,,2023-03-20,Philadelphia 76ers,Chicago Bulls,105,109,REG,1075
+nba-202303200UTA,2023,,2023-03-20,Utah Jazz,Sacramento Kings,128,120,REG,1076
+nba-202303210ATL,2023,,2023-03-21,Atlanta Hawks,Detroit Pistons,129,107,REG,1077
+nba-202303210BRK,2023,,2023-03-21,Brooklyn Nets,Cleveland Cavaliers,109,115,REG,1078
+nba-202303210LAC,2023,,2023-03-21,Los Angeles Clippers,Oklahoma City Thunder,100,101,REG,1079
+nba-202303210NOP,2023,,2023-03-21,New Orleans Pelicans,San Antonio Spurs,119,84,REG,1080
+nba-202303210ORL,2023,,2023-03-21,Orlando Magic,Washington Wizards,122,112,REG,1081
+nba-202303210SAC,2023,,2023-03-21,Sacramento Kings,Boston Celtics,109,132,REG,1082
+nba-202303220CHI,2023,,2023-03-22,Chicago Bulls,Philadelphia 76ers,91,116,REG,1083
+nba-202303220DAL,2023,,2023-03-22,Dallas Mavericks,Golden State Warriors,125,127,REG,1084
+nba-202303220LAL,2023,,2023-03-22,Los Angeles Lakers,Phoenix Suns,122,111,REG,1085
+nba-202303220MEM,2023,,2023-03-22,Memphis Grizzlies,Houston Rockets,130,125,REG,1086
+nba-202303220MIA,2023,,2023-03-22,Miami Heat,New York Knicks,127,120,REG,1087
+nba-202303220MIL,2023,,2023-03-22,Milwaukee Bucks,San Antonio Spurs,130,94,REG,1088
+nba-202303220MIN,2023,,2023-03-22,Minnesota Timberwolves,Atlanta Hawks,125,124,REG,1089
+nba-202303220TOR,2023,,2023-03-22,Toronto Raptors,Indiana Pacers,114,118,REG,1090
+nba-202303220UTA,2023,,2023-03-22,Utah Jazz,Portland Trail Blazers,115,127,REG,1091
+nba-202303220WAS,2023,,2023-03-22,Washington Wizards,Denver Nuggets,104,118,REG,1092
+nba-202303230BRK,2023,,2023-03-23,Brooklyn Nets,Cleveland Cavaliers,114,116,REG,1093
+nba-202303230LAC,2023,,2023-03-23,Los Angeles Clippers,Oklahoma City Thunder,127,105,REG,1094
+nba-202303230NOP,2023,,2023-03-23,New Orleans Pelicans,Charlotte Hornets,115,96,REG,1095
+nba-202303230ORL,2023,,2023-03-23,Orlando Magic,New York Knicks,111,106,REG,1096
+nba-202303240BOS,2023,,2023-03-24,Boston Celtics,Indiana Pacers,120,95,REG,1097
+nba-202303240DAL,2023,,2023-03-24,Dallas Mavericks,Charlotte Hornets,109,117,REG,1098
+nba-202303240GSW,2023,,2023-03-24,Golden State Warriors,Philadelphia 76ers,120,112,REG,1099
+nba-202303240LAL,2023,,2023-03-24,Los Angeles Lakers,Oklahoma City Thunder,116,111,REG,1100
+nba-202303240MEM,2023,,2023-03-24,Memphis Grizzlies,Houston Rockets,151,114,REG,1101
+nba-202303240POR,2023,,2023-03-24,Portland Trail Blazers,Chicago Bulls,96,124,REG,1102
+nba-202303240SAC,2023,,2023-03-24,Sacramento Kings,Phoenix Suns,135,127,REG,1103
+nba-202303240TOR,2023,,2023-03-24,Toronto Raptors,Detroit Pistons,118,97,REG,1104
+nba-202303240UTA,2023,,2023-03-24,Utah Jazz,Milwaukee Bucks,116,144,REG,1105
+nba-202303240WAS,2023,,2023-03-24,Washington Wizards,San Antonio Spurs,136,124,REG,1106
+nba-202303250ATL,2023,,2023-03-25,Atlanta Hawks,Indiana Pacers,143,130,REG,1107
+nba-202303250DEN,2023,,2023-03-25,Denver Nuggets,Milwaukee Bucks,129,106,REG,1108
+nba-202303250LAC,2023,,2023-03-25,Los Angeles Clippers,New Orleans Pelicans,110,131,REG,1109
+nba-202303250MIA,2023,,2023-03-25,Miami Heat,Brooklyn Nets,100,129,REG,1110
+nba-202303250PHO,2023,,2023-03-25,Phoenix Suns,Philadelphia 76ers,125,105,REG,1111
+nba-202303250SAC,2023,,2023-03-25,Sacramento Kings,Utah Jazz,121,113,REG,1112
+nba-202303260ATL,2023,,2023-03-26,Atlanta Hawks,Memphis Grizzlies,119,123,REG,1113
+nba-202303260BOS,2023,,2023-03-26,Boston Celtics,San Antonio Spurs,137,93,REG,1114
+nba-202303260CHO,2023,,2023-03-26,Charlotte Hornets,Dallas Mavericks,110,104,REG,1115
+nba-202303260CLE,2023,,2023-03-26,Cleveland Cavaliers,Houston Rockets,108,91,REG,1116
+nba-202303260GSW,2023,,2023-03-26,Golden State Warriors,Minnesota Timberwolves,96,99,REG,1117
+nba-202303260LAL,2023,,2023-03-26,Los Angeles Lakers,Chicago Bulls,108,118,REG,1118
+nba-202303260ORL,2023,,2023-03-26,Orlando Magic,Brooklyn Nets,119,106,REG,1119
+nba-202303260POR,2023,,2023-03-26,Portland Trail Blazers,Oklahoma City Thunder,112,118,REG,1120
+nba-202303260TOR,2023,,2023-03-26,Toronto Raptors,Washington Wizards,114,104,REG,1121
+nba-202303270DEN,2023,,2023-03-27,Denver Nuggets,Philadelphia 76ers,116,111,REG,1122
+nba-202303270DET,2023,,2023-03-27,Detroit Pistons,Milwaukee Bucks,117,126,REG,1123
+nba-202303270IND,2023,,2023-03-27,Indiana Pacers,Dallas Mavericks,104,127,REG,1124
+nba-202303270LAC,2023,,2023-03-27,Los Angeles Clippers,Chicago Bulls,124,112,REG,1125
+nba-202303270NYK,2023,,2023-03-27,New York Knicks,Houston Rockets,137,115,REG,1126
+nba-202303270POR,2023,,2023-03-27,Portland Trail Blazers,New Orleans Pelicans,90,124,REG,1127
+nba-202303270SAC,2023,,2023-03-27,Sacramento Kings,Minnesota Timberwolves,115,119,REG,1128
+nba-202303270UTA,2023,,2023-03-27,Utah Jazz,Phoenix Suns,103,117,REG,1129
+nba-202303280ATL,2023,,2023-03-28,Atlanta Hawks,Cleveland Cavaliers,120,118,REG,1130
+nba-202303280GSW,2023,,2023-03-28,Golden State Warriors,New Orleans Pelicans,120,109,REG,1131
+nba-202303280MEM,2023,,2023-03-28,Memphis Grizzlies,Orlando Magic,113,108,REG,1132
+nba-202303280OKC,2023,,2023-03-28,Oklahoma City Thunder,Charlotte Hornets,134,137,REG,1133
+nba-202303280TOR,2023,,2023-03-28,Toronto Raptors,Miami Heat,106,92,REG,1134
+nba-202303280WAS,2023,,2023-03-28,Washington Wizards,Boston Celtics,130,111,REG,1135
+nba-202303290BRK,2023,,2023-03-29,Brooklyn Nets,Houston Rockets,123,114,REG,1136
+nba-202303290CHI,2023,,2023-03-29,Chicago Bulls,Los Angeles Lakers,110,121,REG,1137
+nba-202303290IND,2023,,2023-03-29,Indiana Pacers,Milwaukee Bucks,136,149,REG,1138
+nba-202303290MEM,2023,,2023-03-29,Memphis Grizzlies,Los Angeles Clippers,132,141,REG,1139
+nba-202303290NYK,2023,,2023-03-29,New York Knicks,Miami Heat,101,92,REG,1140
+nba-202303290OKC,2023,,2023-03-29,Oklahoma City Thunder,Detroit Pistons,107,106,REG,1141
+nba-202303290PHI,2023,,2023-03-29,Philadelphia 76ers,Dallas Mavericks,116,108,REG,1142
+nba-202303290PHO,2023,,2023-03-29,Phoenix Suns,Minnesota Timberwolves,107,100,REG,1143
+nba-202303290POR,2023,,2023-03-29,Portland Trail Blazers,Sacramento Kings,80,120,REG,1144
+nba-202303290SAS,2023,,2023-03-29,San Antonio Spurs,Utah Jazz,117,128,REG,1145
+nba-202303300DEN,2023,,2023-03-30,Denver Nuggets,New Orleans Pelicans,88,107,REG,1146
+nba-202303300MIL,2023,,2023-03-30,Milwaukee Bucks,Boston Celtics,99,140,REG,1147
+nba-202303310BOS,2023,,2023-03-31,Boston Celtics,Utah Jazz,122,114,REG,1148
+nba-202303310BRK,2023,,2023-03-31,Brooklyn Nets,Atlanta Hawks,124,107,REG,1149
+nba-202303310CHO,2023,,2023-03-31,Charlotte Hornets,Chicago Bulls,91,121,REG,1150
+nba-202303310CLE,2023,,2023-03-31,Cleveland Cavaliers,New York Knicks,116,130,REG,1151
+nba-202303310GSW,2023,,2023-03-31,Golden State Warriors,San Antonio Spurs,130,115,REG,1152
+nba-202303310HOU,2023,,2023-03-31,Houston Rockets,Detroit Pistons,121,115,REG,1153
+nba-202303310IND,2023,,2023-03-31,Indiana Pacers,Oklahoma City Thunder,121,117,REG,1154
+nba-202303310MEM,2023,,2023-03-31,Memphis Grizzlies,Los Angeles Clippers,108,94,REG,1155
+nba-202303310MIN,2023,,2023-03-31,Minnesota Timberwolves,Los Angeles Lakers,111,123,REG,1156
+nba-202303310PHI,2023,,2023-03-31,Philadelphia 76ers,Toronto Raptors,117,110,REG,1157
+nba-202303310PHO,2023,,2023-03-31,Phoenix Suns,Denver Nuggets,100,93,REG,1158
+nba-202303310POR,2023,,2023-03-31,Portland Trail Blazers,Sacramento Kings,114,138,REG,1159
+nba-202303310WAS,2023,,2023-03-31,Washington Wizards,Orlando Magic,109,116,REG,1160
+nba-202304010MIA,2023,,2023-04-01,Miami Heat,Dallas Mavericks,129,122,REG,1161
+nba-202304010NOP,2023,,2023-04-01,New Orleans Pelicans,Los Angeles Clippers,122,114,REG,1162
+nba-202304020ATL,2023,,2023-04-02,Atlanta Hawks,Dallas Mavericks,132,130,REG,1163
+nba-202304020BRK,2023,,2023-04-02,Brooklyn Nets,Utah Jazz,111,110,REG,1164
+nba-202304020CHO,2023,,2023-04-02,Charlotte Hornets,Toronto Raptors,108,128,REG,1165
+nba-202304020CHI,2023,,2023-04-02,Chicago Bulls,Memphis Grizzlies,128,107,REG,1166
+nba-202304020CLE,2023,,2023-04-02,Cleveland Cavaliers,Indiana Pacers,115,105,REG,1167
+nba-202304020DEN,2023,,2023-04-02,Denver Nuggets,Golden State Warriors,112,110,REG,1168
+nba-202304020HOU,2023,,2023-04-02,Houston Rockets,Los Angeles Lakers,109,134,REG,1169
+nba-202304020MIL,2023,,2023-04-02,Milwaukee Bucks,Philadelphia 76ers,117,104,REG,1170
+nba-202304020MIN,2023,,2023-04-02,Minnesota Timberwolves,Portland Trail Blazers,105,107,REG,1171
+nba-202304020NYK,2023,,2023-04-02,New York Knicks,Washington Wizards,118,109,REG,1172
+nba-202304020OKC,2023,,2023-04-02,Oklahoma City Thunder,Phoenix Suns,118,128,REG,1173
+nba-202304020ORL,2023,,2023-04-02,Orlando Magic,Detroit Pistons,128,102,REG,1174
+nba-202304020SAC,2023,,2023-04-02,Sacramento Kings,San Antonio Spurs,134,142,REG,1175
+nba-202304040BRK,2023,,2023-04-04,Brooklyn Nets,Minnesota Timberwolves,102,107,REG,1176
+nba-202304040CHO,2023,,2023-04-04,Charlotte Hornets,Toronto Raptors,100,120,REG,1177
+nba-202304040CHI,2023,,2023-04-04,Chicago Bulls,Atlanta Hawks,105,123,REG,1178
+nba-202304040DET,2023,,2023-04-04,Detroit Pistons,Miami Heat,105,118,REG,1179
+nba-202304040GSW,2023,,2023-04-04,Golden State Warriors,Oklahoma City Thunder,136,125,REG,1180
+nba-202304040HOU,2023,,2023-04-04,Houston Rockets,Denver Nuggets,124,103,REG,1181
+nba-202304040MEM,2023,,2023-04-04,Memphis Grizzlies,Portland Trail Blazers,119,109,REG,1182
+nba-202304040NOP,2023,,2023-04-04,New Orleans Pelicans,Sacramento Kings,103,121,REG,1183
+nba-202304040ORL,2023,,2023-04-04,Orlando Magic,Cleveland Cavaliers,113,117,REG,1184
+nba-202304040PHI,2023,,2023-04-04,Philadelphia 76ers,Boston Celtics,103,101,REG,1185
+nba-202304040PHO,2023,,2023-04-04,Phoenix Suns,San Antonio Spurs,115,94,REG,1186
+nba-202304040UTA,2023,,2023-04-04,Utah Jazz,Los Angeles Lakers,133,135,REG,1187
+nba-202304040WAS,2023,,2023-04-04,Washington Wizards,Milwaukee Bucks,128,140,REG,1188
+nba-202304050ATL,2023,,2023-04-05,Atlanta Hawks,Washington Wizards,134,116,REG,1189
+nba-202304050BOS,2023,,2023-04-05,Boston Celtics,Toronto Raptors,97,93,REG,1190
+nba-202304050DAL,2023,,2023-04-05,Dallas Mavericks,Sacramento Kings,123,119,REG,1191
+nba-202304050DET,2023,,2023-04-05,Detroit Pistons,Brooklyn Nets,108,123,REG,1192
+nba-202304050IND,2023,,2023-04-05,Indiana Pacers,New York Knicks,129,138,REG,1193
+nba-202304050LAC,2023,,2023-04-05,Los Angeles Clippers,Los Angeles Lakers,125,118,REG,1194
+nba-202304050MIL,2023,,2023-04-05,Milwaukee Bucks,Chicago Bulls,105,92,REG,1195
+nba-202304050NOP,2023,,2023-04-05,New Orleans Pelicans,Memphis Grizzlies,138,131,REG,1196
+nba-202304060ORL,2023,,2023-04-06,Orlando Magic,Cleveland Cavaliers,94,118,REG,1197
+nba-202304060PHI,2023,,2023-04-06,Philadelphia 76ers,Miami Heat,101,129,REG,1198
+nba-202304060PHO,2023,,2023-04-06,Phoenix Suns,Denver Nuggets,119,115,REG,1199
+nba-202304060SAS,2023,,2023-04-06,San Antonio Spurs,Portland Trail Blazers,129,127,REG,1200
+nba-202304060UTA,2023,,2023-04-06,Utah Jazz,Oklahoma City Thunder,98,114,REG,1201
+nba-202304070ATL,2023,,2023-04-07,Atlanta Hawks,Philadelphia 76ers,131,136,REG,1202
+nba-202304070BOS,2023,,2023-04-07,Boston Celtics,Toronto Raptors,121,102,REG,1203
+nba-202304070BRK,2023,,2023-04-07,Brooklyn Nets,Orlando Magic,101,84,REG,1204
+nba-202304070CHO,2023,,2023-04-07,Charlotte Hornets,Houston Rockets,109,112,REG,1205
+nba-202304070DAL,2023,,2023-04-07,Dallas Mavericks,Chicago Bulls,112,115,REG,1206
+nba-202304070IND,2023,,2023-04-07,Indiana Pacers,Detroit Pistons,115,122,REG,1207
+nba-202304070LAL,2023,,2023-04-07,Los Angeles Lakers,Phoenix Suns,121,107,REG,1208
+nba-202304070MIL,2023,,2023-04-07,Milwaukee Bucks,Memphis Grizzlies,114,137,REG,1209
+nba-202304070NOP,2023,,2023-04-07,New Orleans Pelicans,New York Knicks,113,105,REG,1210
+nba-202304070SAC,2023,,2023-04-07,Sacramento Kings,Golden State Warriors,97,119,REG,1211
+nba-202304070WAS,2023,,2023-04-07,Washington Wizards,Miami Heat,114,108,REG,1212
+nba-202304080LAC,2023,,2023-04-08,Los Angeles Clippers,Portland Trail Blazers,136,125,REG,1213
+nba-202304080SAS,2023,,2023-04-08,San Antonio Spurs,Minnesota Timberwolves,131,151,REG,1214
+nba-202304080UTA,2023,,2023-04-08,Utah Jazz,Denver Nuggets,118,114,REG,1215
+nba-202304090BOS,2023,,2023-04-09,Boston Celtics,Atlanta Hawks,120,114,REG,1216
+nba-202304090BRK,2023,,2023-04-09,Brooklyn Nets,Philadelphia 76ers,105,134,REG,1217
+nba-202304090CHI,2023,,2023-04-09,Chicago Bulls,Detroit Pistons,103,81,REG,1218
+nba-202304090CLE,2023,,2023-04-09,Cleveland Cavaliers,Charlotte Hornets,95,106,REG,1219
+nba-202304090DAL,2023,,2023-04-09,Dallas Mavericks,San Antonio Spurs,117,138,REG,1220
+nba-202304090DEN,2023,,2023-04-09,Denver Nuggets,Sacramento Kings,109,95,REG,1221
+nba-202304090LAL,2023,,2023-04-09,Los Angeles Lakers,Utah Jazz,128,117,REG,1222
+nba-202304090MIA,2023,,2023-04-09,Miami Heat,Orlando Magic,123,110,REG,1223
+nba-202304090MIN,2023,,2023-04-09,Minnesota Timberwolves,New Orleans Pelicans,113,108,REG,1224
+nba-202304090NYK,2023,,2023-04-09,New York Knicks,Indiana Pacers,136,141,REG,1225
+nba-202304090OKC,2023,,2023-04-09,Oklahoma City Thunder,Memphis Grizzlies,115,100,REG,1226
+nba-202304090PHO,2023,,2023-04-09,Phoenix Suns,Los Angeles Clippers,114,119,REG,1227
+nba-202304090POR,2023,,2023-04-09,Portland Trail Blazers,Golden State Warriors,101,157,REG,1228
+nba-202304090TOR,2023,,2023-04-09,Toronto Raptors,Milwaukee Bucks,121,105,REG,1229
+nba-202304090WAS,2023,,2023-04-09,Washington Wizards,Houston Rockets,109,114,REG,1230
+nba-202304110LAL,2023,,2023-04-11,Los Angeles Lakers,Minnesota Timberwolves,108,102,REG,1231
+nba-202304110MIA,2023,,2023-04-11,Miami Heat,Atlanta Hawks,105,116,REG,1232
+nba-202304120NOP,2023,,2023-04-12,New Orleans Pelicans,Oklahoma City Thunder,118,123,REG,1233
+nba-202304120TOR,2023,,2023-04-12,Toronto Raptors,Chicago Bulls,105,109,REG,1234
+nba-202304140MIA,2023,,2023-04-14,Miami Heat,Chicago Bulls,102,91,REG,1235
+nba-202304140MIN,2023,,2023-04-14,Minnesota Timberwolves,Oklahoma City Thunder,120,95,REG,1236
+nba-202304150BOS,2023,,2023-04-15,Boston Celtics,Atlanta Hawks,112,99,REG,1237
+nba-2023-post-2023-04-15-boston-celtics-atlanta-hawks,2023,,2023-04-15,Boston Celtics,Atlanta Hawks,112,99,POST,1238
+nba-202304150CLE,2023,,2023-04-15,Cleveland Cavaliers,New York Knicks,97,101,REG,1239
+nba-2023-post-2023-04-15-cleveland-cavaliers-new-york-knicks,2023,,2023-04-15,Cleveland Cavaliers,New York Knicks,97,101,POST,1240
+nba-202304150PHI,2023,,2023-04-15,Philadelphia 76ers,Brooklyn Nets,121,101,REG,1241
+nba-2023-post-2023-04-15-philadelphia-76ers-brooklyn-nets,2023,,2023-04-15,Philadelphia 76ers,Brooklyn Nets,121,101,POST,1242
+nba-202304150SAC,2023,,2023-04-15,Sacramento Kings,Golden State Warriors,126,123,REG,1243
+nba-2023-post-2023-04-15-sacramento-kings-golden-state-warriors,2023,,2023-04-15,Sacramento Kings,Golden State Warriors,126,123,POST,1244
+nba-202304160DEN,2023,,2023-04-16,Denver Nuggets,Minnesota Timberwolves,109,80,REG,1245
+nba-2023-post-2023-04-16-denver-nuggets-minnesota-timberwolves,2023,,2023-04-16,Denver Nuggets,Minnesota Timberwolves,109,80,POST,1246
+nba-202304160MEM,2023,,2023-04-16,Memphis Grizzlies,Los Angeles Lakers,112,128,REG,1247
+nba-2023-post-2023-04-16-memphis-grizzlies-los-angeles-lakers,2023,,2023-04-16,Memphis Grizzlies,Los Angeles Lakers,112,128,POST,1248
+nba-202304160MIL,2023,,2023-04-16,Milwaukee Bucks,Miami Heat,117,130,REG,1249
+nba-2023-post-2023-04-16-milwaukee-bucks-miami-heat,2023,,2023-04-16,Milwaukee Bucks,Miami Heat,117,130,POST,1250
+nba-202304160PHO,2023,,2023-04-16,Phoenix Suns,Los Angeles Clippers,110,115,REG,1251
+nba-2023-post-2023-04-16-phoenix-suns-los-angeles-clippers,2023,,2023-04-16,Phoenix Suns,Los Angeles Clippers,110,115,POST,1252
+nba-202304170PHI,2023,,2023-04-17,Philadelphia 76ers,Brooklyn Nets,96,84,REG,1253
+nba-2023-post-2023-04-17-philadelphia-76ers-brooklyn-nets,2023,,2023-04-17,Philadelphia 76ers,Brooklyn Nets,96,84,POST,1254
+nba-202304170SAC,2023,,2023-04-17,Sacramento Kings,Golden State Warriors,114,106,REG,1255
+nba-2023-post-2023-04-17-sacramento-kings-golden-state-warriors,2023,,2023-04-17,Sacramento Kings,Golden State Warriors,114,106,POST,1256
+nba-202304180BOS,2023,,2023-04-18,Boston Celtics,Atlanta Hawks,119,106,REG,1257
+nba-2023-post-2023-04-18-boston-celtics-atlanta-hawks,2023,,2023-04-18,Boston Celtics,Atlanta Hawks,119,106,POST,1258
+nba-202304180CLE,2023,,2023-04-18,Cleveland Cavaliers,New York Knicks,107,90,REG,1259
+nba-2023-post-2023-04-18-cleveland-cavaliers-new-york-knicks,2023,,2023-04-18,Cleveland Cavaliers,New York Knicks,107,90,POST,1260
+nba-202304180PHO,2023,,2023-04-18,Phoenix Suns,Los Angeles Clippers,123,109,REG,1261
+nba-2023-post-2023-04-18-phoenix-suns-los-angeles-clippers,2023,,2023-04-18,Phoenix Suns,Los Angeles Clippers,123,109,POST,1262
+nba-202304190DEN,2023,,2023-04-19,Denver Nuggets,Minnesota Timberwolves,122,113,REG,1263
+nba-2023-post-2023-04-19-denver-nuggets-minnesota-timberwolves,2023,,2023-04-19,Denver Nuggets,Minnesota Timberwolves,122,113,POST,1264
+nba-202304190MEM,2023,,2023-04-19,Memphis Grizzlies,Los Angeles Lakers,103,93,REG,1265
+nba-2023-post-2023-04-19-memphis-grizzlies-los-angeles-lakers,2023,,2023-04-19,Memphis Grizzlies,Los Angeles Lakers,103,93,POST,1266
+nba-202304190MIL,2023,,2023-04-19,Milwaukee Bucks,Miami Heat,138,122,REG,1267
+nba-2023-post-2023-04-19-milwaukee-bucks-miami-heat,2023,,2023-04-19,Milwaukee Bucks,Miami Heat,138,122,POST,1268
+nba-202304200BRK,2023,,2023-04-20,Brooklyn Nets,Philadelphia 76ers,97,102,REG,1269
+nba-2023-post-2023-04-20-brooklyn-nets-philadelphia-76ers,2023,,2023-04-20,Brooklyn Nets,Philadelphia 76ers,97,102,POST,1270
+nba-202304200GSW,2023,,2023-04-20,Golden State Warriors,Sacramento Kings,114,97,REG,1271
+nba-2023-post-2023-04-20-golden-state-warriors-sacramento-kings,2023,,2023-04-20,Golden State Warriors,Sacramento Kings,114,97,POST,1272
+nba-202304200LAC,2023,,2023-04-20,Los Angeles Clippers,Phoenix Suns,124,129,REG,1273
+nba-2023-post-2023-04-20-los-angeles-clippers-phoenix-suns,2023,,2023-04-20,Los Angeles Clippers,Phoenix Suns,124,129,POST,1274
+nba-202304210ATL,2023,,2023-04-21,Atlanta Hawks,Boston Celtics,130,122,REG,1275
+nba-2023-post-2023-04-21-atlanta-hawks-boston-celtics,2023,,2023-04-21,Atlanta Hawks,Boston Celtics,130,122,POST,1276
+nba-202304210MIN,2023,,2023-04-21,Minnesota Timberwolves,Denver Nuggets,111,120,REG,1277
+nba-2023-post-2023-04-21-minnesota-timberwolves-denver-nuggets,2023,,2023-04-21,Minnesota Timberwolves,Denver Nuggets,111,120,POST,1278
+nba-202304210NYK,2023,,2023-04-21,New York Knicks,Cleveland Cavaliers,99,79,REG,1279
+nba-2023-post-2023-04-21-new-york-knicks-cleveland-cavaliers,2023,,2023-04-21,New York Knicks,Cleveland Cavaliers,99,79,POST,1280
+nba-202304220BRK,2023,,2023-04-22,Brooklyn Nets,Philadelphia 76ers,88,96,REG,1281
+nba-2023-post-2023-04-22-brooklyn-nets-philadelphia-76ers,2023,,2023-04-22,Brooklyn Nets,Philadelphia 76ers,88,96,POST,1282
+nba-202304220LAC,2023,,2023-04-22,Los Angeles Clippers,Phoenix Suns,100,112,REG,1283
+nba-2023-post-2023-04-22-los-angeles-clippers-phoenix-suns,2023,,2023-04-22,Los Angeles Clippers,Phoenix Suns,100,112,POST,1284
+nba-202304220LAL,2023,,2023-04-22,Los Angeles Lakers,Memphis Grizzlies,111,101,REG,1285
+nba-2023-post-2023-04-22-los-angeles-lakers-memphis-grizzlies,2023,,2023-04-22,Los Angeles Lakers,Memphis Grizzlies,111,101,POST,1286
+nba-202304220MIA,2023,,2023-04-22,Miami Heat,Milwaukee Bucks,121,99,REG,1287
+nba-2023-post-2023-04-22-miami-heat-milwaukee-bucks,2023,,2023-04-22,Miami Heat,Milwaukee Bucks,121,99,POST,1288
+nba-202304230ATL,2023,,2023-04-23,Atlanta Hawks,Boston Celtics,121,129,REG,1289
+nba-2023-post-2023-04-23-atlanta-hawks-boston-celtics,2023,,2023-04-23,Atlanta Hawks,Boston Celtics,121,129,POST,1290
+nba-202304230GSW,2023,,2023-04-23,Golden State Warriors,Sacramento Kings,126,125,REG,1291
+nba-2023-post-2023-04-23-golden-state-warriors-sacramento-kings,2023,,2023-04-23,Golden State Warriors,Sacramento Kings,126,125,POST,1292
+nba-202304230MIN,2023,,2023-04-23,Minnesota Timberwolves,Denver Nuggets,114,108,REG,1293
+nba-2023-post-2023-04-23-minnesota-timberwolves-denver-nuggets,2023,,2023-04-23,Minnesota Timberwolves,Denver Nuggets,114,108,POST,1294
+nba-202304230NYK,2023,,2023-04-23,New York Knicks,Cleveland Cavaliers,102,93,REG,1295
+nba-2023-post-2023-04-23-new-york-knicks-cleveland-cavaliers,2023,,2023-04-23,New York Knicks,Cleveland Cavaliers,102,93,POST,1296
+nba-202304240LAL,2023,,2023-04-24,Los Angeles Lakers,Memphis Grizzlies,117,111,REG,1297
+nba-2023-post-2023-04-24-los-angeles-lakers-memphis-grizzlies,2023,,2023-04-24,Los Angeles Lakers,Memphis Grizzlies,117,111,POST,1298
+nba-202304240MIA,2023,,2023-04-24,Miami Heat,Milwaukee Bucks,119,114,REG,1299
+nba-2023-post-2023-04-24-miami-heat-milwaukee-bucks,2023,,2023-04-24,Miami Heat,Milwaukee Bucks,119,114,POST,1300
+nba-202304250BOS,2023,,2023-04-25,Boston Celtics,Atlanta Hawks,117,119,REG,1301
+nba-2023-post-2023-04-25-boston-celtics-atlanta-hawks,2023,,2023-04-25,Boston Celtics,Atlanta Hawks,117,119,POST,1302
+nba-202304250DEN,2023,,2023-04-25,Denver Nuggets,Minnesota Timberwolves,112,109,REG,1303
+nba-2023-post-2023-04-25-denver-nuggets-minnesota-timberwolves,2023,,2023-04-25,Denver Nuggets,Minnesota Timberwolves,112,109,POST,1304
+nba-202304250PHO,2023,,2023-04-25,Phoenix Suns,Los Angeles Clippers,136,130,REG,1305
+nba-2023-post-2023-04-25-phoenix-suns-los-angeles-clippers,2023,,2023-04-25,Phoenix Suns,Los Angeles Clippers,136,130,POST,1306
+nba-202304260CLE,2023,,2023-04-26,Cleveland Cavaliers,New York Knicks,95,106,REG,1307
+nba-2023-post-2023-04-26-cleveland-cavaliers-new-york-knicks,2023,,2023-04-26,Cleveland Cavaliers,New York Knicks,95,106,POST,1308
+nba-202304260MEM,2023,,2023-04-26,Memphis Grizzlies,Los Angeles Lakers,116,99,REG,1309
+nba-2023-post-2023-04-26-memphis-grizzlies-los-angeles-lakers,2023,,2023-04-26,Memphis Grizzlies,Los Angeles Lakers,116,99,POST,1310
+nba-202304260MIL,2023,,2023-04-26,Milwaukee Bucks,Miami Heat,126,128,REG,1311
+nba-2023-post-2023-04-26-milwaukee-bucks-miami-heat,2023,,2023-04-26,Milwaukee Bucks,Miami Heat,126,128,POST,1312
+nba-202304260SAC,2023,,2023-04-26,Sacramento Kings,Golden State Warriors,116,123,REG,1313
+nba-2023-post-2023-04-26-sacramento-kings-golden-state-warriors,2023,,2023-04-26,Sacramento Kings,Golden State Warriors,116,123,POST,1314
+nba-202304270ATL,2023,,2023-04-27,Atlanta Hawks,Boston Celtics,120,128,REG,1315
+nba-2023-post-2023-04-27-atlanta-hawks-boston-celtics,2023,,2023-04-27,Atlanta Hawks,Boston Celtics,120,128,POST,1316
+nba-202304280GSW,2023,,2023-04-28,Golden State Warriors,Sacramento Kings,99,118,REG,1317
+nba-2023-post-2023-04-28-golden-state-warriors-sacramento-kings,2023,,2023-04-28,Golden State Warriors,Sacramento Kings,99,118,POST,1318
+nba-202304280LAL,2023,,2023-04-28,Los Angeles Lakers,Memphis Grizzlies,125,85,REG,1319
+nba-2023-post-2023-04-28-los-angeles-lakers-memphis-grizzlies,2023,,2023-04-28,Los Angeles Lakers,Memphis Grizzlies,125,85,POST,1320
+nba-202304290DEN,2023,,2023-04-29,Denver Nuggets,Phoenix Suns,125,107,REG,1321
+nba-2023-post-2023-04-29-denver-nuggets-phoenix-suns,2023,,2023-04-29,Denver Nuggets,Phoenix Suns,125,107,POST,1322
+nba-202304300NYK,2023,,2023-04-30,New York Knicks,Miami Heat,101,108,REG,1323
+nba-2023-post-2023-04-30-new-york-knicks-miami-heat,2023,,2023-04-30,New York Knicks,Miami Heat,101,108,POST,1324
+nba-202304300SAC,2023,,2023-04-30,Sacramento Kings,Golden State Warriors,100,120,REG,1325
+nba-2023-post-2023-04-30-sacramento-kings-golden-state-warriors,2023,,2023-04-30,Sacramento Kings,Golden State Warriors,100,120,POST,1326
+nba-202305010BOS,2023,,2023-05-01,Boston Celtics,Philadelphia 76ers,115,119,REG,1327
+nba-2023-post-2023-05-01-boston-celtics-philadelphia-76ers,2023,,2023-05-01,Boston Celtics,Philadelphia 76ers,115,119,POST,1328
+nba-202305010DEN,2023,,2023-05-01,Denver Nuggets,Phoenix Suns,97,87,REG,1329
+nba-2023-post-2023-05-01-denver-nuggets-phoenix-suns,2023,,2023-05-01,Denver Nuggets,Phoenix Suns,97,87,POST,1330
+nba-202305020GSW,2023,,2023-05-02,Golden State Warriors,Los Angeles Lakers,112,117,REG,1331
+nba-2023-post-2023-05-02-golden-state-warriors-los-angeles-lakers,2023,,2023-05-02,Golden State Warriors,Los Angeles Lakers,112,117,POST,1332
+nba-202305020NYK,2023,,2023-05-02,New York Knicks,Miami Heat,111,105,REG,1333
+nba-2023-post-2023-05-02-new-york-knicks-miami-heat,2023,,2023-05-02,New York Knicks,Miami Heat,111,105,POST,1334
+nba-202305030BOS,2023,,2023-05-03,Boston Celtics,Philadelphia 76ers,121,87,REG,1335
+nba-2023-post-2023-05-03-boston-celtics-philadelphia-76ers,2023,,2023-05-03,Boston Celtics,Philadelphia 76ers,121,87,POST,1336
+nba-202305040GSW,2023,,2023-05-04,Golden State Warriors,Los Angeles Lakers,127,100,REG,1337
+nba-2023-post-2023-05-04-golden-state-warriors-los-angeles-lakers,2023,,2023-05-04,Golden State Warriors,Los Angeles Lakers,127,100,POST,1338
+nba-202305050PHI,2023,,2023-05-05,Philadelphia 76ers,Boston Celtics,102,114,REG,1339
+nba-2023-post-2023-05-05-philadelphia-76ers-boston-celtics,2023,,2023-05-05,Philadelphia 76ers,Boston Celtics,102,114,POST,1340
+nba-202305050PHO,2023,,2023-05-05,Phoenix Suns,Denver Nuggets,121,114,REG,1341
+nba-2023-post-2023-05-05-phoenix-suns-denver-nuggets,2023,,2023-05-05,Phoenix Suns,Denver Nuggets,121,114,POST,1342
+nba-202305060LAL,2023,,2023-05-06,Los Angeles Lakers,Golden State Warriors,127,97,REG,1343
+nba-2023-post-2023-05-06-los-angeles-lakers-golden-state-warriors,2023,,2023-05-06,Los Angeles Lakers,Golden State Warriors,127,97,POST,1344
+nba-202305060MIA,2023,,2023-05-06,Miami Heat,New York Knicks,105,86,REG,1345
+nba-2023-post-2023-05-06-miami-heat-new-york-knicks,2023,,2023-05-06,Miami Heat,New York Knicks,105,86,POST,1346
+nba-202305070PHI,2023,,2023-05-07,Philadelphia 76ers,Boston Celtics,116,115,REG,1347
+nba-2023-post-2023-05-07-philadelphia-76ers-boston-celtics,2023,,2023-05-07,Philadelphia 76ers,Boston Celtics,116,115,POST,1348
+nba-202305070PHO,2023,,2023-05-07,Phoenix Suns,Denver Nuggets,129,124,REG,1349
+nba-2023-post-2023-05-07-phoenix-suns-denver-nuggets,2023,,2023-05-07,Phoenix Suns,Denver Nuggets,129,124,POST,1350
+nba-202305080LAL,2023,,2023-05-08,Los Angeles Lakers,Golden State Warriors,104,101,REG,1351
+nba-2023-post-2023-05-08-los-angeles-lakers-golden-state-warriors,2023,,2023-05-08,Los Angeles Lakers,Golden State Warriors,104,101,POST,1352
+nba-202305080MIA,2023,,2023-05-08,Miami Heat,New York Knicks,109,101,REG,1353
+nba-2023-post-2023-05-08-miami-heat-new-york-knicks,2023,,2023-05-08,Miami Heat,New York Knicks,109,101,POST,1354
+nba-202305090BOS,2023,,2023-05-09,Boston Celtics,Philadelphia 76ers,103,115,REG,1355
+nba-2023-post-2023-05-09-boston-celtics-philadelphia-76ers,2023,,2023-05-09,Boston Celtics,Philadelphia 76ers,103,115,POST,1356
+nba-202305090DEN,2023,,2023-05-09,Denver Nuggets,Phoenix Suns,118,102,REG,1357
+nba-2023-post-2023-05-09-denver-nuggets-phoenix-suns,2023,,2023-05-09,Denver Nuggets,Phoenix Suns,118,102,POST,1358
+nba-202305100GSW,2023,,2023-05-10,Golden State Warriors,Los Angeles Lakers,121,106,REG,1359
+nba-2023-post-2023-05-10-golden-state-warriors-los-angeles-lakers,2023,,2023-05-10,Golden State Warriors,Los Angeles Lakers,121,106,POST,1360
+nba-202305100NYK,2023,,2023-05-10,New York Knicks,Miami Heat,112,103,REG,1361
+nba-2023-post-2023-05-10-new-york-knicks-miami-heat,2023,,2023-05-10,New York Knicks,Miami Heat,112,103,POST,1362
+nba-202305110PHI,2023,,2023-05-11,Philadelphia 76ers,Boston Celtics,86,95,REG,1363
+nba-2023-post-2023-05-11-philadelphia-76ers-boston-celtics,2023,,2023-05-11,Philadelphia 76ers,Boston Celtics,86,95,POST,1364
+nba-202305110PHO,2023,,2023-05-11,Phoenix Suns,Denver Nuggets,100,125,REG,1365
+nba-2023-post-2023-05-11-phoenix-suns-denver-nuggets,2023,,2023-05-11,Phoenix Suns,Denver Nuggets,100,125,POST,1366
+nba-202305120LAL,2023,,2023-05-12,Los Angeles Lakers,Golden State Warriors,122,101,REG,1367
+nba-2023-post-2023-05-12-los-angeles-lakers-golden-state-warriors,2023,,2023-05-12,Los Angeles Lakers,Golden State Warriors,122,101,POST,1368
+nba-202305120MIA,2023,,2023-05-12,Miami Heat,New York Knicks,96,92,REG,1369
+nba-2023-post-2023-05-12-miami-heat-new-york-knicks,2023,,2023-05-12,Miami Heat,New York Knicks,96,92,POST,1370
+nba-202305140BOS,2023,,2023-05-14,Boston Celtics,Philadelphia 76ers,112,88,REG,1371
+nba-2023-post-2023-05-14-boston-celtics-philadelphia-76ers,2023,,2023-05-14,Boston Celtics,Philadelphia 76ers,112,88,POST,1372
+nba-202305160DEN,2023,,2023-05-16,Denver Nuggets,Los Angeles Lakers,132,126,REG,1373
+nba-2023-post-2023-05-16-denver-nuggets-los-angeles-lakers,2023,,2023-05-16,Denver Nuggets,Los Angeles Lakers,132,126,POST,1374
+nba-202305170BOS,2023,,2023-05-17,Boston Celtics,Miami Heat,116,123,REG,1375
+nba-2023-post-2023-05-17-boston-celtics-miami-heat,2023,,2023-05-17,Boston Celtics,Miami Heat,116,123,POST,1376
+nba-202305180DEN,2023,,2023-05-18,Denver Nuggets,Los Angeles Lakers,108,103,REG,1377
+nba-2023-post-2023-05-18-denver-nuggets-los-angeles-lakers,2023,,2023-05-18,Denver Nuggets,Los Angeles Lakers,108,103,POST,1378
+nba-202305190BOS,2023,,2023-05-19,Boston Celtics,Miami Heat,105,111,REG,1379
+nba-2023-post-2023-05-19-boston-celtics-miami-heat,2023,,2023-05-19,Boston Celtics,Miami Heat,105,111,POST,1380
+nba-202305200LAL,2023,,2023-05-20,Los Angeles Lakers,Denver Nuggets,108,119,REG,1381
+nba-2023-post-2023-05-20-los-angeles-lakers-denver-nuggets,2023,,2023-05-20,Los Angeles Lakers,Denver Nuggets,108,119,POST,1382
+nba-202305210MIA,2023,,2023-05-21,Miami Heat,Boston Celtics,128,102,REG,1383
+nba-2023-post-2023-05-21-miami-heat-boston-celtics,2023,,2023-05-21,Miami Heat,Boston Celtics,128,102,POST,1384
+nba-202305220LAL,2023,,2023-05-22,Los Angeles Lakers,Denver Nuggets,111,113,REG,1385
+nba-2023-post-2023-05-22-los-angeles-lakers-denver-nuggets,2023,,2023-05-22,Los Angeles Lakers,Denver Nuggets,111,113,POST,1386
+nba-202305230MIA,2023,,2023-05-23,Miami Heat,Boston Celtics,99,116,REG,1387
+nba-2023-post-2023-05-23-miami-heat-boston-celtics,2023,,2023-05-23,Miami Heat,Boston Celtics,99,116,POST,1388
+nba-202305250BOS,2023,,2023-05-25,Boston Celtics,Miami Heat,110,97,REG,1389
+nba-2023-post-2023-05-25-boston-celtics-miami-heat,2023,,2023-05-25,Boston Celtics,Miami Heat,110,97,POST,1390
+nba-202305270MIA,2023,,2023-05-27,Miami Heat,Boston Celtics,103,104,REG,1391
+nba-2023-post-2023-05-27-miami-heat-boston-celtics,2023,,2023-05-27,Miami Heat,Boston Celtics,103,104,POST,1392
+nba-202305290BOS,2023,,2023-05-29,Boston Celtics,Miami Heat,84,103,REG,1393
+nba-2023-post-2023-05-29-boston-celtics-miami-heat,2023,,2023-05-29,Boston Celtics,Miami Heat,84,103,POST,1394
+nba-202306010DEN,2023,,2023-06-01,Denver Nuggets,Miami Heat,104,93,REG,1395
+nba-2023-post-2023-06-01-denver-nuggets-miami-heat,2023,,2023-06-01,Denver Nuggets,Miami Heat,104,93,POST,1396
+nba-202306040DEN,2023,,2023-06-04,Denver Nuggets,Miami Heat,108,111,REG,1397
+nba-2023-post-2023-06-04-denver-nuggets-miami-heat,2023,,2023-06-04,Denver Nuggets,Miami Heat,108,111,POST,1398
+nba-202306070MIA,2023,,2023-06-07,Miami Heat,Denver Nuggets,94,109,REG,1399
+nba-2023-post-2023-06-07-miami-heat-denver-nuggets,2023,,2023-06-07,Miami Heat,Denver Nuggets,94,109,POST,1400
+nba-202306090MIA,2023,,2023-06-09,Miami Heat,Denver Nuggets,95,108,REG,1401
+nba-2023-post-2023-06-09-miami-heat-denver-nuggets,2023,,2023-06-09,Miami Heat,Denver Nuggets,95,108,POST,1402
+nba-202306120DEN,2023,,2023-06-12,Denver Nuggets,Miami Heat,94,89,REG,1403
+nba-2023-post-2023-06-12-denver-nuggets-miami-heat,2023,,2023-06-12,Denver Nuggets,Miami Heat,94,89,POST,1404
